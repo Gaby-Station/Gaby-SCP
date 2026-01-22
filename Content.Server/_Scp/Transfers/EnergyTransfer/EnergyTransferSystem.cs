@@ -1,6 +1,6 @@
 using System.Diagnostics.CodeAnalysis;
 using Content.Server.Power.EntitySystems;
-using Content.Server.Power.Components;
+using Content.Shared.Power.Components;
 
 namespace Content.Server._Scp.Transfers.EnergyTransfer;
 

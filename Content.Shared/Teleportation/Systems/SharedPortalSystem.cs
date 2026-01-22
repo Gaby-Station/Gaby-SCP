@@ -33,7 +33,7 @@ public abstract class SharedPortalSystem : EntitySystem
     [Dependency] private readonly SharedTransformSystem _transform = default!;
     [Dependency] private readonly PullingSystem _pulling = default!;
     [Dependency] private readonly SharedPopupSystem _popup = default!;
-    [Dependency] private readonly TagSystem _tagSystem = default!; // Fire edit
+    [Dependency] private readonly TagSystem _tag = default!; // Fire edit
 
 
     private const string PortalFixture = "portalFixture";
@@ -89,7 +89,7 @@ public abstract class SharedPortalSystem : EntitySystem
     private void OnCollide(Entity<PortalComponent> ent, ref StartCollideEvent args)
     {
         // Fire added start
-        if (_tagSystem.HasTag(args.OtherEntity, component.IgnorePortalTag))
+        if (_tag.HasTag(args.OtherEntity, ent.Comp.IgnorePortalTag))
             return;
         // Fire added end
 

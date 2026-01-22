@@ -413,12 +413,7 @@ public abstract class SharedEntityStorageSystem : EntitySystem
             return false;
 
         // Fire edit start - поддержка блеклиста
-
-        // Consult the whitelist. The whitelist ignores the default assumption about how entity storage works.
-        if (!_whitelistSystem.IsWhitelistPassOrNull(component.Whitelist, toInsert))
-            return false;
-
-        if (_whitelistSystem.IsBlacklistPass(component.Blacklist, toInsert))
+        if (!_whitelistSystem.CheckBoth(toInsert, component.Blacklist, component.Whitelist))
             return false;
         // Fire edit end
 

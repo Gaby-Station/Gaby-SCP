@@ -356,11 +356,13 @@ public sealed class SharedCarryingSystem : EntitySystem
         if (_handsSystem.CountFreeHands(carrier) < carriedComp.FreeHandsRequired)
             return false;
 
-        var ev = new CarryAttemptEvent(carried);
-        RaiseLocalEvent(carrier, ref ev);
+        // Fire added start - для 096
+        var evAttempt = new CarryAttemptEvent(carried);
+        RaiseLocalEvent(carrier, ref evAttempt);
 
-        if (ev.Cancelled)
+        if (evAttempt.Cancelled)
             return false;
+        // Fire added end
 
         return true;
     }

@@ -1,11 +1,11 @@
 ﻿using System.Linq;
-using Content.Shared._Scp.Helpers;
 using Content.Shared._Scp.Mobs.Components;
 using Content.Shared._Scp.Other.EmitSoundRandomly;
 using Content.Shared._Scp.Proximity;
 using Content.Shared._Scp.Scp096.Main.Components;
 using Content.Shared._Scp.ScpMask;
 using Content.Shared._Scp.Watching;
+using Content.Shared._Sunrise.Random;
 using Content.Shared.Actions;
 using Content.Shared.Alert;
 using Content.Shared.Bed.Sleep;
@@ -42,7 +42,7 @@ public abstract partial class SharedScp096System : EntitySystem
      * Основная часть системы, отвечающая за самые базовые вещи.
      */
 
-    [Dependency] private readonly PredictedRandomSystem _random = default!;
+    [Dependency] private readonly RandomPredictedSystem _random = default!;
     [Dependency] private readonly SharedAudioSystem _audio = default!;
     [Dependency] private readonly MovementSpeedModifierSystem _speedModifier = default!;
     [Dependency] private readonly MobStateSystem _mobState = default!;

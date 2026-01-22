@@ -1,4 +1,4 @@
-﻿using Content.Shared.Damage;
+﻿using Content.Shared.Damage.Systems;
 using Content.Shared.Mobs;
 using Content.Shared.Mobs.Components;
 using Content.Shared.Whitelist;
@@ -34,7 +34,7 @@ public sealed class ScpDamageOnCollideSystem : EntitySystem
             if (!CheckParameter(ent, args.OtherEntity, param))
                 continue;
 
-            _damageable.TryChangeDamage(args.OtherEntity, param.Damage, useVariance: param.UseVariance);
+            _damageable.TryChangeDamage(args.OtherEntity, param.Damage, ignoreVariance: !param.UseVariance);
 
             _audio.PlayPredicted(param.TargetSound, args.OtherEntity, ent);
             _audio.PlayPredicted(param.EntitySound, ent, ent);

@@ -5,11 +5,11 @@ using Robust.Shared.Prototypes;
 namespace Content.Shared._Scp.EntityEffects;
 
 [UsedImplicitly]
-public sealed partial class CalmDownEffect : EventEntityEffect<CalmDownEffect>
+public sealed partial class CalmDownEffect : EntityEffectBase<CalmDownEffect>
 {
     [DataField]
     public TimeSpan SpeedUpBy = TimeSpan.FromSeconds(5f);
 
-    protected override string? ReagentEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys)
-        => Loc.GetString("reagent-effect-guidebook-calm-down");
+    public override string EntityEffectGuidebookText(IPrototypeManager prototype, IEntitySystemManager entSys) =>
+        Loc.GetString("reagent-effect-guidebook-calm-down");
 }

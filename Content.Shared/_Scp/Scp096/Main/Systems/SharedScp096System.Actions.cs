@@ -146,7 +146,7 @@ public abstract partial class SharedScp096System
             ent.Comp.FaceSkinRipDamageToFace,
             ignoreResistances: true,
             origin: ent,
-            useVariance: false,
+            ignoreVariance: true,
             ignoreGlobalModifiers: true);
 
         if (!damagedAny)
