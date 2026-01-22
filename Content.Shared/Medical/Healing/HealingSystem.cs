@@ -6,6 +6,7 @@ using Content.Shared.Chemistry.Components;
 using Content.Shared.Chemistry.Components.SolutionManager;
 using Content.Shared.Chemistry.EntitySystems;
 using Content.Shared.Chemistry.Reagent;
+using Content.Shared.Damage;
 using Content.Shared.Damage.Components;
 using Content.Shared.Damage.Systems;
 using Content.Shared.Database;
@@ -88,7 +89,7 @@ public sealed class HealingSystem : EntitySystem
         if (healed == null && healing.BloodlossModifier != 0)
             return;
 
-        var total = healed.GetTotal();
+        var total = healed?.GetTotal();
 
         // Re-verify that we can heal the damage.
         var dontRepeat = false;
@@ -352,22 +353,23 @@ public sealed class HealingSystem : EntitySystem
                 onlyHealingDamage.DamageDict[type] = value;
         }
 
-        var healed = _damageable.TryChangeDamage(target,
+        var canHeal = _damageable.TryChangeDamage(target,
             onlyHealingDamage * _damageable.UniversalAllHealModifier * scale,
+            out var healed,
             true,
             false,
             origin: origin);
 
-        var damaged = _damageable.TryChangeDamage(target,
+        var canDamage = _damageable.TryChangeDamage(target,
             onlyDamage * _damageable.UniversalAllDamageModifier * scale,
+            out var damaged,
             interruptsDoAfters: false,
-            canHeal: false,
             origin: origin);
 
-        if (healed == null)
+        if (!canHeal)
             return damaged;
 
-        if (damaged == null)
+        if (!canDamage)
             return healed;
 
         var merged = new Dictionary<string, FixedPoint2>(healed.DamageDict);

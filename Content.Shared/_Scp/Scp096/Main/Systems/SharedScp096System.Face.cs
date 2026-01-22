@@ -1,13 +1,13 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using Content.Shared._Scp.Damage.ExaminableDamage;
 using Content.Shared._Scp.Scp096.Main.Components;
-using Content.Shared.Damage;
+using Content.Shared.Damage.Components;
+using Content.Shared.Damage.Systems;
 using Content.Shared.FixedPoint;
 using Content.Shared.Medical.Healing;
 using Content.Shared.Mobs;
 using Content.Shared.Rounding;
 using JetBrains.Annotations;
-using Robust.Shared.Containers;
 
 namespace Content.Shared._Scp.Scp096.Main.Systems;
 
@@ -19,7 +19,6 @@ public abstract partial class SharedScp096System
      */
 
     [Dependency] private readonly SharedScpExaminableDamageSystem _examinableDamage = default!;
-    [Dependency] private readonly SharedContainerSystem _container = default!;
 
     private void InitializeFace()
     {
@@ -302,7 +301,7 @@ public abstract partial class SharedScp096System
     private void HealFace(Entity<Scp096FaceComponent> face)
     {
         if (TryComp<DamageableComponent>(face, out var damageable) && damageable.TotalDamage != FixedPoint2.Zero)
-            _damageable.SetAllDamage(face, damageable, FixedPoint2.Zero);
+            _damageable.SetAllDamage(face.Owner, FixedPoint2.Zero);
 
         // Лечим лицо и воскрешаем его.
         _mobState.ChangeMobState(face, MobState.Alive);

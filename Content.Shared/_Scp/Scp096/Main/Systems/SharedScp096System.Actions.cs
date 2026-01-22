@@ -2,7 +2,8 @@
 using Content.Shared._Scp.Blood;
 using Content.Shared._Scp.Proximity;
 using Content.Shared._Scp.Scp096.Main.Components;
-using Content.Shared.Damage;
+using Content.Shared.Damage.Components;
+using Content.Shared.Damage.Systems;
 using Content.Shared.DoAfter;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Jittering;
@@ -57,7 +58,7 @@ public abstract partial class SharedScp096System
         var damagedAny = false;
         foreach (var target in targets)
         {
-            if (_damageable.TryChangeDamage(target, ent.Comp.CryOutDamage, origin: ent, canHeal: false) != null)
+            if (_damageable.TryChangeDamage(target.Owner, ent.Comp.CryOutDamage, origin: ent))
                 damagedAny = true;
         }
 
@@ -141,14 +142,14 @@ public abstract partial class SharedScp096System
             return;
         }
 
-        var damaged = _damageable.TryChangeDamage(ent.Comp.FaceEntity,
+        var damagedAny = _damageable.TryChangeDamage(ent.Comp.FaceEntity.Value,
             ent.Comp.FaceSkinRipDamageToFace,
             ignoreResistances: true,
             origin: ent,
-            useModifier: false,
-            useVariance: false);
+            useVariance: false,
+            ignoreGlobalModifiers: true);
 
-        if (damaged == null)
+        if (!damagedAny)
             return;
 
         var message = Loc.GetString("scp096-face-skin-rip", ("name", Identity.Name(ent, EntityManager)));
