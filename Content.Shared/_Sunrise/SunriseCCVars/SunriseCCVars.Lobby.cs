@@ -10,7 +10,7 @@ public sealed partial class SunriseCCVars
     /// All означает, что будут использованы все доступные фоны
     /// </summary>
     public static readonly CVarDef<string> LobbyBackgroundPreset =
-        CVarDef.Create("lobby.background_preset", "AllAllAll", CVar.SERVER | CVar.REPLICATED);
+        CVarDef.Create("lobby.background_preset", "ScpAnimations", CVar.SERVER | CVar.REPLICATED); // Fire edit
 
     /// <summary>
     /// Определяет, какой тип фона лобби будет использован.

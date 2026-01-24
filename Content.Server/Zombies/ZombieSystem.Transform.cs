@@ -134,6 +134,7 @@ public sealed partial class ZombieSystem
         }
 
         //you're a real zombie now, son.
+        ZombieComponent zombiecomp; // Fire added
         if (zombieComponentOverride != null)
         {
             AddComp(target, zombieComponentOverride);

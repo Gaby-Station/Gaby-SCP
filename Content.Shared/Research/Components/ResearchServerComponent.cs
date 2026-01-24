@@ -26,7 +26,10 @@ public sealed partial class ResearchServerComponent : Component
     /// </summary>
     [AutoNetworkedField]
     [DataField]
-    public int RediscoverCost = 2000;
+    public Dictionary<ProtoId<ResearchPointPrototype>, int> RediscoverCost = new()
+    {
+        { "Default", 2000 },
+    };
 
     /// <summary>
     /// A unique numeric id representing the server

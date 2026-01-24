@@ -23,6 +23,9 @@
   id: AllPlushiesTable
   table: !type:GroupSelector
     children:
+    # Fire edit start
+    - id: PlushieScp999
+    # Fire edit end
     - !type:NestedSelector
       tableId: AllLizardPlushieTable
     - id: PlushieNuke

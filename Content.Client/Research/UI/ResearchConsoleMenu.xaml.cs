@@ -1,6 +1,7 @@
 using System.Linq;
 using System.Numerics;
 using Content.Client.UserInterface.Controls;
+using Content.Shared._Scp.Helpers;
 using Content.Shared.Access.Components;
 using Content.Shared.Access.Systems;
 using Content.Shared.Research;
@@ -36,8 +37,11 @@ public sealed partial class ResearchConsoleMenu : FancyWindow
 
     // if set to null  - we are waiting for server info and should not let rerolls
     private TimeSpan? _nextRediscover;
-    private int _rediscoverCost;
-    private int _serverPoints;
+
+    // Fire edit start - поддержка нескольких видов очков исследований
+    private Dictionary<ProtoId<ResearchPointPrototype>, int> _rediscoverCost = new ();
+    private Dictionary<ProtoId<ResearchPointPrototype>, int> _serverPoints = new ();
+    // Fire edit end
 
     private TimeSpan _nextUpdate;
     private readonly TimeSpan _updateInterval = TimeSpan.FromMilliseconds(500);
@@ -96,7 +100,8 @@ public sealed partial class ResearchConsoleMenu : FancyWindow
 
     private void UpdateRediscoverButton()
     {
-        RediscoverButton.Disabled = !HasAccess() || _serverPoints < _rediscoverCost || _timing.CurTime < _nextRediscover;
+        // Fire edit - поддержка разных видов очков исследований
+        RediscoverButton.Disabled = !HasAccess() || !ResearchPointsHelper.IsEnoughPoints(_serverPoints, _rediscoverCost) || _timing.CurTime < _nextRediscover;
         RediscoverButton.Text = Loc.GetString("research-console-menu-server-rediscover-button", ("cost", _rediscoverCost));
     }
 

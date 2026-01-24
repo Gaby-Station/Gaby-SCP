@@ -24,19 +24,15 @@ namespace Content.Shared.Research.Components
 
     }
 
-    // Fire edit start - сканирование артефактов на расстоянии.
-    // Ивент будет сообщать, что при открытии окна нужно поискать на расстоянии таргет, если его нет
+    // Fire edit start - поддержка разных видов очков исследований
     [Serializable, NetSerializable]
-    public sealed class ConsoleServerSearchForArtifactInRadius : BoundUserInterfaceMessage;
-    // Fire edit end
-
-    [Serializable, NetSerializable]
-    public sealed class ResearchConsoleBoundInterfaceState(Dictionary<ProtoId<ResearchPointPrototype>, int> points, TimeSpan nextRediscover, int rediscoverCost) : BoundUserInterfaceState
+    public sealed class ResearchConsoleBoundInterfaceState(Dictionary<ProtoId<ResearchPointPrototype>, int> points, TimeSpan nextRediscover, Dictionary<ProtoId<ResearchPointPrototype>, int> rediscoverCost) : BoundUserInterfaceState
     {
         public Dictionary<ProtoId<ResearchPointPrototype>, int> Points = points;
 
         public TimeSpan NextRediscover = nextRediscover;
 
-        public int RediscoverCost = rediscoverCost;
+        public Dictionary<ProtoId<ResearchPointPrototype>, int> RediscoverCost = rediscoverCost;
     }
+    // Fire edit end
 }

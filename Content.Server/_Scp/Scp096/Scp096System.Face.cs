@@ -49,7 +49,9 @@ public sealed partial class Scp096System
             ? ent.Comp.TearsReagent
             : ent.Comp.BloodReagent;
 
-        bloodstream.BloodReagent = reagent;
+        var volume = bloodstream.BloodReferenceSolution.Volume;
+        bloodstream.BloodReferenceSolution.RemoveAllSolution();
+        bloodstream.BloodReferenceSolution.AddReagent(reagent, volume);
 
         if (TryComp<SolutionRegenerationComponent>(ent, out var regeneration))
         {
@@ -59,7 +61,7 @@ public sealed partial class Scp096System
         }
 
         bloodstream.BloodSolution?.Comp.Solution.RemoveAllSolution();
-        bloodstream.BloodSolution?.Comp.Solution.AddReagent(reagent, bloodstream.BloodMaxVolume);
+        bloodstream.BloodSolution?.Comp.Solution.AddReagent(reagent, volume);
 
         Dirty(ent, bloodstream);
     }

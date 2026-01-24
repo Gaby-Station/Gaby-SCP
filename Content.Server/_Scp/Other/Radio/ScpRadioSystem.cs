@@ -124,7 +124,7 @@ public sealed class ScpRadioSystem : SharedScpRadioSystem
 
     private bool TryTakeCharge(Entity<ScpRadioComponent> ent, bool sending = false)
     {
-        if (!_powerCell.TryGetBatteryFromSlot(ent, out var batteryUid, out var battery))
+        if (!_powerCell.TryGetBatteryFromSlot(ent.Owner, out var battery))
         {
             ToggleRadio(ent, false);
             return false;
@@ -132,12 +132,13 @@ public sealed class ScpRadioSystem : SharedScpRadioSystem
 
         var wattage = sending ? ent.Comp.WattageSendMessage : ent.Comp.WattageReceiveMessage;
 
-        if (!_battery.TryUseCharge(batteryUid.Value, wattage, battery))
+        if (!_battery.TryUseCharge(battery.Value.AsNullable(), wattage))
         {
             ToggleRadio(ent, false);
 
             // Дообъедаем остаток заряда, чтобы избежать проблем с минимальными остатками типа 0.0001%
-            _battery.TryUseCharge(batteryUid.Value, battery.CurrentCharge, battery);
+            var currentCharge = _battery.GetCharge(battery.Value.AsNullable());
+            _battery.TryUseCharge(battery.Value.AsNullable(), currentCharge);
 
             return false;
         }
@@ -165,7 +166,8 @@ public sealed class ScpRadioSystem : SharedScpRadioSystem
 
         // Если мы включаем(value == true) и недостаточно заряда -> выходим из метода
         // Если выключаем(value == false) -> проверка на заряд не нужна, просто выключаем.
-        if ((!_powerCell.TryGetBatteryFromSlot(ent, out _, out var battery) || MathHelper.CloseTo(battery.CurrentCharge, 0f))
+        if ((!_powerCell.TryGetBatteryFromSlot(ent.Owner, out var battery)
+             || MathHelper.CloseTo(_battery.GetCharge(battery.Value.AsNullable()), 0f))
             && value)
         {
             var failMessage = Loc.GetString("scp-radio-not-enough-charge");
@@ -198,7 +200,7 @@ public sealed class ScpRadioSystem : SharedScpRadioSystem
     private void UpdateSpeaker(Entity<ScpRadioComponent> ent)
     {
         if (ent.Comp.Enabled)
-            EnsureComp<ActiveRadioComponent>(ent).Channels = ent.Comp.Channels.Select(id => id.ToString()).ToHashSet();
+            EnsureComp<ActiveRadioComponent>(ent).Channels = ent.Comp.Channels.ToHashSet();
         else
             RemCompDeferred<ActiveRadioComponent>(ent);
     }

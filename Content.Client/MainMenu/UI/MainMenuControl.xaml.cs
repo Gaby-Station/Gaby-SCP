@@ -49,7 +49,7 @@ public sealed partial class MainMenuControl : Control
         if (!prototypeManager.TryIndex<LobbyAnimationPrototype>(AnimationId, out var lobbyAnimationPrototype))
             return;
 
-        ConnectionAnimation.SetFromSpriteSpecifier(new SpriteSpecifier.Rsi(new ResPath(lobbyAnimationPrototype.RawPath), lobbyAnimationPrototype.State));
+        ConnectionAnimation.SetFromSpriteSpecifier(new SpriteSpecifier.Rsi(new ResPath(lobbyAnimationPrototype.Animation), lobbyAnimationPrototype.State));
         ConnectionAnimation.DisplayRect.TextureScale = lobbyAnimationPrototype.Scale;
         ConnectionAnimation.DisplayRect.Stretch = TextureRect.StretchMode.Scale;
     }

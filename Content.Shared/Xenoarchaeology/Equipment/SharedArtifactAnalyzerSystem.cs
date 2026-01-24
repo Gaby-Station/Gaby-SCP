@@ -1,6 +1,7 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using Content.Shared._Scp.Mobs.Components;
+using Content.Shared._Scp.Other.Events;
 using Content.Shared.DeviceLinking;
 using Content.Shared.DeviceLinking.Events;
 using Content.Shared.Examine;
@@ -173,6 +174,7 @@ public abstract class SharedArtifactAnalyzerSystem : EntitySystem
         return true;
     }
 
+    // Fire added start
     private void OnSearchInRadius(Entity<AnalysisConsoleComponent> ent, ref ConsoleServerSearchForArtifactInRadius args)
     {
         if (!TryGetAnalyzer(ent, out var analyzer))
@@ -199,4 +201,5 @@ public abstract class SharedArtifactAnalyzerSystem : EntitySystem
 
         return true;
     }
+    // Fire added end
 }

@@ -1,14 +1,17 @@
 using System.Linq;
 using Content.Server.Power.EntitySystems;
 using Content.Server.Research.Components;
+using Content.Shared._Scp.Helpers;
 using Content.Shared.UserInterface;
 using Content.Shared.Access.Components;
 using Content.Shared.Emag.Components;
 using Content.Shared.Emag.Systems;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Radio;
+using Content.Shared.Research;
 using Content.Shared.Research.Components;
 using Content.Shared.Research.Prototypes;
+using Robust.Shared.Prototypes;
 
 namespace Content.Server.Research.Systems;
 
@@ -52,12 +55,15 @@ public sealed partial class ResearchSystem
             return;
 
         var rediscoverCost = serverComponent.RediscoverCost;
-        if (rediscoverCost > serverComponent.Points)
+
+        // Fire edit start - поддержка разных видов очков исследований
+        if (!ResearchPointsHelper.IsEnoughPoints(serverComponent.Points, rediscoverCost))
             return;
+        // Fire edit start
 
         serverComponent.NextRediscover = _timing.CurTime + serverComponent.RediscoverInterval;
 
-        ModifyServerPoints(serverEnt.Value, -rediscoverCost);
+        ModifyServerPoints(serverEnt.Value, rediscoverCost, true);
         UpdateTechnologyCards(serverEnt.Value);
         SyncClientWithServer(uid);
         UpdateConsoleInterface(uid);
@@ -121,10 +127,10 @@ public sealed partial class ResearchSystem
         if (!Resolve(uid, ref component, ref clientComponent, false))
             return;
 
-
-        Dictionary<Protoid<ResearchPointPrototype>, int> points = new();
+        // Fire edit start - поддержка разных видов очков исследований
+        Dictionary<ProtoId<ResearchPointPrototype>, int> points = new();
         var nextRediscover = TimeSpan.MaxValue;
-        var rediscoverCost = 0;
+        Dictionary<ProtoId<ResearchPointPrototype>, int> rediscoverCost = new();
         if (TryGetClientServer(uid, out _, out var serverComponent, clientComponent) && clientComponent.ConnectedToServer)
         {
             points = serverComponent.Points;
@@ -132,6 +138,7 @@ public sealed partial class ResearchSystem
             rediscoverCost = serverComponent.RediscoverCost;
         }
         var state = new ResearchConsoleBoundInterfaceState(points, nextRediscover, rediscoverCost);
+        // Fire edit end
 
         _uiSystem.SetUiState(uid, ResearchConsoleUiKey.Key, state);
     }
