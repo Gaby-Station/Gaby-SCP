@@ -12,7 +12,8 @@ public sealed class FlyswatterSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<BloodstreamComponent, AttackedEvent>(OnAttacked);
+        // Мне похуй на систему для мухобойки, не ломай мне другую более важную систему своей второй подпиской
+        // SubscribeLocalEvent<BloodstreamComponent, AttackedEvent>(OnAttacked);
     }
 
     private void OnAttacked(EntityUid uid, BloodstreamComponent component, AttackedEvent args)

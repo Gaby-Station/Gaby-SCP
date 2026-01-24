@@ -1,10 +1,10 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using Content.Shared._Scp.Damage.ExaminableDamage;
+using Content.Shared._Scp.Other.Events;
 using Content.Shared._Scp.Scp096.Main.Components;
 using Content.Shared.Damage.Components;
 using Content.Shared.Damage.Systems;
 using Content.Shared.FixedPoint;
-using Content.Shared.Medical.Healing;
 using Content.Shared.Mobs;
 using Content.Shared.Rounding;
 using JetBrains.Annotations;

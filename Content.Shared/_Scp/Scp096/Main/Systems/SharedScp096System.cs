@@ -1,6 +1,7 @@
 ﻿using System.Linq;
 using Content.Shared._Scp.Mobs.Components;
 using Content.Shared._Scp.Other.EmitSoundRandomly;
+using Content.Shared._Scp.Other.Events;
 using Content.Shared._Scp.Proximity;
 using Content.Shared._Scp.Scp096.Main.Components;
 using Content.Shared._Scp.ScpMask;
@@ -23,7 +24,6 @@ using Content.Shared.Rejuvenate;
 using Content.Shared.Storage.Components;
 using Content.Shared.Storage.EntitySystems;
 using Content.Shared.Weapons.Melee.Events;
-using Content.Shared.Weapons.Ranged.Systems;
 using Robust.Shared.Audio;
 using Robust.Shared.Audio.Systems;
 using Robust.Shared.Prototypes;

@@ -2,6 +2,7 @@ using Content.Shared.Administration.Logs;
 using Content.Shared.Body.Components;
 using Content.Shared.Body.Systems;
 using System.Linq;
+using Content.Shared._Scp.Other.Events;
 using Content.Shared.Chemistry.Components;
 using Content.Shared.Chemistry.Components.SolutionManager;
 using Content.Shared.Chemistry.EntitySystems;
@@ -386,7 +387,5 @@ public sealed class HealingSystem : EntitySystem
             DamageDict = merged,
         };
     }
+    // Fire added end
 }
-
-[ByRefEvent]
-public record struct HealingRelayEvent(EntityUid? Entity = null);

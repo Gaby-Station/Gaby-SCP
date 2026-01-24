@@ -964,7 +964,6 @@ PosterPeremen: PosterChanges
 PosterGok: PosterGoc
 PosterSCP126: PosterSCP106
 
-GunSafeBlueShield: null
 LockerBlueShield: null
 LockerBlueshieldFilled: null
 LockerBlueshieldFilledUplink: null
@@ -1587,7 +1586,6 @@ SpawnPointChaplain: null
 SpawnPointLibrarian: null
 SpawnPointLawyer: null
 SpawnPointMusician: null
-SpawnPointBoxer: null
 SpawnPointBorg: null
 SpawnPointAtmos: null
 SpawnPointParamedic: null
@@ -1596,7 +1594,6 @@ SpawnPointWarden: null
 SpawnPointSecurityOfficer: null
 SpawnPointDetective: null
 SpawnPointReporter: null
-SpawnPointZookeeper: null
 SpawnPointERTJanitor: null
 SpawnPointERTSecurity: null
 SpawnPointERTMedical: null
@@ -1608,7 +1605,6 @@ SpawnPointMedicalPathologist: null
 SpawnPointMagistrat: null
 SpawnPointNtrep: null
 SpawnPointBrigmedic: null
-SpawnPointBlueShield: null
 SpawnPointBlueShieldOfficer: null
 SpawnPointSeniorOfficer: null
 SpawnPointBarber: null
@@ -2326,15 +2322,15 @@ PosterMapMetaRight: null
 PosterLegitGrueSomeSanta: null
 
 # Игрушки, не вписывающиеся в атмосферу
-ToySpawner: ScpToySpawner
-FigureSpawner: ScpFigureSpawner
-SpacemenFigureSpawner: ScpSpacemenFigureSpawner
+PlushieSpawner50: ScpToySpawner
+MechFigurineSpawner50: ScpFigureSpawner
+SpacemenFigurineSpawner90: ScpSpacemenFigureSpawner
 
 ToyFigurineNukieElite: null
 ToyFigurineSalvage: null
 ToyFigurineSlime: null
-ToyOwlman: null
-ToySkeleton: null
+ToyFigurineOwlman: null
+ToyFigurineSkeleton: null
 ToyFigurineChaplain: null
 ToyFigurinePassenger: null
 ToyFigurineParamedic: null
@@ -2360,7 +2356,7 @@ ToyFigurineDeathsquad: null
 ToyFigurineNukie: null
 ToyFigurineFootsoldier: null
 ToyFigurineGreytider: null
-ToyGriffin: null
+ToyFigurineGriffin: null
 PlushieNuke: null
 PlushieRatvar: null
 PlushieVox: null

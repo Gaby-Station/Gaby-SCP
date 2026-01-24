@@ -1,3 +1,4 @@
+using Content.Shared._Scp.Other.Events;
 using Content.Shared.Damage.Systems;
 using Content.Shared.Weapons.Hitscan.Components;
 using Content.Shared.Weapons.Hitscan.Events;
@@ -45,5 +46,10 @@ public sealed class HitscanBasicDamageSystem : EntitySystem
         };
 
         RaiseLocalEvent(ent, ref damageEvent);
+
+        // Fire added start - чтобы знать когда по скромнику попали
+        var ev = new HitScanAttackedEvent(args.Data.Shooter, args.Data.Gun, damageDealt);
+        RaiseLocalEvent(args.Data.HitEntity.Value, ref ev);
+        // Fire added end
     }
 }

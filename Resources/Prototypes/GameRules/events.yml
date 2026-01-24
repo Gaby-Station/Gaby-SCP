@@ -166,15 +166,15 @@
     duration: 1
   - type: BureaucraticErrorRule
     ignoredJobs:
-      # Fire edit start
+    # Fire edit start
     - Scp173
     - Scp939
     - Scp106
     - Scp049
     - Scp999
     - Scp082
-      - Scp096
-      # Fire edit end
+    - Scp096
+    # Fire edit end
     - StationAi
     - ResearchAssistant
     - MedicalIntern

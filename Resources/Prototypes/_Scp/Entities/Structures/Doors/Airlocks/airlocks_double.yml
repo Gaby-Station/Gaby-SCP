@@ -9,7 +9,7 @@
     soundGroups:
       Brute:
         path:
-          "/Audio/Effects/glass_hit.ogg"
+          "/Audio/_Sunrise/Effects/glass_hit.ogg"
   - type: Sprite
     sprite: _Scp/Structures/Doors/Airlocks/Glass_double/double_glass_airlock.rsi
     snapCardinals: false
