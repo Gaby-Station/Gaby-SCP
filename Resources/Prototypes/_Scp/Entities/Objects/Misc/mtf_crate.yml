@@ -411,7 +411,7 @@
     - 0,0,4,1
   - type: StorageFill
     contents:
-      - id: GrenadeFragContact
+      - id: GrenadeFrag
         amount: 5
 
 - type: entity
@@ -424,7 +424,7 @@
     - 0,0,4,1
   - type: StorageFill
     contents:
-      - id: GrenadeBlastContact
+      - id: GrenadeBlast
         amount: 5
 
 - type: entity
@@ -529,7 +529,7 @@
       - id: ClothingBeltMtfSparePouch
       - id: PouchDrop
       - id: PouchAmmo
-      
+
 # Коробки экипировки Ню-7
 - type: entity
   id: MtfStorageCrateArmorHDMed
