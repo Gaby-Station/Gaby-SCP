@@ -28,7 +28,7 @@
   storage:
     back:
     - EmergencyRollerBedSpawnFolded
-    - HandheldCrewMonitor # Sunrise-Edit
+    - HandheldEmergencyCrewMonitor # Sunrise - edit
 
 - type: chameleonOutfit
   id: ParamedicChameleonOutfit

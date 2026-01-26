@@ -4,6 +4,7 @@ notekeeper-program-name = Заметки
 nano-task-program-name = Задачи
 news-read-program-name = Новости комплекса
 crew-manifest-program-name = Манифест экипажа
+messenger-program-name = Мессенджер МАХ
 crew-manifest-cartridge-loading = Загрузка...
 net-probe-program-name = Зонд сетей
 net-probe-scan = Просканирован { $device }!

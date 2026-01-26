@@ -31,7 +31,6 @@
   id: HeadOfPrisonGear
   equipment:
     id: HeadOfPrisonPDA
-    jumpsuit: ClothingUniformJumpsuitHoSOld
     head: ClothingHeadHatBeretHoS
     gloves: ClothingHandsGlovesCombat
     ears: ClothingHeadsetAltCommand
