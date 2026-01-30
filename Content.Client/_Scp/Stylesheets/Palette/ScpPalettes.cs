@@ -33,8 +33,8 @@ public static class ScpPalettes
     public static readonly Color DisabledFore = Color.FromHex("#3A3A3A");
 
     // Общие состояния кнопок (из StyleNano)
-    public static readonly Color ButtonHover = BloodRedDarker2;
-    public static readonly Color ButtonPressed = BloodRed;
+    public static readonly Color ButtonHover = SCPWhite;
+    public static readonly Color ButtonPressed = SCPWhite.WithLightness(0.3f);
     public static readonly Color ButtonDisabled = PanelLightDark;
 
     // --- Сборка палитр ---
@@ -124,26 +124,5 @@ public static class ScpPalettes
 
         Text: SCPWhite,
         TextDark: SCPWhite.WithAlpha(0.7f)
-    );
-
-    /// <summary>
-    /// Палитра подсветки (Золотая/Желтая).
-    /// </summary>
-    public static readonly ColorPalette Gold = new(
-        Base: ScpYellow,
-        LightnessShift: 0,
-        ChromaShift: 0,
-
-        Element: ScpYellow,
-        HoveredElement: ScpYellow.WithLightness(0.8f),
-        PressedElement: ConcerningOrangeFore,
-        DisabledElement: ConcerningOrangeFore.WithAlpha(0.5f),
-
-        Background: ScpYellow,
-        BackgroundLight: ScpYellow,
-        BackgroundDark: ConcerningOrangeFore,
-
-        Text: PanelDarker, // Темный текст на желтом фоне
-        TextDark: PanelDark
     );
 }

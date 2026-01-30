@@ -1,4 +1,5 @@
-﻿using Content.Client.Examine;
+﻿using Content.Client._Scp.Stylesheets.Palette;
+using Content.Client.Examine;
 using Content.Client.Stylesheets.Fonts;
 using Content.Client.Stylesheets.SheetletConfigs;
 using Content.Client.Stylesheets.Stylesheets;
@@ -17,9 +18,16 @@ public sealed class TooltipSheetlet<T> : Sheetlet<T> where T: PalettedStylesheet
     {
         ITooltipConfig tooltipCfg = sheet;
 
-        var tooltipBox = sheet.GetTextureOr(tooltipCfg.TooltipBoxPath, NanotrasenStylesheet.TextureRoot)
-            .IntoPatch(StyleBox.Margin.All, 2);
+        // Fire edit start
+        var tooltipBox = new StyleBoxFlat()
+        {
+            BackgroundColor = ScpPalettes.Primary.BackgroundDark,
+            BorderColor = ScpPalettes.SCPWhite.WithAlpha(0.4f),
+            BorderThickness = new Thickness(1f),
+        };
+        tooltipBox.SetContentMarginOverride(StyleBox.Margin.All, 2);
         tooltipBox.SetContentMarginOverride(StyleBox.Margin.Horizontal, 7);
+        // Fire edit end
 
         var whisperBox = sheet.GetTextureOr(tooltipCfg.WhisperBoxPath, NanotrasenStylesheet.TextureRoot)
             .IntoPatch(StyleBox.Margin.All, 2);

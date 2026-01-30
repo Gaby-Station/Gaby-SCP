@@ -1,3 +1,4 @@
+using Content.Client._Scp.Stylesheets.Palette;
 using Content.Client.ContextMenu.UI;
 using Content.Client.Resources;
 using Content.Client.Stylesheets.Fonts;
@@ -32,6 +33,7 @@ public sealed class ContextMenuSheetlet<T> : Sheetlet<T>
         var borderedWindowBackground = new StyleBoxTexture
         {
             Texture = sheet.GetTextureOr(windowCfg.WindowBackgroundBorderedPath, NanotrasenStylesheet.TextureRoot),
+            Modulate = ScpPalettes.PanelDark, // Fire added
         };
         borderedWindowBackground.SetPatchMargin(StyleBox.Margin.All, ContextMenuElement.ElementMargin);
         var buttonContext = new StyleBoxTexture { Texture = Texture.White };

@@ -7,6 +7,7 @@ using Content.Client.Stylesheets.Fonts;
 using Content.Client.Stylesheets.Stylesheets;
 using Content.Client.UserInterface.Controls;
 using Content.Client.UserInterface.Controls.FancyTree;
+using Content.Client.Verbs.UI;
 using Robust.Client.Graphics;
 using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
@@ -30,10 +31,14 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
         var notoSansDisplayBold16 = sheet.BaseFont.GetFont(16, FontKind.Bold);
         var notoSansMono = sheet.ResCache.GetFont("/EngineFonts/NotoSans/NotoSansMono-Regular.ttf", 12);
 
+        var font48 = sheet.BaseFont.GetFont(48, FontKind.Bold);
+
         // Текстуры слайдеров (нужны для перекраски)
         var sliderFillTex = sheet.GetTexture(new("/Textures/Interface/Nano/slider_fill.svg.96dpi.png"));
         var sliderOutlineTex = sheet.GetTexture(new("/Textures/Interface/Nano/slider_outline.svg.96dpi.png"));
         var sliderGrabTex = sheet.GetTexture(new("/Textures/Interface/Nano/slider_grabber.svg.96dpi.png"));
+
+        var buttonTypes = new[] { typeof(Button), typeof(ContainerButton), typeof(ContextMenuElement), typeof(ConfirmationMenuElement) };
 
         // --- Создание StyleBoxes (Fire edit logic) ---
 
@@ -42,7 +47,6 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
         {
             BackgroundColor = ScpPalettes.PanelDark,
             BorderColor = ScpPalettes.SCPWhite,
-            BorderThickness = new Thickness(1),
         };
         windowBackground.SetContentMarginOverride(StyleBox.Margin.Horizontal | StyleBox.Margin.Bottom, 2);
 
@@ -76,8 +80,6 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
         var tabContainerPanel = new StyleBoxFlat
         {
             BackgroundColor = ScpPalettes.PanelDark,
-            BorderColor = ScpPalettes.BloodRed,
-            BorderThickness = new Thickness(1), // Добавил толщину, чтобы цвет был виден
         };
         tabContainerPanel.SetContentMarginOverride(StyleBox.Margin.All, 2);
 
@@ -137,9 +139,8 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
         // Chat Panel
         var chatBg = new StyleBoxFlat
         {
-            BackgroundColor = Color.FromHex("#313131"), // ChatBackgroundColor из StyleNano
+            BackgroundColor = Color.FromHex("#313131"),
             BorderColor = ScpPalettes.SCPWhite,
-            BorderThickness = new Thickness(1),
         };
 
         // --- Формирование правил стилей ---
@@ -163,10 +164,16 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
                 .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker)
                 .Prop(Label.StylePropertyFont, notoSansDisplayBold14),
 
+            Element<Label>()
+                .Class("LabelHeadingTheBiggest")
+                .Prop(Label.StylePropertyFontColor, ScpPalettes.SCPWhite)
+                .Prop(Label.StylePropertyFont, font48),
+
             // Алерт заголовок (Красный режим)
             Element<PanelContainer>()
                 .Class(StyleClass.AlertWindowHeader)
                 .Prop(PanelContainer.StylePropertyPanel, windowHeaderAlert),
+
             Element<Label>()
                 .Class("windowTitleAlert")
                 .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker)
@@ -176,10 +183,12 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
             Element<TextureButton>()
                 .Class(DefaultWindow.StyleClassWindowCloseButton)
                 .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
+
             Element<TextureButton>()
                 .Class(DefaultWindow.StyleClassWindowCloseButton)
                 .PseudoHovered()
                 .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
+
             Element<TextureButton>()
                 .Class(DefaultWindow.StyleClassWindowCloseButton)
                 .PseudoPressed()
@@ -188,9 +197,11 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
             // 2. Тултипы (Tooltips)
             Element<Tooltip>()
                 .Prop(PanelContainer.StylePropertyPanel, tooltipBox),
+
             Element<PanelContainer>()
                 .Class(StyleClass.TooltipPanel)
                 .Prop(PanelContainer.StylePropertyPanel, tooltipBox),
+
             Element<PanelContainer>()
                 .Class(ExamineSystem.StyleClassEntityTooltip)
                 .Prop(PanelContainer.StylePropertyPanel, tooltipBox),
@@ -225,52 +236,108 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
             Element<ContainerButton>()
                 .Class(ContainerButton.StyleClassButton)
                 .PseudoHovered()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.ButtonHover),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.HoveredElement),
+
             Element<ContainerButton>()
                 .Class(ContainerButton.StyleClassButton)
                 .PseudoPressed()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.ButtonPressed),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.PressedElement),
+
             Element<ContainerButton>()
                 .Class(ContainerButton.StyleClassButton)
                 .PseudoDisabled()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.ButtonDisabled),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.DisabledElement),
+
+            // Цвет текста при наведении (Label внутри кнопок)
+            Child()
+                .Parent(Element<ContainerButton>().PseudoHovered())
+                .Child(Element<Label>())
+                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
+
+            Child()
+                .Parent(Element<ContainerButton>().PseudoHovered())
+                .Child(Element<RichTextLabel>())
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
+
+            Child()
+                .Parent(Element<Button>().PseudoHovered())
+                .Child(Element<Label>())
+                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
+
+            // Цвета при нажатии
+            Child()
+                .Parent(Element<ContainerButton>().PseudoPressed())
+                .Child(Element<Label>())
+                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
+
+            Child()
+                .Parent(Element<Button>().PseudoPressed())
+                .Child(Element<Label>())
+                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
 
             // Context Menu (ПКМ)
             Element<ContextMenuElement>()
                 .Class(ContextMenuElement.StyleClassContextMenuButton)
-                .PseudoHovered()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.ButtonHover), // Использовал общий hover вместо специфичного
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.Background),
+
             Element<ContextMenuElement>()
                 .Class(ContextMenuElement.StyleClassContextMenuButton)
-                .PseudoPressed()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.ButtonPressed),
+                .PseudoHovered()
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.HoveredElement),
+
             Element<ContextMenuElement>()
                 .Class(ContextMenuElement.StyleClassContextMenuButton)
                 .PseudoDisabled()
-                .Prop(Control.StylePropertyModulateSelf, Color.Black),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.DisabledElement),
+
+            Child()
+                .Parent(Element<ContextMenuElement>().PseudoHovered())
+                .Child(Element<Label>())
+                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
+
+            // Еще одно
+            Element<ConfirmationMenuElement>()
+                .Class(ConfirmationMenuElement.StyleClassConfirmationContextMenuButton)
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.Background),
+
+            Element<ConfirmationMenuElement>()
+                .Class(ConfirmationMenuElement.StyleClassConfirmationContextMenuButton)
+                .PseudoHovered()
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.HoveredElement),
+
+            Element<ConfirmationMenuElement>()
+                .Class(ConfirmationMenuElement.StyleClassConfirmationContextMenuButton)
+                .PseudoDisabled()
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.DisabledElement),
+
+            Child()
+                .Parent(Element<ContextMenuElement>().PseudoHovered())
+                .Child(Element<Label>())
+                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
 
             // ListContainer Button
             Element<ContainerButton>()
                 .Class(ListContainer.StyleClassListContainerButton)
                 .PseudoNormal()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelLightDark),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.HoveredElement),
+
             Element<ContainerButton>()
                 .Class(ListContainer.StyleClassListContainerButton)
                 .PseudoHovered()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.PressedElement),
+
             Element<ContainerButton>()
                 .Class(ListContainer.StyleClassListContainerButton)
                 .PseudoPressed()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.DisabledElement),
 
             // 8. LineEdit (Поля ввода)
             Element<LineEdit>()
                 .Prop(LineEdit.StylePropertySelectionColor, ScpPalettes.SCPWhite.WithAlpha(0.25f))
                 .Prop(LineEdit.StylePropertyCursorColor, ScpPalettes.BloodRed)
-                // Модуляция фона для текстуры LineEdit
                 .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelLightDark.WithAlpha(0.8f)),
 
-            // 9. Разное
+            // 9. Разное (Misc)
             // Моноширинный шрифт
             Element()
                 .Class(StyleClass.Monospace)
@@ -281,10 +348,12 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
                 .Identifier(TreeItem.StyleIdentifierTreeButton)
                 .Class(TreeItem.StyleClassEvenRow)
                 .Prop(ContainerButton.StylePropertyStyleBox, new StyleBoxFlat { BackgroundColor = Color.FromHex("#1A1A1A") }),
+
             Element<ContainerButton>()
                 .Identifier(TreeItem.StyleIdentifierTreeButton)
                 .Class(TreeItem.StyleClassOddRow)
                 .Prop(ContainerButton.StylePropertyStyleBox, new StyleBoxFlat { BackgroundColor = Color.FromHex("#1A1A1A") * new Color(0.8f, 0.8f, 0.8f) }),
+
             Element<ContainerButton>()
                 .Identifier(TreeItem.StyleIdentifierTreeButton)
                 .Class(TreeItem.StyleClassSelected)
@@ -302,7 +371,11 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
 
             Element<PanelContainer>()
                 .Class(StyleClass.BackgroundPanel)
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDark), // Замена AngleRect цвета
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDark),
+
+            Element<SplitContainer>()
+                .Class("BackgroundDark")
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
 
             // BoxContainer / ScrollContainer (Модуляция фона)
             Element<BoxContainer>()
@@ -312,6 +385,7 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
                     BackgroundColor = ScpPalettes.PanelDark,
                     BorderColor = ScpPalettes.SCPWhite,
                 }),
+
             Element<ScrollContainer>()
                  .Prop(Control.StylePropertyModulateSelf,
                      new StyleBoxFlat

@@ -61,10 +61,12 @@ public sealed class WindowSheetlet<T> : Sheetlet<T>
                 .Class(DefaultWindow.StyleClassWindowTitle)
                 .FontColor(sheet.HighlightPalette.Text)
                 .Font(sheet.BaseFont.GetFont(14, FontKind.Bold)),
+            /* Fire edit
             E<Label>()
                 .Class("windowTitleAlert")
                 .FontColor(Color.White)
                 .Font(sheet.BaseFont.GetFont(14, FontKind.Bold)),
+            */
             // TODO: maybe also change everything here to `NanoWindow` or something
             E()
                 .Class(DefaultWindow.StyleClassWindowPanel)

@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using Content.Client._Scp.Stylesheets.Stylesheets.Sheetlets;
 using Content.Client.Stylesheets.Fonts;
 using Robust.Client.ResourceManagement;
 using Robust.Client.UserInterface;
@@ -55,6 +56,9 @@ public partial class NanotrasenStylesheet : CommonStylesheet
             // Finally, load all the other sheetlets.
             GetAllSheetletRules<PalettedStylesheet, CommonSheetletAttribute>(man),
             GetAllSheetletRules<NanotrasenStylesheet, CommonSheetletAttribute>(man),
+
+            // Sunrise-Edit: Force SCP Theme to load LAST to override everything else
+            GetSheetletRules<NanotrasenStylesheet>(typeof(ScpThemeSheetlet), man),
         };
 
         Stylesheet = new Stylesheet(rules.SelectMany(x => x).ToArray());

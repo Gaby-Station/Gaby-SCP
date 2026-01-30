@@ -122,7 +122,7 @@ public sealed partial class EmotesTabControl : BaseTabControl
             Margin = new Thickness(1)
         };
 
-        var label = new RichTextLabel
+        var label = new Label
         {
             HorizontalExpand = true,
             VerticalExpand = true,
