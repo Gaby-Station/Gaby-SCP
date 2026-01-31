@@ -41,16 +41,16 @@
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/pistol.ogg
   - type: MeleeWeapon
-    angle: 60
-    range: 0.9
+    wideAnimationRotation: 0
+    range: 0.95
     damage:
       types:
         Blunt: 8
     bluntStaminaDamageFactor: 2.0
-    attackRate: 1
-    autoAttack: false
+    soundHit:
+      collection: MetalThud
   - type: AltFireMelee
-    attackType: Light
+    attackType: Heavy
 
 - type: entity
   name: combat pistol VP-70
@@ -376,11 +376,11 @@
   - type: Item
     sprite: _Sunrise/Objects/Weapons/Guns/Pistols/deagle/tiny.rsi
   - type: Gun
-    minAngle: 3.5
-    maxAngle: 15
-    angleIncrease: 5
+    minAngle: 1
+    maxAngle: 20
+    angleIncrease: 7
     angleDecay: 10
-    fireRate: 5
+    fireRate: 4 # 140 dps - 105 for mateba
     availableModes:
     - SemiAuto
     soundGunshot:
@@ -477,17 +477,6 @@
   - type: EyeCursorOffset
     maxOffset: 2.5
     pvsIncrease: 0.25
-  # - type: MeleeWeapon
-  #   angle: 60
-  #   range: 0.9
-  #   damage:
-  #     types:
-  #       Blunt: 10
-  #   bluntStaminaDamageFactor: 2.0
-  #   attackRate: 1
-  #   autoAttack: false
-  # - type: AltFireMelee
-  #   attackType: Light
 
 - type: entity
   parent: WeaponRevolverSpearhead
@@ -553,7 +542,7 @@
   components:
   - type: Sprite
     sprite: _Sunrise/Objects/Weapons/Guns/Pistols/tec9tactical/big.rsi
-    scale: 0.63, 0.63
+    scale: 0.65, 0.65
   - type: Item
     sprite: _Sunrise/Objects/Weapons/Guns/Pistols/tec9tactical/tiny.rsi
   - type: ChamberMagazineAmmoProvider
@@ -568,7 +557,7 @@
     slots:
       gun_magazine:
         name: Magazine
-        startingItem: MagazinePistolSubMachineGunCaseless
+        startingItem: BaseMagazinePistolCaselessRifleExtended
         insertSound: /Audio/Weapons/Guns/MagIn/pistol_magin.ogg
         ejectSound: /Audio/Weapons/Guns/MagOut/pistol_magout.ogg
         priority: 1

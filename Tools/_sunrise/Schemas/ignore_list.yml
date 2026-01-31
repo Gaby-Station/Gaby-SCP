@@ -1,4 +1,17 @@
 ignore_list:
+  - AMH-C227 # Fire added
+  - name # Fire added
+  - value # Fire added
+  - 6x3 # Fire added
+  - 6x2 # Fire added
+  - 5x3 # Fire added
+  - 5x2 # Fire added
+  - 5x1 # Fire added
+  - 4x3 # Fire added
+  - 3x3 # Fire added
+  - G36 # Fire added
+  - AR18 # Fire added
+  - P90 # Fire added
   - 'EntityUid'
   - 'Zzz...'
   - 'playglobalsound'
@@ -67,6 +80,7 @@ ignore_list:
   - 'AMS-42'
   - 'SAM-300'
   - 'AJ-100'
+  - 'SIAR-52'
   - 'Deus vult! Ave maria!'
   - TR-263'
   - 'G-Man'
@@ -118,6 +132,7 @@ ignore_list:
   - 'L6 SAW'
   - 'L6C ROW'
   - 'China Lake'
+  - 'China-Lake'
   - 'Plant-B-Gone'
   - 'Bon appétit!'
   - 'Bon ap-petite!'
@@ -179,19 +194,7 @@ ignore_list:
   - 'MHelp'
   - 'Net-ERR*?*%'
   - 'Holo Girl'
-  - AMH-C227 # Fire added
-  - name # Fire added
-  - value # Fire added
-  - 6x3 # Fire added
-  - 6x2 # Fire added
-  - 5x3 # Fire added
-  - 5x2 # Fire added
-  - 5x1 # Fire added
-  - 4x3 # Fire added
-  - 3x3 # Fire added
-  - G36 # Fire added
-  - AR18 # Fire added
-  - P90 # Fire added
+  - 'RobustChat'
 
 ignore_files:
   - 'italian.ftl'

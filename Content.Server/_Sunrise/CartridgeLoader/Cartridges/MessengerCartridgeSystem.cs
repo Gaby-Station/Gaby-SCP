@@ -1,3 +1,4 @@
+using System.Linq;
 using Content.Server.DeviceNetwork.Systems;
 using Content.Server.CartridgeLoader;
 using Content.Server.PDA.Ringer;
@@ -51,6 +52,15 @@ public sealed partial class MessengerCartridgeSystem : EntitySystem
         while (query.MoveNext(out var uid, out var component))
         {
             if (component.LoaderUid == null)
+                continue;
+
+            if (!TryComp<CartridgeLoaderComponent>(component.LoaderUid.Value, out var loader))
+                continue;
+
+            var isActive = loader.ActiveProgram == uid;
+            var isBackground = loader.BackgroundPrograms.Contains(uid);
+
+            if (!isActive && !isBackground)
                 continue;
 
             if (component.LastStatusCheck.HasValue)
@@ -119,5 +129,26 @@ public sealed partial class MessengerCartridgeSystem : EntitySystem
         {
             _deviceNetwork.SetTransmitFrequency(loaderUid, originalFrequency.Value, deviceNetwork);
         }
+    }
+
+    /// <summary>
+    /// Пытается найти станцию для КПК. Если КПК не на станции, ищет любую станцию на той же карте.
+    /// </summary>
+    private EntityUid? GetBestStation(EntityUid pdaUid)
+    {
+        var station = _stationSystem.GetOwningStation(pdaUid);
+        if (station != null)
+            return station;
+
+        var xform = Transform(pdaUid);
+        var mapId = xform.MapID;
+
+        foreach (var s in _stationSystem.GetStations())
+        {
+            if (Transform(s).MapID == mapId)
+                return s;
+        }
+
+        return _stationSystem.GetStations().FirstOrDefault();
     }
 }

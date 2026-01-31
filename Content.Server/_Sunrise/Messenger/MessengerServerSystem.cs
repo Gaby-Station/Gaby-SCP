@@ -8,6 +8,7 @@ using Content.Shared.DeviceNetwork.Components;
 using Content.Shared._Sunrise.Messenger;
 using Content.Shared.Inventory;
 using Robust.Shared.Prototypes;
+using Content.Server.CartridgeLoader;
 
 namespace Content.Server._Sunrise.Messenger;
 
@@ -23,6 +24,7 @@ public sealed partial class MessengerServerSystem : EntitySystem
     [Dependency] private readonly ILogManager _logManager = default!;
     [Dependency] private readonly ILocalizationManager _loc = default!;
     [Dependency] private readonly InventorySystem _inventory = default!;
+    [Dependency] private readonly CartridgeLoaderSystem _cartridgeLoader = default!;
 
     private ISawmill Sawmill { get; set; } = default!;
 
@@ -45,6 +47,7 @@ public sealed partial class MessengerServerSystem : EntitySystem
         component.Groups.Clear();
         component.MessageHistory.Clear();
         component.GroupIdCounter = 0;
+        component.MessageIdCounter = 0;
     }
 
     private void OnServerConnected(EntityUid uid, MessengerServerComponent component, ref DeviceNetServerConnectedEvent args)
@@ -115,6 +118,18 @@ public sealed partial class MessengerServerSystem : EntitySystem
             case MessengerCommands.CmdGetMessages:
                 HandleGetMessages(uid, component, args);
                 break;
+            case MessengerCommands.CmdAcceptInvite:
+                HandleAcceptInvite(uid, component, args);
+                break;
+            case MessengerCommands.CmdDeclineInvite:
+                HandleDeclineInvite(uid, component, args);
+                break;
+            case MessengerCommands.CmdLeaveGroup:
+                HandleLeaveGroup(uid, component, args);
+                break;
+            case MessengerCommands.CmdDeleteMessage:
+                HandleDeleteMessage(uid, component, args);
+                break;
             default:
                 Sawmill.Warning($"Unknown command received: {command} from {args.SenderAddress}");
                 break;
@@ -148,5 +163,13 @@ public sealed partial class MessengerServerSystem : EntitySystem
     private TimeSpan GetStationTime()
     {
         return (DateTime.UtcNow + TimeSpan.FromHours(3)).TimeOfDay;
+    }
+
+    /// <summary>
+    /// Получает следующий уникальный ID сообщения
+    /// </summary>
+    private long GetNextMessageId(EntityUid uid, MessengerServerComponent component)
+    {
+        return ++component.MessageIdCounter;
     }
 }

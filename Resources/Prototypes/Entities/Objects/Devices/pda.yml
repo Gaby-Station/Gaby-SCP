@@ -78,7 +78,7 @@
     prefix: device-address-prefix-console
     savableAddress: false
   - type: WirelessNetworkConnection
-    range: 500
+    range: 2000 # Sunrise-Edit
   - type: CartridgeLoader
     uiKey: enum.PdaUiKey.Key
     preinstalled:
@@ -86,8 +86,11 @@
       - NotekeeperCartridge
       - NanoTaskCartridge
       - NewsReaderCartridge
+    # Sunrise-Start
       - NavigatorCartridge
-      - MessengerCartridge # Sunrise-Edit
+      - MessengerCartridge
+      - PhotoCartridge
+    # Sunrise-End
     cartridgeSlot:
       priority: -1
       name: device-pda-slot-component-slot-name-cartridge
@@ -164,9 +167,12 @@
     - NotekeeperCartridge
     - NanoTaskCartridge
     - NewsReaderCartridge
-    - NavigatorCartridge
     - WantedListCartridge
-    - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+    - NavigatorCartridge
+    - MessengerCartridge
+    - PhotoCartridge
+    # Sunrise-End
 
 - type: entity
   parent: BasePDA
@@ -180,9 +186,12 @@
       - NotekeeperCartridge
       - NanoTaskCartridge
       - NewsReaderCartridge
-      - NavigatorCartridge
       - MedTekCartridge
-      - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+      - NavigatorCartridge
+      - MessengerCartridge
+      - PhotoCartridge
+    # Sunrise-End
 
 - type: entity
   parent: BasePDA
@@ -363,7 +372,9 @@
       - NanoTaskCartridge
       - NewsReaderCartridge
       - PlantAnalyzerCartridge
+      - NavigatorCartridge
       - MessengerCartridge
+      - PhotoCartridge
 # Sunrise-End
 
 - type: entity
@@ -552,7 +563,11 @@
     - NanoTaskCartridge
     - NewsReaderCartridge
     - AstroNavCartridge
-    - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+    - NavigatorCartridge
+    - MessengerCartridge
+    - PhotoCartridge
+    # Sunrise-End
 
 - type: entity
   parent: BasePDA
@@ -604,7 +619,11 @@
       - NanoTaskCartridge
       - NewsReaderCartridge
       - AstroNavCartridge
-      - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+      - NavigatorCartridge
+      - MessengerCartridge
+      - PhotoCartridge
+    # Sunrise-End
 
 - type: entity
   parent: BasePDA
@@ -1040,7 +1059,11 @@
     - NewsReaderCartridge
     - WantedListCartridge
     - LogProbeCartridge
-    - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+    - NavigatorCartridge
+    - MessengerCartridge
+    - PhotoCartridge
+    # Sunrise-End
 
 - type: entity
   parent: BaseSecurityPDA
@@ -1126,7 +1149,11 @@
       - WantedListCartridge
       - LogProbeCartridge
       - AstroNavCartridge
-      - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+      - NavigatorCartridge
+      - MessengerCartridge
+      - PhotoCartridge
+    # Sunrise-End
 
 - type: entity
   parent: CentcomPDA
@@ -1177,7 +1204,11 @@
       - WantedListCartridge
       - MedTekCartridge
       - AstroNavCartridge
-      - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+      - NavigatorCartridge
+      - MessengerCartridge
+      - PhotoCartridge
+    # Sunrise-End
   - type: Tag #  Ignore Chameleon tags
     tags:
     - DoorBumpOpener
@@ -1435,7 +1466,11 @@
       - WantedListCartridge
       - LogProbeCartridge
       - AstroNavCartridge
-      - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+      - NavigatorCartridge
+      - MessengerCartridge
+      - PhotoCartridge
+    # Sunrise-End
 
 - type: entity
   parent: ERTLeaderPDA
@@ -1632,7 +1667,11 @@
     - NewsReaderCartridge
     - WantedListCartridge
     - LogProbeCartridge
-    - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+    - NavigatorCartridge
+    - MessengerCartridge
+    - PhotoCartridge
+    # Sunrise-End
 
 - type: entity
   parent: BaseMedicalPDA
@@ -1664,7 +1703,11 @@
     - NewsReaderCartridge
     - WantedListCartridge
     - MedTekCartridge
-    - MessengerCartridge # Sunrise-Edit
+    # Sunrise-Start
+    - NavigatorCartridge
+    - MessengerCartridge
+    - PhotoCartridge
+    # Sunrise-End
 
 - type: entity
   parent: ClownPDA
@@ -1836,6 +1879,8 @@
     - NanoTaskCartridge
     - NavigatorCartridge
     - AstroNavCartridge
+    - MessengerCartridge
+    - PhotoCartridge
   # Sunrise-end
 
 - type: entity
@@ -1875,6 +1920,14 @@
     - Syndicate
     - Thief
   # Sunrise-End
+
+- type: entity
+  parent: ChameleonPDA
+  id: ChameleonAgentPDA
+  suffix: Chameleon, Agent ID
+  components:
+  - type: Pda
+    id: AgentIDCard
 
 - type: entity
   parent: BaseWidePDA
