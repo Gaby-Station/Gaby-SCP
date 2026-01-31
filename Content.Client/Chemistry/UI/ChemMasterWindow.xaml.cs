@@ -10,6 +10,7 @@ using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
 using System.Linq;
 using System.Numerics;
+using Content.Client._Scp.Stylesheets.Palette;
 using Content.Shared.FixedPoint;
 using Robust.Client.Graphics;
 using static Robust.Client.UserInterface.Controls.BoxContainer;
@@ -386,8 +387,8 @@ namespace Content.Client.Chemistry.UI
             //Colors rows and sets fallback for reagentcolor to the same as background, this will hide colorPanel for entities hopefully
 
             // Fire edit start
-            var rowColor1 = StyleNano.PanelDarker;
-            var rowColor2 = StyleNano.PanelDark;
+            var rowColor1 = ScpPalettes.PanelDarker;
+            var rowColor2 = ScpPalettes.PanelDark;
             // Fire edit end
 
             var currentRowColor = (rowCount % 2 == 1) ? rowColor1 : rowColor2;

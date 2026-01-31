@@ -1,4 +1,5 @@
 ﻿using Content.Client._Scp.Stylesheets.Palette;
+using Content.Client.Administration.UI.CustomControls;
 using Content.Client.ContextMenu.UI;
 using Content.Client.Examine;
 using Content.Client.Resources;
@@ -13,6 +14,7 @@ using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
 using Robust.Client.UserInterface.CustomControls;
 using static Robust.Client.UserInterface.StylesheetHelpers;
+using static Content.Client.Stylesheets.StylesheetHelpers;
 
 namespace Content.Client._Scp.Stylesheets.Stylesheets.Sheetlets;
 
@@ -260,20 +262,14 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
                 .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
 
             Child()
-                .Parent(Element<Button>().PseudoHovered())
-                .Child(Element<Label>())
-                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
-
-            // Цвета при нажатии
-            Child()
                 .Parent(Element<ContainerButton>().PseudoPressed())
                 .Child(Element<Label>())
                 .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
 
             Child()
-                .Parent(Element<Button>().PseudoPressed())
-                .Child(Element<Label>())
-                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
+                .Parent(Element<ContainerButton>().PseudoPressed())
+                .Child(Element<RichTextLabel>())
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
 
             // Context Menu (ПКМ)
             Element<ContextMenuElement>()
@@ -318,18 +314,20 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
             // ListContainer Button
             Element<ContainerButton>()
                 .Class(ListContainer.StyleClassListContainerButton)
-                .PseudoNormal()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.HoveredElement),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.Element),
 
             Element<ContainerButton>()
                 .Class(ListContainer.StyleClassListContainerButton)
                 .PseudoHovered()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.PressedElement),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.HoveredElement),
 
             Element<ContainerButton>()
                 .Class(ListContainer.StyleClassListContainerButton)
                 .PseudoPressed()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.DisabledElement),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.HoveredElement),
+
+            // NOTE: ListContainerButton font color is handled programmatically in PlayerListEntry.xaml.cs
+            // because CSS ParentOf rules don't re-evaluate when parent pseudo-class changes
 
             // 8. LineEdit (Поля ввода)
             Element<LineEdit>()
@@ -393,6 +391,14 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
                      BackgroundColor = ScpPalettes.PanelDark,
                      BorderColor = ScpPalettes.SCPWhite,
                  }),
+
+            Element<PlayerListEntry>()
+                .Prop(Control.StylePropertyModulateSelf,
+                    new StyleBoxFlat
+                    {
+                        BackgroundColor = ScpPalettes.PanelDark,
+                        BorderColor = ScpPalettes.SCPWhite,
+                    }),
         };
     }
 }
