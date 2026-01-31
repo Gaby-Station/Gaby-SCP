@@ -1,7 +1,7 @@
 {
     "version": 1,
     "license": "CLA",
-    "copyright": "Sprited by discord: odlieerr",
+    "copyright": "Sprited by discord: odlieerr. Welded sprited by miduzka(discord)",
     "size":
     {
         "x": 32,
@@ -113,6 +113,10 @@
         },
         {
             "name": "closed",
+            "directions": 4
+        },
+        {
+            "name": "welded",
             "directions": 4
         }
     ]
