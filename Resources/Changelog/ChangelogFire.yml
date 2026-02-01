@@ -8880,3 +8880,14 @@
   id: 350
   time: '2026-01-31T21:49:15.0000000+00:00'
   url: https://github.com/space-sunrise/fire-station/pull/795
+- author: NotSoWizard
+  changes:
+  - message: "\u0410\u043D\u043E\u043C\u0430\u043B\u044C\u043D\u044B\u0439 \u0430\u043A\
+      \u0446\u0435\u043D\u0442 \u0442\u0435\u043F\u0435\u0440\u044C \u0437\u0430\u043C\
+      \u0435\u043D\u044F\u0435\u0442 \u0441\u0438\u043C\u0432\u043E\u043B\u044B \u0440\
+      \u0435\u0436\u0435 \u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442\
+      \ \u043C\u0435\u043D\u044C\u0448\u0435"
+    type: Tweak
+  id: 351
+  time: '2026-02-01T17:39:21.0000000+00:00'
+  url: https://github.com/space-sunrise/fire-station/pull/797
