@@ -42,7 +42,7 @@
     pocket2: WeaponTaser
   storage:
     back:
-    - HandheldCrewMonitor
+    - HandheldBSOCrewMonitor
 
 - type: chameleonOutfit
   id: BlueShieldOperativeChameleonOutfit

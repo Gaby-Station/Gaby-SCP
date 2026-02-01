@@ -957,6 +957,9 @@ ImplantExtractorMachineCircuitboard: InterrogatorMachineCircuitboard
 EnergyDomeWiredTest: null
 # Sunrise-End
 
+# 2026-01-30
+MagazineDragunov: MagazineDragunovSP
+
 # Санрайз насрал опять
 MagazineBoxHeavyRifle: null
 SunriseMagazineRifle: null

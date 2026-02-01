@@ -195,6 +195,8 @@ ignore_list:
   - 'Net-ERR*?*%'
   - 'Holo Girl'
   - 'RobustChat'
+  - 'www.wetskrell.nt'
+  - '25-j*%...o1q'
 
 ignore_files:
   - 'italian.ftl'

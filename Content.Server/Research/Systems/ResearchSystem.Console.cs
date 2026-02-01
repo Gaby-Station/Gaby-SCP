@@ -100,16 +100,36 @@ public sealed partial class ResearchSystem
                 ("amount", technologyPrototype.Cost),
                 ("approver", getIdentityEvent.Title ?? string.Empty)
             );
-            _radio.SendRadioMessage(uid, message, component.AnnouncementChannel, uid, escapeMarkup: false);
+            // _radio.SendRadioMessage(uid, message, component.AnnouncementChannel, uid, escapeMarkup: false);
 
-            if (technologyPrototype.RadioChannels.Any())
+            // Sunrise-Start
+            if (_messenger.GetServerEntity(_stationSystem.GetOwningStation(uid)) is var (server, _))
+            {
+                var mainGroupId = _messenger.GetGroupIdByRadioChannel(component.AnnouncementChannel);
+                if (mainGroupId != null)
+                    _messenger.SendSystemMessageToGroup(server, mainGroupId, message);
+
+                if (technologyPrototype.RadioChannels.Any())
+                {
+                    foreach (var radioChannelId in technologyPrototype.RadioChannels)
+                    {
+                        var groupId = _messenger.GetGroupIdByRadioChannel(radioChannelId);
+
+                        if (groupId != null)
+                            _messenger.SendSystemMessageToGroup(server, groupId, message);
+                    }
+                }
+            }
+
+            /*if (technologyPrototype.RadioChannels.Any())
                 foreach (var radioChannelId in technologyPrototype.RadioChannels)
                 {
                     if (PrototypeManager.TryIndex(radioChannelId, out var radioChannel))
                     {
                         _radio.SendRadioMessage(uid, message, radioChannel, uid, escapeMarkup: false);
                     }
-                }
+                }*/
+            // Sunrise-End
         }
 
 

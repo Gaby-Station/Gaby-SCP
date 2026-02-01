@@ -1204,11 +1204,6 @@
       - WantedListCartridge
       - MedTekCartridge
       - AstroNavCartridge
-    # Sunrise-Start
-      - NavigatorCartridge
-      - MessengerCartridge
-      - PhotoCartridge
-    # Sunrise-End
   - type: Tag #  Ignore Chameleon tags
     tags:
     - DoorBumpOpener
