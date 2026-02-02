@@ -20,20 +20,6 @@ public sealed partial class PlayerListEntry : BoxContainer
 
     public event Action<PlayerInfo>? OnPinStatusChanged;
 
-    // Fire edit start
-    protected override void EnteredTree()
-    {
-        base.EnteredTree();
-        InitializeHoverHandling();
-    }
-
-    protected override void ExitedTree()
-    {
-        base.ExitedTree();
-        CleanupHoverHandling();
-    }
-    // Fire edit end
-
     public void Setup(PlayerInfo info, Func<PlayerInfo, string, string>? overrideText)
     {
         Update(info, overrideText);

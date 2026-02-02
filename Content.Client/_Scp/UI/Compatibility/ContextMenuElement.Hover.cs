@@ -12,6 +12,18 @@ public partial class ContextMenuElement
 
     private Control? _parentButton;
 
+    protected override void EnteredTree()
+    {
+        base.EnteredTree();
+        InitializeHoverHandling();
+    }
+
+    protected override void ExitedTree()
+    {
+        base.ExitedTree();
+        CleanupHoverHandling();
+    }
+
     /// <summary>
     /// Called from EnteredTree to set up hover handling.
     /// </summary>

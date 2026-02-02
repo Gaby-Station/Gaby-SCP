@@ -1,15 +1,10 @@
-using Content.Client._Scp.Stylesheets.Palette;
+﻿using Content.Client._Scp.Stylesheets.Palette;
 using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
 
-// ReSharper disable once CheckNamespace
-namespace Content.Client.Administration.UI.CustomControls;
+namespace Content.Client.Lathe.UI;
 
-/// <summary>
-/// Partial class for PlayerListEntry that handles hover-related styling.
-/// This is needed because CSS ParentOf selectors don't re-evaluate when parent pseudo-class changes.
-/// </summary>
-public sealed partial class PlayerListEntry
+public sealed partial class RecipeControl
 {
     // Colors for different button states
     private static readonly Color NormalTextColor = ScpPalettes.SCPWhite;      // White on dark background
@@ -35,18 +30,9 @@ public sealed partial class PlayerListEntry
     private void InitializeHoverHandling()
     {
         // Find parent ContainerButton (ListContainerButton)
-        var parent = Parent;
-        while (parent != null)
-        {
-            if (parent is ContainerButton button)
-            {
-                _parentButton = button;
-                SubscribeToButtonEvents();
-                UpdateTextColor();  // Set initial color based on current state
-                break;
-            }
-            parent = parent.Parent;
-        }
+        _parentButton = Button;
+        SubscribeToButtonEvents();
+        UpdateTextColor();
     }
 
     /// <summary>
@@ -55,6 +41,14 @@ public sealed partial class PlayerListEntry
     private void CleanupHoverHandling()
     {
         UnsubscribeFromButtonEvents();
+    }
+
+    /// <summary>
+    /// Call this when button's Disabled state changes to update text color accordingly.
+    /// </summary>
+    public void RefreshTextColor()
+    {
+        UpdateTextColor();
     }
 
     private void SubscribeToButtonEvents()
@@ -78,8 +72,15 @@ public sealed partial class PlayerListEntry
 
     private void OnParentMouseEntered(GUIMouseHoverEventArgs args)
     {
+        // Disabled buttons have dark background, so keep white text
+        if (Button is BaseButton { Disabled: true })
+        {
+            RecipeName.FontColorOverride = NormalTextColor;
+            return;
+        }
+
         // When mouse enters, always show dark text (background will be white)
-        PlayerEntryLabel.FontColorOverride = HoveredTextColor;
+        RecipeName.FontColorOverride = HoveredTextColor;
     }
 
     private void OnParentMouseExited(GUIMouseHoverEventArgs args)
@@ -90,26 +91,27 @@ public sealed partial class PlayerListEntry
         // - If Pressed=true -> DrawMode will be Pressed -> white background -> dark text
         // - If Pressed=false -> DrawMode will be Normal -> dark background -> white text
 
-        if (_parentButton is BaseButton button)
+        // Disabled buttons have dark background, so use white text
+        if (Button.Disabled)
         {
-            var willBePressed = button.Pressed;
-            PlayerEntryLabel.FontColorOverride = willBePressed ? HoveredTextColor : NormalTextColor;
+            RecipeName.FontColorOverride = NormalTextColor;
+            return;
         }
+
+        var willBePressed = Button.Pressed;
+        RecipeName.FontColorOverride = willBePressed ? HoveredTextColor : NormalTextColor;
     }
 
     private void UpdateTextColor()
     {
-        // Check button's DrawMode to determine correct text color
-        // DrawMode.Pressed or DrawMode.Hover = white background = dark text
-        // DrawMode.Normal = dark background = white text
-        if (_parentButton is BaseButton button)
+        // Disabled buttons have dark background, so use white text
+        if (Button.Disabled)
         {
-            var needsDarkText = button.DrawMode is BaseButton.DrawModeEnum.Pressed or BaseButton.DrawModeEnum.Hover;
-            PlayerEntryLabel.FontColorOverride = needsDarkText ? HoveredTextColor : NormalTextColor;
+            RecipeName.FontColorOverride = NormalTextColor;
+            return;
         }
-        else
-        {
-            PlayerEntryLabel.FontColorOverride = NormalTextColor;
-        }
+
+        var needsDarkText = Button.DrawMode is BaseButton.DrawModeEnum.Pressed or BaseButton.DrawModeEnum.Hover;
+        RecipeName.FontColorOverride = needsDarkText ? HoveredTextColor : NormalTextColor;
     }
 }
