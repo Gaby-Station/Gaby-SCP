@@ -38,7 +38,7 @@ public sealed partial class PlayerListEntry
         var parent = Parent;
         while (parent != null)
         {
-            if (parent is ContainerButton button)
+            if (parent is BaseButton button)
             {
                 _parentButton = button;
                 SubscribeToButtonEvents();
@@ -79,7 +79,7 @@ public sealed partial class PlayerListEntry
     private void OnParentMouseEntered(GUIMouseHoverEventArgs args)
     {
         // When mouse enters, always show dark text (background will be white)
-        PlayerEntryLabel.FontColorOverride = HoveredTextColor;
+        SetColor(HoveredTextColor);
     }
 
     private void OnParentMouseExited(GUIMouseHoverEventArgs args)
@@ -93,7 +93,8 @@ public sealed partial class PlayerListEntry
         if (_parentButton is BaseButton button)
         {
             var willBePressed = button.Pressed;
-            PlayerEntryLabel.FontColorOverride = willBePressed ? HoveredTextColor : NormalTextColor;
+            var color = willBePressed ? HoveredTextColor : NormalTextColor;
+            SetColor(color);
         }
     }
 
@@ -105,11 +106,24 @@ public sealed partial class PlayerListEntry
         if (_parentButton is BaseButton button)
         {
             var needsDarkText = button.DrawMode is BaseButton.DrawModeEnum.Pressed or BaseButton.DrawModeEnum.Hover;
-            PlayerEntryLabel.FontColorOverride = needsDarkText ? HoveredTextColor : NormalTextColor;
+            var color = needsDarkText ? HoveredTextColor : NormalTextColor;
+            SetColor(color);
         }
         else
         {
-            PlayerEntryLabel.FontColorOverride = NormalTextColor;
+            SetColor(NormalTextColor);
+        }
+    }
+
+    private void SetColor(Color color, Control? control = null)
+    {
+        control ??= this;
+        foreach (var child in control.Children)
+        {
+            if (child is (RichTextLabel or Label or TextureRect or TextureButton))
+                child.ModulateSelfOverride = color;
+
+            SetColor(color, child);
         }
     }
 }

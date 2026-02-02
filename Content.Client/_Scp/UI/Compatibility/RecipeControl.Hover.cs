@@ -2,6 +2,7 @@
 using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
 
+// ReSharper disable once CheckNamespace
 namespace Content.Client.Lathe.UI;
 
 public sealed partial class RecipeControl

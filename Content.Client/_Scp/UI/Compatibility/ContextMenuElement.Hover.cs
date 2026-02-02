@@ -2,6 +2,7 @@
 using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
 
+// ReSharper disable once CheckNamespace
 namespace Content.Client.ContextMenu.UI;
 
 public partial class ContextMenuElement
