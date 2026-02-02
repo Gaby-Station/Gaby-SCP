@@ -20,7 +20,7 @@
                         <Label Text="{Loc 'apc-menu-breaker-label'}" HorizontalExpand="True"
                                 StyleClasses="highlight" MinWidth="120"/>
                         <BoxContainer Orientation="Horizontal" MinWidth="150">
-                            <Button Name="BreakerButton" Text="{Loc 'apc-menu-breaker-button'}" HorizontalExpand="True" ToggleMode="True"/>
+                            <Button Name="BreakerButton" Text="{Loc 'apc-menu-breaker-button'}" HorizontalExpand="True" ToggleMode="True" StyleClasses="StyleClassBreakerButton"/>
                         </BoxContainer>
                         <!--Charging Status-->
                         <Label Text="{Loc 'apc-menu-external-label'}" StyleClasses="highlight" MinWidth="120" />

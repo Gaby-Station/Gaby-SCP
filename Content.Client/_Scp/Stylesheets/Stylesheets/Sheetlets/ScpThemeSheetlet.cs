@@ -1,5 +1,4 @@
 ﻿using Content.Client._Scp.Stylesheets.Palette;
-using Content.Client.Administration.UI.CustomControls;
 using Content.Client.ContextMenu.UI;
 using Content.Client.Examine;
 using Content.Client.Resources;
@@ -14,16 +13,25 @@ using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
 using Robust.Client.UserInterface.CustomControls;
 using static Robust.Client.UserInterface.StylesheetHelpers;
-using static Content.Client.Stylesheets.StylesheetHelpers;
 
 namespace Content.Client._Scp.Stylesheets.Stylesheets.Sheetlets;
 
 /// <summary>
 /// Переносит специфичные визуальные изменения SCP темы (Flat StyleBoxes, borders) из старого StyleNano.
 /// </summary>
+// TODO: Разбросать на разные шитлеты.
 [CommonSheetlet]
 public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
 {
+    /// <remarks>
+    /// Этой штуке не подходит монохромный черно-белый стиль, ей нужны цвета(зеленый/красный).
+    /// Поэтому это здесь.
+    /// </remarks>>
+    public const string StyleClassBreakerButton = "StyleClassBreakerButton";
+
+    public const string StyleClassWindowHeadingBackground = "WindowHeadingBackground";
+    public const string StyleClassFancyWindowTitle = "FancyWindowTitle";
+
     public override StyleRule[] GetRules(NanotrasenStylesheet sheet, object config)
     {
         // Шрифты
@@ -156,9 +164,18 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
                 .Class(DefaultWindow.StyleClassWindowHeader)
                 .Prop(PanelContainer.StylePropertyPanel, windowHeader),
 
+            Element<PanelContainer>()
+                .Class(StyleClassWindowHeadingBackground)
+                .Prop(PanelContainer.StylePropertyPanel, windowHeader),
+
             // Цвет текста заголовка (Темный на белом фоне)
             Element<Label>()
                 .Class(DefaultWindow.StyleClassWindowTitle)
+                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker)
+                .Prop(Label.StylePropertyFont, notoSansDisplayBold14),
+
+            Element<Label>()
+                .Class(StyleClassFancyWindowTitle)
                 .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker)
                 .Prop(Label.StylePropertyFont, notoSansDisplayBold14),
 
@@ -382,6 +399,31 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
                      BackgroundColor = ScpPalettes.PanelDark,
                      BorderColor = ScpPalettes.SCPWhite,
                  }),
+
+            // ЛКП
+            Element<ContainerButton>()
+                .Class(StyleClassBreakerButton)
+                .Modulate(ScpPalettes.Red.Element),
+
+            Element<ContainerButton>()
+                .Class(StyleClassBreakerButton)
+                .PseudoPressed()
+                .Modulate(ScpPalettes.Green.Element),
+
+            Element<ContainerButton>()
+                .Class(StyleClassBreakerButton)
+                .PseudoHovered()
+                .Modulate(ScpPalettes.Red.HoveredElement),
+
+            Element<ContainerButton>()
+                .Class(StyleClassBreakerButton)
+                .PseudoDisabled()
+                .Modulate(ScpPalettes.Red.DisabledElement),
+
+            Child()
+                .Parent(Element<ContainerButton>().Class(StyleClassBreakerButton))
+                .Child(Element<Label>())
+                .FontColor(ScpPalettes.SCPWhite),
         };
     }
 }
