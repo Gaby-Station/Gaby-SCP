@@ -7,6 +7,7 @@ using Robust.Client.UserInterface.XAML;
 using Robust.Shared.Random;
 using Robust.Shared.Timing;
 using System.Numerics;
+using Content.Client._Scp.Stylesheets.Palette;
 using Content.Client.Parallax.Managers;
 using Content.Client.Resources;
 using Content.Client.Stylesheets;
@@ -132,7 +133,7 @@ namespace Content.Client.Lobby.UI
             _back = new StyleBoxTexture
             {
                 Texture = panelTex,
-                Modulate = new Color(37, 37, 42),
+                Modulate = ScpPalettes.Primary.Background, // Fire edit
             };
             _back.SetPatchMargin(StyleBox.Margin.All, 10);
 
@@ -230,13 +231,16 @@ namespace Content.Client.Lobby.UI
             CharacterInfoHider.Texture = CharacterInfoContent.Visible ? IconExpanded : IconCollapsed;
             ChatHider.Texture = ChatContent.Visible ? IconExpanded : IconCollapsed;
             UserProfileHider.Texture = CharacterInfoContent.Visible ? IconExpanded : IconCollapsed;
-            ServersHubHider.Modulate = StyleNano.NanoGold;
-            ContributorsHider.Modulate = StyleNano.NanoGold;
-            ChangelogHider.Modulate = StyleNano.NanoGold;
-            ServerInfoHider.Modulate = StyleNano.NanoGold;
-            CharacterInfoHider.Modulate = StyleNano.NanoGold;
-            ChatHider.Modulate = StyleNano.NanoGold;
-            UserProfileHider.Modulate = StyleNano.NanoGold;
+
+            // Fire edit start
+            ServersHubHider.Modulate = ScpPalettes.Red.Element;
+            ContributorsHider.Modulate = ScpPalettes.Red.Element;
+            ChangelogHider.Modulate = ScpPalettes.Red.Element;
+            ServerInfoHider.Modulate = ScpPalettes.Red.Element;
+            CharacterInfoHider.Modulate = ScpPalettes.Red.Element;
+            ChatHider.Modulate = ScpPalettes.Red.Element;
+            UserProfileHider.Modulate = ScpPalettes.Red.Element;
+            // Fire edit end
 
             // Скрываем чейнджлог по умолчанию
             ChangelogContent.Visible = false;
@@ -297,7 +301,7 @@ namespace Content.Client.Lobby.UI
 
         private void SetLobbyOpacity(float opacity)
         {
-            _back.Modulate = new Color(37, 37, 42).WithAlpha(opacity);
+            _back.Modulate = ScpPalettes.Primary.Background.WithAlpha(opacity); // Fire edit
         }
         // Sunrise-End
 
