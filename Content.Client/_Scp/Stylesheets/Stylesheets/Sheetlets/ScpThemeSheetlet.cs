@@ -26,8 +26,6 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
 {
     public override StyleRule[] GetRules(NanotrasenStylesheet sheet, object config)
     {
-        // --- Подготовка ресурсов (повторяем логику StyleNano) ---
-
         // Шрифты
         var notoSansDisplayBold14 = sheet.BaseFont.GetFont(14, FontKind.Bold);
         var notoSansDisplayBold16 = sheet.BaseFont.GetFont(16, FontKind.Bold);
@@ -39,8 +37,6 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
         var sliderFillTex = sheet.GetTexture(new("/Textures/Interface/Nano/slider_fill.svg.96dpi.png"));
         var sliderOutlineTex = sheet.GetTexture(new("/Textures/Interface/Nano/slider_outline.svg.96dpi.png"));
         var sliderGrabTex = sheet.GetTexture(new("/Textures/Interface/Nano/slider_grabber.svg.96dpi.png"));
-
-        var buttonTypes = new[] { typeof(Button), typeof(ContainerButton), typeof(ContextMenuElement), typeof(ConfirmationMenuElement) };
 
         // --- Создание StyleBoxes (Fire edit logic) ---
 
@@ -306,11 +302,6 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
                 .PseudoDisabled()
                 .Prop(Control.StylePropertyModulateSelf, ScpPalettes.Primary.DisabledElement),
 
-            Child()
-                .Parent(Element<ContextMenuElement>().PseudoHovered())
-                .Child(Element<Label>())
-                .Prop(Label.StylePropertyFontColor, ScpPalettes.PanelDarker),
-
             // ListContainer Button
             Element<ContainerButton>()
                 .Class(ListContainer.StyleClassListContainerButton)
@@ -391,14 +382,6 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
                      BackgroundColor = ScpPalettes.PanelDark,
                      BorderColor = ScpPalettes.SCPWhite,
                  }),
-
-            Element<PlayerListEntry>()
-                .Prop(Control.StylePropertyModulateSelf,
-                    new StyleBoxFlat
-                    {
-                        BackgroundColor = ScpPalettes.PanelDark,
-                        BorderColor = ScpPalettes.SCPWhite,
-                    }),
         };
     }
 }

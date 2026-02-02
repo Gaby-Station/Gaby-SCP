@@ -55,6 +55,20 @@ namespace Content.Client.ContextMenu.UI
                 Text = text;
         }
 
+        // Fire edit start
+        protected override void EnteredTree()
+        {
+            base.EnteredTree();
+            InitializeHoverHandling();
+        }
+
+        protected override void ExitedTree()
+        {
+            base.ExitedTree();
+            CleanupHoverHandling();
+        }
+        // Fire edit end
+
         protected override void Dispose(bool disposing)
         {
             base.Dispose(disposing);
@@ -81,6 +95,7 @@ namespace Content.Client.ContextMenu.UI
             if ((_subMenu?.Visible ?? false) && !HasStylePseudoClass(StylePseudoClassHover))
             {
                 AddStylePseudoClass(StylePseudoClassHover);
+                SetColor(HoveredTextColor);
                 return;
             }
 
@@ -91,7 +106,10 @@ namespace Content.Client.ContextMenu.UI
                 return;
 
             if (HasStylePseudoClass(StylePseudoClassHover))
+            {
                 RemoveStylePseudoClass(StylePseudoClassHover);
+                SetColor(NormalTextColor);
+            }
         }
     }
 }
