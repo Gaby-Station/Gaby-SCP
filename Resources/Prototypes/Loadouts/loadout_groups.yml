@@ -208,7 +208,7 @@
 
 - type: loadoutGroup
   id: CaptainOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   loadouts:
   - CaptainOuterArmor # Sunrise-Edit
   - CaptainOuterCoat # Sunrise-Edit
@@ -258,7 +258,7 @@
 
 - type: loadoutGroup
   id: HoPOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - HoPWintercoat
@@ -313,7 +313,7 @@
 
 - type: loadoutGroup
   id: PassengerOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - PassengerWintercoat
@@ -350,7 +350,7 @@
 
 - type: loadoutGroup
   id: BartenderOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - BartenderVest
@@ -395,7 +395,7 @@
 
 - type: loadoutGroup
   id: ChefOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - ChefApron
@@ -483,7 +483,7 @@
 
 - type: loadoutGroup
   id: ChaplainOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - ChaplainPlagueSuit
@@ -543,7 +543,7 @@
 
 - type: loadoutGroup
   id: JanitorOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - JanitorWintercoat
@@ -582,7 +582,7 @@
 
 - type: loadoutGroup
   id: BotanistOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - BotanistApron
@@ -622,7 +622,7 @@
 
 - type: loadoutGroup
   id: ClownOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - ClownRobes
@@ -689,7 +689,7 @@
 
 - type: loadoutGroup
   id: MimeOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - MimeWintercoat
@@ -731,7 +731,7 @@
 
 - type: loadoutGroup
   id: MusicianOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - MusicianWintercoat
@@ -834,7 +834,7 @@
 
 - type: loadoutGroup
   id: QuartermasterOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - QuartermasterWintercoat
@@ -906,7 +906,7 @@
 
 - type: loadoutGroup
   id: CargoTechnicianOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - CargoTechnicianWintercoat
@@ -955,7 +955,7 @@
 
 - type: loadoutGroup
   id: SalvageSpecialistOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - SalvageSpecialistWintercoat
@@ -1019,7 +1019,7 @@
 
 - type: loadoutGroup
   id: ChiefEngineerOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - ChiefEngineerWintercoat
@@ -1108,7 +1108,7 @@
 
 - type: loadoutGroup
   id: StationEngineerOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - StationEngineerOuterVest
@@ -1147,7 +1147,7 @@
 
 - type: loadoutGroup
   id: AtmosphericTechnicianOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - AtmosphericTechnicianWintercoat
@@ -1216,7 +1216,7 @@
 
 - type: loadoutGroup
   id: ResearchDirectorOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - ResearchDirectorLabCoat
@@ -1269,7 +1269,7 @@
 
 - type: loadoutGroup
   id: ScientistOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - RegularLabCoat
@@ -1353,7 +1353,7 @@
 
 - type: loadoutGroup
   id: HeadofSecurityOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   loadouts:
   - HeadofSecurityCoat
   - HeadofSecurityWinterCoat
@@ -1390,7 +1390,7 @@
 
 - type: loadoutGroup
   id: WardenOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   loadouts:
   - WardenCoat
   - WardenArmoredWinterCoat
@@ -1498,7 +1498,7 @@
 
 - type: loadoutGroup
   id: DetectiveOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   loadouts:
   - DetectiveArmorVest
   - DetectiveCoat
@@ -1578,7 +1578,7 @@
 
 - type: loadoutGroup
   id: ChiefMedicalOfficerOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - ChiefMedicalOfficerLabCoat
@@ -1675,7 +1675,7 @@
 
 - type: loadoutGroup
   id: MedicalDoctorOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - RegularLabCoat
@@ -1770,7 +1770,7 @@
 
 - type: loadoutGroup
   id: ChemistOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - RegularLabCoat
@@ -1834,7 +1834,7 @@
 
 - type: loadoutGroup
   id: ParamedicOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - ParamedicWindbreaker

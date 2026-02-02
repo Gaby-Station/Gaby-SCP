@@ -110,7 +110,7 @@
 
 - type: loadoutGroup
   id: NanoTrasenRepresentativeOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 1
   maxLimit: 1
   loadouts:
@@ -207,7 +207,7 @@
 
 - type: loadoutGroup
   id: CentCommOperatorHats
-  name: loadout-group-hat # Fire edit
+  name: loadout-group-hats # Fire edit
   loadouts:
   - HeadHatBeretCentcomNaval
   - HeadHatCentcomcap
@@ -390,7 +390,7 @@
 
 - type: loadoutGroup
   id: SeniorPhysicianOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   maxLimit: 1
   loadouts:
@@ -577,7 +577,7 @@
 
 - type: loadoutGroup
   id: SunrisePsychologistOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   maxLimit: 1
   loadouts:
@@ -701,7 +701,7 @@
 
 - type: loadoutGroup
   id: PathologistOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   maxLimit: 1
   loadouts:
@@ -805,7 +805,7 @@
 
 - type: loadoutGroup
   id: RoboticistOuterClothing
-  name: loadout-group-outerclothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   minLimit: 0
   loadouts:
   - RoboticistLabCoat
@@ -882,7 +882,7 @@
 
 - type: loadoutGroup
   id: AdjutantOuterClothing
-  name: loadout-group-outerClothing # Fire edit
+  name: loadout-group-outer-clothing # Fire edit
   loadouts:
   - AdjutantCoat
 
