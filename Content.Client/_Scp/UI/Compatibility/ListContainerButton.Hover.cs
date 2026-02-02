@@ -62,8 +62,21 @@ public sealed partial class ListContainerButton
         _parentButton = null;
     }
 
+    protected override void DrawModeChanged()
+    {
+        base.DrawModeChanged();
+
+        UpdateTextColor();
+    }
+
     private void OnParentMouseEntered(GUIMouseHoverEventArgs args)
     {
+        if (_parentButton is BaseButton { Disabled: true })
+        {
+            SetColor(NormalTextColor);
+            return;
+        }
+
         // When mouse enters, always show dark text (background will be white)
         SetColor(HoveredTextColor);
     }
@@ -76,29 +89,37 @@ public sealed partial class ListContainerButton
         // - If Pressed=true -> DrawMode will be Pressed -> white background -> dark text
         // - If Pressed=false -> DrawMode will be Normal -> dark background -> white text
 
-        if (_parentButton is BaseButton button)
+        if (_parentButton is not BaseButton button)
+            return;
+
+        if (button.Disabled)
         {
-            var willBePressed = button.Pressed;
-            var color = willBePressed ? HoveredTextColor : NormalTextColor;
-            SetColor(color);
+            SetColor(NormalTextColor);
+            return;
         }
+
+        var willBePressed = button.Pressed;
+        var color = willBePressed ? HoveredTextColor : NormalTextColor;
+        SetColor(color);
     }
 
     private void UpdateTextColor()
     {
+        if (_parentButton is not BaseButton button)
+            return;
+
+        if (button.Disabled)
+        {
+            SetColor(NormalTextColor);
+            return;
+        }
+
         // Check button's DrawMode to determine correct text color
         // DrawMode.Pressed or DrawMode.Hover = white background = dark text
         // DrawMode.Normal = dark background = white text
-        if (_parentButton is BaseButton button)
-        {
-            var needsDarkText = button.DrawMode is DrawModeEnum.Pressed or DrawModeEnum.Hover;
-            var color = needsDarkText ? HoveredTextColor : NormalTextColor;
-            SetColor(color);
-        }
-        else
-        {
-            SetColor(NormalTextColor);
-        }
+        var needsDarkText = button.DrawMode is DrawModeEnum.Pressed or DrawModeEnum.Hover;
+        var color = needsDarkText ? HoveredTextColor : NormalTextColor;
+        SetColor(color);
     }
 
     private void SetColor(Color color, Control? control = null)

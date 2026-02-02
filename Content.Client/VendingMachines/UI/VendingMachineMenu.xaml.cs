@@ -82,9 +82,6 @@ namespace Content.Client.VendingMachines.UI
             button.AddChild(item);
             button.AddStyleClass(StyleClass.ButtonSquare);
             button.Disabled = !_enabled || _amounts[protoID] == 0;
-            // Fire edit start
-            item.RefreshTextColor();
-            // Fire edit end
         }
 
         /// <summary>
@@ -176,9 +173,6 @@ namespace Content.Client.VendingMachines.UI
 
                 button.Item.SetText(text);
                 button.Button.Disabled = !enabled || amount == 0;
-                // Fire edit start
-                button.Item.RefreshTextColor();
-                // Fire edit end
             }
         }
 
