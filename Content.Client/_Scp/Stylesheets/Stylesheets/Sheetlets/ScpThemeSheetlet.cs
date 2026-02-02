@@ -185,12 +185,12 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
             Element<TextureButton>()
                 .Class(DefaultWindow.StyleClassWindowCloseButton)
                 .PseudoHovered()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelUltraDark),
 
             Element<TextureButton>()
                 .Class(DefaultWindow.StyleClassWindowCloseButton)
                 .PseudoPressed()
-                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelDarker),
+                .Prop(Control.StylePropertyModulateSelf, ScpPalettes.PanelUltraDark),
 
             // 2. Тултипы (Tooltips)
             Element<Tooltip>()
