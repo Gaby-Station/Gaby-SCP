@@ -1,15 +1,11 @@
-using Content.Client._Scp.Stylesheets.Palette;
+﻿using Content.Client._Scp.Stylesheets.Palette;
 using Robust.Client.UserInterface;
 using Robust.Client.UserInterface.Controls;
 
 // ReSharper disable once CheckNamespace
-namespace Content.Client.Administration.UI.CustomControls;
+namespace Content.Client.UserInterface.Controls;
 
-/// <summary>
-/// Partial class for PlayerListEntry that handles hover-related styling.
-/// This is needed because CSS ParentOf selectors don't re-evaluate when parent pseudo-class changes.
-/// </summary>
-public sealed partial class PlayerListEntry
+public sealed partial class ListContainerButton
 {
     // Colors for different button states
     private static readonly Color NormalTextColor = ScpPalettes.SCPWhite;      // White on dark background
@@ -34,19 +30,9 @@ public sealed partial class PlayerListEntry
     /// </summary>
     private void InitializeHoverHandling()
     {
-        // Find parent ContainerButton (ListContainerButton)
-        var parent = Parent;
-        while (parent != null)
-        {
-            if (parent is BaseButton button)
-            {
-                _parentButton = button;
-                SubscribeToButtonEvents();
-                UpdateTextColor();  // Set initial color based on current state
-                break;
-            }
-            parent = parent.Parent;
-        }
+        _parentButton = this;
+        SubscribeToButtonEvents();
+        UpdateTextColor();  // Set initial color based on current state
     }
 
     /// <summary>
@@ -105,7 +91,7 @@ public sealed partial class PlayerListEntry
         // DrawMode.Normal = dark background = white text
         if (_parentButton is BaseButton button)
         {
-            var needsDarkText = button.DrawMode is BaseButton.DrawModeEnum.Pressed or BaseButton.DrawModeEnum.Hover;
+            var needsDarkText = button.DrawMode is DrawModeEnum.Pressed or DrawModeEnum.Hover;
             var color = needsDarkText ? HoveredTextColor : NormalTextColor;
             SetColor(color);
         }
