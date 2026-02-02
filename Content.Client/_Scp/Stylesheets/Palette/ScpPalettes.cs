@@ -30,7 +30,7 @@ public static class ScpPalettes
 
     // Общие состояния кнопок
     public static readonly Color ButtonHover = SCPWhite.WithLightness(0.8f);
-    public static readonly Color ButtonPressed = SCPWhite.WithLightness(0.5f);
+    public static readonly Color ButtonPressed = SCPWhite.WithLightness(0.65f);
     public static readonly Color ButtonDisabled = SCPWhite.WithLightness(0.4f);
 
     // --- Сборка палитр ---
