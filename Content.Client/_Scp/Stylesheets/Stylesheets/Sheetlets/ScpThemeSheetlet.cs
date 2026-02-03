@@ -42,9 +42,9 @@ public sealed class ScpThemeSheetlet : Sheetlet<NanotrasenStylesheet>
         var font48 = sheet.BaseFont.GetFont(48, FontKind.Bold);
 
         // Текстуры слайдеров (нужны для перекраски)
-        var sliderFillTex = sheet.GetTexture(new("/Textures/Interface/Nano/slider_fill.svg.96dpi.png"));
-        var sliderOutlineTex = sheet.GetTexture(new("/Textures/Interface/Nano/slider_outline.svg.96dpi.png"));
-        var sliderGrabTex = sheet.GetTexture(new("/Textures/Interface/Nano/slider_grabber.svg.96dpi.png"));
+        var sliderFillTex = sheet.GetTextureOr(new("slider_fill.svg.96dpi.png"), NanotrasenStylesheet.TextureRoot);
+        var sliderOutlineTex = sheet.GetTextureOr(new("slider_outline.svg.96dpi.png"), NanotrasenStylesheet.TextureRoot);
+        var sliderGrabTex = sheet.GetTextureOr(new("slider_grabber.svg.96dpi.png"), NanotrasenStylesheet.TextureRoot);
 
         // --- Создание StyleBoxes (Fire edit logic) ---
 
