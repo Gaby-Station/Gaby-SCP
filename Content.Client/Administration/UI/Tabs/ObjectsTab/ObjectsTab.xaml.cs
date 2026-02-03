@@ -162,6 +162,8 @@ public sealed partial class ObjectsTab : Control
         button.ToolTip = $"{info.Name}, {info.Entity}";
         button.AddChild(entry);
         button.StyleClasses.Clear();
+
+        button.HoverExtenstionEnabled = false; // Fire added
     }
 
     private bool DataFilterCondition(string filter, ListData listData)

@@ -11,7 +11,39 @@ public sealed partial class ListContainerButton
     private static readonly Color NormalTextColor = ScpPalettes.SCPWhite;      // White on dark background
     private static readonly Color HoveredTextColor = ScpPalettes.PanelDarker;  // Black on white background
 
-    private Control? _parentButton;
+    private Control? _trackedElement;
+
+    #region Public fields
+
+    public bool HoverExtenstionEnabled
+    {
+        get;
+        set
+        {
+            field = value;
+            if (ShouldHandling())
+                InitializeHoverHandling(false);
+            else
+                CleanupHoverHandling();
+        }
+    } = true;
+
+    public HashSet<string> NameBlacklist
+    {
+        get;
+        set
+        {
+            field = value;
+            if (ShouldHandling())
+                InitializeHoverHandling(false);
+            else
+                CleanupHoverHandling();
+        }
+    } = [];
+
+    #endregion
+
+    #region Enter&Exit
 
     protected override void EnteredTree()
     {
@@ -25,12 +57,48 @@ public sealed partial class ListContainerButton
         CleanupHoverHandling();
     }
 
+    #endregion
+
+    #region Restrictions
+
+    private bool ShouldHandling(Control? control = null)
+    {
+        if (!HoverExtenstionEnabled)
+            return false;
+
+        if (!IsBlacklistPassRecursive(control))
+            return false;
+
+        return true;
+    }
+
+    private bool IsBlacklistPassRecursive(Control? control = null)
+    {
+        if (NameBlacklist.Count == 0)
+            return true;
+
+        if (control == null)
+            return true;
+
+        if (control.Name != null && NameBlacklist.Contains(control.Name))
+            return false;
+
+        return IsBlacklistPassRecursive(control.Parent);
+    }
+
+    #endregion
+
+    #region Initialize&Shutdown
+
     /// <summary>
     /// Called from EnteredTree to set up hover handling.
     /// </summary>
-    private void InitializeHoverHandling()
+    private void InitializeHoverHandling(bool checkRestrictions = true)
     {
-        _parentButton = this;
+        if (checkRestrictions && !ShouldHandling(this))
+            return;
+
+        _trackedElement = this;
         SubscribeToButtonEvents();
         UpdateTextColor();  // Set initial color based on current state
     }
@@ -45,22 +113,24 @@ public sealed partial class ListContainerButton
 
     private void SubscribeToButtonEvents()
     {
-        if (_parentButton == null)
+        if (_trackedElement == null)
             return;
 
-        _parentButton.OnMouseEntered += OnParentMouseEntered;
-        _parentButton.OnMouseExited += OnParentMouseExited;
+        _trackedElement.OnMouseEntered += OnParentMouseEntered;
+        _trackedElement.OnMouseExited += OnParentMouseExited;
     }
 
     private void UnsubscribeFromButtonEvents()
     {
-        if (_parentButton == null)
+        if (_trackedElement == null)
             return;
 
-        _parentButton.OnMouseEntered -= OnParentMouseEntered;
-        _parentButton.OnMouseExited -= OnParentMouseExited;
-        _parentButton = null;
+        _trackedElement.OnMouseEntered -= OnParentMouseEntered;
+        _trackedElement.OnMouseExited -= OnParentMouseExited;
+        _trackedElement = null;
     }
+
+    #endregion
 
     protected override void DrawModeChanged()
     {
@@ -71,7 +141,7 @@ public sealed partial class ListContainerButton
 
     private void OnParentMouseEntered(GUIMouseHoverEventArgs args)
     {
-        if (_parentButton is BaseButton { Disabled: true })
+        if (_trackedElement is BaseButton { Disabled: true })
         {
             SetColor(NormalTextColor);
             return;
@@ -89,7 +159,7 @@ public sealed partial class ListContainerButton
         // - If Pressed=true -> DrawMode will be Pressed -> white background -> dark text
         // - If Pressed=false -> DrawMode will be Normal -> dark background -> white text
 
-        if (_parentButton is not BaseButton button)
+        if (_trackedElement is not BaseButton button)
             return;
 
         if (button.Disabled)
@@ -105,7 +175,7 @@ public sealed partial class ListContainerButton
 
     private void UpdateTextColor()
     {
-        if (_parentButton is not BaseButton button)
+        if (_trackedElement is not BaseButton button)
             return;
 
         if (button.Disabled)
