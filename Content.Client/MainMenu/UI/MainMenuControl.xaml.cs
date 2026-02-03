@@ -10,13 +10,24 @@ using Robust.Shared;
 using Robust.Shared.Configuration;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
+using Robust.Client.Graphics;
+using Robust.Shared.Graphics.RSI;
+using Robust.Shared.Timing;
+
 
 namespace Content.Client.MainMenu.UI;
 
 [GenerateTypedNameReferences]
 public sealed partial class MainMenuControl : Control
 {
+    public const string StyleIdentifierMainMenu = "mainMenu";
+    public const string StyleIdentifierMainMenuVBox = "mainMenuVBox";
+
     private const string AnimationId = "DeepFacility"; // Fire added
+
+    private RSI.State? _animationState;
+    private float _animationTime;
+    private int _animationFrame;
 
     public MainMenuControl(IResourceCache resCache, IConfigurationManager configMan)
     {
@@ -39,14 +50,47 @@ public sealed partial class MainMenuControl : Control
     }
 
     // Fire added start - анимация при загрузке вместо паралакса
+    protected override void FrameUpdate(FrameEventArgs args)
+    {
+        base.FrameUpdate(args);
+
+        if (_animationState == null)
+            return;
+
+        _animationTime += args.DeltaSeconds;
+
+        var delay = _animationState.GetDelay(_animationFrame);
+        if (_animationTime >= delay)
+        {
+            _animationTime -= delay;
+            _animationFrame++;
+
+            if (_animationFrame >= _animationState.Icons[0].Length)
+                _animationFrame = 0;
+
+            ConnectionAnimation.DisplayRect.Texture = _animationState.GetFrame(RsiDirection.South, _animationFrame);
+        }
+    }
+
     private void SetAnimation()
     {
         var prototypeManager = IoCManager.Resolve<IPrototypeManager>();
+        var resourceCache = IoCManager.Resolve<IResourceCache>();
 
         if (!prototypeManager.TryIndex<LobbyAnimationPrototype>(AnimationId, out var lobbyAnimationPrototype))
             return;
 
-        ConnectionAnimation.SetFromSpriteSpecifier(new SpriteSpecifier.Rsi(new ResPath(lobbyAnimationPrototype.RawPath), lobbyAnimationPrototype.State));
+        if (!resourceCache.TryGetResource<RSIResource>(new ResPath(lobbyAnimationPrototype.Animation).ToRootedPath(), out var rsi))
+            return;
+
+        if (!rsi.RSI.TryGetState(lobbyAnimationPrototype.State, out var state))
+            return;
+
+        _animationState = state;
+        _animationFrame = 0;
+        _animationTime = 0;
+
+        ConnectionAnimation.DisplayRect.Texture = _animationState.GetFrame(RsiDirection.South, 0);
         ConnectionAnimation.DisplayRect.TextureScale = lobbyAnimationPrototype.Scale;
         ConnectionAnimation.DisplayRect.Stretch = TextureRect.StretchMode.Scale;
     }

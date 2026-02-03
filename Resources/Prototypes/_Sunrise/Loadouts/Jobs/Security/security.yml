@@ -1,4 +1,4 @@
-﻿- type: loadoutEffectGroup
+- type: loadoutEffectGroup
   id: MasterSecurity
   effects:
   # Fire edit start
@@ -19,8 +19,8 @@
   effects:
   - !type:JobRequirementLoadoutEffect
     requirement:
-      !type:RoleTimeRequirement
-      role: JobSecurityOfficer
+      !type:DepartmentTimeRequirement
+      department: Security
       time: 360000 #100 hrs
 
 - type: loadout
@@ -155,6 +155,16 @@
   storage:
     back:
     - ACP14Box
+
+- type: loadout
+  id: SnubRevolverBox
+  startingGear: SnubRevolverBox
+
+- type: startingGear
+  id: SnubRevolverBox
+  storage:
+    back:
+    - SnubRevolverBox
 
 - type: loadout
   id: MK58GoldBox

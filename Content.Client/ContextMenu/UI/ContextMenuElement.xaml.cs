@@ -16,7 +16,6 @@ namespace Content.Client.ContextMenu.UI
     {
         public const string StyleClassContextMenuButton = "contextMenuButton";
         public const string StyleClassContextMenuExpansionTexture = "contextMenuExpansionTexture";
-        public const string StyleClassEntityMenuIconLabel = "contextMenuIconLabel";
 
         public const float ElementMargin = 2;
         public const float ElementHeight = 32;
@@ -82,6 +81,7 @@ namespace Content.Client.ContextMenu.UI
             if ((_subMenu?.Visible ?? false) && !HasStylePseudoClass(StylePseudoClassHover))
             {
                 AddStylePseudoClass(StylePseudoClassHover);
+                SetColor(HoveredTextColor);
                 return;
             }
 
@@ -92,7 +92,10 @@ namespace Content.Client.ContextMenu.UI
                 return;
 
             if (HasStylePseudoClass(StylePseudoClassHover))
+            {
                 RemoveStylePseudoClass(StylePseudoClassHover);
+                SetColor(NormalTextColor);
+            }
         }
     }
 }

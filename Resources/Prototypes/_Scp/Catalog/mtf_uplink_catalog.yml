@@ -730,7 +730,7 @@
   productEntity: MtfStorageCrateRifleAR18
   name: shop-name-ar18box
   description: shop-desc-ar18box
-  icon: { sprite: _Sunrise/Interface/Misc/nt_icons.rsi, state: ar18 }
+  icon: { sprite: _Scp/Interface/Misc/uplink_icons.rsi, state: ar18 }
   categories:
   - ScpPrimaryArms
   conditions:
@@ -1884,7 +1884,7 @@
     - HDLeader # Ню-7
     - HDSpecialist
     - HDCadet
-    
+
 - type: listing
   id: ScpUplinkBoxAmbuzolKit
   productEntity: BoxAmbuzolKit

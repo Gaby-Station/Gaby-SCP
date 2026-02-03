@@ -4,7 +4,8 @@ using Content.Server.Hands.Systems;
 using Content.Shared._Scp.Fear;
 using Content.Shared._Scp.Proximity;
 using Content.Shared._Scp.Scp012;
-using Content.Shared.Damage;
+using Content.Shared.Chat;
+using Content.Shared.Damage.Systems;
 using Content.Shared.FixedPoint;
 using Content.Shared.Mobs;
 using Content.Shared.Movement.Systems;
@@ -185,7 +186,7 @@ public sealed partial class Scp012System
             return false;
 
         SetNextPassiveDamageTime(ent);
-        if (_damageable.TryChangeDamage(ent, scp.Comp.PassiveDamage, origin: scp, ignoreResistances: true)?.GetTotal() == FixedPoint2.Zero)
+        if (!_damageable.TryChangeDamage(ent.Owner, scp.Comp.PassiveDamage, origin: scp, ignoreResistances: true))
             return false;
 
         return true;
@@ -213,7 +214,7 @@ public sealed partial class Scp012System
         ForceSpeak(ent, "scp012-phrase-final");
         SetNextSuicideTime(ent);
 
-        if (_damageable.TryChangeDamage(ent, scp.Comp.SuicideDamage, origin: scp, ignoreResistances: true)?.GetTotal() == FixedPoint2.Zero)
+        if (!_damageable.TryChangeDamage(ent.Owner, scp.Comp.SuicideDamage, origin: scp, ignoreResistances: true))
             return false;
 
         _mobState.ChangeMobState(ent, MobState.Dead, origin: scp);

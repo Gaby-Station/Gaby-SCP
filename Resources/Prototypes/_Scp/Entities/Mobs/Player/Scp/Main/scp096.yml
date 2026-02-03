@@ -146,7 +146,7 @@
   - type: Muted
   - type: Stamina
     stunTime: 12
-    critThreshold: 400
+    baseCritThreshold: 400
     animationThreshold: 220
     stunModifierThresholds:
       0: 1
@@ -188,7 +188,10 @@
     - RadiationProtection
     - Drowsiness
   - type: Bloodstream
-    bloodReagent: Scp096Blood
+    bloodReferenceSolution:
+      reagents:
+      - ReagentId: Scp096Blood
+        Quantity: 300
   - type: SolutionRegeneration
     solution: bloodstream
     generated:
@@ -236,8 +239,10 @@
       types:
         Blunt: -0.1
   - type: Bloodstream
-    bloodReagent: Scp096Tears
-    bloodMaxVolume: 100
+    bloodReferenceSolution:
+      reagents:
+      - ReagentId: Scp096Tears
+        Quantity: 100
     bloodlossDamage:
       types:
         Bloodloss:

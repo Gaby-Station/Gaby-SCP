@@ -15,3 +15,20 @@
   parent: ScpClosetSteelBase
   name: legal closet
   description: It's a storage unit for courtroom apparel and items.
+
+- type: entity
+  id: ScpClosetScience
+  parent: ScpClosetSteelBase
+  name: science closet
+  description: You've read a couple pop science articles, now it's time for the real deal.
+  components:
+  - type: EntityStorageVisuals
+    stateBaseClosed: science
+    stateDoorOpen: science_open
+    stateDoorClosed: science_door
+
+- type: entity
+  id: ScpClosetPrison
+  parent: ScpClosetSteelBase
+  name: prison closet
+  description: Contains a selection of nice orange clothes for people enjoying their stay in the brig.

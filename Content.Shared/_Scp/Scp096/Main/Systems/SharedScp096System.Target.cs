@@ -5,7 +5,7 @@ using Content.Shared._Scp.Scp096.Protection;
 using Content.Shared._Scp.Scp106.Components;
 using Content.Shared._Scp.Watching;
 using Content.Shared._Scp.Watching.FOV;
-using Content.Shared.Damage;
+using Content.Shared.Damage.Systems;
 using Content.Shared.FixedPoint;
 using Content.Shared.Mobs;
 using Content.Shared.Popups;

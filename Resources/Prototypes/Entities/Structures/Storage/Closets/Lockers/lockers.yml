@@ -520,6 +520,7 @@
         type: GenpopLockerBoundUserInterface
   - type: AccessReader # note! this access is for the UI, not the door. door access is handled on GenpopLocker
     access: [["Security"]]
+    examinationText: access-reader-examination-functionality-restricted
   - type: Lock
     locked: false
     useAccess: false
@@ -646,9 +647,10 @@
 # Syndicate
 - type: entity
   id: LockerSyndicatePersonal
-  name: armory closet
+  name: blood-red locker
   parent: LockerBaseSecure
-  description: It's a personal storage unit for operative gear.
+  description: It's a personal storage unit with a blood-red design.
+  suffix: "Locked"
   categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Appearance
@@ -656,6 +658,8 @@
     stateBaseClosed: syndicate
     stateDoorOpen: syndicate_open
     stateDoorClosed: syndicate_door
+  - type: AccessReader
+    access: [["SyndicateAgent"]]
 
 # Bluespace
 - type: entity
@@ -727,17 +731,4 @@
     stateDoorOpen: mime_open
     stateDoorClosed: mime_door
 
-# Representative
-- type: entity
-  id: LockerRepresentative
-  name: representative locker
-  parent: LockerBaseSecure
-  categories: [ HideSpawnMenu ] # Fire added
-  components:
-  - type: Appearance
-  - type: AccessReader
-    access: [["Ntrep"]]
-  - type: EntityStorageVisuals
-    stateBaseClosed: hop
-    stateDoorOpen: hop_open
-    stateDoorClosed: representative_door
+

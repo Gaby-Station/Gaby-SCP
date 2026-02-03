@@ -62,7 +62,7 @@ namespace Content.Client.Launcher
 
             LayoutContainer.SetAnchorPreset(this, LayoutContainer.LayoutPreset.Wide);
 
-            Stylesheet = IoCManager.Resolve<IStylesheetManager>().SheetNano;
+            Stylesheet = IoCManager.Resolve<IStylesheetManager>().SheetSystem;
 
             ChangeLoginTip();
             RetryButton.OnPressed += ReconnectButtonPressed;
@@ -121,7 +121,7 @@ namespace Content.Client.Launcher
             if (!_prototype.TryIndex<LobbyAnimationPrototype>(AnimationId, out var lobbyAnimationPrototype))
                 return;
 
-            ConnectionAnimation.SetFromSpriteSpecifier(new SpriteSpecifier.Rsi(new ResPath(lobbyAnimationPrototype.RawPath), lobbyAnimationPrototype.State));
+            ConnectionAnimation.SetFromSpriteSpecifier(new SpriteSpecifier.Rsi(new ResPath(lobbyAnimationPrototype.Animation), lobbyAnimationPrototype.State));
             ConnectionAnimation.DisplayRect.TextureScale = lobbyAnimationPrototype.Scale;
             ConnectionAnimation.DisplayRect.Stretch = TextureRect.StretchMode.Scale;
         }

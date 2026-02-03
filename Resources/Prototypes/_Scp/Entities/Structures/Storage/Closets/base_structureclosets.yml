@@ -7,6 +7,8 @@
     sprite: _Scp/Structures/Storage/closet.rsi
   - type: Transform
     noRot: false
+  - type: Rotatable
+    rotateWhileAnchored: true
   - type: Fixtures
     fixtures:
       fix1:

@@ -11,6 +11,7 @@
       - id: ClothingMaskGasBlueShield
       - id: ClothingHeadsetAltCommand
       - id: HandheldBSOCrewMonitor
+      - id: WeaponMultiphaseGun
 
 - type: entity
   id: LockerBlueshieldFilledHardsuit
@@ -20,27 +21,11 @@
   components:
   - type: StorageFill
     contents:
-    - id: WeaponDisabler
-    - id: ClothingHeadsetAltCommand
-    - id: CigarGoldCase
-      prob: 0.25
-    - id: ClothingMaskGasBlueShield
-    - id: ClothingOuterHardsuitBlueShield
-    - id: OxygenTankFilled
-    - id: ClothingMaskBreathMedicalSecurity
-
-- type: entity
-  parent: GunSafe
-  id: GunSafeBlueShield
-  name: blue shield safe
-  categories: [ HideSpawnMenu ] # Fire added
-  components:
-  - type: AccessReader
-    access: [["BlueShield"]]
-  - type: StorageFill
-    contents:
-    - id: WeaponMultiphaseGun
-    - id: WeaponSubMachineGunWt550
-    - id: MagazinePistolSubMachineGunTopMountedSP
-      amount: 2
-    - id: MagazinePistolSubMachineGunTopMountedHP
+      - id: CigarGoldCase
+        prob: 0.25
+      - id: ClothingMaskGasBlueShield
+      - id: ClothingHeadsetAltCommand
+      - id: HandheldBSOCrewMonitor
+      - id: WeaponMultiphaseGun
+      - id: ClothingOuterHardsuitBlueShield
+      - id: OxygenTankFilled

@@ -47,6 +47,10 @@
     - Medical
     - Research
     - Service
+  - type: ContainerFill
+    containers:
+      board:
+      - WeaponEnergyTurretAIControlPanelElectronics # временный фикс, пока базовый прототип у виздена имеет невалидый ID
 
 - type: entity
   parent: ScpWeaponEnergyTurretStationControlPanelBase

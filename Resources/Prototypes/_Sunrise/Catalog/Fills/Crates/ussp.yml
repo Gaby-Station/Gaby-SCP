@@ -1,4 +1,4 @@
-- type: entity
+﻿- type: entity
   parent: CrateGeneric
   id: CrateAmmunitionSmall
   name: old small ammunition crate
@@ -59,6 +59,21 @@
     contents:
       - id: SpeedLoaderHeavyRifleRFMJ
         amount: 16
+
+- type: entity
+  parent: CrateAmmunitionSmall
+  id: CrateAmmunitionSmallDragunov
+  name: old small ammunition crate
+  suffix: Filled, Sniper
+  components:
+  - type: StorageFill
+    contents:
+      - id: WeaponSniperDragunov
+      - id: MagazineDragunovSP
+        amount: 2
+      - id: MagazineDragunovIncendiary
+        amount: 2
+      - id: MagazineDragunovUranium
 
 - type: entity
   parent: BaseStructureDynamic
@@ -215,4 +230,5 @@
     tags:
     - Recyclable
     - WrappedWeapon
+
 

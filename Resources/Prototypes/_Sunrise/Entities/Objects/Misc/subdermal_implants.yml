@@ -29,3 +29,37 @@
     tags:
     - CreepyLaugh
     - SubdermalImplant
+
+- type: entity
+  parent: BaseSubdermalImplant
+  id: RadioImplantFreelance
+  name: radio implant
+  description: This implant grants access to the Freelance channel without a headset.
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: SubdermalImplant
+  - type: RadioImplant
+    radioChannels:
+    - Freelance
+
+- type: entity
+  parent: DeathRattleImplant
+  id: DeathRattleImplantFreelance
+  name: freelance death rattle implant
+  description: This implant will inform the Freelance radio channel should the user fall into critical condition or die.
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: RattleOnTrigger
+    radioChannel: Freelance
+
+- type: entity
+  parent: BaseSubdermalImplant
+  id: ScramImplantProto
+  name: scram implant
+  description: This implant randomly teleports the user within a large radius when activated.
+  components:
+  - type: SubdermalImplant
+    implantAction: ActionActivateScramImplantProto
+  - type: TriggerOnActivateImplant
+  - type: ScramOnTrigger
+    targetUser: true

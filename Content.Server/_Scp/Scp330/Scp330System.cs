@@ -9,6 +9,7 @@ using Content.Shared._Scp.Proximity;
 using Content.Shared._Scp.Scp330;
 using Content.Shared.Body.Part;
 using Content.Shared.Containers;
+using Content.Shared.Damage.Systems;
 using Content.Shared.Gibbing.Events;
 using Content.Shared.Hands.Components;
 using Content.Shared.Mobs.Systems;
@@ -125,7 +126,7 @@ public sealed partial class Scp330System : SharedScp330System
                 continue;
 
             var damage = CalculateDamage(target, bowlCoords, radius, in ent.Comp.BaseDamage);
-            _damageable.TryChangeDamage(target, damage, true, origin: ent);
+            _damageable.TryChangeDamage(target.Owner, damage, true, origin: ent);
         }
 
         CutOffHands(ent, user);

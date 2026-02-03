@@ -1,7 +1,7 @@
 - type: entity
   id: PlasmaWindow
   name: plasma window
-  parent: WindowRCDResistant
+  parent: [BaseDeltaPressurePlasma, WindowRCDResistant]
   categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
@@ -56,7 +56,7 @@
 
 - type: entity
   id: PlasmaWindowDirectional
-  parent: WindowDirectionalRCDResistant
+  parent: [BaseDeltaPressurePlasmaQuarter, WindowDirectionalRCDResistant]
   name: directional plasma window
   description: Don't smudge up the glass down there.
   categories: [ HideSpawnMenu ] # Fire added

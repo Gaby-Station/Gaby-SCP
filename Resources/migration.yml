@@ -8,6 +8,8 @@
 # WallSolid: Window
 # Table: null
 
+
+
 # 2023-07-03
 ClothingHeadHelmetHelmet: ClothingHeadHelmetBasic
 ClothingHeadHelmetHelmetOld: ClothingHeadHelmetBasic
@@ -39,33 +41,33 @@ BoxMagazinePistolCaselessRifleHighVelocity: BoxMagazinePistolCaselessRifle
 BoxMagazinePistolHighCapacityHighVelocity: BoxMagazinePistolHighCapacity
 BoxMagazinePistolHighVelocity: BoxMagazinePistol
 BoxMagazinePistolSubMachineGunHighVelocity: BoxMagazinePistolSubMachineGun
-BoxMagazineRifleHighVelocity: BoxMagazineRifleSP
+BoxMagazineRifleHighVelocity: BoxMagazineRifleSP # Sunrise-Edit
 BulletCaselessRifleHighVelocity: BulletCaselessRifle
 BulletLightRifleHighVelocity: BulletLightRifle
 BulletMagnumHighVelocity: BulletMagnum
 BulletPistolHighVelocity: BulletPistol
 BulletRifleHighVelocity: BulletRifle
 CartridgeCaselessRifleHighVelocity: CartridgeCaselessRifle
-CartridgeLightRifleHighVelocity: CartridgeLightRifleFMJ
-CartridgeMagnumHighVelocity: CartridgeMagnumFMJ
-CartridgePistolHighVelocity: CartridgePistolFMJ
-CartridgeRifleHighVelocity: CartridgeRifleFMJ
+CartridgeLightRifleHighVelocity: CartridgeLightRifleFMJ # Sunrise-Edit
+CartridgeMagnumHighVelocity: CartridgeMagnumFMJ # Sunrise-Edit
+CartridgePistolHighVelocity: CartridgePistolFMJ # Sunrise-Edit
+CartridgeRifleHighVelocity: CartridgeRifleFMJ # Sunrise-Edit
 MagazineBoxCaselessRifleHighVelocity: MagazineBoxCaselessRifle
-MagazineBoxLightRifleHighVelocity: MagazineBoxLightRifleFMJ
-MagazineBoxMagnumHighVelocity: MagazineBoxMagnumSP
-MagazineBoxPistolHighVelocity: MagazineBoxPistolFMJ
-MagazineBoxRifleHighVelocity: MagazineBoxRifleFMJ
-MagazineCaselessRifleHighVelocity: MagazineCaselessRifle
+MagazineBoxLightRifleHighVelocity: MagazineBoxLightRifleFMJ # Sunrise-Edit
+MagazineBoxMagnumHighVelocity: MagazineBoxMagnumSP # Sunrise-Edit
+MagazineBoxPistolHighVelocity: MagazineBoxPistolFMJ # Sunrise-Edit
+MagazineBoxRifleHighVelocity: MagazineBoxRifleFMJ # Sunrise-Edit
+MagazineCaselessRifleHighVelocity: MagazinePistolCaselessRifle
 MagazineCaselessRifleShortHighVelocity: null
 MagazineLightRifleHighVelocity: MagazineLightRifleFMJ
 MagazineMagnumSubMachineGunHighVelocity: null
 MagazinePistolCaselessRifleHighVelocity: MagazinePistolCaselessRifle
-MagazinePistolHighCapacityHighVelocity: MagazinePistolHighCapacityFMJ
-MagazinePistolHighVelocity: MagazinePistolFMJ
-MagazinePistolSubMachineGunHighVelocity: MagazinePistolSubMachineGunSP
-MagazineRifleHighVelocity: MagazineRifleFMJ
-SpeedLoaderMagnumHighVelocity: SpeedLoaderMagnumFMJ
-SpeedLoaderPistolHighVelocity: SpeedLoaderPistol
+MagazinePistolHighCapacityHighVelocity: MagazinePistolHighCapacityFMJ # Sunrise-Edit
+MagazinePistolHighVelocity: MagazinePistolFMJ # Sunrise-Edit
+MagazinePistolSubMachineGunHighVelocity: MagazinePistolSubMachineGunSP # Sunrise-Edit
+MagazineRifleHighVelocity: MagazineRifleFMJ # Sunrise-Edit
+SpeedLoaderMagnumHighVelocity: SpeedLoaderMagnumFMJ # Sunrise-Edit
+SpeedLoaderPistolHighVelocity: null
 
 # 2023-08-07
 #If the name is anything to go off of, these are presumably just CEV-Eris versions of the snow rock (which we already have.)
@@ -88,7 +90,8 @@ GeneratorUranium: PortableGeneratorSuperPacman
 GeneratorPlasmaMachineCircuitboard: PortableGeneratorPacmanMachineCircuitboard
 GeneratorUraniumMachineCircuitboard: PortableGeneratorSuperPacmanMachineCircuitboard
 
-# 2023-12-10 //Sunrise edit
+# 2023-12-10
+# Sunrise-Edit
 # SpawnPointSeniorResearcher: null
 # SpawnPointSeniorOfficer: null
 # SpawnPointSeniorEngineer: null
@@ -156,6 +159,7 @@ TransmitterSubspaceStockPart: null
 ClothingHeadHatHoodRad: null
 
 # 2024-01-12
+# Sunrise-Edit
 #SpaceMedipen: null
 
 # 2024-01-18
@@ -293,28 +297,33 @@ BulletMagnumRubber: BulletMagnum
 BulletLightRifleRubber: BulletLightRifle
 BulletRifleRubber: BulletRifle
 BulletCaselessRifleRubber: BulletCaselessRifle
-CartridgePistolRubber: CartridgePistolFMJ
-CartridgeLightRifleRubber: CartridgeLightRifleSP
-CartridgeRifleRubber: CartridgeRifleSP
+CartridgePistolRubber: CartridgePistolFMJ # Sunrise-Edit
+CartridgeLightRifleRubber: CartridgeLightRifleSP # Sunrise-Edit
+CartridgeRifleRubber: CartridgeRifleSP # Sunrise-Edit
 CartridgeCaselessRifleRubber: CartridgeCaselessRifle
-# MagazinePistolRubber: MagazinePistol # Its me! Rubber!
-MagazinePistolSubMachineGunRubber: MagazinePistolSubMachineGunSP
+# Sunrise-Edit
+# MagazinePistolRubber: MagazinePistol
+MagazinePistolSubMachineGunRubber: MagazinePistolSubMachineGunSP # Sunrise-Edit
 MagazinePistolCaselessRifleRubber: MagazinePistolCaselessRifle
-# MagazineMagnumRubber: MagazineMagnum # Its me! Rubber!
+# Sunrise-Edit
+# MagazineMagnumRubber: MagazineMagnum
 MagazineMagnumSubMachineGunRubber: null
-MagazineLightRifleRubber: MagazineLightRifleSP
-MagazineRifleRubber: MagazineRifleSP
-MagazineCaselessRifleRubber: MagazineCaselessRifle
+MagazineLightRifleRubber: MagazineLightRifleSP # Sunrise-Edit
+MagazineRifleRubber: MagazineRifleSP # Sunrise-Edit
+MagazineCaselessRifleRubber: MagazinePistolCaselessRifle
 MagazineCaselessRifleShortRubber: null
-SpeedLoaderPistolRubber: SpeedLoaderPistol
-# SpeedLoaderMagnumRubber: SpeedLoaderMagnumSP # Its me! Rubber!
+SpeedLoaderPistolRubber: null
+# Sunrise-Edit
+# SpeedLoaderMagnumRubber: SpeedLoaderMagnumSP
 MagazineBoxPistolRubber: MagazineBoxPistolSP
 # RIP box of magnum rubbers 202X to 2024
+# Sunrise-Edit
 # MagazineBoxMagnumRubber: MagazineBoxMagnumSP
-MagazineBoxLightRifleRubber: MagazineBoxLightRifleSP
-MagazineBoxRifleRubber: MagazineBoxRifleSP
+MagazineBoxLightRifleRubber: MagazineBoxLightRifleSP # Sunrise-Edit
+MagazineBoxRifleRubber: MagazineBoxRifleSP # Sunrise-Edit
 MagazineBoxRifleBigRubber: MagazineBoxRifleBig
 MagazineBoxCaselessRifleRubber: MagazineBoxCaselessRifle
+# Sunrise-Edit
 #MagazineBoxCaselessRifleBigRubber: MagazineBoxCaselessRifle10x24
 # BoxMagazinePistolRubber: BoxMagazinePistol
 BoxMagazinePistolHighCapacityRubber: BoxMagazinePistolHighCapacity
@@ -326,6 +335,7 @@ BoxMagazineMagnumSubMachineGunRubber: null
 WeaponPistolMk58Nonlethal: WeaponPistolMk58
 WeaponPistolN1984Nonlethal: WeaponPistolN1984
 WeaponSubMachineGunDrozdRubber: WeaponSubMachineGunDrozd
+# Sunrise-Edit
 #WeaponRifleLecterRubber: WeaponRifleLecter
 
 # 2024-04-26
@@ -614,6 +624,7 @@ VariedXenoArtifactItem: ComplexXenoArtifactItem
 ClothingOuterHardsuitSyndicate: ClothingOuterEVASuitSyndicate
 
 # 2025-04-26
+# Sunrise-Edit
 #ComputerCargoShuttle: ComputerShuttleCargo
 CargoShuttleComputerCircuitboard: CargoShuttleConsoleCircuitboard
 
@@ -651,6 +662,11 @@ SpawnHonkBot: SpawnMobHonkBot
 # 2025-06-01
 CrateFoodPizzaLarge: CrateFoodPizza
 CrateFoodSoftdrinksLarge: CrateFoodSoftdrinks
+
+# 2025-06-03
+FloorTileItemGCircuit4: FloorTileItemGCircuit
+FloorTileItemBCircuit4: FloorTileItemBCircuit
+FloorTileItemRCircuit4: FloorTileItemRCircuit
 
 # 2025-06-06
 MagazineLightRifleMaxim: null
@@ -699,12 +715,59 @@ BarSignWhiskeyEchoesAlignTile: BarSignWhiskeyEchoes
 # 2025-06-21
 ClothingNeckHeadphones: ClothingMultipleHeadphones
 
+# 2025-07-17
+RipleyChassis: null
+HonkerChassis: null
+HamtrChassis: null
+VimChassis: null
+
 # 2025-08-01
 FoodDonutJellySlugcat: FoodDonutJellyScurret
 
 # 2025-08-11
 ClothingUniformJumpsuitChiefEngineerNT: ClothingUniformJumpsuitChiefEngineer
 ClothingUniformJumpsuitParamedicNT: ClothingUniformJumpsuitParamedic
+
+# 2025-08-29
+PrefilledSyringe: Syringe
+
+# 2025-10-6
+BibleTanakh: null
+BibleSatanic: null
+
+# 2025-10-08
+ClothingBeltAssault: ClothingBeltMilitaryWebbing
+WarpPointBombing: null
+
+# 2025-10-13
+ToyGriffin: ToyFigurineGriffin
+ToyOwlman: ToyFigurineOwlman
+ToySkeleton: ToyFigurineSkeleton
+
+# 2025-10-28
+DrinkKiraSpecial: DrinkOrangeLimeSodaGlass
+
+# 2025-11-08
+DebugSMES: SMESBasicEmpty
+DebugSubstation: SubstationBasicEmpty
+DebugSubstationWall: BaseSubstationWall
+DebugAPC: BaseAPC
+MagazineCaselessRifle: MagazinePistolCaselessRifle
+MagazineCaselessRiflePractice: MagazinePistolCaselessRiflePractice
+SpeedLoaderPistol: null
+SpeedLoaderPistolPractice: null
+
+# 2025-12-05
+GlowstickBase: GlowstickGreen
+
+# 2025-12-06
+SpawnPointZookeeper: null
+SpawnPointBoxer: null
+
+# 2025-12-07
+FigureSpawner: MechFigurineSpawner50
+ToySpawner: PlushieSpawner50
+SpacemenFigureSpawner: SpacemenFigurineSpawner90
 
 # Sunrise-Start
 # AirlockExternalGlassShuttleArrivals: AirlockExternalGlassShuttleArrivalsLocked # Fire edit
@@ -778,9 +841,7 @@ ScienceTechFabCircuitboard: null
 EngineeringTechFabCircuitboard: null
 MagazineDeagle: null
 MagazineMagnum: null
-#SpawnPointBlueShield: SpawnPointBlueShieldOfficer Fire
-SuitStorageBlueShield: null
-LockerBlueShieldOfficerFilled: null
+SpawnPointBlueShield: SpawnPointBlueShieldOfficer
 PoweredLightBlueInterior: null
 RandomItem: null
 TableWoodReinforced: null
@@ -803,13 +864,14 @@ BaseUplinkNTERT100BC: null
 BaseUplinkNTERT200BC: null
 SupermatterSliver: null
 CartridgePistol: null
-AtmosDeviceFanTiny: AtmosDeviceFanTinyDev
-AtmosDeviceFanDirectional: AtmosDeviceFanDirectionalDev
+AtmosDeviceFanTinyDev: AtmosDeviceFanTiny
+AtmosDeviceFanDirectionalDev: AtmosDeviceFanDirectional
 MagazineBR64Extended: null
 MagazineBR64: null
 MagazineAR18Extended: null
 MagazineAR18: null
 ClothingOuterHardsuitPilot: null
+ClothingOuterHardsuitPirateEVASun: ClothingOuterEVASuitPirate
 CrateArmoryMagazineBoxLightRifleBig: null
 CrateArmoryMagazineBoxRifleBig: null
 CrateArmoryM16A4: null
@@ -821,15 +883,50 @@ WeaponShotgunZauer: null
 HandheldCamera: null # Не надо маппить, оно есть в автоматах
 GrenadeBlast: GrenadeBlastTimer
 GrenadeEMP: GrenadeEMPTimer
-GrenadeFlash: GrenadeFlashTimer
-GrenadeFrag: GrenadeFragTimer
 WeaponEnergyGunMini: WeaponMiniEnergyGun
 GunSafeCombineSmallArms: SpawnerSafeSmallArms
+AphrodisiacChemistryBottle: null
+PatchViagra: null
+ClothingHandsGlovesBoxingRigged: GlovesBoxingRiggedRandomSpawner
+MagazinePPSH41: MagazinePistolSubMachineGunPPSHExtended
+MagazinePPSH41Extended: null
+WeaponSTG44: null
+MagazineSTG44: null
+WeaponSniperMosinNew: null
+WeaponIONRifle: WeaponIonRifle
+GunSafeBlueShield: null
+# Super Matter
+SupermatterFlatpack: SupermatterFlatpackAnchored
+SupermatterCrystal: SupermatterFlatpackAnchored
+WeaponRifleM28: WeaponRifleSKM28
+WeaponRifleAR18: null
+MagazineScarH: null
+WeaponRifleScarH: null
+MagazinePistolSubMachineGunSIAR52: MagazinePistolSubMachineGunCaselessExtended
+RandomHumanoidSpawnerERTEngineerGammaVeteran: RandomHumanoidSpawnerERTEngineerGamma
+RandomHumanoidSpawnerERTJanitorGammaVeteran: RandomHumanoidSpawnerERTJanitorGamma
+RandomHumanoidSpawnerERTSecurityGammaVeteran: RandomHumanoidSpawnerERTSecurityGamma
+RandomHumanoidSpawnerERTLeaderRedVeteran: RandomHumanoidSpawnerERTLeaderRed
+RandomHumanoidSpawnerERTMedicalGammaVeteran: RandomHumanoidSpawnerERTMedicalGamma
+RandomHumanoidSpawnerERTEngineerAmberVeteran: RandomHumanoidSpawnerERTEngineerAmber
+RandomHumanoidSpawnerERTLeaderAmberVeteran: RandomHumanoidSpawnerERTLeaderAmber
+RandomHumanoidSpawnerERTMedicalAmberVeteran: RandomHumanoidSpawnerERTMedicalAmber
+RandomHumanoidSpawnerERTSecurityAmberVeteran: RandomHumanoidSpawnerERTSecurityAmber
+RandomHumanoidSpawnerCBURNVeteran: RandomHumanoidSpawnerCBURNUnitEVA
+RandomHumanoidSpawnerERTLeaderGammaVeteran: RandomHumanoidSpawnerERTLeaderGamma
+VendingMachineMayson: null
+DrinkLukin: null
+DrinkFourteenLokoPlusCan: null
+MagazineAsh12: null
+ClothingHeadHelmetSpaceNinjaBiocode: null
+ClothingHandsGlovesSpaceNinjaBiocode: null
+ClothingOuterSuitSpaceNinjaBiocode: null
+EnergyKatanaBiocode: null
 # SL HITSCAN START
 BoxMagazineRifle: BoxMagazineRifleSP
 MagazineBoxLightRifle: MagazineBoxLightRifleSP
 MagazineBoxPistol: MagazineBoxPistolSP
-MagazineLightRifleBox: MagazineLightRifleBoxSP
+MagazineLightRifleBox: MagazineRifleBoxSP
 MagazineLightRifle: MagazineLightRifleSP
 MagazinePistolSubMachineGun: MagazinePistolSubMachineGunSP
 MagazineRifle: MagazineRifleSP
@@ -840,8 +937,28 @@ PrinterDoc: CopyMachineFilled
 PrinterDocFlatpack: CopyMachineFlatpack
 MagazineP90Extended: null
 CrateArmoryWeaponXM1014: null
+WeaponRifleV31: null
+MagazineV31: null
 WeaponEnergyGunMultiphase: WeaponMultiphaseGun
+ClothingBeltAssaultFilled: null
+MagazinePistolSubMachineGunCaseless: BaseMagazinePistolCaselessRifleExtended
+SyndicateCircuitBoard: SyndimovCircuitBoard
+# 2025-12-21
+ClothingNeckCMOCloak: ClothingNeckMedCloak
+
+HyposprayMedicalNoFilter: null
+HyposprayMedical: null
+HyposprayMedicalNoFilterBox: null
+GrenadeFlashTimer: null
+
+ImplantExtractorMachineCircuitboard: InterrogatorMachineCircuitboard
+
+# 2026-01-02
+EnergyDomeWiredTest: null
 # Sunrise-End
+
+# 2026-01-30
+MagazineDragunov: MagazineDragunovSP
 
 # Санрайз насрал опять
 MagazineBoxHeavyRifle: null
@@ -855,7 +972,6 @@ PosterPeremen: PosterChanges
 PosterGok: PosterGoc
 PosterSCP126: PosterSCP106
 
-GunSafeBlueShield: null
 LockerBlueShield: null
 LockerBlueshieldFilled: null
 LockerBlueshieldFilledUplink: null
@@ -1478,7 +1594,6 @@ SpawnPointChaplain: null
 SpawnPointLibrarian: null
 SpawnPointLawyer: null
 SpawnPointMusician: null
-SpawnPointBoxer: null
 SpawnPointBorg: null
 SpawnPointAtmos: null
 SpawnPointParamedic: null
@@ -1487,7 +1602,6 @@ SpawnPointWarden: null
 SpawnPointSecurityOfficer: null
 SpawnPointDetective: null
 SpawnPointReporter: null
-SpawnPointZookeeper: null
 SpawnPointERTJanitor: null
 SpawnPointERTSecurity: null
 SpawnPointERTMedical: null
@@ -1499,7 +1613,6 @@ SpawnPointMedicalPathologist: null
 SpawnPointMagistrat: null
 SpawnPointNtrep: null
 SpawnPointBrigmedic: null
-SpawnPointBlueShield: null
 SpawnPointBlueShieldOfficer: null
 SpawnPointSeniorOfficer: null
 SpawnPointBarber: null
@@ -1903,6 +2016,7 @@ ClosetMaintenance: ScpClosetMaintenance
 ClosetJanitor: ScpClosetJanitor
 ClosetChef: ScpClosetGastronomicSpecialist
 ClosetLegal: ScpClosetLegal
+ClosetPatologoanatom: ScpLockerMedicalService
 ClosetCursed: ScpClosetCursed
 LockerPrisoner: ScpLockerPrisoner
 LockerPrisoner2: ScpLockerPrisoner
@@ -1919,6 +2033,8 @@ WardrobeMedicalDoctor: ScpLockerMedicalService
 WardrobeSecurity: null # У нас два отряда СБ, им не подойдет единый шкаф. Новые нужно ставить вручную
 WardrobeCargo: ScpLockerLogisticsService
 WardrobeChemistry: ScpLockerMedicalService
+WardrobePrison: ScpClosetPrison
+WardrobeScience: ScpClosetScience
 
 # Заполненные шкафы с замком
 LockerCaptainFilled: ScpLockerDirectorFilled
@@ -1968,6 +2084,7 @@ ClosetL3ScienceFilled: ScpClosetL3Filled
 ClosetJanitorFilled: ScpClosetJanitorFilled
 ClosetChefFilled: ScpClosetGastronomicSpecialistFilled
 ClosetLegalFilled: ScpClosetLegalFilled
+ClosetPatologoanatomFilled: ScpLockerMedicalService
 
 # Шкафы с одеждой
 WardrobeEngineeringFilled: ScpLockerEngineeringTechnicalServiceFilledWardrobe
@@ -1975,6 +2092,8 @@ WardrobeMedicalDoctorFilled: ScpLockerMedicalServiceFilledWardrobe
 WardrobeSecurityFilled: null # У нас два отряда СБ, им не подойдет единый шкаф. Новые нужно ставить вручную
 WardrobeCargoFilled: ScpLockerLogisticsServiceFilledWardrobe
 WardrobeChemistryFilled: ScpLockerMedicalServiceFilledWardrobeLaboratory
+WardrobePrisonFilled: ScpClosetPrisonFilled
+WardrobeScienceFilled: ScpClosetScienceFilled
 
 # Лишние ванильные шкафы
 LockerFreezerVaultFilled: null
@@ -2217,15 +2336,15 @@ PosterMapMetaRight: null
 PosterLegitGrueSomeSanta: null
 
 # Игрушки, не вписывающиеся в атмосферу
-ToySpawner: ScpToySpawner
-FigureSpawner: ScpFigureSpawner
-SpacemenFigureSpawner: ScpSpacemenFigureSpawner
+PlushieSpawner50: ScpToySpawner
+MechFigurineSpawner50: ScpFigureSpawner
+SpacemenFigurineSpawner90: ScpSpacemenFigureSpawner
 
 ToyFigurineNukieElite: null
 ToyFigurineSalvage: null
 ToyFigurineSlime: null
-ToyOwlman: null
-ToySkeleton: null
+ToyFigurineOwlman: null
+ToyFigurineSkeleton: null
 ToyFigurineChaplain: null
 ToyFigurinePassenger: null
 ToyFigurineParamedic: null
@@ -2251,7 +2370,7 @@ ToyFigurineDeathsquad: null
 ToyFigurineNukie: null
 ToyFigurineFootsoldier: null
 ToyFigurineGreytider: null
-ToyGriffin: null
+ToyFigurineGriffin: null
 PlushieNuke: null
 PlushieRatvar: null
 PlushieVox: null

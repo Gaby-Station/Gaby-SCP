@@ -127,7 +127,7 @@
   id: LockerFillParamedic
   table: !type:AllSelector
     children:
-    - id: HandheldCrewMonitor # Sunrise-Edit
+    - id: HandheldEmergencyCrewMonitor # Sunrise-Edit
     - id: ClothingOuterHardsuitVoidParamed
     - id: ClothingOuterCoatParamedicWB
     - id: ClothingHeadHatParamedicsoft

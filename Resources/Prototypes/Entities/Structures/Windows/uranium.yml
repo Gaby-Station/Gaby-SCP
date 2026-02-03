@@ -1,7 +1,7 @@
 - type: entity
   id: UraniumWindow
   name: uranium window
-  parent: WindowRCDResistant
+  parent: [BaseDeltaPressurePlasma, WindowRCDResistant]
   categories: [ HideSpawnMenu ] # Fire added
   components:
   - type: Sprite
@@ -54,7 +54,7 @@
 
 - type: entity
   id: UraniumWindowDirectional
-  parent: WindowDirectionalRCDResistant
+  parent: [BaseDeltaPressurePlasmaQuarter, WindowDirectionalRCDResistant]
   name: directional uranium window
   description: Don't smudge up the glass down there.
   categories: [ HideSpawnMenu ] # Fire added

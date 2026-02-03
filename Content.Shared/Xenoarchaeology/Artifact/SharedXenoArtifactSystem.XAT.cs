@@ -4,6 +4,7 @@ using Content.Shared._Scp.Scp330;
 using Robust.Shared.Containers;
 using Content.Shared.Chemistry;
 using Content.Shared.Damage;
+using Content.Shared.Damage.Systems;
 using Content.Shared.Examine;
 using Content.Shared.Hands;
 using Content.Shared.Interaction;

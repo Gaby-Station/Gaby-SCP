@@ -22,9 +22,11 @@
     rules:
     - id: Thief
       prob: 0.5
-    - id: Vampire
-      prob: 0.3
+#    - id: Vampire
+#      prob: 0.3
     - id: SubWizard
+      prob: 0.05
+    - id: Xenoborgs
       prob: 0.05
 
 - type: entity
@@ -35,8 +37,30 @@
     rules:
     - id: Thief
       prob: 0.5
-    - id: Vampire
-      prob: 0.3
+#    - id: Vampire
+#      prob: 0.3
+    - id: Xenoborgs
+      prob: 0.05
+
+- type: entity
+  parent: BaseGameRule
+  id: SubGamemodesRuleNoXenoborg
+  components:
+  - type: SubGamemodes
+    rules:
+    - id: Thief
+      prob: 0.5
+    - id: SubWizard
+      prob: 0.05
+
+- type: entity
+  parent: BaseGameRule
+  id: SubGamemodesRuleNoWizardNoXenoborg
+  components:
+  - type: SubGamemodes
+    rules:
+    - id: Thief
+      prob: 0.5
 
 - type: entity
   parent: BaseGameRule
@@ -233,7 +257,7 @@
     selectionTime: IntraPlayerSpawn
     definitions:
     - prefRoles: [ Traitor ]
-      max: 8
+      max: 13 # Sunrise-Edit
       playerRatio: 10
       pickCommandStaff: true # Sunrise-Edit
       maxCommandStaff: 1 # Sunrise-Edit
@@ -281,7 +305,21 @@
       - type: ChangelingTransform
       - type: ActionGrant
         actions:
-        - ActionRetractableItemArmBlade # Temporary addition, will inevitably be a purchasable in the bio-store
+        - ActionChangelingStore
+      # TODO: Make it so the changeling gamerule changeling can inherit from the changeling store preset somehow
+      - type: Store
+        name: store-preset-name-changeling
+        categories:
+        - ChangelingAbilities
+        currencyWhitelist:
+        - ChangelingDNA
+        balance:
+          ChangelingDNA: 50
+      - type: UserInterface
+        interfaces:
+          enum.StoreUiKey.Key:
+            type: StoreBoundUserInterface
+            requireInputValidation: false
       mindRoles:
       - MindRoleChangeling
   - type: AntagObjectives
@@ -293,11 +331,11 @@
   parent: BaseGameRule
   components:
   - type: GameRule
-    minPlayers: 15
+    minPlayers: 45 # Sunrise-Edit
     # Sunrise-Start
     delay:
-      min: 900
-      max: 1200
+      min: 300
+      max: 600
     # Sunrise-End
   - type: RevolutionaryRule
   - type: AntagSelection
@@ -320,7 +358,7 @@
     # Sunrise-Start
     - prefRoles: [ Rev ]
       fallbackRoles: [ HeadRev ]
-      max: 30
+      max: 40 # Sunrise-Edit
       playerRatio: 3
       briefing:
         text: rev-role-greeting
@@ -330,6 +368,11 @@
       - type: Revolutionary
       mindRoles:
       - MindRoleRevolutionary
+  - type: SubGamemodes
+    rules:
+    - id: RevolutionarySmugglerStashSpawn
+      amount: 6
+      maxAmount: 15
     # Sunrise-End
   - type: DynamicRuleCost
     cost: 200
@@ -573,6 +616,7 @@
     - id: BasicTrashVariationPass
     - id: ScpSolidWallRustingVariationPass # Fire edit
     - id: ScpReinforcedWallRustingVariationPass # Fire edit
+    - id: CutWireVariationPass
     - id: BasicPuddleMessVariationPass
       prob: 0.99
       orGroup: puddleMess
@@ -585,7 +629,7 @@
     - id: SolarPanelEmptyVariationPass
     - id: BasicDecalDirtVariationPass
     - id: BasicDecalGraffitiVariationPass
-    - id: BasicDecalBrunsVariationPass
+    - id: BasicDecalBurnsVariationPass
       prob: 0.50
       orGroup: monospaceDecals
     - id: BasicDecalDirtMonospaceVariationPass

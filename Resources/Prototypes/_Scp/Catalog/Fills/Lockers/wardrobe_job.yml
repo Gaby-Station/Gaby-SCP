@@ -42,6 +42,26 @@
       entity_storage: !type:NestedSelector
         tableId: FillWardrobeCargo
 
+- type: entity
+  id: ScpClosetScienceFilled
+  parent: ScpClosetScience
+  suffix: Filled, Wardrobe
+  components:
+  - type: EntityTableContainerFill
+    containers:
+      entity_storage: !type:NestedSelector
+        tableId: FillWardrobeScience
+
+- type: entity
+  id: ScpClosetPrisonFilled
+  parent: ScpClosetPrison
+  suffix: Filled, Wardrobe
+  components:
+  - type: EntityTableContainerFill
+    containers:
+      entity_storage: !type:NestedSelector
+        tableId: FillWardrobePrison
+
 - type: entityTable
   id: ScpFillWardrobeSecurity
   table: !type:AllSelector

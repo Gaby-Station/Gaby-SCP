@@ -1,4 +1,4 @@
-﻿using Content.Shared._Scp.Helpers;
+﻿using Content.Shared._Sunrise.Random;
 using Robust.Shared.Audio.Systems;
 using Robust.Shared.Timing;
 
@@ -7,7 +7,7 @@ namespace Content.Shared._Scp.Other.EmitSoundRandomly;
 public sealed class EmitSoundRandomlySystem : EntitySystem
 {
     [Dependency] private readonly SharedAudioSystem _audio = default!;
-    [Dependency] private readonly PredictedRandomSystem _random = default!;
+    [Dependency] private readonly RandomPredictedSystem _random = default!;
     [Dependency] private readonly IGameTiming _timing = default!;
 
     public override void Initialize()

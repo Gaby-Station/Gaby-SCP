@@ -16,9 +16,10 @@
       effects:
       - !type:SatiateHunger
         factor: 0.5
-      - !type:ChemVomit
+      - !type:Vomit
         conditions:
-        - !type:ReagentThreshold
+        - !type:ReagentCondition
+          reagent: Scp330Vomit
           min: 1
 
 - type: reagent
@@ -34,7 +35,6 @@
     Medicine:
       effects:
       - !type:HealthChange
-        scaleByQuantity: true
         damage:
           groups:
             Brute: -2
@@ -55,7 +55,8 @@
       - !type:CalmDownEffect
         speedUpBy: 10
         conditions:
-        - !type:ReagentThreshold
+        - !type:ReagentCondition
+          reagent: Scp330CalmDown
           min: 1
 
 - type: reagent
@@ -79,8 +80,11 @@
       effects:
       - !type:SatiateHunger
         factor: 0.5
-      - !type:Paralyze
-        paralyzeTime: 20
+      - !type:ModifyStatusEffect
+        effectProto: StatusEffectFearStupor
+        time: 10
+        type: Add
         conditions:
-        - !type:ReagentThreshold
+        - !type:ReagentCondition
+          reagent: Scp330Paralysis
           min: 1

@@ -218,7 +218,7 @@
   - type: Battery
     maxCharge: 1500
     startingCharge: 1500
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: UltraXrayLaser
     fireCost: 750
   - type: Wieldable
@@ -266,7 +266,7 @@
   - type: Battery
     maxCharge: 1500
     startingCharge: 1500
-  - type: HitscanBatteryAmmoProvider
+  - type: BatteryAmmoProvider
     proto: UltraRedHeavyLaser
     fireCost: 300
   - type: Wieldable

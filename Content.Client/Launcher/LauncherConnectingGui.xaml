@@ -3,10 +3,9 @@
          xmlns:gfx="clr-namespace:Robust.Client.Graphics;assembly=Robust.Client"
          xmlns:parallax="clr-namespace:Content.Client.Parallax"
          xmlns:controls="clr-namespace:Content.Client.UserInterface.Controls"
-         xmlns:serversHub="clr-namespace:Content.Client._Sunrise.ServersHub"
-         xmlns:texture="clr-namespace:Content.Client._Sunrise.Texture">
+         xmlns:serversHub="clr-namespace:Content.Client._Sunrise.ServersHub">
 
-    <texture:RawAnimatedTexture Name="ConnectionAnimation" HorizontalExpand="True" VerticalExpand="True" Access="Public" />
+    <AnimatedTextureRect Name="ConnectionAnimation" HorizontalExpand="True" VerticalExpand="True" Access="Public" />
 
     <BoxContainer Orientation="Vertical"
                   HorizontalAlignment="Left"
