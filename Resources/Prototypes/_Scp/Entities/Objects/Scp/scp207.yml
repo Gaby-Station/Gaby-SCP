@@ -1,7 +1,7 @@
 ﻿- type: entity
   parent:
     - BaseItemScp
-    - DrinkBottleVisualsAll
+    - DrinkVisualsAllFilled
     - DrinkBottlePlasticBaseFull
   id: Scp207Bottle
   suffix: SCP-207
