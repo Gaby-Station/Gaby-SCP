@@ -10,7 +10,7 @@
   metabolisms:
     Narcotic:
       effects:
-      - !type:MovespeedModifier
+      - !type:MovementSpeedModifier
         walkSpeedModifier: 1.75
         sprintSpeedModifier: 1.75
       - !type:HealthChange
@@ -19,7 +19,7 @@
             Mangleness: 2
       - !type:HealthChange
         conditions:
-        - !type:ReagentThreshold
+        - !type:ReagentCondition
           min: 20
         damage:
           types:
@@ -36,7 +36,7 @@
         type: Remove
       - !type:ModifyStatusEffect
         conditions:
-        - !type:ReagentThreshold
+        - !type:ReagentCondition
           reagent: Haloperidol
           max: 0.01
         effectProto: StatusEffectDrowsiness
@@ -51,5 +51,5 @@
       effects:
       - !type:ResetNarcolepsy
         conditions:
-        - !type:ReagentThreshold
+        - !type:ReagentCondition
           min: 30
