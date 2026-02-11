@@ -46,16 +46,16 @@ vampire-power-thermalvision = Тепловое зрение
 vampire-power-thermalvision-description = Включите тепловое зрение, позволяющее видеть живых существ сквозь стены. Эта способность открывается, как только вы достигнете 500 эссенции крови.
 vampire-thermal-vision-on = Вы активируете тепловое зрение.
 vampire-thermal-vision-off = Вы деактивируете тепловое зрение.
-#Powers
+# Powers
 
-#Passives
+# Passives
 vampire-passive-unholystrength = Нечестивая сила
 vampire-passive-unholystrength-description = Наполните мышцы верхней части тела кровью, наделяя вас когтями и повышенной силой. Эффект: 10 порезов за удар
 vampire-passive-supernaturalstrength = Сверхъестественная сила
 vampire-passive-supernaturalstrength-description = Увеличьте силу мышц верхней части тела, и ни одна преграда не встанет на вашем пути. Эффект: 15 порезов за удар, возможность открывать двери руками.
 vampire-passive-deathsembrace = Объятия смерти
 vampire-passive-deathsembrace-description = Примите смерть, и она обойдет вас стороной. Эффект: исцеление в гробу, автоматическое возвращение в гроб после смерти за 100 эссенции крови.
-#Mutation menu
+# Mutation menu
 
 vampire-mutation-menu-ui-window-name = Меню мутаций
 vampire-mutation-none-info = Ничего не выбрано

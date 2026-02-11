@@ -34,9 +34,9 @@ ent-ActionDiseaseBlindness = Слепота
 ent-ActionDiseaseInsult = Судороги
     .desc = Длительная болезнь вызывает гиперстимуляцию двигательных нейронов, в результате чего больные могут испытывать перенапряжение мышц, приводящие к судорогам.
 
-#Sunrise-start
+# Sunrise-start
 ent-ActionDiseaseZombie = Зомбирование
     .desc = 70% текущих заражённых становятся зомби. Они также перестают быть заражёнными.
 ent-ActionDiseaseInfo = Информация о болезни
     .desc = Просмотр текущей статистики и прогресса болезни.
-#Sunrise-End
+# Sunrise-End

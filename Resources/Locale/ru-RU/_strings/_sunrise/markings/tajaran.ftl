@@ -1,4 +1,4 @@
-﻿marking-Belly1 = Живот
+marking-Belly1 = Живот
 marking-Belly1-belly1 = Живот
 marking-Belly2 = Живот 2
 marking-Belly2-belly2 = Живот

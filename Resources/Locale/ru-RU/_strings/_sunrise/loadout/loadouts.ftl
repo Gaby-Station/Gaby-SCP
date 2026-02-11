@@ -61,7 +61,7 @@ Mime-loadout = Снаряжение мима
 Musician-loadout = Снаряжение музыканта
 Passenger-loadout = Снаряжение пассажира
 ServiceWorker-loadout = Снаряжение сервисного работника
-#Silicons
+# Silicons
 StationAi-loadout = Название Станционного ИИ
 Borg-loadout = Название киборга
 ClownBorg-loadout = Название киборга

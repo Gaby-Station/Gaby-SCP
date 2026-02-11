@@ -75,7 +75,7 @@ food-sequence-content-spacemans-trumpet = космический духовой 
 food-sequence-content-cherry = вишня
 food-sequence-content-snail = улитка
 food-sequence-content-anomaly-berry = аномальная ягода
-#Burger
+# Burger
 food-sequence-burger-gen = { $content }бургер
 food-sequence-burger-suffix = бургер
 food-sequence-burger-content-meat = мясно

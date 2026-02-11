@@ -1,4 +1,4 @@
-﻿scp-announce-on-spawn-source-name = Автоматическая система оповещения
+scp-announce-on-spawn-source-name = Автоматическая система оповещения
 
 scp999-announce-on-spawn = Обнаружена активность в камере содержания объекта SCP-999
 scp049-announce-on-spawn = Обнаружена активность в камере содержания объекта SCP-049

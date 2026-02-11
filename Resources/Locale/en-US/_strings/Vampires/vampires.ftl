@@ -30,7 +30,7 @@ store-currency-display-blood-essence = Blood Essence
 store-category-vampirepowers = Powers
 store-category-vampirepassives = Passives
 
-#Powers
+# Powers
 vampire-power-summonheirloom = Summon Heirloom
 vampire-power-summonheirloom-description = Summon a family heirloom, gifted by lilith herself.
 

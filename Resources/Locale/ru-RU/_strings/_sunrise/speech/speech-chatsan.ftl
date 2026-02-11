@@ -1,4 +1,4 @@
-﻿russian-chatsan-word-1 = нанотразен
+russian-chatsan-word-1 = нанотразен
 russian-chatsan-replacement-1 = NanoTrasen
 russian-chatsan-word-2 = нанотрасен
 russian-chatsan-replacement-2 = NanoTrasen

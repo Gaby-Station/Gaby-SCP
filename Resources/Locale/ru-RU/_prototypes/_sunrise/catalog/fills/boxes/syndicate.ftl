@@ -1,4 +1,4 @@
-﻿ent-ExpCollarsKit = Коробка с взрывными ошейниками
+ent-ExpCollarsKit = Коробка с взрывными ошейниками
     .desc = Ужасающе
 ent-BaseSyndicateAmmoKit = Коробка с боеприпасами Синдиката
     .desc = { ent-BoxCardboard.desc }

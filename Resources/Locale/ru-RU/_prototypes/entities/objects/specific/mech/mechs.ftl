@@ -1,4 +1,4 @@
-﻿ent-CombatMech = { "" }
+ent-CombatMech = { "" }
     .desc = { "" }
 ent-IndustrialMech = { "" }
     .desc = { "" }

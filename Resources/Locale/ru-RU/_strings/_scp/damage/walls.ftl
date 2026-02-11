@@ -1,4 +1,4 @@
-﻿scp-wall-metal-damaged-1 = Стена выглядит целой.
+scp-wall-metal-damaged-1 = Стена выглядит целой.
 scp-wall-metal-damaged-2 = На металле заметны мелкие царапины.
 scp-wall-metal-damaged-3 = Видны вмятины и отдельные сколы покрытия.
 scp-wall-metal-damaged-4 = Металл ощутимо деформирован, можно заметить трещины в структуре.

@@ -1,4 +1,4 @@
-﻿ent-CrateSyndicateSurplusBundleNuke = ящик с избытками синдиката
+ent-CrateSyndicateSurplusBundleNuke = ящик с избытками синдиката
     .desc = Содержит случайные предметы на 50 телекристаллов. Может попасться как бесполезный хлам, так и невероятно ценная вещь.
     .suffix = Ядерный оперативник
 ent-CrateSyndicateSuperSurplusBundleNuke = ящик с супер-избытками синдиката
