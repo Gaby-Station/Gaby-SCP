@@ -1,22 +1,27 @@
-health-analyzer-window-no-patient-data-text  = Nenhuma informação do paciente disponível.
-health-analyzer-window-entity-unknown-text  = desconhecido
-health-analyzer-window-entity-unknown-species-text  = Não humanóide
-health-analyzer-window-entity-unknown-value-text  = ou
-health-analyzer-window-entity-alive-text  = Em caso de emergência, contacte imediatamente o seu médico. pessoal complexo.
-health-analyzer-window-entity-dead-text  = Morto
-health-analyzer-window-entity-critical-text  = Nível sanguíneo:
-health-analyzer-window-entity-temperature-text  = Temperatura:
-health-analyzer-window-entity-blood-level-text  = Fome:
-health-analyzer-window-entity-hunger-level-text  = Sede:
-health-analyzer-window-entity-thirst-level-text  = Danos gerais:
-health-analyzer-window-entity-status-text  = incluindo
-health-analyzer-window-entity-damage-total-text  = Danos gerais:
-health-analyzer-window-damage-group-text  = { $damageGroup }: { $amount }
-health-analyzer-window-damage-type-text  = { $damageType }: { $amount }
-health-analyzer-window-entity-unrevivable-text  = [color=red]Composição corporal única descoberta! O paciente não pode ser ressuscitado por meios convencionais![/color]
-health-analyzer-window-entity-bleeding-text  = O paciente está sangrando!
-health-analyzer-window-scan-mode-text  = Modo de digitalização:
-health-analyzer-window-scan-mode-active  = ATIVO
-health-analyzer-window-scan-mode-inactive  = INATIVO
-health-analyzer-window-malnutrition  = Desnutrição grave
-health-analyzer-popup-scan-target  = { CAPITALIZE($user) } está tentando escanear você!
+health-analyzer-window-no-patient-data-text = Não há dados do paciente.
+health-analyzer-window-entity-unknown-text = Desconhecido
+health-analyzer-window-entity-unknown-species-text = Não Humanóide
+health-analyzer-window-entity-unknown-value-text = N / D
+
+health-analyzer-window-entity-alive-text = Vivo
+health-analyzer-window-entity-dead-text = Morto
+health-analyzer-window-entity-critical-text = Crítico
+
+health-analyzer-window-entity-temperature-text = Temperatura:
+health-analyzer-window-entity-blood-level-text = Nível sanguíneo:
+health-analyzer-window-entity-hunger-level-text = Fome:
+health-analyzer-window-entity-thirst-level-text = Sede:
+health-analyzer-window-entity-status-text = Status:
+health-analyzer-window-entity-damage-total-text = Danos totais:
+
+health-analyzer-window-damage-group-text = {$damageGroup}: {$amount}
+health-analyzer-window-damage-type-text = {$damageType}: {$amount}
+
+health-analyzer-window-entity-unrevivable-text = [color=yellow]Composição corporal única detectada! O paciente não pode ser ressuscitado por meios normais![/color]
+health-analyzer-window-entity-bleeding-text = [color=red]Paciente tem feridas abertas![/color]
+
+health-analyzer-window-scan-mode-text = Modo de digitalização:
+health-analyzer-window-scan-mode-active = Ativo
+health-analyzer-window-scan-mode-inactive = Inativo
+
+health-analyzer-popup-scan-target = {CAPITALIZE(THE($user))} está tentando escanear você!

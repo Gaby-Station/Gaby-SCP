@@ -1,1 +1,1 @@
-power-switch-component-toggle-verb  = Trocar energia
+power-switch-component-toggle-verb = Alternar energia

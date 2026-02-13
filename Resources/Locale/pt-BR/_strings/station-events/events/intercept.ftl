@@ -1,1 +1,1 @@
-station-event-communication-interception  = Atenção! Transmissão inimiga interceptada. O nível de ameaça aumentou.
+﻿station-event-communication-interception = Atenção! Comunicação inimiga interceptada. Nível de segurança elevado.

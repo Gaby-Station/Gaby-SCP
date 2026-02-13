@@ -1,25 +1,26 @@
-xenoborgs-title  = Xenoborg
-xenoborgs-description  = Uma nave-mãe xenoborg foi avistada perto da estação. Pare-os antes que transformem todos os seres sencientes em xenoborgs.
+xenoborgs-title = Xenoborgs
+xenoborgs-description = Uma nave-mãe Xenoborg foi detectada perto da estação. Impeça-os de transformar todos os seres sencientes em xenoborgs.
 
-xenoborgs-welcome  = Você é um xenoborg. Proteja o núcleo da nave-mãe e ajude-a a criar novos xenoborgs. Seu objetivo final é converter todas as formas de vida baseadas em carbono em silício.
+xenoborgs-welcome = Você é um xenoborg. Proteja e ajude o núcleo da nave-mãe a criar mais xenoborgs. e eventualmente transformar todas as formas de vida baseadas em carbono em silício.
 
-mothership-welcome  = Descobrimos que os xenoborgs tomaram conta da estação. Estamos enviando um ônibus de evacuação para recolher os funcionários sobreviventes.
+mothership-welcome = Você é o núcleo da nave-mãe. Guie os xenoborgs para que eles possam trazer seus materiais e cérebros sencientes para que você possa aumentar o exército de xenoborgs e transformar todas as formas de vida baseadas em carbono em silício.
 
-xenoborg-shuttle-call  = Descobrimos que os xenoborgs tomaram conta da estação. Estamos enviando um ônibus de evacuação para recolher os funcionários sobreviventes.
+xenoborg-shuttle-call = Detectamos que os Xenoborgs ultrapassaram a estação. Enviando um ônibus de emergência para coletar o pessoal restante.
 
-xenoborgs-borgsmajor  = [color=deepskyblue]Vitória devastadora para os xenoborgs![/color]
-xenoborgs-borgsminor  = [color=deepskyblue]Pequena vitória para os xenoborgs![/color]
-xenoborgs-neutral  = [color=white]Desenhar![/color]
-xenoborgs-crewminor  = [color=yellow]Pequena vitória para a tripulação![/color]
-xenoborgs-crewmajor  = [color=yellow]Vitória esmagadora para a tripulação![/color]
+xenoborgs-borgsmajor = [color=deepskyblue]Grande vitória de Xenoborg![/color]
+xenoborgs-borgsminor = [color=deepskyblue]Vitória menor de Xenoborg![/color]
+xenoborgs-neutral = [color=white]Resultado neutro![/color]
+xenoborgs-crewminor = [color=yellow]Vitória menor da tripulação![/color]
+xenoborgs-crewmajor = [color=yellow]Grande vitória da tripulação![/color]
 
-xenoborgs-cond-all-xenoborgs-dead-core-alive  = Todos os xenoborgs foram destruídos. O núcleo da nave-mãe foi deixado à deriva no espaço.
-xenoborgs-cond-all-xenoborgs-dead-core-dead  = O núcleo da nave-mãe foi destruído e não restaram mais xenoborgs.
+xenoborgs-cond-all-xenoborgs-dead-core-alive = Todos os xenoborgs foram destruídos. O núcleo da nave-mãe permanece à deriva no espaço.
+xenoborgs-cond-all-xenoborgs-dead-core-dead = O núcleo da nave-mãe foi destruído e não sobrou nenhum xenoborg.
 
-xenoborg-number-xenoborg-alive-end  = Número de xenoborgs sobreviventes: {$count}
-xenoborg-number-crew-alive-end  = Número de tripulantes vivos: {$count}
+xenoborg-number-xenoborg-alive-end = Número de xenoborgs vivos: {$count}
+xenoborg-number-crew-alive-end = Número de tripulantes vivos: {$count}
 
-xenoborg-max-number  = População máxima de Xenoborg: {$count}
+xenoborg-max-number = O maior número de xenoborgs foi: {$count}
 
-xenoborgs-list-start  = Grupo original de xenoborgs:
-xenoborgs-list  = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
+xenoborgs-list-start = A equipe inicial do xenoborg foi:
+xenoborgs-list = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
+

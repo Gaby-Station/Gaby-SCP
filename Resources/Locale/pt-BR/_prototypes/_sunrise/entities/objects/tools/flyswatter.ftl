@@ -1,2 +1,2 @@
-ent-Flyswatter  = mata-moscas
-    .desc  = Voar no nariz? Não seja paciente. Para as mariposas, expresse diplomacia.
+ent-Flyswatter = mata-moscas
+    .desc = Voar no nariz? Não aguente isso. Para as mariposas: expresse diplomacia.

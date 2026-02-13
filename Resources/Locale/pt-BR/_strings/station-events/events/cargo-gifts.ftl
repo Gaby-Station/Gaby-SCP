@@ -1,21 +1,24 @@
-cargo-gifts-event-announcement  = Parabéns! { $sender } decidiu enviar { $description } { $dest } para o complexo. Tudo chegará na próxima remessa.
-cargo-gift-default-description  = conjunto de presente
-cargo-gift-default-sender  = Gestão regional
-cargo-gift-default-dest  = departamento de engenharia
-cargo-gift-dest-bar  = departamento de engenharia
-cargo-gift-dest-eng  = departamento de suprimentos
-cargo-gift-dest-supp  = departamento de suprimentos
-cargo-gift-dest-janitor  = departamento de serviço
-cargo-gift-dest-med  = departamento médico
-cargo-gift-dest-sec  = serviço de segurança
-cargo-gift-pizza-small  = pequeno conjunto de pizzas
-cargo-gift-pizza-large  = grande conjunto de pizzas
-cargo-gift-eng  = materiais de reparo
-cargo-gift-vending  = kits de recarga de máquinas de venda automática
-cargo-gift-cleaning  = equipamento de limpeza
-cargo-gift-medical-supply  = suprimentos médicos
-cargo-gift-space-protection  = equipamento de proteção espacial
-cargo-gift-fire-protection  = equipamento de proteção contra incêndio
-cargo-gift-security-guns  = arma letal
-cargo-gift-security-riot  = equipamento não letal
-cargo-gift-security-oldguns  = armas excedentes
+cargo-gifts-event-announcement = Parabéns! { $sender } decidiu enviar { $description } para a estação { $dest }. Procure-o em sua próxima remessa de carga.
+cargo-gift-default-description = Um pacote de presentes
+cargo-gift-default-sender = Administração Regional
+cargo-gift-default-dest = Departamento de Carga
+
+cargo-gift-dest-bar = bar
+cargo-gift-dest-eng = Departamento de Engenharia
+cargo-gift-dest-supp = Departamento de Carga
+cargo-gift-dest-janitor = Departamento de Serviço
+cargo-gift-dest-med = Departamento Médico
+cargo-gift-dest-sec = Departamento de Segurança
+
+cargo-gift-pizza-small = Uma pequena festa de pizza
+cargo-gift-pizza-large = Uma grande festa de pizza
+
+cargo-gift-eng = Materiais de reparo
+cargo-gift-vending = Recargas de máquinas de venda automática
+cargo-gift-cleaning = Equipamento de limpeza
+cargo-gift-medical-supply = Suprimentos médicos
+cargo-gift-space-protection = Proteção contra riscos espaciais
+cargo-gift-fire-protection = Proteção contra incêndio
+cargo-gift-security-guns = Armas letais
+cargo-gift-security-riot = Equipamento anti-motim
+cargo-gift-security-oldguns = Armas excedentes

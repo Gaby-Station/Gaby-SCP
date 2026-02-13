@@ -1,3 +1,3 @@
-node-container-component-on-examine-details-hvpower  = Equipado com um conector para cabo [color=orange]BB[/color].
-node-container-component-on-examine-details-mvpower  = Equipado com conector para cabo [color=yellow]CB[/color].
-node-container-component-on-examine-details-apc  = Equipado com um conector para cabo [color=green]NV[/color].
+node-container-component-on-examine-details-hvpower = Possui conector para [color=orange]cabos HV[/color].
+node-container-component-on-examine-details-mvpower = Possui conector para cabos [color=yellow]MV[/color].
+node-container-component-on-examine-details-apc = Possui conector para cabos [color=green]LV[/color].

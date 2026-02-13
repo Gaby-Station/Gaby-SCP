@@ -1,1 +1,1 @@
-spell-requirements-failed  = Os requisitos para lançar este feitiço não foram atendidos!
+﻿spell-requirements-failed = Faltam requisitos para lançar este feitiço!

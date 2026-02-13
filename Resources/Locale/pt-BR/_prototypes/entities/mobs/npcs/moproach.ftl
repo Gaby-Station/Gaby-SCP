@@ -1,2 +1,2 @@
-ent-MobMoproach  = moprouch
-    .desc  = Este pequeno moprow tem sapatos de esfregão nas patas! Que legal!
+ent-MobMoproach = moproach
+    .desc = Esta pequena mariposa tem sapatos nos pés! Que adorável!

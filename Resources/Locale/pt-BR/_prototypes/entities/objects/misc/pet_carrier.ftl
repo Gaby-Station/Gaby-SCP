@@ -1,2 +1,2 @@
-ent-PetCarrier  = Permite transportar confortavelmente animais de grande porte.
-    .desc  = Permite transportar confortavelmente animais de grande porte.
+ent-PetCarrier = transportador de animais de estimação
+    .desc = Permite transportar animais de grande porte com conforto. Cheira vagamente a água de toalete e explosivos.

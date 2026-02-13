@@ -1,3 +1,3 @@
-payload-case-not-close-enough  = Você precisa se aproximar para determinar se { $ent } contém uma carga.
-payload-case-has-payload  = { CAPITALIZE($ent) } está cobrado!
-payload-case-does-not-have-payload  = { CAPITALIZE($ent) } não contém cobrança.
+﻿payload-case-not-close-enough = Você precisa se aproximar para determinar se {THE($ent)} tem uma carga útil instalada.
+payload-case-has-payload = {CAPITALIZE(THE($ent))} tem uma carga útil instalada!
+payload-case-does-not-have-payload = {CAPITALIZE(THE($ent))} não possui uma carga útil instalada.

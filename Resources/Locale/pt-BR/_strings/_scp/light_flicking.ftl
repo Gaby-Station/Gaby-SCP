@@ -1,1 +1,1 @@
-malfunction-light-tip  = { $item } parece desgastado
+malfunction-light-tip = { $item } parece desgastado

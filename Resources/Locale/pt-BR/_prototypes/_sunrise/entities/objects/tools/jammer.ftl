@@ -1,6 +1,6 @@
-ent-RadioJammerSyndicate  = { ent-AppraisalTool }
-    .desc  = { ent-AppraisalTool.desc }
-ent-RadioJammerBorg  = bloqueador de rádio
-    .desc  = { ent-BaseItem.desc }
-ent-RadioJammerBox  = Quando ativado, este dispositivo interromperá qualquer comunicação de rádio de saída próxima, bem como os sensores do traje.
-    .desc  = Quando ativado, este dispositivo interromperá qualquer comunicação de rádio de saída próxima, bem como os sensores do traje.
+ent-RadioJammerSyndicate = { ent-AppraisalTool }
+    .desc = { ent-AppraisalTool.desc }
+ent-RadioJammerBorg = o bloqueador de comunicações do sabotador
+    .desc = { ent-BaseItem.desc }
+ent-RadioJammerBox = bloqueador de rádio
+    .desc = Este dispositivo interromperá qualquer comunicação de rádio de saída próxima, bem como se adequará aos sensores quando ativado.

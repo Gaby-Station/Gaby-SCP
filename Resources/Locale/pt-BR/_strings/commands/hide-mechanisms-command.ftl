@@ -1,2 +1,2 @@
-cmd-hidemechanisms-desc  = Cancela os efeitos do comando { $showMechanismsCommand }
-cmd-hidemechanisms-help  = Uso: { $command }
+cmd-hidemechanisms-desc = Reverte os efeitos do comando showmechanisms.
+cmd-hidemechanisms-help = Uso: mecanismos de ocultação

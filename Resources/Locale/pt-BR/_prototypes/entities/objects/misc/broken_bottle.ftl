@@ -1,2 +1,2 @@
-ent-BrokenBottle  = garrafa quebrada
-    .desc  = Em alguns planetas isso é chamado de “iniciar uma conversa”.
+ent-BrokenBottle = garrafa quebrada
+    .desc = No Space Glasgow, isso é chamado de início de conversa.

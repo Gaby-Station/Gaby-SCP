@@ -1,2 +1,2 @@
-emag-success  = O dispositivo está perfurando algo dentro de { THE($target) }.
-emag-no-charges  = Não sobrou nenhuma cobrança!
+emag-success = O dispositivo dispara algo em {THE($target)}.
+emag-no-charges = Não sobrou nenhuma cobrança!

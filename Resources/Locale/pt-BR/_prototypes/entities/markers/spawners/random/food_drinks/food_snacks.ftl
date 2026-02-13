@@ -1,2 +1,2 @@
-ent-RandomSnacks  = lanche casual spawner
-    .desc  = { ent-MarkerBase.desc }
+ent-RandomSnacks = gerador de lanche aleatório
+    .desc = { ent-MarkerBase.desc }

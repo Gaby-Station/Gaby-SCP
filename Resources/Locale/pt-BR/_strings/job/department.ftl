@@ -1,10 +1,12 @@
-department-Cargo  = Departamento de suprimentos
-department-Civilian  = Departamento de serviço
-department-Command  = torre de segurança
-department-CentralCommand  = Comando Central
-department-Engineering  = Departamento de engenharia
-department-Medical  = Departamento médico
-department-Security  = Serviço de segurança
-department-Science  = Sentado
-department-Silicon  = Silicone
-department-Specific  = Outro
+department-Cargo = Carga
+department-Civilian = Civil
+department-Command = Comando
+department-CentralCommand = Comando Central
+department-Engineering = Engenharia
+department-Medical = Médico
+department-Security = Segurança
+department-Science = Ciência
+department-Silicon = Silício
+department-Specific = Específico da estação
+
+department-Unknown = Desconhecido

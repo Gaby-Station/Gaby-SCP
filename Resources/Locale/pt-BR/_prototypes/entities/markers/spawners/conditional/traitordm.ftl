@@ -1,2 +1,2 @@
-ent-TraitorDMRedemptionMachineSpawner  = Gerador de máquina de troca de PDA
-    .desc  = { ent-MarkerBase.desc }
+ent-TraitorDMRedemptionMachineSpawner = Gerador de máquina de resgate de PDA
+    .desc = { ent-MarkerBase.desc }

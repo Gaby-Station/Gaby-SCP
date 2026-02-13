@@ -1,3 +1,2 @@
-ent-ClothingMaskScp939  = SCP-939
-    .suffix  = SCP-939
-    .desc  = Focinho especial para uma instância de SCP-939. Não permite que ela abra a boca para morder.
+ent-ClothingMaskScp939 = focinho do silêncio
+    .desc = Um focinho com restrições reforçadas que impede qualquer tentativa de SCP-939 de usar mandíbulas ou mimetismo vocal. Possui sistemas de montagem fracos, permitindo a possibilidade de quebra sob estresse físico.

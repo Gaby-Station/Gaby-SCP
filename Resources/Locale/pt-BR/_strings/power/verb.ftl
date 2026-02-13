@@ -1,2 +1,2 @@
 # debug verb for allowing devices to work without requiring power.
-verb-debug-toggle-need-power  = Trocar energia
+verb-debug-toggle-need-power = Alternar energia

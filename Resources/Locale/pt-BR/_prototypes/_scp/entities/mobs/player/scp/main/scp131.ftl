@@ -1,2 +1,2 @@
-ent-Scp131A  = None
-ent-Scp131B  = None
+ent-Scp131A = ???
+ent-Scp131B = ???

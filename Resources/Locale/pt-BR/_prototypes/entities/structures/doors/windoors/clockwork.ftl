@@ -1,2 +1,2 @@
-ent-BaseClockworkWindoor  = janela deslizante
-    .desc  = { ent-BaseWindoor.desc }
+ent-BaseClockworkWindoor = janela mecânica
+    .desc = { ent-BaseWindoor.desc }

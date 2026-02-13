@@ -1,20 +1,20 @@
-ent-PortableGeneratorBase  = { ent-ConstructibleMachine }
-    .desc  = { ent-ConstructibleMachine.desc }
-ent-PortableGeneratorSwitchableBase  = { ent-PortableGeneratorBase }
-    .desc  = { ent-PortableGeneratorBase.desc }
-ent-PortableGeneratorPacman  = Plasma, 30 kW
+ent-PortableGeneratorBase = { ent-BaseMachine }
+    .desc = { ent-BaseMachine.desc }
+ent-PortableGeneratorSwitchableBase = { ent-PortableGeneratorBase }
+    .desc = { ent-PortableGeneratorBase.desc }
+ent-PortableGeneratorPacman = Gerador portátil tipo P.A.C.M.A.N.
     .desc =
-        Гибкий резервный генератор для обеспечения питанием различного оборудования.
-        Работает на листах твёрдой плазмы и может выдавать мощность до 30 кВт.
-    .suffix  = gerador portátil S.U.P.E.R.P.A.K.M.A.N.
-ent-PortableGeneratorSuperPacman  = gerador portátil S.U.P.E.R.P.A.K.M.A.N.
+        A flexible backup generator for powering a variety of equipment.
+        Runs off solid plasma sheets and is rated for up to 30 kW.
+    .suffix = Plasma, 30 kW
+ent-PortableGeneratorSuperPacman = Gerador portátil tipo S.U.P.E.R.P.A.C.M.A.N.
     .desc =
-        Продвинутый генератор для обеспечения питанием целых отделов.
-        Работает на листах урана и может выдавать мощность до 50 кВт.
-    .suffix  = Urânio, 50 kW
-ent-PortableGeneratorJrPacman  = gerador portátil M.I.N.I.P.A.K.M.A.N.
+        An advanced generator for powering departments.
+        Runs off uranium sheets and is rated for up to 50 kW.
+    .suffix = Urânio, 50 kW
+ent-PortableGeneratorJrPacman = Gerador portátil tipo J.R.P.A.C.M.A.N.
     .desc =
-        Небольшой генератор, способный обеспечивать электропитанием отдельные помещения при возникновении аварийных ситуаций.
-        Работает на сварочном топливе и может выдавать мощность до 8 кВт.
-        Для сотрудников от 3 лет и старше.
-    .suffix  = Combustível de soldagem, 8 kW
+        A small generator capable of powering individual rooms, in case of emergencies.
+        Runs off welding fuel and is rated for up to 8 kW.
+        Rated ages 3 and up.
+    .suffix = Combustível de Soldagem, 8 kW

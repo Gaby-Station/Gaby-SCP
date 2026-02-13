@@ -1,2 +1,2 @@
-ent-ActionToggleKnuckleDustersStun  = Inclui um bastão embutido nas soqueiras.
-    .desc  = Inclui um bastão embutido nas soqueiras.
+ent-ActionToggleKnuckleDustersStun = Alternar espanadores atordoantes
+    .desc = Alterna o bastão de choque embutido no espanador.

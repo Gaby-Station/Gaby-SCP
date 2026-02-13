@@ -1,2 +1,2 @@
-ent-clientsideclone  = cópia do cliente
-    .desc  = { "" }
+ent-clientsideclone = clone do lado do cliente
+    .desc = { "" }

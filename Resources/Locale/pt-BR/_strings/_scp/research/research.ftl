@@ -1,2 +1,2 @@
-research-point-default  = Básico
-research-point-scp  = SCP
+research-point-default = Básico
+research-point-scp = SCP

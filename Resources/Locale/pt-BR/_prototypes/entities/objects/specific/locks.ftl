@@ -1,2 +1,2 @@
-ent-VoiceLock  = { "" }
-    .desc  = { "" }
+ent-VoiceLock = { "" }
+    .desc = { "" }

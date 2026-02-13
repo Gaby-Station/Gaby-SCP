@@ -1,2 +1,2 @@
-ent-beam_blooddrain  = Beba sangue
-    .desc  = { "" }
+ent-beam_blooddrain = Drenagem de Sangue
+    .desc = { "" }

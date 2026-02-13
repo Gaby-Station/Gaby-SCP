@@ -1,2 +1,2 @@
-rattle-on-trigger-dead-message  = {$user} morreu {$position}.
-rattle-on-trigger-critical-message  = {$user} apresenta sinais vitais críticos e requer assistência imediata de {$position}.
+rattle-on-trigger-dead-message = {$user} morreu {$position}.
+rattle-on-trigger-critical-message = {$user} sinais de vida críticos, assistência imediata necessária {$position}.

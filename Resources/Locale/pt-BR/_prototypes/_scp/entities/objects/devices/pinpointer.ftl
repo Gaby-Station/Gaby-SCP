@@ -1,3 +1,3 @@
-ent-PinpointerStationAlt  = { ent-PinpointerStation }
-    .desc  = { ent-PinpointerStation.desc }
-    .suffix  = SCP
+ent-PinpointerStationAlt = { ent-PinpointerStation }
+    .desc = { ent-PinpointerStation.desc }
+    .suffix = SCP

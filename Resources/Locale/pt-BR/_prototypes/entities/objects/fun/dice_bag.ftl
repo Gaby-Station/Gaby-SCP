@@ -1,4 +1,4 @@
-ent-DiceBag  = Contém toda a sorte que você possa precisar.
-    .desc  = Contém toda a sorte que você possa precisar.
-ent-MagicDiceBag  = saco de ossos
-    .desc  = { ent-DiceBag.desc }
+ent-DiceBag = saco de dados
+    .desc = Contém toda a sorte que você precisa.
+ent-MagicDiceBag = saco de dados
+    .desc = { ent-DiceBag.desc }

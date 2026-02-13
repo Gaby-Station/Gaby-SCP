@@ -1,4 +1,4 @@
-ent-ThrusterSyndicate  = { ent-BaseThruster }
-    .desc  = { ent-BaseThruster.desc }
-ent-ThrusterSyndicateMachineCircuitboard  = Placa do motor do sindicato
-    .desc  = { ent-BaseMachineCircuitboard.desc }
+ent-ThrusterSyndicate = { ent-BaseThruster }
+    .desc = { ent-BaseThruster.desc }
+ent-ThrusterSyndicateMachineCircuitboard = placa da máquina syndie do propulsor
+    .desc = { ent-BaseMachineCircuitboard.desc }

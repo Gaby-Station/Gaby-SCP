@@ -1,6 +1,6 @@
-ent-BaseHandheldInstrument  = { ent-BaseItem }
-    .desc  = ferramenta padrão
-ent-BasePlaceableInstrument  = ferramenta padrão
-    .desc  = { ent-BaseStructureDynamic.desc }
-ent-BasePlaceableInstrumentRotatable  = ferramenta de rolagem padrão
-    .desc  = { ent-BasePlaceableInstrument.desc }
+ent-BaseHandheldInstrument = { ent-BaseItem }
+    .desc = Isso é um instrumento.
+ent-BasePlaceableInstrument = instrumento base
+    .desc = { ent-BaseStructureDynamic.desc }
+ent-BasePlaceableInstrumentRotatable = de basepara instrumentorotativo
+    .desc = { ent-BasePlaceableInstrument.desc }

@@ -1,2 +1,2 @@
-ent-BulletAntiMaterial  = bala (anti-material de 15mm)
-    .desc  = { ent-BaseBulletHighVelocity.desc }
+ent-BulletAntiMaterial = bala (anti-material de 15 mm)
+    .desc = { ent-BaseBulletHighVelocity.desc }

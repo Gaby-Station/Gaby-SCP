@@ -1,6 +1,6 @@
-ent-RandomVending  = máquina de venda aleatória spawner
-    .desc  = { ent-MarkerBase.desc }
-    .suffix  = máquina de venda automática de roupas aleatórias spawner
-ent-RandomVendingClothing  = máquina de venda automática de roupas aleatórias spawner
-    .suffix  = Casual, Roupas
-    .desc  = { ent-MarkerBase.desc }
+ent-RandomVending = gerador de máquina de venda aleatória
+    .suffix = Qualquer
+    .desc = { ent-MarkerBase.desc }
+ent-RandomVendingClothing = gerador de máquina de venda aleatória
+    .suffix = Roupas
+    .desc = { ent-MarkerBase.desc }

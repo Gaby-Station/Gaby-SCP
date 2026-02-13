@@ -1,2 +1,2 @@
-spawner-on-trigger-suffix  = Acionado, descartável
-spawner-squad-name  = gerador de esquadrão
+spawner-on-trigger-suffix = No gatilho, uso único
+spawner-squad-name = Gerador de Esquadrão

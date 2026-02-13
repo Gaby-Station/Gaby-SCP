@@ -1,1 +1,1 @@
-scoopable-component-popup  = Você coleta { $scooped } com { $beaker }.
+scoopable-component-popup = Você coloca {$scooped} em {THE($beaker)}.

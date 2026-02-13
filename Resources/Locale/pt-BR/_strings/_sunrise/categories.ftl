@@ -1,2 +1,2 @@
-categories-surgeries  = operações
-categories-surgery-steps  = etapas da operação
+categories-surgeries = cirurgias
+categories-surgery-steps = etapas da cirurgia

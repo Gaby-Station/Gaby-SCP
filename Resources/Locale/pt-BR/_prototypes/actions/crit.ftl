@@ -1,8 +1,8 @@
-ent-BaseCritAction  = { ent-BaseMentalAction }
-    .desc  = { ent-BaseMentalAction.desc }
-ent-ActionCritSuccumb  = Resigne-se ao destino.
-    .desc  = Resigne-se ao destino.
-ent-ActionCritFakeDeath  = Finja-se de morto
-    .desc  = Finja que você está dando seu último suspiro enquanto permanece vivo.
-ent-ActionCritLastWords  = Diga as últimas palavras
-    .desc  = Sussurre suas últimas palavras para todos que estiverem por perto e depois entregue-se à misericórdia do destino. Você só tem 30 caracteres disponíveis.
+ent-BaseCritAction = { ent-BaseMentalAction }
+    .desc = { ent-BaseMentalAction.desc }
+ent-ActionCritSuccumb = Sucumbir
+    .desc = Aceite seu destino.
+ent-ActionCritFakeDeath = Morte Falsa
+    .desc = Finja que está respirando pela última vez enquanto permanece vivo.
+ent-ActionCritLastWords = Diga as últimas palavras
+    .desc = Sussurre suas últimas palavras para qualquer pessoa próxima e então sucumba ao seu destino. Você só tem 30 caracteres para trabalhar.

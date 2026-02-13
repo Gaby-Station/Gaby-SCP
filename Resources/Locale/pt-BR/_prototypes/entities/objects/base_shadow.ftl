@@ -1,2 +1,2 @@
-ent-BaseShadow  = { "" }
-    .desc  = { "" }
+ent-BaseShadow = { "" }
+    .desc = { "" }

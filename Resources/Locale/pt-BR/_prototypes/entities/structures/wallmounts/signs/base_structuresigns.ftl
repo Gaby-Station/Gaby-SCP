@@ -1,2 +1,2 @@
-ent-BaseSign  = sinal padrão
-    .desc  = { "" }
+ent-BaseSign = sinal básico
+    .desc = { "" }

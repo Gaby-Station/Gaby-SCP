@@ -1,4 +1,4 @@
-ent-CrowbarMakeshift  = pé de cabra caseiro
-    .desc  = Dificilmente melhor do que nada. No entanto, com uma máquina de solda você pode fazer algo melhor com ela.
-ent-CrowbarImprovised  = pé de cabra improvisado
-    .desc  = Várias peças de metal, soldadas e afiadas nas bordas. Não é a melhor ferramenta, mas serve.
+ent-CrowbarMakeshift = pé de cabra improvisado
+    .desc = Pouco melhor do que nada. Poderia ser transformado em algo maior com um soldador, no entanto.
+ent-CrowbarImprovised = pé de cabra improvisado
+    .desc = Algumas peças de metal soldadas e afiadas nas bordas. Não é a melhor ferramenta, mas serve.

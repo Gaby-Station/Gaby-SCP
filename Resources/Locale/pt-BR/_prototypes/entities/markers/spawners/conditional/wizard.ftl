@@ -1,2 +1,2 @@
-ent-SpawnPointWizard  = Mago
-    .desc  = { ent-MarkerBase.desc }
+ent-SpawnPointWizard = mago
+    .desc = { ent-MarkerBase.desc }

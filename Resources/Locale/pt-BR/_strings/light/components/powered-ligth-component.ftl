@@ -1,1 +1,1 @@
-powered-light-component-burn-hand  = Você queima sua mão!
+powered-light-component-burn-hand = Você queima sua mão!

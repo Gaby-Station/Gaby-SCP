@@ -1,2 +1,2 @@
-chatsan-claps  = palmas
-chatsan-snaps  = cliques
+chatsan-claps = palmas
+chatsan-snaps = snaps

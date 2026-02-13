@@ -1,2 +1,2 @@
-ent-ActionAddWanted  = Define o status desejado do alvo.
-    .desc  = Define o status desejado do alvo.
+ent-ActionAddWanted = Envie um procurado
+    .desc = Coloca o alvo na lista de procurados.

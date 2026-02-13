@@ -1,4 +1,4 @@
-ent-EffectTeleportation  = teletransporte
-    .desc  = { "" }
-ent-EffectTeleportationEntity  = teletransporte
-    .desc  = { "" }
+ent-EffectTeleportation = teletransporte
+    .desc = { "" }
+ent-EffectTeleportationEntity = teletransporte
+    .desc = { "" }

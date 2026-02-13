@@ -1,2 +1,2 @@
-ent-DoubleBed  = Para quem o conforto é o mais importante! É tão confortável que relaxa e cura suas feridas!
-    .desc  = Para quem o conforto é o mais importante! É tão confortável que relaxa e cura suas feridas!
+ent-DoubleBed = cama de casal
+    .desc = Isso é usado para deitar, dormir ou amarrar. Descansar aqui proporciona uma cura extremamente lenta.

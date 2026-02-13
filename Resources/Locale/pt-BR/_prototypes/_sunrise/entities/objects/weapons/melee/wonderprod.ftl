@@ -1,2 +1,2 @@
-ent-Wonderprod  = sonda milagrosa
-    .desc  = Ferramenta agente abdutor universal.
+ent-Wonderprod = maravilhoso
+    .desc = Ferramenta universal do agente sequestrador.

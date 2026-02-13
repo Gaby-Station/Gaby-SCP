@@ -1,5 +1,7 @@
-chat-window-title  = Bater papo
-cmd-chatwindow-desc  = Uso: janela de bate-papo
-cmd-chatwindow-help  = Janela de bate-papo do administrador
-cmd-achatwindow-desc  = Janela de bate-papo do administrador
-cmd-achatwindow-help  = Uso: achatwindow
+chat-window-title = Bater papo
+
+cmd-chatwindow-desc = Janela de bate-papo adicional
+cmd-chatwindow-help = Uso: janela de bate-papo
+
+cmd-achatwindow-desc = Janela de bate-papo do administrador
+cmd-achatwindow-help = Uso: achatwindow

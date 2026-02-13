@@ -1,2 +1,2 @@
-humanoid-appearance-component-unknown-species  = humanoide
-humanoid-appearance-component-examine  = { CAPITALIZE(SUBJECT($user)) } { $species } { $age }.
+humanoid-appearance-component-unknown-species = Pessoa
+humanoid-appearance-component-examine = { CAPITALIZE(SUBJECT($user)) } { CONJUGATE-BE($user) } { INDEFINITE($age) } { $age } { $species }.

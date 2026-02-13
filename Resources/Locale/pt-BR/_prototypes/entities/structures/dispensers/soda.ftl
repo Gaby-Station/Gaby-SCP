@@ -1,6 +1,6 @@
-ent-SodaDispenserEmpty  = { ent-SodaDispenser }
-    .suffix  = Vazio
-    .desc  = { ent-SodaDispenser.desc }
-ent-SodaDispenser  = Uma máquina dispensadora com uma variedade de refrigerantes e uma série de outras bebidas populares. Possui um slot para contêineres.
-    .desc  = Uma máquina dispensadora com uma variedade de refrigerantes e uma série de outras bebidas populares. Possui um slot para contêineres.
-    .suffix  = Preenchido
+ent-SodaDispenserEmpty = { ent-SodaDispenser }
+    .suffix = Vazio
+    .desc = { ent-SodaDispenser.desc }
+ent-SodaDispenser = dispensador de refrigerante
+    .desc = Um dispensador de bebidas com uma seleção de refrigerantes e diversas outras bebidas comuns. Possui um único slot de preenchimento para contêineres.
+    .suffix = Preenchido

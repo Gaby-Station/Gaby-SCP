@@ -1,3 +1,3 @@
-ent-MobReptilian  = Urist MakHénds Unath
-    .desc  = { ent-BaseMobReptilian.desc }
-    .suffix  = Urisst'MssHands
+ent-MobReptilian = Urist McScales
+    .suffix = Urisst'Mzhand
+    .desc = { ent-BaseMobReptilian.desc }

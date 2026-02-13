@@ -1,2 +1,2 @@
-ent-LoadoutDummyCandles  = três velas
-    .desc  = Um conjunto de três velas multicoloridas para rituais secretos!
+ent-LoadoutDummyCandles = três velas
+    .desc = Um conjunto de três velas coloridas para rituais secretos!

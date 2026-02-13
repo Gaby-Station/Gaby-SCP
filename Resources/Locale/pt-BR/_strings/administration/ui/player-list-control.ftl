@@ -1,1 +1,1 @@
-player-list-filter  = Procurar
+player-list-filter = Filtro

@@ -1,8 +1,8 @@
-ent-ClothingOuterArmorMakeshift  = colete caseiro
-    .desc  = Pode parar uma bala. Talvez.
-ent-ClothingOuterArmorImprovised  = colete improvisado
-    .desc  = As placas de metal coladas fornecem proteção decente contra ataques de facada, mas não muito mais.
-ent-ClothingOuterArmorForged  = colete forjado
-    .desc  = Produto de forjamento de maré de alta qualidade; forro de couro adicional e a substituição do aço por plasteel tornam esta armadura leve e eficaz.
-ent-ClothingOuterArmorPaladin  = traje de paladino
-    .desc  = Torne-se o Paladino que você deseja ser! Balance suas espadas em tecnologia contra o oficial de segurança assustado! Lute contra MONSTROS que definitivamente não são criaturas de ventilação! Seja atingido por lasers e morra! Espere um minuto?
+ent-ClothingOuterArmorMakeshift = colete improvisado
+    .desc = Pode pegar uma bala. Poder.
+ent-ClothingOuterArmorImprovised = colete improvisado
+    .desc = Placas de metal interligadas garantem que você esteja bem protegido contra facadas, mas não muito mais.
+ent-ClothingOuterArmorForged = colete forjado
+    .desc = Um produto de forjamento de marés de alta qualidade, o acolchoamento adicional de couro e a troca por plasteel em vez de aço garantem que a armadura seja leve e eficaz.
+ent-ClothingOuterArmorPaladin = traje de paladino
+    .desc = Seja o paladino que você deseja ser! Balance espadas em direção ao oficial de segurança aterrorizado! Lute contra MONSTROS que não são criaturas totalmente desabafadas! Seja atingido por lasers e morra! Espere o que?

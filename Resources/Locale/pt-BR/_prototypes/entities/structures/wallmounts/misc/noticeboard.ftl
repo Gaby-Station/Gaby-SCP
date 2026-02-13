@@ -1,2 +1,2 @@
-ent-NoticeBoard  = Existe trabalho para um bruxo?
-    .desc  = Existe trabalho para um bruxo?
+ent-NoticeBoard = quadro de avisos
+    .desc = Existe trabalho para um bruxo?

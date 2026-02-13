@@ -1,3 +1,3 @@
-ent-SmokingPipeFilledCannabisVita  = tubo
-    .desc  = Assim como o vovô fumava.
-    .suffix  = Vita
+ent-SmokingPipeFilledCannabisVita = cano
+    .desc = Assim como o vovô costumava fumar.
+    .suffix = Vita

@@ -1,2 +1,2 @@
-ent-StorageCanisterBase  = { ent-StorageCanister }
-    .desc  = { ent-StorageCanister.desc }
+ent-StorageCanisterBase = { ent-StorageCanister }
+    .desc = { ent-StorageCanister.desc }

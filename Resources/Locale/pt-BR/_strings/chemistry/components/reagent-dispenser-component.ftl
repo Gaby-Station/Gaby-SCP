@@ -1,19 +1,19 @@
 ## Entity
 
-reagent-dispenser-component-activate-no-hands  = Você não tem mãos.
-reagent-dispenser-component-cannot-put-entity-message  = Distribuidor químico
+reagent-dispenser-component-activate-no-hands = Você não tem mãos.
+reagent-dispenser-component-cannot-put-entity-message = Você não pode colocar isso no dispensador!
 
 ## Bound UI
 
-reagent-dispenser-bound-user-interface-title  = Distribuidor químico
+reagent-dispenser-bound-user-interface-title = Dispensador de reagentes
 
 ## UI
 
-reagent-dispenser-window-amount-to-dispense-label  = Quantidade
-reagent-dispenser-window-clear-button  = Claro
-reagent-dispenser-window-eject-button  = Inserir
-reagent-dispenser-window-eject-container-button  = __PH0__unidades
-reagent-dispenser-window-no-container-loaded-text  = Tampão
-reagent-dispenser-window-reagent-name-not-found-text  = __PH0__unidades
-reagent-dispenser-window-unknown-reagent-text  = Reagente desconhecido
-reagent-dispenser-window-quantity-label-text  = { $quantity }unidades
+reagent-dispenser-window-amount-to-dispense-label = Quantia
+reagent-dispenser-window-clear-button = Claro
+reagent-dispenser-window-eject-button = Ejetar
+reagent-dispenser-window-eject-container-button = ⏏
+reagent-dispenser-window-no-container-loaded-text = Nenhum contêiner carregado.
+reagent-dispenser-window-reagent-name-not-found-text = Nome do reagente não encontrado
+reagent-dispenser-window-unknown-reagent-text = Reagente desconhecido
+reagent-dispenser-window-quantity-label-text = {$quantity}você

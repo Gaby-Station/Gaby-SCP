@@ -1,6 +1,6 @@
-ent-ChemDispenserEmpty  = { ent-ChemDispenser }
-    .suffix  = Vazio
-    .desc  = { ent-ChemDispenser.desc }
-ent-ChemDispenser  = Dispensador de produtos químicos de nível industrial com grande suprimento de reagentes.
-    .desc  = Dispensador de produtos químicos de nível industrial com grande suprimento de reagentes.
-    .suffix  = Preenchido
+ent-ChemDispenserEmpty = dispensador de produtos químicos
+    .suffix = Vazio
+    .desc = { ent-ChemDispenser.desc }
+ent-ChemDispenser = dispensador de produtos químicos
+    .desc = Um dispensador de produtos químicos de nível industrial.
+    .suffix = Preenchido

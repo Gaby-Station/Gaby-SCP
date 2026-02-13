@@ -1,4 +1,4 @@
-ent-Boombox  = caixa de som
-    .desc  = Caixa de som sindicalizada
-ent-BoomboxSyndie  = Caixa de som sindicalizada
-    .desc  = Mate com um estilete.
+ent-Boombox = caixa de som
+    .desc = Esteja no estilo.
+ent-BoomboxSyndie = caixa de som sindie
+    .desc = Mate com estilo.

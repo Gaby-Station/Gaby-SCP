@@ -1,2 +1,3 @@
-ent-Scp2398  = Taco de beisebol durável.
-    .desc  = Um taco de beisebol aparentemente comum marcado com "K.O." na alça.
+ent-Scp2398 = { ent-BaseBallBat }
+    .suffix = SCP-2398
+    .desc = { ent-BaseBallBat.desc }

@@ -1,2 +1,2 @@
-ent-BaseGunWieldable  = { "" }
-    .desc  = { "" }
+ent-BaseGunWieldable = { "" }
+    .desc = { "" }

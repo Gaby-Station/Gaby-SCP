@@ -1,4 +1,4 @@
-ent-BaseShadowMob  = { ent-BaseShadow }
-    .desc  = { ent-BaseShadow.desc }
-ent-MobCatShadow  = Um maravilhoso pedaço de escuridão. Esperamos que ele não traga uma maldição sobre você.
-    .desc  = Um maravilhoso pedaço de escuridão. Esperamos que ele não traga uma maldição sobre você.
+ent-BaseShadowMob = { ent-BaseMob }
+    .desc = { ent-BaseMob.desc }
+ent-MobCatShadow = gato das sombras
+    .desc = Um lindo pedaço de escuridão. Espero que ele não lhe traga uma maldição.

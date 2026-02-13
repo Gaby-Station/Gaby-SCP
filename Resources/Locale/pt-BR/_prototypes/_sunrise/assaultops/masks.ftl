@@ -1,2 +1,2 @@
-ent-ClothingMaskGaiter  = polaina de pescoço
-    .desc  = Para agentes que desejam permanecer invisíveis e ocultar sua identidade. Possui um pequeno respirador para uso interno.
+ent-ClothingMaskGaiter = polaina de pescoço
+    .desc = Para o agente que deseja manter a discrição enquanto esconde sua identidade. Possui um pequeno respirador para ser usado com partes internas.

@@ -1,1 +1,1 @@
-gera-transformation-popup  = Essa ação transforma você. Para confirmar, execute-o novamente.
+revert-polymorph-action-popup = Esta ação é irreversível. Use-o novamente para confirmar.

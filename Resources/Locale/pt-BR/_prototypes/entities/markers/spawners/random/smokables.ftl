@@ -1,4 +1,4 @@
-ent-RandomSmokables  = gerador de produtos para fumar aleatoriamente
-    .desc  = { ent-MarkerBase.desc }
-ent-RandomSoakedCigarette  = gerador de cigarros encharcados aleatoriamente
-    .desc  = { ent-MarkerBase.desc }
+ent-RandomSmokables = spawner fumável aleatório
+    .desc = { ent-MarkerBase.desc }
+ent-RandomSoakedCigarette = gerador de cigarro encharcado aleatório
+    .desc = { ent-MarkerBase.desc }

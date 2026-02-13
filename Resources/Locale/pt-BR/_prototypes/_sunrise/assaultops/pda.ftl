@@ -1,2 +1,2 @@
-ent-AssaultOpsPDA  = PDA do técnico assistente
-    .desc  = PDA do técnico assistente
+ent-AssaultOpsPDA = PDA do passageiro
+    .desc = Por que não é cinza?

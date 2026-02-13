@@ -1,2 +1,2 @@
-ent-Bola  = ser
-    .desc  = Abraçadeiras fixadas em metal.
+ent-Bola = bola
+    .desc = Ligados com alguns punhos sobressalentes e metal.

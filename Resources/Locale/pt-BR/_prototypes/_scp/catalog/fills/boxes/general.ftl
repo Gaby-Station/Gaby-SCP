@@ -1,2 +1,3 @@
-ent-ScpBoxKeyCard  = Caixa de cartão-chave
-    .desc  = Caixa de cartões-chave em branco sobressalentes.
+ent-ScpBoxKeyCard = caixa de cartões de acesso
+    .desc = Uma caixa com cartões de acesso em branco sobressalentes.
+

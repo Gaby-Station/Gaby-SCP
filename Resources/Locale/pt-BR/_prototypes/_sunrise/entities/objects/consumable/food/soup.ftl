@@ -1,4 +1,4 @@
-ent-FoodPelmeniBowl  = bolinhos
-    .desc  = sopa de serragem
-ent-FoodSoupSawdust  = sopa de serragem
-    .desc  = Cheira a serragem
+ent-FoodPelmeniBowl = bolinho
+    .desc = Muita carne, pouca massa.
+ent-FoodSoupSawdust = sopa de serragem
+    .desc = Tem cheiro de serragem

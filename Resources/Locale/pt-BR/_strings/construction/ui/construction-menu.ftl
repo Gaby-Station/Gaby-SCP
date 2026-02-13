@@ -1,9 +1,9 @@
 ## ConstructionMenu.xaml.cs
 
-construction-menu-title  = Limpar tudo
-construction-menu-place-ghost  = Limpar tudo
-construction-menu-clear-all  = Modo elástico
-construction-menu-eraser-mode  = Criação
-construction-menu-craft  = Criação
-construction-menu-search  = Procurar
-construction-menu-grid-view  = Visualização em grade
+construction-menu-title = Construção
+construction-menu-place-ghost = Coloque o fantasma da construção
+construction-menu-clear-all = Limpar tudo
+construction-menu-eraser-mode = Modo Apagador
+construction-menu-craft = Arte
+construction-menu-search = Procurar
+construction-menu-grid-view = Visualização em grade

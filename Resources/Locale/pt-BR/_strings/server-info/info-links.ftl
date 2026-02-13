@@ -1,8 +1,8 @@
-### Strings for link buttons shown in the launcher's server description.
+﻿### Strings for link buttons shown in the launcher's server description.
 
-info-link-discord  = Discórdia
-info-link-forum  = Fórum
-info-link-github  = Contribuição
-info-link-website  = Fórum
-info-link-wiki  = Sair
-info-link-telegram  = Reportar um bug
+info-link-discord = Discórdia
+info-link-forum = Fórum
+info-link-github = GitHub
+info-link-website = Site
+info-link-wiki = Wikipédia
+info-link-telegram = Telegrama

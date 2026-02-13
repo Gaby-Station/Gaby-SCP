@@ -1,2 +1,2 @@
-ent-BiomassReclaimer  = processador de biomassa
-    .desc  = Extrai biomassa de cadáveres. Terrível.
+ent-BiomassReclaimer = recuperador de biomassa
+    .desc = Recupera biomassa de cadáveres. Horrível.

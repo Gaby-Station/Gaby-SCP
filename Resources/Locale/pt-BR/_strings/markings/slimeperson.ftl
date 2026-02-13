@@ -1,16 +1,23 @@
-marking-SlimeGradientLeftArm-gradient_l_arm  = Slimeman, mão esquerda (Gradiente)
-marking-SlimeGradientRightArm-gradient_r_arm  = Slimeman, mão direita (Gradiente)
-marking-SlimeGradientLeftArm  = Slimeman, perna esquerda (Gradiente)
-marking-SlimeGradientLeftLeg-gradient_l_leg  = Slimeman, perna esquerda (Gradiente)
-marking-SlimeGradientLeftFoot-gradient_l_foot  = Slimeman, pé esquerdo (Gradiente)
-marking-SlimeGradientLeftFoot  = Slimeman, pé esquerdo (Gradiente)
-marking-SlimeGradientRightFoot-gradient_r_foot  = Slimeman, pé direito (Gradiente)
-marking-SlimeGradientRightFoot  = Slimeman, pé direito (Gradiente)
-marking-SlimeGradientRightLeg-gradient_r_leg  = Slimeman, perna direita (Gradiente)
-marking-SlimeGradientRightArm  = Slimeman, mão esquerda (Gradiente)
-marking-SlimeGradientLeftHand-gradient_l_hand  = Slimeman, mão esquerda (Gradiente)
-marking-SlimeGradientRightHand-gradient_r_hand  = Slimeman, mão direita (Gradiente)
-marking-SlimeGradientLeftLeg  = Slimeman, perna esquerda (Gradiente)
-marking-SlimeGradientRightLeg  = Slimeman, perna direita (Gradiente)
-marking-SlimeGradientLeftHand  = Slimeman, mão esquerda (Gradiente)
-marking-SlimeGradientRightHand  = Slimeman, mão direita (Gradiente)
+marking-SlimeGradientLeftArm-gradient_l_arm = Braço Esquerdo Slime (Gradiente)
+marking-SlimeGradientLeftArm = Braço Esquerdo Slime (Gradiente)
+
+marking-SlimeGradientRightArm-gradient_r_arm = Braço Direito Slime (Gradiente)
+marking-SlimeGradientRightArm = Braço Direito Slime (Gradiente)
+
+marking-SlimeGradientLeftFoot-gradient_l_foot = Pé Esquerdo Slime (Gradiente)
+marking-SlimeGradientLeftFoot = Pé Esquerdo Slime (Gradiente)
+
+marking-SlimeGradientRightFoot-gradient_r_foot = Pé Direito Slime (Gradiente)
+marking-SlimeGradientRightFoot = Pé Direito Slime (Gradiente)
+
+marking-SlimeGradientLeftLeg-gradient_l_leg = Perna Esquerda Slime (Gradiente)
+marking-SlimeGradientLeftLeg = Perna Esquerda Slime (Gradiente)
+
+marking-SlimeGradientRightLeg-gradient_r_leg = Perna Direita Slime (Gradiente)
+marking-SlimeGradientRightLeg = Perna Direita Slime (Gradiente)
+
+marking-SlimeGradientLeftHand-gradient_l_hand = Slime Mão Esquerda (Gradiente)
+marking-SlimeGradientLeftHand = Slime Mão Esquerda (Gradiente)
+
+marking-SlimeGradientRightHand-gradient_r_hand = Slime mão direita (gradiente)
+marking-SlimeGradientRightHand = Slime mão direita (gradiente)

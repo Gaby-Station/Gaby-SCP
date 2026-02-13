@@ -1,3 +1,3 @@
-ent-CrystalSpawner  = cristal gerador
-    .suffix  = 70%
-    .desc  = { ent-MarkerBase.desc }
+ent-CrystalSpawner = Gerador de Cristal
+    .suffix = 70%
+    .desc = { ent-MarkerBase.desc }

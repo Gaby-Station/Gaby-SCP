@@ -1,2 +1,2 @@
-ent-TeleportEffect  = { "" }
-    .desc  = { "" }
+ent-TeleportEffect = { "" }
+    .desc = { "" }

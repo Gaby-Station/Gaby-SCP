@@ -1,6 +1,6 @@
-character-info-fears-label  = Fobias e medos
-character-info-fears-text  = Você é destemido. Tenha orgulho disso.
-character-info-employee-class-label  = Classe de pessoal
-character-info-employee-class-text  = Haverá um nível de autorização aqui
-character-info-access-level-label  = Nível de liberação
-character-info-access-level-text  = Haverá um nível de autorização aqui
+character-info-fears-label = Medos e Fobias
+character-info-fears-text = Você é destemido. Tenha orgulho.
+character-info-employee-class-label = Classe de Funcionário
+character-info-employee-class-text = A classe de funcionários estará aqui
+character-info-access-level-label = Nível de acesso
+character-info-access-level-text = O nível de acesso estará aqui

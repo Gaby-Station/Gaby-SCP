@@ -1,10 +1,13 @@
 ## SpillTargetVerb
 
-spill-target-verb-get-data-text  = Você não pode derramar nada de __PH0__!
-spill-target-verb-activate-cannot-drain-message  = Você gasta { $owner } unidades. conteúdo de __PH1__ a __PH2__!
-spill-target-verb-activate-is-empty-message  = { $owner } está vazio!
-spill-melee-hit-attacker  = { $amount } espalha o conteúdo de { $spillable } em { $target }!
-spill-melee-hit-others  = { CAPITALIZE($attacker) } espalha o conteúdo de { $spillable } em { $target }!
-spill-land-spilled-on-other  = { CAPITALIZE($spillable) } derrama seu conteúdo em { $target }!
-spill-examine-is-spillable  = Este recipiente pode ser jogado fora.
-spill-examine-spillable-weapon  = Você pode liberar isso em alguém com um ataque corpo a corpo.
+spill-target-verb-get-data-text = Derramar líquido
+spill-target-verb-activate-cannot-drain-message = Você não pode derramar nada de {$owner}!
+spill-target-verb-activate-is-empty-message = {$owner} está vazio!
+
+spill-melee-hit-attacker = Você derrama {$amount}u de {THE($spillable)} em {THE($target)}!
+spill-melee-hit-others = {CAPITALIZE(THE($attacker))} derrama um pouco de {THE($spillable)} em {THE($target)}!
+
+spill-land-spilled-on-other = {CAPITALIZE(THE($spillable))} derrama um pouco de sua solução em {THE($target)}!
+
+spill-examine-is-spillable = Este recipiente parece derramado.
+spill-examine-spillable-weapon = Você poderia espalhar isso em alguém com um ataque.

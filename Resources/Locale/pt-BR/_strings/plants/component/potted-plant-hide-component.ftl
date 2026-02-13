@@ -1,1 +1,1 @@
-potted-plant-hide-component-interact-hand-got-no-item-message  = Você está cavando entre as raízes.
+potted-plant-hide-component-interact-hand-got-no-item-message = Você vasculha as raízes.

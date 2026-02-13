@@ -1,3 +1,3 @@
-ent-StressTest  = teste de estresse
-    .suffix  = DEPURAR
-    .desc  = { "" }
+ent-StressTest = teste de estresse
+    .suffix = DEPURAR
+    .desc = { "" }

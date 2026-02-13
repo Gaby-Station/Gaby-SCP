@@ -1,12 +1,15 @@
-magic-mirror-component-activate-user-has-no-hair  = Você não pode ter cabelo!
-magic-mirror-window-title  = Espelho mágico
-magic-mirror-add-slot-self  = Você adiciona cabelo a si mesmo.
-magic-mirror-remove-slot-self  = Você muda seu penteado.
-magic-mirror-change-slot-self  = Você muda seu penteado.
-magic-mirror-change-color-self  = Você muda a cor do seu cabelo.
-magic-mirror-add-slot-target  = { $user } adiciona cabelo em você.
-magic-mirror-remove-slot-target  = { $user } remove um pouco do seu cabelo.
-magic-mirror-change-slot-target  = { $user } muda seu penteado.
-magic-mirror-change-color-target  = { $user } muda a cor do seu cabelo.
-magic-mirror-blocked-by-hat-self  = Antes de mudar o penteado, é preciso tirar o chapéu.
-magic-mirror-blocked-by-hat-self-target  = Você está tentando mudar seu penteado, mas as roupas do seu alvo estão atrapalhando.
+magic-mirror-component-activate-user-has-no-hair = Você não pode ter cabelo!
+
+magic-mirror-window-title = Espelho Mágico
+magic-mirror-add-slot-self = Você está se dando um pouco de cabelo.
+magic-mirror-remove-slot-self = Você está removendo um pouco do seu cabelo.
+magic-mirror-change-slot-self = Você está mudando seu penteado.
+magic-mirror-change-color-self = Você está mudando a cor do seu cabelo.
+
+magic-mirror-add-slot-target = Cabelo está sendo adicionado a você por {THE($user)}.
+magic-mirror-remove-slot-target = Seu cabelo está sendo cortado por {THE($user)}.
+magic-mirror-change-slot-target = Seu penteado está sendo alterado por {THE($user)}.
+magic-mirror-change-color-target = A cor do seu cabelo está sendo alterada por {THE($user)}.
+
+magic-mirror-blocked-by-hat-self = Você precisa tirar o chapéu antes de trocar o cabelo.
+magic-mirror-blocked-by-hat-self-target = Você tenta mudar o cabelo de {POSS-ADJ($target)}, mas as roupas de {POSS-ADJ($target)} atrapalham.

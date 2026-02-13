@@ -1,3 +1,3 @@
-ent-ClothingHandsGlovesPathologist  = Cheira a frescor alpino
-    .desc  = SCP
-    .suffix  = SCP
+ent-ClothingHandsGlovesPathologist = luvas de patologista
+    .desc = Cheira a frescor alpino
+    .suffix = SCP

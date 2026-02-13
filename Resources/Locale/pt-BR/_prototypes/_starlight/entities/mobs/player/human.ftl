@@ -1,2 +1,2 @@
-ent-MobJohnToe  = João Para
-    .desc  = { ent-BaseMobHuman.desc }
+ent-MobJohnToe = João Toe
+    .desc = { ent-BaseMobHuman.desc }

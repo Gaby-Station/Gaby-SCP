@@ -1,2 +1,2 @@
-ent-ClothingOuterWinterColorCyan  = jaqueta azul de inverno
-    .desc  = { ent-ClothingOuterWinterCoatToggleable.desc }
+ent-ClothingOuterWinterColorCyan = casaco de inverno ciano
+    .desc = { ent-ClothingOuterWinterCoatToggleable.desc }

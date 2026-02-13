@@ -1,2 +1,2 @@
-ent-CrateCrewMonitoringBoards  = placas de monitoramento de tripulação
-    .desc  = Contém duas placas de máquinas de monitoramento de tripulação, para servidor e console. Para abrir, você precisa de um nível de acesso de Engenharia.
+ent-CrateCrewMonitoringBoards = placas de monitoramento de tripulação
+    .desc = Possui dois consoles de monitoramento de tripulação e substituições de servidores. Requer acesso de engenharia para abrir.

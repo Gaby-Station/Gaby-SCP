@@ -1,2 +1,2 @@
 # Verbs
-power-cell-slot-component-slot-name-default  = Bateria
+power-cell-slot-component-slot-name-default = Célula de energia

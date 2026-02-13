@@ -1,5 +1,5 @@
-ent-EggSpiderFertilized  = Isso é uma joia? Isto é um ovo? Parece caro.
-    .desc  = Uma massa pulsante esperando para eclodir.
+ent-EggSpiderFertilized = aranha de ovo
+    .desc = É uma pedra preciosa? É um ovo? Parece caro.
 
-ent-MobCarpEgg  = Uma massa pulsante esperando para eclodir.
-    .desc  = Uma massa pulsante esperando para eclodir.
+ent-MobCarpEgg = ovo de carpa
+    .desc = Uma massa pulsante, esperando para eclodir.

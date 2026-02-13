@@ -1,2 +1,3 @@
-ent-ScpTearMask  = Rasgue a máscara
-    .desc  = Rasgue a máscara que te prende para que todos possam ver seu rosto novamente
+ent-ScpTearMask = Máscara Rasgada
+    .desc = Rasgue uma máscara que o impeça de restaurar suas habilidades
+

@@ -1,3 +1,3 @@
-ent-SMESExtended  = Estação Supercondutora de Armazenamento de Energia Magnética (SMES) de grande capacidade.
-    .desc  = Estação Supercondutora de Armazenamento de Energia Magnética (SMES) de grande capacidade.
-    .suffix  = Ampliado, 24 MW
+ent-SMESExtended = { ent-BaseSMES }
+    .suffix = Básico, Estendido, 24 MW
+    .desc = { ent-BaseSMES.desc }

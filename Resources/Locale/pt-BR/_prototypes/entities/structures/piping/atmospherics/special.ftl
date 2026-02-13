@@ -1,8 +1,8 @@
-ent-AtmosDeviceFanTinyDev  = um pequeno fã
-    .desc  = { "" }
-ent-AtmosDeviceFanDirectionalDev  = Um pequeno ventilador que cria um fluxo de ar suave.
-    .desc  = { "" }
-ent-AtmosDeviceFanTiny  = Um pequeno ventilador que cria um fluxo de ar suave.
-    .desc  = ventilador direcional
-ent-AtmosDeviceFanDirectional  = ventilador direcional
-    .desc  = Um pequeno ventilador que evita a propagação de gases.
+ent-AtmosDeviceFanTinyDev = pequeno fã DEBUG
+    .desc = { "" }
+ent-AtmosDeviceFanDirectionalDev = ventilador DEBUG direcional
+    .desc = { "" }
+ent-AtmosDeviceFanTiny = pequeno ventilador
+    .desc = Um pequeno ventilador, liberando uma leve rajada de ar.
+ent-AtmosDeviceFanDirectional = ventilador direcional
+    .desc = Um ventilador fino, interrompendo o movimento dos gases através dele.

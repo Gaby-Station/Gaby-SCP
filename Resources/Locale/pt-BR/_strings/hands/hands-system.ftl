@@ -1,7 +1,6 @@
-## HandsSystem
-
 # Examine text after when they're holding something (in-hand)
-comp-hands-examine  = Mãos cheias
-comp-hands-examine-empty  = Mãos cheias
-comp-hands-examine-wrapper  = [color=paleturquoise]{ $item }[/color]
-hands-system-blocked-by  = Mãos cheias
+comp-hands-examine = { CAPITALIZE(SUBJECT($user)) } { CONJUGATE-BE($user) } segurando { $items }.
+comp-hands-examine-empty = { CAPITALIZE(SUBJECT($user)) } { CONJUGATE-BE($user) } não está segurando nada.
+comp-hands-examine-wrapper = { INDEFINITE($item) } [color=paleturquoise]{$item}[/color]
+
+hands-system-blocked-by = Bloqueado por

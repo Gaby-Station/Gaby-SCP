@@ -1,3 +1,3 @@
-fresium-effect-freeze-insides  = Você sente seu interior congelando!
-fresium-effect-frozen  = Suas pernas cedem e têm dificuldade de se movimentar!
-fresium-effect-slow  = Suas pernas cedem e têm dificuldade de se movimentar!
+fresium-effect-freeze-insides = Você sente seu interior congelando!
+fresium-effect-frozen = Suas pernas congelaram completamente!
+fresium-effect-slow = Suas pernas dobram e lutam para se mover!

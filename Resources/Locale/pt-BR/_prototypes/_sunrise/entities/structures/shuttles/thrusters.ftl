@@ -1,8 +1,8 @@
-ent-BigThruster  = grande motor de foguete
-    .desc  = { ent-Thruster }
-ent-BigRedThruster  = enorme motor de foguete
-    .desc  = { ent-Thruster }
-ent-HugeThruster  = enorme motor de foguete vermelho
-    .desc  = { ent-Thruster }
-ent-HugeRedThruster  = enorme motor de foguete vermelho
-    .desc  = { ent-Thruster }
+ent-BigThruster = grande propulsor
+    .desc = { ent-BaseThruster.desc }
+ent-BigRedThruster = grande propulsor vermelho
+    .desc = { ent-BigThruster.desc }
+ent-HugeThruster = enorme propulsor
+    .desc = { ent-BaseThruster.desc }
+ent-HugeRedThruster = enorme propulsor vermelho
+    .desc = { ent-HugeThruster.desc }

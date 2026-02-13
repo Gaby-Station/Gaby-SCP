@@ -1,2 +1,2 @@
-ent-MobDwarf  = { ent-BaseMobDwarf }
-    .desc  = { ent-BaseMobDwarf.desc }
+ent-MobDwarf = Urist McHands, o anão
+    .desc = { ent-BaseMobDwarf.desc }

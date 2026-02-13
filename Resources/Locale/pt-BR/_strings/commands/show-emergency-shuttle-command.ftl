@@ -1,2 +1,2 @@
-cmd-showemergencyshuttle-desc  = Mostra a localização estimada do ônibus de emergência.
-cmd-showemergencyshuttle-status  = O modo de depuração do ônibus de emergência está definido como { $status }.
+﻿cmd-showemergencyshuttle-desc = Mostra a posição esperada do ônibus de emergência.
+cmd-showemergencyshuttle-status = Defina a depuração do transporte de emergência como {$status}.

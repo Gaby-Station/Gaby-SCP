@@ -1,4 +1,4 @@
-ent-ClothingHeadHatHoodBlackCloak  = capuz
-    .desc  = capuz azul da jaqueta de inverno
-ent-ClothingHeadHatHoodWinterColorCyan  = capuz azul da jaqueta de inverno
-    .desc  = { ent-ClothingHeadHatHoodWinterBase.desc }
+ent-ClothingHeadHatHoodBlackCloak = capuz
+    .desc = Fecha a nuca.
+ent-ClothingHeadHatHoodWinterColorCyan = capuz de casaco de inverno ciano
+    .desc = { ent-ClothingHeadHatHoodWinterBase.desc }

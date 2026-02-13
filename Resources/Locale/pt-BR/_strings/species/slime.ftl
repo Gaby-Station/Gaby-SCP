@@ -1,1 +1,1 @@
-slime-hurt-by-water-popup  = A água vai derreter um pouco do seu muco!
+﻿slime-hurt-by-water-popup = A água derrete um pouco do seu lodo!

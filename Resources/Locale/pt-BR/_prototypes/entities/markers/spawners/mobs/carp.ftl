@@ -1,8 +1,8 @@
-ent-SpawnMobCarp  = criador de carpa espacial
-    .desc  = { ent-MarkerBase.desc }
-ent-SpawnMobCarpHolo  = spavner medzikarp
-    .desc  = { ent-MarkerBase.desc }
-ent-SpawnMobCarpMagic  = spawner espaço carpo tubarão
-    .desc  = { ent-MarkerBase.desc }
-ent-SpawnMobShark  = spawner espaço carpo tubarão
-    .desc  = { ent-MarkerBase.desc }
+ent-SpawnMobCarp = Gerador de Carpa Espacial
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobCarpHolo = Gerador de Holocarpo
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobCarpMagic = Gerador de Magicarp
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobShark = Gerador de Sharkminnow Espacial
+    .desc = { ent-MarkerBase.desc }

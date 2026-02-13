@@ -1,2 +1,2 @@
-ent-MedalCase  = caixa de medalha
-    .desc  = Caso com medalhas.
+ent-MedalCase = caixa de medalha
+    .desc = Caso com medalhas.

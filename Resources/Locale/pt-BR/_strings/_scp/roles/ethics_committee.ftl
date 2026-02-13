@@ -1,3 +1,3 @@
-job-name-ethics-committee-representative  = Representante do Comitê de Ética
-job-description-ethics-committee-representative  = Representante local do Comitê de Ética. Apesar da abordagem utilitarista da Fundação aos dilemas morais, é ele quem, como membro do Comité, determina o que é ético e correcto. Ele garante que apenas os sacrifícios mais necessários sejam feitos e que a opção mais ética seja sempre escolhida. Com sua presença, ele garante o cumprimento dos padrões, além de revisar o sistema operacional e verificar experimentos quanto ao uso excessivo ou inadequado de recursos. Todos devem lembrar que o Comitê de Ética observa, avalia e julga.
-job-supervisors-ethics-committee  = comitê de ética
+job-name-ethics-committee-representative = Representante do Comitê de Ética
+job-description-ethics-committee-representative = Um auditor do Comitê de Ética supervisionando a ética de toda a tripulação. Garante que o pessoal não exagere, por exemplo, desperdiçando pessoal Classe-D. Em casos de pessoal extremo e antiético, pode-se chamar a FTM Omega-1 de “Mão Esquerda da Lei” para aumentar o nível de ética do pessoal. CLASSE A
+job-supervisors-ethics-committee = Comitê de Ética

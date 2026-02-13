@@ -1,6 +1,6 @@
-teleportation-menu-default-window-title  = Menu de teletransporte
+﻿## Default
+teleportation-menu-default-window-title = Menu Teletransporte
 
 ## Wizard
-
-teleportation-scroll-window-title  = EI TCHEL BOLO TU __PH0__
-teleportation-scroll-speech-wizard  = EI TCHEL BOLO TU { $location }
+teleportation-scroll-window-title = Pergaminho de Teletransporte
+teleportation-scroll-speech-wizard = EY TCHEL TORT TU {$location}

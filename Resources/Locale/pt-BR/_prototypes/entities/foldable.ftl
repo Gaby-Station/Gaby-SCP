@@ -1,4 +1,4 @@
-ent-BaseFoldable  = dobrado
-    .desc  = { "" }
-ent-BaseDeployFoldable  = Desdobrar dobrado
-    .desc  = { ent-BaseFoldable.desc }
+ent-BaseFoldable = dobrável
+    .desc = { "" }
+ent-BaseDeployFoldable = implantar dobrável
+    .desc = { ent-BaseFoldable.desc }

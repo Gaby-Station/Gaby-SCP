@@ -1,2 +1,2 @@
-ent-Singularity  = singularidade gravitacional
-    .desc  = Um encantador redemoinho de escuridão que suga tudo para si. Se ela se aproximar de você, corra.
+ent-Singularity = singularidade gravitacional
+    .desc = Um redemoinho hipnotizante de escuridão que suga tudo. Se estiver se movendo em sua direção, corra.

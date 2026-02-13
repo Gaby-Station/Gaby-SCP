@@ -1,2 +1,2 @@
-ent-IcarusBeam  = Ícaro
-    .desc  = Raio de luz do sol.
+ent-IcarusBeam = Ícaro
+    .desc = Um feixe de luz do sol.

@@ -1,2 +1,2 @@
-ent-Tippy  = { "" }
-    .desc  = { "" }
+ent-Tippy = { "" }
+    .desc = { "" }

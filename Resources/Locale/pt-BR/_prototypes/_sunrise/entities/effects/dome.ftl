@@ -1,2 +1,2 @@
-ent-EnergyDomeCult  = { ent-EnergyDomeBase }
-    .desc  = { ent-EnergyDomeBase.desc }
+ent-EnergyDomeCult = { ent-EnergyDomeBase }
+    .desc = { ent-EnergyDomeBase.desc }

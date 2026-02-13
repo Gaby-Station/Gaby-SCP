@@ -1,2 +1,2 @@
-ent-Torch  = tocha
-    .desc  = Uma tocha feita de madeira.
+ent-Torch = tocha
+    .desc = Uma tocha feita de madeira.

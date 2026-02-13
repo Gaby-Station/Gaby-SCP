@@ -1,2 +1,2 @@
-ent-Error  = erro
-    .desc  = Hummm. Algo deu errado.
+ent-Error = erro
+    .desc = Hummm. Algo deu errado.

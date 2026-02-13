@@ -1,5 +1,5 @@
-ent-ParticleAcceleratorPowerBox  = Usina de energia UC
-    .desc  = Oficialmente conhecida como lente de foco de partículas EM. Ele usa ondas eletromagnéticas para focar partículas alfa.
-ent-ParticleAcceleratorPowerBoxUnfinished  = Usina de energia UC
-    .desc  = Oficialmente conhecida como lente de foco de partículas EM. Ele usa ondas eletromagnéticas para focar partículas alfa. Parece inacabado.
-    .suffix  = Inacabado
+ent-ParticleAcceleratorPowerBox = Caixa de energia PA
+    .desc = Formalmente conhecida como lente EM com foco em partículas. Isso usa ondas eletromagnéticas para focar as partículas alfa.
+ent-ParticleAcceleratorPowerBoxUnfinished = Caixa de energia PA
+    .desc = Formalmente conhecida como lente EM com foco em partículas. Isso usa ondas eletromagnéticas para focar as partículas alfa. Parece inacabado.
+    .suffix = Inacabado

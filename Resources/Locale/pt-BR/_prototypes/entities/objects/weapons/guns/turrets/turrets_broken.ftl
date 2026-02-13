@@ -1,2 +1,2 @@
-ent-WeaponTurretSyndicateBroken  = torre balística quebrada
-    .desc  = { ent-BaseWeaponTurret.desc }
+ent-WeaponTurretSyndicateBroken = torre balística (quebrada)
+    .desc = Uma torre automática de metralhadora balística.

@@ -1,26 +1,29 @@
-marking-ResomiTail  = Cauda de Rezomi
-marking-ResomiTail-tail  = Cauda de Rezomi
+marking-ResomiTail = Cauda Resomi
+marking-ResomiTail-tail = Cauda Resomi
 
-marking-ResomiTailFeathers  = Penas da cauda
-marking-ResomiTailFeathers-tail_feathers  = Penas da cauda
+marking-ResomiTailFeathers = Penas da cauda
+marking-ResomiTailFeathers-tail_feathers = Penas da cauda
 
-marking-ResomiLArmFeathers  = Penas na mão esquerda de Rezomi
-marking-ResomiLArmFeathers-l_hand_feathers  = Penas na mão esquerda de Rezomi
+marking-ResomiLArmFeathers = Penas do braço esquerdo Resomi
+marking-ResomiLArmFeathers-l_hand_feathers = Penas do braço esquerdo Resomi
 
-marking-ResomiLLegFeathers  = Penas na perna esquerda de Rezomi
-marking-ResomiLLegFeathers-l_foot_feathers  = Penas na perna esquerda de Rezomi
+marking-ResomiLLegFeathers = Penas da perna esquerda Resomi
+marking-ResomiLLegFeathers-l_foot_feathers = Penas da perna esquerda Resomi
 
-marking-ResomiRArmFeathers  = Penas na mão direita de Rezomi
-marking-ResomiRArmFeathers-r_hand_feathers  = Penas na mão direita de Rezomi
+marking-ResomiRArmFeathers = Penas do braço direito Resomi
+marking-ResomiRArmFeathers-r_hand_feathers = Penas do braço direito Resomi
 
-marking-ResomiRLegFeathers  = Penas na perna direita de Rezomi
-marking-ResomiRLegFeathers-r_foot_feathers  = Penas na perna direita de Rezomi
+marking-ResomiRLegFeathers = Penas da perna direita Resomi
+marking-ResomiRLegFeathers-r_foot_feathers = Penas da perna direita Resomi
 
-marking-ResomiFluff  = Podpushek Rezomi
-marking-ResomiFluff-fluff  = Podpushek Rezomi
+marking-ResomiFluff = Resomi sob penugem
+marking-ResomiFluff-fluff = Resomi sob penugem
 
-marking-ResomiFluffHead  = Pooh na cabeça de Rezomi
-marking-ResomiFluffHead-fluff_head  = Pooh na cabeça de Rezomi
+marking-ResomiFluffHead = Resomi cabeça fofa
+marking-ResomiFluffHead-fluff_head = Resomi cabeça fofa
 
-marking-ResomiFluffHeadUp  = Pooh na cabeça de Rezomi (para cima)
-marking-ResomiFluffHeadUp-fluff_head_up  = Pooh na cabeça de Rezomi (para cima)
+
+marking-ResomiFluffHeadUp = Resomi cabeça fofa (para cima)
+marking-ResomiFluffHeadUp-fluff_head_up = Resomi cabeça fofa (para cima)
+
+

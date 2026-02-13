@@ -1,12 +1,15 @@
-### EmitterComponent
+﻿### EmitterComponent
 
 # Shows when attempting to turn the emitter on or off without proper access
-comp-emitter-access-locked  = { $target } está desligado.
+comp-emitter-access-locked = O {$target} está com acesso bloqueado!
+
 # Shows when turning the emitter on/off
-comp-emitter-turned-on  = { $target } liga.
-comp-emitter-turned-off  = { $target } está desligado.
+comp-emitter-turned-on = O {$target} é ativado.
+
+comp-emitter-turned-off = O {$target} desliga.
+
 # Shows if the user attempts to activate the emitter while it's un-anchored.
-comp-emitter-not-anchored  = Tipo instalado: { $target }.
-# Upgrades
-emitter-component-current-type  = Definir tipo: { $type }
-emitter-component-type-set  = Definir tipo: { $type }
+comp-emitter-not-anchored = O {$target} não está ancorado no chão!
+
+emitter-component-current-type = O tipo atualmente selecionado é: [color=yellow]{$type}[/color].
+emitter-component-type-set = Tipo definido como: {$type}

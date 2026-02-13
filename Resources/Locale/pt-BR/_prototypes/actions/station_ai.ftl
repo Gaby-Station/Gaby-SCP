@@ -1,8 +1,6 @@
-ent-ActionJumpToCore  = Salte para o núcleo
-    .desc  = Mudar a iluminação da câmera
-ent-ActionSurvCameraLights  = Mudar a iluminação da câmera
-    .desc  = Acende a iluminação das câmeras de segurança na área que você está visualizando.
-ent-ActionAIViewLaws  = Mostrar leis
-    .desc  = Veja as leis que você deve seguir.
-ent-ActionShowJobIcons  = Mostrar ícones de profissão
-    .desc  = Exibe ícones de profissão para membros da tripulação.
+ent-ActionJumpToCore = Ir para o núcleo
+    .desc = Envia seu olhar de volta ao núcleo.
+ent-ActionSurvCameraLights = Alternar luzes da câmera
+    .desc = Ative as luzes da câmera de vigilância perto de onde quer que você esteja visualizando.
+ent-ActionAIViewLaws = Ver Leis
+    .desc = Veja as leis que você deve seguir.

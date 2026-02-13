@@ -1,2 +1,2 @@
-ent-FleshSpiderWeb  = teia de palhaço
-    .desc  = É viscoso e pegajoso.
+ent-FleshSpiderWeb = teia de aranha
+    .desc = É pegajoso e pegajoso.

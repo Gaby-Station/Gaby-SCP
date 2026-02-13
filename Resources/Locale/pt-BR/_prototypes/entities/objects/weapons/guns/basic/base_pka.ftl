@@ -1,2 +1,2 @@
-ent-WeaponProtoKineticAcceleratorBase  = { ent-BaseItem }
-    .desc  = { ent-BaseItem.desc }
+ent-WeaponProtoKineticAcceleratorBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }

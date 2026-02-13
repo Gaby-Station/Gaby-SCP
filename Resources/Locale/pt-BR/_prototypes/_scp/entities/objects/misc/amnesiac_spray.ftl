@@ -1,2 +1,2 @@
-ent-AmnesiacSpray  = dispensador amnéstico
-    .desc  = Uma lata de amnésticos Classe A dentro.
+ent-AmnesiacSpray = spray amnésico
+    .desc = É uma vasilha com líquido dentro.

@@ -1,2 +1,2 @@
-ent-MultipartMachineGhost  = { "" }
-    .desc  = { "" }
+ent-MultipartMachineGhost = { "" }
+    .desc = { "" }

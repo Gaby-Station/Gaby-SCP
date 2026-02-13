@@ -1,2 +1,2 @@
-ent-WhiteCane  = bengala branca
-    .desc  = Isto não é para você. Isso é para quem não entende que você fica cego quando pergunta se o departamento de suprimentos é um bar.
+ent-WhiteCane = bengala branca
+    .desc = Isto não é para você. É para as pessoas que não conseguem descobrir que você é cego quando pergunta se a carga é a barra.

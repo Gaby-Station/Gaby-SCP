@@ -1,6 +1,6 @@
-ent-AltarSpawner  = altar aleatório gerador
-    .desc  = { ent-MarkerBase.desc }
-ent-ConvertAltarSpawner  = altar de culto aleatório gerador
-    .desc  = { ent-MarkerBase.desc }
-ent-CultAltarSpawner  = altar de culto aleatório gerador
-    .desc  = { ent-MarkerBase.desc }
+ent-AltarSpawner = gerador de altar aleatório
+    .desc = { ent-MarkerBase.desc }
+ent-ConvertAltarSpawner = gerador aleatório de altar convertido
+    .desc = { ent-MarkerBase.desc }
+ent-CultAltarSpawner = gerador aleatório de altar de culto
+    .desc = { ent-MarkerBase.desc }

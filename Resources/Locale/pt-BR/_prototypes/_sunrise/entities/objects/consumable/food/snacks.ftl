@@ -1,6 +1,6 @@
-ent-FoodSnackMaysonEnergy  = Barra energética de Mason
-    .desc  = Uma barra energética feita de produtos químicos naturais!
-ent-FoodSnackMaysonEnergyBar  = Barra energética de Mason
-    .desc  = Uma barra energética feita de produtos químicos naturais!
-ent-FoodPacketMaysonEnergyTrash  = invólucro de barra de energia
-    .desc  = { ent-FoodPacketTrash.desc }
+ent-FoodSnackMaysonEnergy = barra de energia
+    .desc = Barra energética de Mayson
+ent-FoodSnackMaysonEnergyBar = barra de energia
+    .desc = Barra energética de Mayson
+ent-FoodPacketMaysonEnergyTrash = invólucro de barra de energia
+    .desc = { ent-FoodPacketTrash.desc }

@@ -1,4 +1,4 @@
-ent-SentientSlimesCore  = núcleo de limo senciente
-    .desc  = A fonte de uma viscosidade incrível e infinita.
-ent-OrganSlimesLungs  = sacos de gás limo
-    .desc  = Eles coletam nitrogênio, que as células do limo usam para manter a vida.
+ent-SentientSlimesCore = núcleo de slimes sencientes
+    .desc = A fonte de uma pegajosidade incrível e interminável.
+ent-OrganSlimesLungs = sacos de gás de limo
+    .desc = Coleta nitrogênio, que as células do limo usam para manutenção.

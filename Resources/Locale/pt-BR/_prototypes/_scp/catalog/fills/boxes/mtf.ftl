@@ -1,6 +1,7 @@
-ent-BoxMtfBaseKit  = Kit de Emergência FTM
-    .desc  = Kit de Emergência do Comandante da FTM
-ent-BoxMtfLeaderKit  = O kit do comandante da FTM contém tudo o que é necessário para realizar missões.
-    .desc  = O kit do comandante da FTM contém tudo o que é necessário para realizar missões.
-ent-BoxAmbuzolKit  = conjunto de ambuzol
-    .desc  = Definir com amubzol.
+ent-BoxMtfBaseKit = caixa de kit base MTF
+    .desc = Kit de segurança básico criado para membros do esquadrão MTF.
+ent-BoxMtfLeaderKit = caixa de kit Líder MTF
+    .desc = Kit básico de líder criado para o comandante do capitão MTF.
+ent-BoxAmbuzolKit = kit Ambuzol
+    .desc = Caixa de papelão básica com ambuzol dentro.
+

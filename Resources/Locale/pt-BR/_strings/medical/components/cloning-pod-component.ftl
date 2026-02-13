@@ -1,2 +1,3 @@
-cloning-pod-biomass  = Contém [color=red]{ $number }[/color] unidades de biomassa.
-cloning-pod-component-upgrade-emag-requirement  = O cartão coloca algo dentro da cápsula de clonagem.
+cloning-pod-biomass = Atualmente possui [color=red]{$number}[/color] unidades de biomassa.
+
+cloning-pod-component-upgrade-emag-requirement = O cartão destrói algo dentro do pod de clonagem.

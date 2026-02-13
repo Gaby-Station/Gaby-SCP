@@ -1,4 +1,2 @@
-ent-CartridgeRifleRubber  = cartucho (borracha 0,20)
-    .desc  = { ent-BaseCartridgeRifle.desc }
-ent-BaseCartridgeRifleRocket20  = cartucho (canhão elétrico)
-    .desc  = { ent-BaseCartridge.desc }
+ent-CartridgeRifleRubber = cartucho (borracha de 5,56 mm)
+    .desc = { ent-BaseCartridgeRifle.desc }

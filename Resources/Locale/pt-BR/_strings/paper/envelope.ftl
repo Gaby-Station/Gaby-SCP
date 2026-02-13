@@ -1,9 +1,11 @@
-envelope-verb-seal  = Abrir
-envelope-verb-tear  = Abrir
-envelope-letter-slot  = __PH0____PH1__ selado__PH2__
-envelope-sealed-examine  = [color=gray]{ CAPITALIZE($envelope) } selado[/color]
-envelope-torn-examine  = [color=yellow]{ CAPITALIZE($envelope) } está rasgado e inutilizável![/color]
-envelope-default-message =
-    ОТ: 
-    
-    КОМУ:
+envelope-verb-seal = Selo
+envelope-verb-tear = Rasgar
+
+envelope-letter-slot = Carta
+
+envelope-sealed-examine = [color=gray]{CAPITALIZE(THE($envelope))} está selado.[/color]
+envelope-torn-examine = [color=yellow]{CAPITALIZE(THE($envelope))} está rasgado e inutilizável![/color]
+
+envelope-default-message = PARA:
+  
+  FROM: 

@@ -1,2 +1,2 @@
-ent-hoverentity  = entidade flutuante
-    .desc  = { "" }
+ent-hoverentity = entidade flutuante
+    .desc = { "" }

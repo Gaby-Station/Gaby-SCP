@@ -1,6 +1,6 @@
-handheld-radio-component-on-use  = Rádio { $radioState }.
-handheld-radio-component-on-examine  = Configurado para operar na frequência { $frequency }.
-handheld-radio-component-on-state  = incluído
-handheld-radio-component-off-state  = __PH0__ canal ativado
-handheld-radio-component-channel-set  = { $channel } canal ativado
-handheld-radio-component-chennel-examine  = Canal selecionado: { $channel }.
+handheld-radio-component-on-use = O rádio agora é {$radioState}.
+handheld-radio-component-on-examine = Está configurado para transmitir na frequência {$frequency}.
+handheld-radio-component-on-state = sobre
+handheld-radio-component-off-state = desligado
+handheld-radio-component-channel-set = Canal definido como {$channel}
+handheld-radio-component-chennel-examine = O canal atual é {$channel}.

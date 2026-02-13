@@ -1,2 +1,2 @@
-ent-VirtualBeamEntityController  = ESSÊNCIA DO RAIO VOCÊ NÃO DEVE VER ISSO
-    .desc  = { "" }
+ent-VirtualBeamEntityController = ENTIDADE DE FEIXE VOCÊ NÃO DEVE VER ISTO
+    .desc = { "" }

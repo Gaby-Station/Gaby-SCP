@@ -1,2 +1,2 @@
-ent-Survivor  = { ent-BaseGameRule }
-    .desc  = { ent-BaseGameRule.desc }
+ent-Survivor = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

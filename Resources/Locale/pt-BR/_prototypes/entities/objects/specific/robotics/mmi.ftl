@@ -1,7 +1,7 @@
-ent-MMI  = interface cérebro-máquina
-    .desc  = Um dispositivo capaz de fornecer comunicação entre o cérebro biológico e a eletrônica, permitindo que os tripulantes continuem agregando valor mesmo após acidentes industriais.
-ent-MMIFilled  = { ent-MMI }
-    .suffix  = Preenchido
-    .desc  = { ent-MMI.desc }
-ent-PositronicBrain  = Um cérebro misterioso capaz de atividade neural. Não apodrece nem desbota.
-    .desc  = Um cérebro misterioso capaz de atividade neural. Não apodrece nem desbota.
+ent-MMI = interface homem-máquina
+    .desc = Uma máquina capaz de facilitar a comunicação entre um cérebro biológico e a eletrónica, permitindo à tripulação continuar a fornecer valor após incidentes relacionados com o trabalho.
+ent-MMIFilled = { ent-MMI }
+    .suffix = Preenchido
+    .desc = { ent-MMI.desc }
+ent-PositronicBrain = cérebro positrônico
+    .desc = Um cérebro artificial capaz de atividade neural espontânea.

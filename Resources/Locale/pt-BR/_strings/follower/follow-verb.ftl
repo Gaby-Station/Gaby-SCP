@@ -1,2 +1,2 @@
-verb-follow-text  = Seguir
-verb-follow-me-text  = Faça seguir
+﻿verb-follow-text = Seguir
+verb-follow-me-text = Faça seguir

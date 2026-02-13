@@ -1,3 +1,3 @@
-ent-LockerPilotFilledHardsuit  = { ent-LockerPilot }
-    .suffix  = Tenente, Preenchido
-    .desc  = { ent-LockerPilot.desc }
+ent-LockerPilotFilledHardsuit = { ent-LockerPilot }
+    .suffix = Cheio, Hardsuit
+    .desc = { ent-LockerPilot.desc }

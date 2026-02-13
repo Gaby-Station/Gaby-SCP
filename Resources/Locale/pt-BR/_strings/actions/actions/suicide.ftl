@@ -1,1 +1,1 @@
-suicide-action-popup  = ESTA AÇÃO VAI MATAR VOCÊ! Para confirmar, execute-o novamente.
+suicide-action-popup = ESTA AÇÃO VAI MATAR VOCÊ! Use-o novamente para confirmar.

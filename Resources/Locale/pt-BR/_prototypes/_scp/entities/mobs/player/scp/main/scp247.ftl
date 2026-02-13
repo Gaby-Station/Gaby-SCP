@@ -1,1 +1,1 @@
-ent-Scp247  = None
+ent-Scp247 = ???

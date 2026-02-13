@@ -1,6 +1,8 @@
-ninja-round-end-agent-name  = Ninja
-objective-issuer-spiderclan  = [color=#33cc00]Clã Aranha[/color]
+ninja-round-end-agent-name = ninja
+
+objective-issuer-spiderclan = [cor= #33cc00]Spider Clan[/color]
+
 ninja-role-greeting =
-    Я — элитный наёмник могущественного Клана Паука!
-    Внезапность — моё оружие. Тени — моя броня. Без них я ничто.
-    Используйте свой пинпоинтер, чтобы найти станцию. Удачи!
+    I am an elite mercenary of the mighty Spider Clan!
+    Surprise is my weapon. Shadows are my armor. Without them, I am nothing.
+    Use your pinpointer to find the station. Good luck!

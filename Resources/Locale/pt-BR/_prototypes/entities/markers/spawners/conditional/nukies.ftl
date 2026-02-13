@@ -1,2 +1,2 @@
-ent-SpawnPointNukies  = operativo nuclear spawner
-    .desc  = { ent-MarkerBase.desc }
+ent-SpawnPointNukies = nukies
+    .desc = { ent-MarkerBase.desc }

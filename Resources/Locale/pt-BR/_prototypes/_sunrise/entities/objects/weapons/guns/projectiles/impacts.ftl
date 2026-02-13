@@ -1,2 +1,2 @@
-ent-BulletImpactEffectSyndiPlasma  = { "" }
-    .desc  = { "" }
+ent-BulletImpactEffectSyndiPlasma = { "" }
+    .desc = { "" }

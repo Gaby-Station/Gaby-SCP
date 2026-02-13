@@ -1,4 +1,4 @@
-ent-OreBag  = saco de minério
-    .desc  = Uma bolsa durável para salvadores e mineradores transportarem grandes volumes de minério. Ímãs próximos ao minério quando presos a um cinto.
-ent-BorgOreBag  = saco de minério embutido
-    .desc  = Um grande saco de minério embutido na estrutura de um ciborgue mineiro.
+ent-OreBag = saco de minério
+    .desc = Uma bolsa robusta para especialistas em salvamento e mineradores transportarem grandes quantidades de minério. Magnetiza quaisquer minérios próximos quando preso a um cinto.
+ent-BorgOreBag = saco de minério integrado
+    .desc = Um grande saco de minério embutido na estrutura de um ciborgue mineiro.

@@ -1,2 +1,2 @@
-ent-Bouquet  = Um buquê de flores pintadas em tons sangrentos. Parece fascinante. Cheira delicioso.
-    .desc  = Um buquê de flores pintadas em tons sangrentos. Parece fascinante. Cheira delicioso.
+ent-Bouquet = buquê de flores de sangue
+    .desc = Um buquê de flores cor de sangue. Parece fascinante e tem um cheiro delicioso.

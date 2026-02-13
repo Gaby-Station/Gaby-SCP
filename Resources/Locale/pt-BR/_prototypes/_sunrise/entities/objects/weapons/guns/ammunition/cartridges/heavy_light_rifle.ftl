@@ -1,0 +1,12 @@
+ent-BaseCartridgeHeavyLightRifle = cartucho (7,62mmR)
+    .desc = Um cartucho clássico de 7,62x54mmR de potência total usado por muitos rifles de combate, rifles de atirador e metralhadoras médias. Seu alcance aprimorado em relação aos cartuchos intermediários é geralmente menos prático em ambientes apertados de espaçonaves, tornando-o mais comum em combate de superfície ou em armamento legado.
+ent-CartridgeHeavyLightRifle = cartucho (7,62mmR)
+    .desc = { ent-BaseCartridgeHeavyLightRifle.desc }
+ent-CartridgeHeavyLightRiflePractice = cartucho (7,62mmR prática)
+    .desc = Um cartucho clássico de 7,62x54mmR de potência total usado por muitos rifles de combate, rifles de atirador e metralhadoras médias. Seu alcance aprimorado em relação aos cartuchos intermediários é geralmente menos prático em ambientes apertados de espaçonaves, tornando-o mais comum em combate de superfície ou em armamento legado. A munição de giz geralmente não é prejudicial e é usada para prática.
+ent-CartridgeHeavyLightRifleIncendiary = cartucho (7,62mmR incendiário)
+    .desc = Um cartucho clássico de 7,62x54mmR de potência total usado por muitos rifles de combate, rifles de atirador e metralhadoras médias. Seu alcance aprimorado em relação aos cartuchos intermediários é geralmente menos prático em ambientes apertados de espaçonaves, tornando-o mais comum em combate de superfície ou em armamento legado. A munição incendiária contém um composto auto-inflamável que incendeia o alvo.
+ent-CartridgeHeavyLightRifleUranium = cartucho (urânio 7,62ммR)
+    .desc = Um cartucho clássico de 7,62x54mmR de potência total usado por muitos rifles de combate, rifles de atirador e metralhadoras médias. Seu alcance aprimorado em relação aos cartuchos intermediários é geralmente menos prático em ambientes apertados de espaçonaves, tornando-o mais comum em combate de superfície ou em armamento legado. A munição de urânio substitui o núcleo de chumbo da bala por material físsil, irradiando o alvo por dentro.
+ent-MagazineBoxHeavyRifle = caixa de munição (7,62mmR)
+    .desc = { ent-BaseMagazineBoxHeavyRifle.desc }

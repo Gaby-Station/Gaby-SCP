@@ -1,50 +1,55 @@
 # Command
-highlights-captain  = Chefe de Pessoal, "GP", "HOP", "NOK", Serviço, Ponte, Comando
-highlights-head-of-personnel  = Engenheiro Sênior, "SE", "SI", Engenharia, Engenheiro, "Eng", Ponte, Comando
-highlights-chief-engineer  = Engenheiro Sênior, "SE", "SI", Engenharia, Engenheiro, "Eng", Ponte, Comando
-highlights-chief-medical-officer  = Médico-chefe, "GV", Bloco Médico, "Med", Ponte, Comando
-highlights-head-of-security  = Chefe do Serviço de Segurança, Chefe do Serviço de Segurança, "GSS", "KhOS", "NSB", Segurança, "SB", Ponte, Comando
-highlights-quartermaster  = Intendente, "KM", Carga, Ponte, Comando
-highlights-research-director  = Diretor Científico, "NR", Ciência, "Nauch", Bridge, Equipe
+highlights-captain = Capitão, "Cap", Ponte, Comando
+highlights-head-of-personnel = Chefe de Pessoal, "HoP", Serviço, Ponte, Comando
+highlights-chief-engineer = Engenheiro Chefe, "CE", Engenharia, Engenheiro, "Engi", Ponte, Comando
+highlights-chief-medical-officer = Diretor Médico, "CMO", MedBay, "Med", Bridge, Command
+highlights-head-of-security = Chefe de Segurança, "HoS", Segurança, "Sec", Bridge, Comando
+highlights-quartermaster = Intendente, "QM", Carga, Ponte, Comando
+highlights-research-director = Diretor de Pesquisa, "RD", Ciência, "Sci", Bridge, Command
+
 # Security
-highlights-detective  = Detetive, "Dec", Segurança, "SB"
-highlights-security-cadet  = Cadete, Serviço de Segurança, Cadete, Segurança, "SB"
-highlights-security-officer  = Oficial de segurança, SB, Oficial, Segurança, "SB"
-highlights-warden  = Diretor, "Varden", "Vard", Segurança, "SB"
+highlights-detective = Detetive, "Det", Segurança, "Sec"
+highlights-security-cadet = Cadete de Segurança, Secoff, Cadete, Segurança, "Sec"
+highlights-security-officer = Oficial de Segurança, Secoff, Oficial, Segurança, "Sec"
+highlights-warden = Diretor, "Ward", Segurança, "Sec"
+
 # Cargo
-highlights-cargo-technician  = Carregador, Carga
-highlights-salvage-specialist  = Reciclador, "Sucata", Carga, Mineiro
+highlights-cargo-technician = Técnico de Carga, Cargo Tech, "Carga"
+highlights-salvage-specialist = Especialista em Salvamento, Salvager, Salvage, "Salv", "Cargo", Mineiro
+
 # Engineering
-highlights-atmospheric-technician  = Técnico Atmosférico, Técnico Atmos, Atmosférico, Engenharia, "Atmos", "Engenheiro"
-highlights-station-engineer  = Engenheiro, Engenharia, "Eng"
-highlights-technical-assistant  = Assistente técnico, Assistente técnico, Engenharia, Engenheiro, "Engenheiro"
+highlights-atmospheric-technician = Técnico Atmosférico, Atmos tech, Atmosférico, Engenharia, "Atmos", "Engi"
+highlights-station-engineer = Engenheiro de Estação, Engenheiro, Engenheiro, "Engi"
+highlights-technical-assistant = Assistente Técnico, Assistente Técnico, Engenharia, Engenheiro, "Engi"
+
 # Medical
-highlights-chemist  = Químico, Química, "Chem", Medblock, "Med"
-highlights-medical-doctor  = Curandeiro, Doutor, "Doc", Medblok, "Med"
-highlights-medical-intern  = Estagiário, "Dok", Medblok, "Med"
-highlights-paramedic  = Paramédico, "Paramed", Medblok, "Med"
+highlights-chemist = Químico, Química, "Chem", MedBay, "Med"
+highlights-medical-doctor = Médico, Doutor, "Doc", MedBay, "Med"
+highlights-medical-intern = Estagiário Médico, "Doc", Estagiário, MedBay, "Med"
+highlights-paramedic = Paramédico, "Para", MedBay, "Med"
+
 # Science
-highlights-scientist  = Cientista, Ciência, "Cientista"
-highlights-research-assistant  = Cientista, Ciência, "Cientista"
+highlights-scientist = Cientista, Ciência, "Ciência"
+highlights-research-assistant = Assistente de Pesquisa, Ciências, "Sci"
+
 # Civilian
-highlights-bartender  = Barman, Barman, "Bar"
-highlights-botanist  = Botânico, Botânica, Hidroponia
-highlights-chaplain  = Padre, Santo, Igreja
-highlights-chef  = Chef, "Cozinheiro", Cozinha
-# ))))))
-highlights-clown  = Palhaço, Jester, "Pidor"
-highlights-janitor  = Limpador, "Limpeza"
-highlights-lawyer  = Advogado, Advogado
-highlights-librarian  = Bibliotecário, Biblioteca
-highlights-mime  = Mim
-highlights-passenger  = Passageiro, Assistente, "Assistência"
-highlights-service-worker  = Trabalhador de serviço, Trabalhador de serviço, Serviço
+highlights-bartender = Barman, Barman, Barman, "Bar"
+highlights-botanist = Botânico, Botânica, Hidroponia
+highlights-chaplain = Capelão, "Cap", Capela
+highlights-chef = Chef, "Cozinheiro", Cozinha
+highlights-clown = Palhaço, bobo da corte
+highlights-janitor = Zelador, "Jani"
+highlights-lawyer = Advogado, Advogado
+highlights-librarian = Bibliotecário, Biblioteca
+highlights-mime = Mime
+highlights-passenger = Passageiro, Greytider, "Tider"
+highlights-service-worker = Trabalhador de serviço
+
 # Station-specific
-highlights-boxer  = Boxeador, Anel
-highlights-reporter  = Repórter, jornalista
-highlights-zookeeper  = Zelador do Zoológico, Zoológico
-highlights-psychologist  = Psicólogo, Psicologia
+highlights-reporter = Repórter, jornalista
+highlights-psychologist = Psicólogo, Psicologia
+
 # Silicon
-highlights-personal-ai  = IA pessoal, "PII"
-highlights-cyborg  = Estação AI, "AI", "SII"
-highlights-station-ai  = Estação AI, "AI", "SII"
+highlights-personal-ai = IA pessoal, "pAI"
+highlights-cyborg = Ciborgue, Silício, Borg
+highlights-station-ai = Estação AI, Silício, "AI", "sAI"

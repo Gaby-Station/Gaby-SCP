@@ -1,11 +1,10 @@
-ent-CrateChemistryRawAmnesiac  = caixa de matéria prima amnéstica
-    .desc  = Contém um jarro de matéria-prima para produção amnéstica.
-
-ent-CrateChemistryAmnesiacA  = Contém frascos amnésticos Classe A
-    .desc  = Contém frascos amnésticos Classe A
-ent-CrateChemistryAmnesiacB  = Caixa amnéstica classe B
-    .desc  = Contém frascos amnésticos Classe B
-ent-CrateChemistryAmnesiacC  = Caixa amnéstica classe C
-    .desc  = Contém frascos amnésticos Classe C
-ent-CrateChemistryAmnesiacD  = Caixa amnéstica classe D
-    .desc  = Contém frascos amnésticos Classe D
+ent-CrateChemistryRawAmnesiac = Recipiente amnésico
+    .desc = Contém jarro de amnésico bruto usado para produzir amnésicos.
+ent-CrateChemistryAmnesiacA = Recipiente amnésico
+    .desc = Contém jarro com frascos do amnésico A.
+ent-CrateChemistryAmnesiacB = Recipiente amnésico
+    .desc = Contém jarro de frascos de amnésico B.
+ent-CrateChemistryAmnesiacC = Recipiente amnésico
+    .desc = Contém jarro de frascos de amnésico C.
+ent-CrateChemistryAmnesiacD = Recipiente amnésico
+    .desc = Contém jarro com frascos do amnésico D.

@@ -1,2 +1,2 @@
-ent-MobVox  = Uristista McVox
-    .desc  = { ent-BaseMobVox.desc }
+ent-MobVox = Uristiti McVox
+    .desc = { ent-BaseMobVox.desc }

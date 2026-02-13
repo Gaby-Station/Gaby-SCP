@@ -1,5 +1,5 @@
-ent-SmartFridge  = Armazenamento refrigerado para armazenamento de medicamentos e produtos químicos.
-    .desc  = Armazenamento refrigerado para armazenamento de medicamentos e produtos químicos.
-ent-SmartFridgeMedical  = { ent-SmartFridge }
-    .suffix  = Medicamento
-    .desc  = { ent-SmartFridge.desc }
+ent-SmartFridge = SmartFridge
+    .desc = Uma unidade de armazenamento refrigerada para manter itens frios e frescos.
+ent-SmartFridgeMedical = { ent-SmartFridge }
+    .suffix = Médico
+    .desc = { ent-SmartFridge.desc }

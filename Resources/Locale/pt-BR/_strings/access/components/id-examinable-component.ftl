@@ -1,3 +1,3 @@
-id-examinable-component-verb-text  = carteira de identidade
-id-examinable-component-verb-disabled  = O cartão de identificação não está visível.
-id-examinable-component-verb-no-id  = O cartão de identificação não está visível.
+id-examinable-component-verb-text = Cartão de identificação
+id-examinable-component-verb-disabled = Leia um cartão de identificação de perto.
+id-examinable-component-verb-no-id = Nenhum cartão de identificação visível.

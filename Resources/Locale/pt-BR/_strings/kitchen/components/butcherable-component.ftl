@@ -1,6 +1,6 @@
-butcherable-different-tool  = Você precisará de outra ferramenta para cortar { $target }.
-butcherable-knife-butchered-success  = Você divide { $target } com { $knife }.
-butcherable-need-knife  = Primeiro, remova { $target } do contêiner.
-butcherable-not-in-container  = O alvo deve estar morto.
-butcherable-mob-isnt-dead  = Açougueiro
-butcherable-verb-name  = Açougueiro
+﻿butcherable-different-tool = Você vai precisar de uma ferramenta diferente para abater { THE($target) }.
+butcherable-knife-butchered-success = Você mata { THE($target) } com { THE($knife) }.
+butcherable-need-knife = Use um objeto pontiagudo para cortar { THE($target) }.
+butcherable-not-in-container = { CAPITALIZE(THE($target)) } não pode estar em um contêiner.
+butcherable-mob-isnt-dead = Precisa estar morto.
+butcherable-verb-name = Açougueiro

@@ -1,1 +1,1 @@
-pacificator-window-title  = Gerador de pacifismo
+pacificator-window-title = Gerador de paz

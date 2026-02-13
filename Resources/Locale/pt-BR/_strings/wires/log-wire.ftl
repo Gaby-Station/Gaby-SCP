@@ -1,1 +1,1 @@
-log-wire-pulse-access-log  = ERRO: Surto eletromagnético detectado
+log-wire-pulse-access-log = ERRO: Pico eletromagnético detectado

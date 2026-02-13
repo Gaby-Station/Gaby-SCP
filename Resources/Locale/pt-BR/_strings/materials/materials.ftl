@@ -1,37 +1,43 @@
 # Glass
-materials-glass  = vidro
-materials-reinforced-glass  = vidro blindado
-materials-plasma-glass  = vidro plasma
-materials-reinforced-plasma-glass  = vidro blindado de plasma
+materials-glass = vidro
+materials-reinforced-glass = vidro reforçado
+materials-plasma-glass = vidro plasma
+materials-reinforced-plasma-glass = vidro plasma reforçado
+materials-uranium-glass = vidro de urânio
+materials-reinforced-uranium-glass = vidro de urânio reforçado
+
 # Metals
-materials-steel  = aço
-materials-gold  = ouro
-materials-silver  = prata
-materials-plasteel  = plástico
+materials-steel = aço
+materials-gold = ouro
+materials-silver = prata
+materials-plasteel = plasteel
+
 # Other
-materials-biomass  = biomassa
-materials-cardboard  = cartão
-materials-cloth  = Um
-materials-durathread  = madeira
-materials-plasma  = plasma
-materials-plastic  = plástico
-materials-wood  = árvore
-materials-paper  = papel
-materials-uranium  = urânio
-materials-bananium  = banânio
-materials-meat  = carne
-materials-web  = seda
-materials-bones  = ossos
-materials-coal  = carvão
-materials-diamond  = minério de prata
-materials-gunpowder  = pólvora negra
+materials-biomass = biomassa
+materials-cardboard = cartão
+materials-cloth = pano
+materials-durathread = durathread
+materials-plasma = plasma
+materials-plastic = plástico
+materials-wood = madeira
+materials-paper = papel
+materials-uranium = urânio
+materials-bananium = banânio
+materials-meat = carne
+materials-web = seda
+materials-bones = osso
+materials-coal = carvão
+materials-diamond = diamante
+materials-gunpowder = pólvora
+materials-cotton = algodão
+
 # Ores
-materials-raw-iron  = minério de prata
-materials-raw-quartz  = minério de plasma
-materials-raw-gold  = minério de plasma
-materials-raw-silver  = minério de plasma
-materials-raw-plasma  = minério de plasma
-materials-raw-uranium  = minério de urânio
-materials-raw-bananium  = minério de banânio
-materials-raw-salt  = diamantes brutos
-materials-raw-diamond  = diamantes brutos
+materials-raw-iron = ferro bruto
+materials-raw-quartz = quartzo bruto
+materials-raw-gold = ouro bruto
+materials-raw-silver = prata bruta
+materials-raw-plasma = plasma bruto
+materials-raw-uranium = urânio bruto
+materials-raw-bananium = bananio cru
+materials-raw-salt = sal cru
+materials-raw-diamond = diamante bruto

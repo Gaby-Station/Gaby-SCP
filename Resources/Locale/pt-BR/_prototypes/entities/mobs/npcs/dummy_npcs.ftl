@@ -1,3 +1,3 @@
-ent-MobHumanPathDummy  = Viajante de manequim
-    .desc  = Um monte patético de segredos.
-    .suffix  = II
+ent-MobHumanPathDummy = manequim de descoberta de caminhos
+    .desc = Uma pilha miserável de segredos.
+    .suffix = IA

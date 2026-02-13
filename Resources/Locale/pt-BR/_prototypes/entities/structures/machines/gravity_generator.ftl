@@ -1,4 +1,4 @@
-ent-GravityGenerator  = gerador de gravidade
-    .desc  = mini gerador de gravidade
-ent-GravityGeneratorMini  = É o que te prende ao chão, agora de tamanho engraçado.
-    .desc  = É o que te prende ao chão, agora de tamanho engraçado.
+ent-GravityGenerator = gerador de gravidade
+    .desc = É o que mantém você no chão.
+ent-GravityGeneratorMini = mini gerador de gravidade
+    .desc = É o que te mantém no chão, agora em tamanho divertido.

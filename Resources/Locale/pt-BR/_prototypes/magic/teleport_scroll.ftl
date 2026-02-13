@@ -1,3 +1,3 @@
-ent-WizardTeleportScroll  = pergaminho de teletransporte
-    .suffix  = Mago
-    .desc  = { ent-BaseItem.desc }
+ent-WizardTeleportScroll = rolagem de teletransporte
+    .suffix = Mago
+    .desc = { ent-BaseItem.desc }

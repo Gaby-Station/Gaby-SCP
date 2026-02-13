@@ -1,2 +1,2 @@
-ent-BulletImpactEffectRedDisabler  = { "" }
-    .desc  = { "" }
+ent-BulletImpactEffectRedDisabler = { "" }
+    .desc = { "" }

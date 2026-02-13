@@ -1,2 +1,2 @@
-ent-BarberBigBox  = caixa
-    .desc  = Caixa de papelão para guardar coisas.
+ent-BarberBigBox = caixa de papelão
+    .desc = Uma caixa de papelão para guardar coisas.

@@ -1,2 +1,2 @@
-ent-CyborgEndoskeleton  = endoesqueleto ciborgue
-    .desc  = A estrutura na qual os ciborgues se montam. Significativamente menos assustador do que o esperado.
+ent-CyborgEndoskeleton = endoesqueleto ciborgue
+    .desc = Uma estrutura na qual os ciborgues são construídos. Significativamente menos assustador do que o esperado.

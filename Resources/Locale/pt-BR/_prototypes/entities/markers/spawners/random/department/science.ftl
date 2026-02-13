@@ -1,8 +1,8 @@
-ent-LootSpawnerScienceMinor  = Pequeno, 80%
-    .suffix  = Pequeno, 80%
-    .desc  = { ent-MarkerBase.desc }
-ent-LootSpawnerScienceMajor  = gerador de placa ciborgue
-    .suffix  = Grande
-    .desc  = { ent-MarkerBase.desc }
-ent-LootSpawnerRoboticsBorgModule  = gerador de placa ciborgue
-    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerScienceMinor = gerador de suprimentos científicos
+    .suffix = Menor, 80%
+    .desc = { ent-MarkerBase.desc }
+ent-LootSpawnerScienceMajor = gerador de suprimentos científicos
+    .suffix = Principal
+    .desc = { ent-MarkerBase.desc }
+ent-LootSpawnerRoboticsBorgModule = spawner de placa robótica
+    .desc = { ent-MarkerBase.desc }

@@ -1,2 +1,2 @@
-ent-FloorBananiumEntity  = piso de bananaium
-    .desc  = { "" }
+ent-FloorBananiumEntity = piso de bananio
+    .desc = { "" }

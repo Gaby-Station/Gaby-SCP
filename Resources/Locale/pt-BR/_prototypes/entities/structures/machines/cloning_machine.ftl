@@ -1,2 +1,2 @@
-ent-CloningPod  = Clonagem de cápsula. 50% confiável.
-    .desc  = Clonagem de cápsula. 50% confiável.
+ent-CloningPod = pod de clonagem
+    .desc = Um pod de clonagem. 50% confiável.

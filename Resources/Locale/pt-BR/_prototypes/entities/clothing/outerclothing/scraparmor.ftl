@@ -1,8 +1,8 @@
-ent-WiredApronBase  = avental com arame
-    .desc  = Avental costurado com torcidos. Parece inacabado.
-ent-SteelApronBase  = avental coberto de aço
-    .desc  = Avental com placas de aço fixadas casualmente com cabos sobressalentes. Em seu estado atual, ele desmoronará imediatamente se você o colocar.
-ent-WeldedSteelApronBase  = Avental com placas de aço soldadas fixadas em cabos sobressalentes. A armadura não corre mais o risco de desmoronar, mas requer trabalho adicional para ser usada com segurança.
-    .desc  = Avental com placas de aço soldadas fixadas em cabos sobressalentes. A armadura não corre mais o risco de desmoronar, mas requer trabalho adicional para ser usada com segurança.
-ent-ClothingOuterArmorScrap  = armadura de sucata
-    .desc  = Correio de maré brilhante. Espere ou você está morto.
+ent-WiredApronBase = avental com arame
+    .desc = Um avental rosqueado com cabos. Parece incompleto.
+ent-SteelApronBase = avental revestido de aço
+    .desc = Um avental com revestimento de aço fixado aleatoriamente por cabeamento sobressalente. No estado atual, ele desmoronaria imediatamente se fosse usado.
+ent-WeldedSteelApronBase = avental de aço soldado
+    .desc = Um avental fixado com revestimento de aço soldado preso ao cabeamento sobressalente. A armadura não corre mais o risco de desmoronar, mas requer trabalho adicional para ser usada com segurança.
+ent-ClothingOuterArmorScrap = sucata de armadura
+    .desc = A cota de malha brilhante de um marér. Pague a fiança ou você será um homem morto.

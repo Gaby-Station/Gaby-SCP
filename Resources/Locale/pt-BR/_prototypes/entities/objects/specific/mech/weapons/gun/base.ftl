@@ -1,2 +1,2 @@
-ent-BaseMechWeaponRange  = { ent-BaseMechEquipment }
-    .desc  = { ent-BaseMechEquipment.desc }
+ent-BaseMechWeaponRange = { ent-BaseMechEquipment }
+    .desc = { ent-BaseMechEquipment.desc }

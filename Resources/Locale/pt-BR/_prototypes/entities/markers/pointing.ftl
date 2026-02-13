@@ -1,2 +1,2 @@
-ent-PointingArrow  = seta apontando
-    .desc  = { "" }
+ent-PointingArrow = seta apontando
+    .desc = { "" }

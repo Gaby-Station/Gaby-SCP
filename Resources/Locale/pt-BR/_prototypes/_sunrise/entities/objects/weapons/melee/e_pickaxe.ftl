@@ -1,2 +1,2 @@
-ent-EnergyPickaxe  = Ferramenta de mineração holográfica com lâminas de luz dura. Não tem o mesmo poder das armas de energia, mas quando desligada é mais compacta que a maioria das ferramentas de mineração.
-    .desc  = Ferramenta de mineração holográfica com lâminas de luz dura. Não tem o mesmo poder das armas de energia, mas quando desligada é mais compacta que a maioria das ferramentas de mineração.
+ent-EnergyPickaxe = holopicareta
+    .desc = Uma ferramenta de mineração holográfica com lâminas compostas de luz forte. Não tem o mesmo poder de uma arma de energia, mas é mais compacto do que a maioria das ferramentas de mineração quando desligada.

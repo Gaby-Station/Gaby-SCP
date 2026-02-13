@@ -1,6 +1,6 @@
-station-goal-fax-paper-name  = papel
-station-goal-shuttle  = 3]Ordem do Comando Central[bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-fax-paper-name = бумага
+station-goal-shuttle =⠀​[bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -30,8 +30,8 @@ station-goal-shuttle  = 3]Ordem do Comando Central[bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
         ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-singularity  = 3]Ordem do Comando Central[bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-singularity =⠀​[bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -59,8 +59,8 @@ station-goal-singularity  = 3]Ordem do Comando Central[bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
         ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-solar-panels  = 3]Ordem do Comando Central[bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-solar-panels =⠀​[bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -88,8 +88,8 @@ station-goal-solar-panels  = 3]Ordem do Comando Central[bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
         ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-artifacts  = ⠀​​[bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-artifacts =⠀​[bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -118,8 +118,8 @@ station-goal-artifacts  = ⠀​​[bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
         ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-bank  = ⠀​​[bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-bank =⠀​[bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -151,8 +151,8 @@ station-goal-bank  = ⠀​​[bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
         ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-zoo  = 3]Ordem do Comando Central[bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-zoo =⠀​[bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -182,8 +182,8 @@ station-goal-zoo  = 3]Ordem do Comando Central[bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
         ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-mining-outpost  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-mining-outpost = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -214,8 +214,8 @@ station-goal-mining-outpost  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-containment  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-containment = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -246,8 +246,8 @@ station-goal-containment  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-tesla  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-tesla = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -275,8 +275,8 @@ station-goal-tesla  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-delta-xeno-repair  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-delta-xeno-repair = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -308,8 +308,8 @@ station-goal-delta-xeno-repair  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-delta-ambusol  = [bold]Formulário NT/KOM-CK-SIT-OMEGA[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-delta-ambusol = [bold]Форма NT/КОМ-ЦК-СИТ-ОМЕГА[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
     ⠀​[bold]Уровень допуска NT-ОМЕГА. Только для членов Командования. СЖЕЧЬ ПОСЛЕ ПРОЧТЕНИЯ.[/bold]
 
     ⠀Составитель документа: Уиллоу Лайнграф
@@ -341,8 +341,8 @@ station-goal-delta-ambusol  = [bold]Formulário NT/KOM-CK-SIT-OMEGA[/bold]
     ⠀Ответственные за цель: [bold]Капитан, Глава Службы Безопасности, Главный Врач, Старший Инженер, Квартирмейстер объекта { $station }[/bold].
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-weapon-sec  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-weapon-sec = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -372,8 +372,8 @@ station-goal-weapon-sec  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-maints-repair  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-maints-repair = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -402,8 +402,8 @@ station-goal-maints-repair  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-dorms-build  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-dorms-build = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -431,8 +431,8 @@ station-goal-dorms-build  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-battle-shuttle  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-battle-shuttle = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -463,8 +463,8 @@ station-goal-battle-shuttle  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-transit-time  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-transit-time = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 2 часа[/italic]
 
@@ -492,8 +492,8 @@ station-goal-transit-time  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-nuke-room  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-nuke-room = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -522,8 +522,8 @@ station-goal-nuke-room  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-permabrig  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-permabrig = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -552,8 +552,8 @@ station-goal-permabrig  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-farm  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-farm = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -583,8 +583,8 @@ station-goal-farm  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-training-crew  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-training-crew = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -613,8 +613,8 @@ station-goal-training-crew  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-creation-of-furs  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-creation-of-furs = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -644,8 +644,8 @@ station-goal-creation-of-furs  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-saboteurs  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-saboteurs = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -675,8 +675,8 @@ station-goal-saboteurs  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀Ответственные за цель: [bold]Служба Безопасности, Капитан объекта { $station }[/bold].
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-reconnaissance-in-force  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-reconnaissance-in-force = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -706,8 +706,8 @@ station-goal-reconnaissance-in-force  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-reports  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-reports = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 2 часа[/italic]
 
@@ -740,8 +740,8 @@ station-goal-reports  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-intelligent-weapons  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-intelligent-weapons = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -773,8 +773,8 @@ station-goal-intelligent-weapons  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀Ответственные за цель: [bold]Отдел Снабжения, Сервисный отдел, Научный отдел, Медицинский отдел, Служба Безопасности, Инженерный отдел, Капитан объекта { $station }[/bold].
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-medical-replenishment  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-medical-replenishment = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -803,8 +803,8 @@ station-goal-medical-replenishment  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-anomaly  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-anomaly = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -833,8 +833,8 @@ station-goal-anomaly  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-testing-sb  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-testing-sb = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -866,8 +866,8 @@ station-goal-testing-sb  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-cyborgs  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-cyborgs = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -896,8 +896,8 @@ station-goal-cyborgs  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-delegates  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-delegates = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -928,8 +928,8 @@ station-goal-delegates  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-cleaning-up  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-cleaning-up = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -959,8 +959,8 @@ station-goal-cleaning-up  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-humanitarian-aid  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-humanitarian-aid = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -989,8 +989,8 @@ station-goal-humanitarian-aid  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-personnel-recovery  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-personnel-recovery = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -1019,8 +1019,8 @@ station-goal-personnel-recovery  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-church  = [bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-church = [bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -1051,8 +1051,8 @@ station-goal-church  = [bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-sample-collection  = ​[bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-sample-collection = ​[bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -1083,8 +1083,8 @@ station-goal-sample-collection  = ​[bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-virology  = ​[bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-virology = ​[bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 
@@ -1115,8 +1115,8 @@ station-goal-virology  = ​[bold]Formulário NT/KOM-CK-PCS[/bold]
     ⠀​[italic]Центральное Командование дополнительно уведомляет о возможном наличии на объекте сотрудника Центрального Командования — Представителя NanoTrasen и уполномоченного сотрудника Департамента внутреннего надзора — Агента Внутренних Дел. Мы требуем полного содействия данным лицам во всех вопросах.[/italic]
     ⠀⠀
     ⠀​[italic]Место для печатей[/italic]
-station-goal-health-examination  = ​[bold]Formulário NT/KOM-CK-PCS[/bold]
-    ⠀​[head = 3]Ordem do Comando Central[/head]
+station-goal-health-examination = ​[bold]Форма NT/КОМ-ЦК-ПЦС[/bold]
+    ⠀​[head=3] Приказ Центрального Командования[/head]
 
     ⠀​[italic]Срок исполнения: 3 часа[/italic]
 

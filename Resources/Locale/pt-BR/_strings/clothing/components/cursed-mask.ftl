@@ -1,5 +1,5 @@
-cursed-mask-examine-Neutral  = Retrata um rosto completamente inexpressivo.
-cursed-mask-examine-Joy  = Retrata um rosto imerso em alegria.
-cursed-mask-examine-Despair  = Retrata um rosto dominado pelo desespero.
-cursed-mask-examine-Anger  = Ele retrata uma expressão furiosa congelada de raiva.
-cursed-mask-takeover-popup  = A máscara assume o controle do seu corpo!
+cursed-mask-examine-Neutral = Ele retrata um rosto totalmente normal.
+cursed-mask-examine-Joy = Ele retrata um rosto se aquecendo de alegria.
+cursed-mask-examine-Despair = Ele retrata um rosto cheio de desespero.
+cursed-mask-examine-Anger = Ele retrata uma expressão furiosa e bloqueada de raiva.
+cursed-mask-takeover-popup = A máscara assume o controle do seu corpo!

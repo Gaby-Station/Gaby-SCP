@@ -1,8 +1,9 @@
 ## IdCardComponent
 
-access-id-card-component-owner-name-job-title-text  = cartão-chave
-access-id-card-component-owner-full-name-job-title-text  = cartão-chave
-access-id-card-component-default  = cartão-chave
-id-card-component-microwave-burnt  = { $id } assobia!
-id-card-component-microwave-bricked  = { $id } faz um som estranho.
-id-card-component-microwave-safe  = { $id } faz um som estranho.
+access-id-card-component-owner-name-job-title-text = Cartão de identificação{$jobSuffix}
+access-id-card-component-owner-full-name-job-title-text = Cartão de identificação de {$fullName}{$jobSuffix}
+access-id-card-component-default = Carteira de identidade
+
+id-card-component-microwave-burnt = Os circuitos de {$id} estouram alto!
+id-card-component-microwave-bricked = Os circuitos de {$id} chiam!
+id-card-component-microwave-safe = Os circuitos de {$id} fazem um barulho estranho.

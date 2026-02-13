@@ -1,6 +1,6 @@
-ent-FoodCartBase  = Carrinho de comida.
-    .desc  = Carrinho de comida.
-ent-FoodCartHot  = carrinho de comida quente
-    .desc  = Ao contrário dos equívocos, não tem nada a ver com cães.
-ent-FoodCartCold  = carrinho de comida fria
-    .desc  = É o sorveteiro! É o sorveteiro!
+ent-FoodCartBase = carrinho de comida
+    .desc = Um carrinho para comida.
+ent-FoodCartHot = carrinho de comida quente
+    .desc = Vá lá e calunie alguns cachorros.
+ent-FoodCartCold = carrinho de comida fria
+    .desc = É o Sorveteiro! É o Sorveteiro!

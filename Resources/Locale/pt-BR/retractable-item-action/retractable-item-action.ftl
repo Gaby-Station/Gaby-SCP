@@ -1,1 +1,1 @@
-retractable-item-hand-cannot-drop  = Sua mão já está ocupada.
+retractable-item-hand-cannot-drop = Sua mão já está ocupada.

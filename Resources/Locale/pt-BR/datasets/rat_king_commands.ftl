@@ -1,11 +1,14 @@
-rat-king-command-stay-1  = Sentar!
-rat-king-command-stay-2  = Aguentar!
-rat-king-command-stay-3  = Congelar!
-rat-king-command-follow-1  = Servir!
-rat-king-command-follow-2  = Me siga!
-rat-king-command-cheese-1  = Ataque!
-rat-king-command-cheese-2  = Fas!
-rat-king-command-cheese-3  = Matar!
-rat-king-command-cheese-4  = Queijo-os!
-rat-king-command-loose-1  = À vontade!
-rat-king-command-loose-2  = Solte!
+rat-king-command-stay-1 = Sentar!
+rat-king-command-stay-2 = Ficar!
+rat-king-command-stay-3 = Pára!
+
+rat-king-command-follow-1 = Salto!
+rat-king-command-follow-2 = Seguir!
+
+rat-king-command-cheese-1 = Ataque!
+rat-king-command-cheese-2 = Sic!
+rat-king-command-cheese-3 = Matar!
+rat-king-command-cheese-4 = Queijo-los!
+
+rat-king-command-loose-1 = Livre!
+rat-king-command-loose-2 = Solto!

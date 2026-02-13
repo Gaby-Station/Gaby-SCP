@@ -1,5 +1,5 @@
-ent-CableTerminal  = Você verá um pequeno aviso nos cabos vermelhos. "CONECTE O VERMELHO À BATERIA PARA CARREGÁ-LA."
-    .desc  = Você verá um pequeno aviso nos cabos vermelhos. "CONECTE O VERMELHO À BATERIA PARA CARREGÁ-LA."
-ent-CableTerminalUncuttable  = { ent-CableTerminal }
-    .suffix  = sem cortes
-    .desc  = { ent-CableTerminal.desc }
+ent-CableTerminal = terminal de cabo
+    .desc = Você vê um pequeno aviso nos cabos vermelhos em tinta preta suja. "CONECTE O VERMELHO À BATERIA PARA CARREGAR."
+ent-CableTerminalUncuttable = { ent-CableTerminal }
+    .suffix = incortável
+    .desc = { ent-CableTerminal.desc }

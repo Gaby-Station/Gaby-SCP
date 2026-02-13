@@ -1,2 +1,2 @@
-ent-Bookshelf  = Principalmente cheio de livros.
-    .desc  = Principalmente cheio de livros.
+ent-Bookshelf = estante
+    .desc = Principalmente cheio de livros.

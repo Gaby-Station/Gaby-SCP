@@ -1,8 +1,11 @@
-gas-miner-mines-text  = Produz [color=lightgray]{ $gas }[/color] quando ligado.
-gas-miner-amount-text  = Temperatura do gás produzido: { $moles }K (__PH1__°C).
-gas-miner-temperature-text  = Temperatura do gás produzido: { $tempK }K ({ $tempC }°C).
-gas-miner-moles-cutoff-text  = Limiar de traça ambiental: { $moles } moles.
-gas-miner-pressure-cutoff-text  = Limite de pressão ambiente: { $pressure } kPa.
-gas-miner-state-working-text  = O produtor [color=green]está ativo[/color] e está produzindo gás.
-gas-miner-state-idle-text  = O produtor [color=yellow] está ocioso [/color] e não produz gás.
-gas-miner-state-disabled-text  = O produtor [color=red]está offline[/color] e não está produzindo gás.
+gas-miner-mines-text = Ele mina [color=lightgray]{$gas}[/color] quando ativo.
+
+gas-miner-amount-text = Ele mina {$moles} moles de gás por segundo quando ativo.
+gas-miner-temperature-text = Temperatura do gás extraído: {$tempK}K ({$tempC}°C).
+
+gas-miner-moles-cutoff-text = Corte de moles circundantes: {$moles} moles.
+gas-miner-pressure-cutoff-text = Corte de pressão circundante: {$pressure} kPA.
+
+gas-miner-state-working-text = O mineiro está [color=green]ativo[/color] e está minerando gás.
+gas-miner-state-idle-text = O mineiro está [color=yellow]idle[/color] e não está extraindo gás.
+gas-miner-state-disabled-text = O minerador está [color=red]disabled[/color] e não está minerando gás.

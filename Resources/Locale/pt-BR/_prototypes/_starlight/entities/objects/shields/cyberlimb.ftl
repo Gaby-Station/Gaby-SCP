@@ -1,2 +1,2 @@
-ent-EnergyShieldCyber  = Fortaleza
-    .desc  = Um verdadeiro escudo de guerreiro, feito de materiais leves, tornando-o leve e portátil.
+ent-EnergyShieldCyber = baluarte
+    .desc = O verdadeiro escudo para guerreiros, feito de materiais leves e resistentes, tornando-o leve e portátil.

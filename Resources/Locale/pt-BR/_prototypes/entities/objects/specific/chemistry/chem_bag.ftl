@@ -1,2 +1,2 @@
-ent-ChemBag  = saco químico
-    .desc  = Uma bolsa para armazenar diversos produtos químicos, como comprimidos, potes, frascos e seringas.
+ent-ChemBag = bolsa de química
+    .desc = Uma bolsa para armazenar produtos químicos, como comprimidos, latas de comprimidos, frascos e seringas.

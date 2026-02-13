@@ -1,1 +1,1 @@
-clipboard-slot-component-slot-name-pen  = Caneta
+clipboard-slot-component-slot-name-pen = Caneta

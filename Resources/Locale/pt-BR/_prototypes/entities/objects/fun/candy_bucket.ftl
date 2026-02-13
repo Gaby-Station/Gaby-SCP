@@ -1,2 +1,2 @@
-ent-CandyBucket  = balde de doce
-    .desc  = Balde festivo para guardar diversas guloseimas.
+ent-CandyBucket = balde de doces
+    .desc = Um balde festivo para todas as suas delícias.

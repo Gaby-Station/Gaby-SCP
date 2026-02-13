@@ -1,208 +1,100 @@
-accent-pirate-prefix-1  = Argh
-accent-pirate-prefix-2  = Garr
-accent-pirate-prefix-3  = Yarr
-accent-pirate-prefix-4  = Yarrgh
-accent-pirate-replaced-1  = meu
-accent-pirate-replacement-1  = para mim
-accent-pirate-replaced-2  = Você
-accent-pirate-replacement-2  = Você
-accent-pirate-replaced-3  = Olá
-accent-pirate-replacement-3  = ai
-accent-pirate-replaced-4  = sim
-accent-pirate-replacement-4  = sim
-accent-pirate-replaced-5  = cozinha
-accent-pirate-replacement-5  = cozinha
-accent-pirate-replaced-6  = cozinha
-accent-pirate-replacement-6  = cozinha
-accent-pirate-replaced-7  = cozinha
-accent-pirate-replacement-7  = cozinha
-accent-pirate-replaced-8  = cozinha
-accent-pirate-replacement-8  = a cozinha
-accent-pirate-replaced-9  = cozinhas
-accent-pirate-replacement-9  = cozinha
-accent-pirate-replaced-10  = otário
-accent-pirate-replacement-10  = para o campo
-accent-pirate-replaced-11  = vento favorável
-accent-pirate-replacement-11  = vento favorável
-accent-pirate-replaced-12  = tesouro
-accent-pirate-replacement-12  = produção
-accent-pirate-replaced-13  = ei
-accent-pirate-replacement-13  = oi
-accent-pirate-replaced-14  = dinheiro
-accent-pirate-replacement-14  = dobrões
-accent-pirate-replaced-15  = em estoque
-accent-pirate-replacement-15  = dobrões
-accent-pirate-replaced-16  = Grande recipiente para itens.
-accent-pirate-replacement-16  = caixa
-accent-pirate-replaced-17  = caixas
-accent-pirate-replacement-17  = baús
-accent-pirate-replaced-18  = em caixas
-accent-pirate-replacement-18  = em baús
-accent-pirate-replaced-19  = caixa
-accent-pirate-replacement-19  = peito
-accent-pirate-replaced-20  = caixa
-accent-pirate-replacement-20  = peito
-accent-pirate-replaced-21  = atenção
-accent-pirate-replacement-21  = avast
-accent-pirate-replaced-22  = bobagem
-accent-pirate-replacement-22  = estúpido
-accent-pirate-replaced-23  = estúpido
-accent-pirate-replacement-23  = perspicaz
-accent-pirate-replaced-24  = estúpido
-accent-pirate-replacement-24  = perspicaz
-accent-pirate-replaced-25  = idiota
-accent-pirate-replacement-25  = cachorro do mar
-accent-pirate-replaced-26  = idiotas
-accent-pirate-replacement-26  = cães do mar
-accent-pirate-replaced-27  = seu
-accent-pirate-replacement-27  = seu
-accent-pirate-replaced-28  = uma música
-accent-pirate-replacement-28  = Shanti
-accent-pirate-replaced-29  = música
-accent-pirate-replacement-29  = Shanti
-accent-pirate-replaced-30  = Não
-accent-pirate-replacement-30  = dela
-accent-pirate-replaced-31  = Há
-accent-pirate-replacement-31  = chegar
-accent-pirate-replaced-32  = pensamento
-accent-pirate-replacement-32  = argh
-accent-pirate-replaced-33  = lua
-accent-pirate-replacement-33  = argh
-accent-pirate-replaced-34  = passageiro
-accent-pirate-replacement-34  = terra
-accent-pirate-replaced-35  = carga
-accent-pirate-replacement-35  = tesouraria
-accent-pirate-replaced-36  = uma arma
-accent-pirate-replacement-36  = pistola de pederneira
-accent-pirate-replaced-37  = pistolas
-accent-pirate-replacement-37  = pistolas de pederneira
-accent-pirate-replaced-38  = rifle
-accent-pirate-replacement-38  = mosquete
-accent-pirate-replaced-39  = rifles
-accent-pirate-replacement-39  = mosquetes
-accent-pirate-replaced-40  = há
-accent-pirate-replacement-40  = pálpebra
-accent-pirate-replaced-41  = barman
-accent-pirate-replacement-41  = estalajadeiro
-accent-pirate-replaced-42  = bartenders
-accent-pirate-replacement-42  = sótãos
-accent-pirate-replaced-43  = cozinhar
-accent-pirate-replacement-43  = kok
-accent-pirate-replaced-44  = cozinheiros
-accent-pirate-replacement-44  = coque
-accent-pirate-replaced-45  = coque
-accent-pirate-replacement-45  = coque
-accent-pirate-replaced-46  = técnicos
-accent-pirate-replacement-46  = segurar
-accent-pirate-replaced-47  = instalações técnicas
-accent-pirate-replacement-47  = segurar
-accent-pirate-replaced-48  = túneis técnicos
-accent-pirate-replacement-48  = segurar
-accent-pirate-replaced-49  = serviço científico
-accent-pirate-replacement-49  = sentinelas
-accent-pirate-replaced-50  = falar
-accent-pirate-replacement-50  = sentinelas
-accent-pirate-replaced-51  = lança
-accent-pirate-replacement-51  = arpão
-accent-pirate-replaced-52  = lança
-accent-pirate-replacement-52  = arpão
-accent-pirate-replaced-53  = lanças
-accent-pirate-replacement-53  = do arpão
-accent-pirate-replaced-54  = estação
-accent-pirate-replacement-54  = porto
-accent-pirate-replaced-55  = estações
-accent-pirate-replacement-55  = porto
-accent-pirate-replaced-56  = engenheiro
-accent-pirate-replacement-56  = carpinteiro
-accent-pirate-replaced-57  = engenheiros
-accent-pirate-replacement-57  = carpinteiros
-accent-pirate-replaced-58  = Senhor
-accent-pirate-replacement-58  = intendente
-accent-pirate-replaced-59  = chefe de pessoal
-accent-pirate-replacement-59  = intendente
-accent-pirate-replaced-60  = assistente
-accent-pirate-replacement-60  = marinheiro
-accent-pirate-replaced-61  = assistentes
-accent-pirate-replacement-61  = marinheiros
-accent-pirate-replaced-62  = comando central
-accent-pirate-replacement-62  = Almirantado
-accent-pirate-replaced-63  = tsk
-accent-pirate-replacement-63  = Almirantado
-accent-pirate-replaced-64  = mulher jovem
-accent-pirate-replacement-64  = virgem
-accent-pirate-replaced-65  = garotas
-accent-pirate-replacement-65  = virgens
-accent-pirate-replaced-66  = matar
-accent-pirate-replacement-66  = alimentar a carpa
-accent-pirate-replaced-67  = armadura corporal
-accent-pirate-replacement-67  = comer
-accent-pirate-replaced-68  = comer
-accent-pirate-replacement-68  = encher o porão
-accent-pirate-replaced-69  = vezes
-accent-pirate-replacement-69  = cronômetro
-accent-pirate-replaced-70  = macacão
-accent-pirate-replacement-70  = roupa
-accent-pirate-replaced-71  = macacão
-accent-pirate-replacement-71  = roupas
-accent-pirate-replaced-72  = traidor
-accent-pirate-replacement-72  = rato do mar
-accent-pirate-replaced-73  = traidores
-accent-pirate-replacement-73  = ratos marinhos
-accent-pirate-replaced-74  = fechar
-accent-pirate-replacement-74  = parar
-accent-pirate-replaced-75  = papel
-accent-pirate-replacement-75  = papiro
-accent-pirate-replaced-76  = caneta
-accent-pirate-replacement-76  = pena
-accent-pirate-replaced-77  = cabeleireiro
-accent-pirate-replacement-77  = barbeiro
-accent-pirate-replaced-78  = casal
-accent-pirate-replacement-78  = contramestre
-accent-pirate-replaced-79  = chefe de segurança
-accent-pirate-replacement-79  = contramestre
-accent-pirate-replaced-80  = intendente
-accent-pirate-replacement-80  = tesoureiro
-accent-pirate-replaced-81  = quilômetros
-accent-pirate-replacement-81  = tesoureiro
-accent-pirate-replaced-82  = dormitórios
-accent-pirate-replacement-82  = cabines
-accent-pirate-replaced-83  = dormitório
-accent-pirate-replacement-83  = cabines
-accent-pirate-replaced-84  = doca
-accent-pirate-replacement-84  = atracar
-accent-pirate-replaced-85  = ancoragem
-accent-pirate-replacement-85  = amarração
-accent-pirate-replaced-86  = doca
-accent-pirate-replacement-86  = atracar
-accent-pirate-replaced-87  = banheiro
-accent-pirate-replacement-87  = latrina
-accent-pirate-replaced-88  = banheiros
-accent-pirate-replacement-88  = galeões
-accent-pirate-replaced-89  = ardiloso
-accent-pirate-replacement-89  = como um tamboril
-accent-pirate-replaced-90  = ardiloso
-accent-pirate-replacement-90  = como um tamboril
-accent-pirate-replaced-91  = guerra
-accent-pirate-replacement-91  = tempestade ameaçadora
-accent-pirate-replaced-92  = emprestar
-accent-pirate-replacement-92  = âncora em sua garganta
-accent-pirate-replaced-93  = âncora em sua garganta
-accent-pirate-replacement-93  = âncora em sua garganta
-accent-pirate-replaced-94  = morreu
-accent-pirate-replacement-94  = desisti
-accent-pirate-replaced-95  = Porra
-accent-pirate-replacement-95  = me ataque com um trovão
-accent-pirate-replaced-96  = Porra
-accent-pirate-replacement-96  = provocar uma tempestade na cabana
-accent-pirate-replaced-97  = uau
-accent-pirate-replacement-97  = uau
-accent-pirate-replaced-98  = 300 âncoras na minha bunda
-accent-pirate-replacement-98  = 300 âncoras na minha bunda
-accent-pirate-replaced-99  = vá se foder
-accent-pirate-replacement-99  = vá para o gurupés
-accent-pirate-replaced-100  = vá se foder
-accent-pirate-replacement-100  = foi para o gurupés
-accent-pirate-replaced-101  = cartuchos
-accent-pirate-replacement-101  = pó
-accent-pirate-replaced-102  = grande maré
-accent-pirate-replacement-102  = terra
+accent-pirate-prefix-1 = Argh
+accent-pirate-prefix-2 = Garr
+accent-pirate-prefix-3 = Yarr
+accent-pirate-prefix-4 = Yarrgh
+
+accent-pirate-replaced-1 = meu
+accent-pirate-replacement-1 = meu
+
+accent-pirate-replaced-2 = você
+accent-pirate-replacement-2 = sim
+
+accent-pirate-replaced-3 = olá
+accent-pirate-replacement-3 = ai
+
+accent-pirate-replaced-4 = sim
+accent-pirate-replacement-4 = Sim
+
+accent-pirate-replaced-5 = é
+accent-pirate-replacement-5 = ser
+
+accent-pirate-replaced-6 = lá
+accent-pirate-replacement-6 = isso
+
+accent-pirate-replaced-7 = amigo
+accent-pirate-replacement-7 = querido
+
+accent-pirate-replaced-8 = cara
+accent-pirate-replacement-8 = amigo
+
+accent-pirate-replaced-9 = companheiro
+accent-pirate-replacement-9 = querido
+
+accent-pirate-replaced-10 = oi
+accent-pirate-replacement-10 = ai
+
+accent-pirate-replaced-11 = ei
+accent-pirate-replacement-11 = oi
+
+accent-pirate-replaced-12 = dinheiro
+accent-pirate-replacement-12 = dublês
+
+accent-pirate-replaced-13 = dinheiro
+accent-pirate-replacement-13 = dobrões
+
+accent-pirate-replaced-14 = caixote
+accent-pirate-replacement-14 = cofre
+
+accent-pirate-replaced-15 = olá
+accent-pirate-replacement-15 = ai
+
+accent-pirate-replaced-16 = tesouro
+accent-pirate-replacement-16 = saque
+
+accent-pirate-replaced-17 = atenção
+accent-pirate-replacement-17 = avast
+
+accent-pirate-replaced-18 = estúpido
+accent-pirate-replacement-18 = com cérebro de papagaio
+
+accent-pirate-replaced-19 = idiota
+accent-pirate-replacement-19 = cachorro-do-mar
+
+accent-pirate-replaced-20 = seu
+accent-pirate-replacement-20 = você
+
+accent-pirate-replaced-21 = canção
+accent-pirate-replacement-21 = favela
+
+accent-pirate-replaced-22 = música
+accent-pirate-replacement-22 = favela
+
+accent-pirate-replaced-23 = não
+accent-pirate-replacement-23 = não
+
+accent-pirate-replaced-24 = são
+accent-pirate-replacement-24 = arr
+
+accent-pirate-replaced-25 = ai
+accent-pirate-replacement-25 = argh
+
+accent-pirate-replaced-26 = ai
+accent-pirate-replacement-26 = argh
+
+accent-pirate-replaced-27 = passageiro
+accent-pirate-replacement-27 = marinheiro de terra
+
+accent-pirate-replaced-28 = maré
+accent-pirate-replacement-28 = marinheiro de terra
+
+accent-pirate-replaced-29 = capitão
+accent-pirate-replacement-29 = capitão
+
+accent-pirate-replaced-30 = pistola
+accent-pirate-replacement-30 = pederneira
+
+accent-pirate-replaced-31 = rifle
+accent-pirate-replacement-31 = mosquete
+
+accent-pirate-replaced-32 = munição
+accent-pirate-replacement-32 = pólvora

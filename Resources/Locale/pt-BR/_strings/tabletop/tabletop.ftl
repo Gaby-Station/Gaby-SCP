@@ -1,22 +1,22 @@
-## TabletopGameComponent
-
-tabletop-verb-play-game  = Jogar
-tabletop-verb-dump-pieces  = Você não pode remover a figura embutida!
-tabletop-default-board-name  = Você não pode remover a figura embutida!
-tabletop-error-remove-non-hologram  = A placa brilha intensamente!
-tabletop-added-piece  = A placa brilha intensamente!
+﻿## TabletopGameComponent
+tabletop-verb-play-game = Jogar
+tabletop-verb-dump-pieces = Despejar peças
+tabletop-default-board-name = Jogo de tabuleiro
+tabletop-error-remove-non-hologram = Você não pode remover uma peça embutida!
+tabletop-added-piece = A placa brilha intensamente!
 
 ## Chess
-
-tabletop-chess-board-name  = Parchis
-tabletop-chess-flip  = Virar
+tabletop-chess-board-name = Xadrez
+tabletop-chess-flip = Virar
 
 ## Parchís
-
-tabletop-parchis-board-name  = Parchis
+tabletop-parchis-board-name = Parchís
 
 ## Backgammon
+tabletop-backgammon-board-name = Gamão
 
-tabletop-backgammon-board-name  = Damas
-tabletop-checkers-board-name  = Damas
-tabletop-battlemap-board-name  = Mapa de batalha
+## Checkers
+tabletop-checkers-board-name = Damas
+
+## Battlemap
+tabletop-battlemap-board-name = Mapa de batalha

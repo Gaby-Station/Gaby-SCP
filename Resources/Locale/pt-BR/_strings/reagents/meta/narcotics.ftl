@@ -1,28 +1,41 @@
-reagent-name-desoxyephedrine  = desoxiefedrina
-reagent-desc-desoxyephedrine  = A efedrina é mais eficaz e tem efeitos colaterais mais pronunciados. Requer uma dose menor para a prevenção da narcolepsia.
-reagent-name-ephedrine  = efedrina
-reagent-desc-ephedrine  = A cafeína é um estimulante da adrenalina que torna você mais rápido e estável. Também ajuda a neutralizar a narcolepsia em doses acima de 30, mas à custa de grave estresse nervoso.
-reagent-name-stimulants  = hiperzina
-reagent-desc-stimulants  = estimulante experimental
-reagent-name-experimental-stimulants  = estimulante experimental
-reagent-desc-experimental-stimulants  = Versão experimental da huperzina. Seu uso proporciona imunidade quase completa a armas de choque, regeneração acelerada de ferimentos, enorme velocidade de movimento devido à redução da produção de ácido láctico e uma sensação geral de euforia. Os efeitos colaterais incluem baixa coagulação sanguínea, visão de túnel, forte acúmulo de toxinas no sistema circulatório e morte rápida do fígado. Mantenha-se afastado dos animais.
-reagent-name-thc  = THC
-reagent-desc-thc  = Também conhecido como tetrahidrocanabinol. A principal substância psicoativa da cannabis.
-reagent-name-bananadine  = bananadina
-reagent-desc-bananadine  = Um psicodélico suave encontrado em pequenas quantidades nas cascas de banana.
-reagent-name-nicotine  = nicotina
-reagent-desc-nicotine  = É perigoso e altamente viciante, mas é o que diz a propaganda.
-reagent-name-impedrezene  = impedrisina
-reagent-desc-impedrezene  = Uma droga que incapacita uma pessoa ao desacelerar as funções superiores das células cerebrais.
-reagent-name-space-drugs  = miragem espacial
-reagent-desc-space-drugs  = Substância proibida que causa diversos efeitos, como perda de equilíbrio e distúrbios visuais.
-reagent-name-nocturine  = noturno
-reagent-desc-nocturine  = Uma pílula hipnótica e para dormir altamente eficaz desenvolvida pelo Sindicato para operações secretas. Bilhete só de ida para Khonkograd.
-reagent-name-mute-toxin  = toxina muda
-reagent-desc-mute-toxin  = Uma droga espessa que afeta as cordas vocais e priva o usuário da capacidade de falar enquanto é absorvida pelo corpo.
-reagent-name-norepinephric-acid  = ácido norepinefrico
-reagent-desc-norepinephric-acid  = Um produto químico suave que bloqueia os receptores ópticos, deixando o usuário cego enquanto é absorvido pelo corpo.
-reagent-name-tear-gas  = gás lacrimogêneo
-reagent-desc-tear-gas  = O produto químico, que causa lágrimas e irritação severa, é comumente usado para controlar multidões.
-reagent-name-happiness  = felicidade
-reagent-desc-happiness  = Leva ao estupor extático e causa danos cerebrais leves. Facilmente viciante. Uma overdose causa mudanças repentinas de humor.
+reagent-name-desoxyephedrine = desoxiefedrina
+reagent-desc-desoxyephedrine = Uma efedrina mais eficaz, com desvantagens mais ativas. Requer menos doses para curar a narcolepsia.
+
+reagent-name-ephedrine = efedrina
+reagent-desc-ephedrine = Um produto químico estimulador de adrenalina com cafeína que torna você mais rápido e mais difícil de derrubar. Também ajuda a combater a narcolepsia em dosagens superiores a trinta, ao custo de grave estresse nervoso.
+
+reagent-name-stimulants = hiperzina
+reagent-desc-stimulants = Um coquetel químico desenvolvido pela Donk Co. que permite que os agentes se recuperem de atordoamentos mais rapidamente, se movam mais rapidamente e concede uma pequena cura quando você está mais morto do que vivo. Devido à natureza complexa do produto químico, é muito mais difícil para o corpo purgar naturalmente.
+
+reagent-name-experimental-stimulants = estimulantes experimentais
+reagent-desc-experimental-stimulants = Uma versão protótipo do hiperzine. O uso concede imunidade virtual a armas de atordoamento, rápida regeneração de tecidos, extrema velocidade de corrida ao reduzir o acúmulo de ácido láctico e uma sensação geral de euforia. Os efeitos colaterais podem incluir níveis extremos de anticoagulação, visão de túnel, acúmulo extremo de toxinas na corrente sanguínea e morte rápida do fígado. Não dê aos animais.
+
+reagent-name-thc = THC
+reagent-desc-thc = O principal composto psicoativo da cannabis.
+
+reagent-name-bananadine = bananadina
+reagent-desc-bananadine = Um psicodélico suave encontrado em pequenos traços nas cascas de banana.
+
+reagent-name-nicotine = nicotina
+reagent-desc-nicotine = Perigoso e altamente viciante, mas é o que diz a propaganda.
+
+reagent-name-impedrezene = impedrezeno
+reagent-desc-impedrezene = Um narcótico que impede a capacidade de alguém, desacelerando as funções superiores das células cerebrais.
+
+reagent-name-space-drugs = miragem espacial
+reagent-desc-space-drugs = Um composto ilegal que induz uma série de efeitos, como perda de equilíbrio e artefatos visuais.
+
+reagent-name-nocturine = noturno
+reagent-desc-nocturine = Um sedativo e hipnótico altamente eficaz, desenvolvido pelo Syndicate para operações furtivas. Bilhete só de ida para a cidade de Honk-shoo.
+
+reagent-name-mute-toxin = toxina muda
+reagent-desc-mute-toxin = Uma substância química espessa que reveste as cordas vocais, impossibilitando o usuário de falar durante a metabolização.
+
+reagent-name-norepinephric-acid = ácido norepinefrico
+reagent-desc-norepinephric-acid = Uma substância química suave que bloqueia os receptores ópticos, deixando o usuário cego durante a metabolização.
+
+reagent-name-tear-gas = gás lacrimogêneo
+reagent-desc-tear-gas = Um produto químico que causa irritação severa e choro, comumente usado no controle de distúrbios.
+
+reagent-name-happiness = felicidade
+reagent-desc-happiness = Enche você de dormência extática e causa pequenos danos cerebrais. Altamente viciante. Se a overdose causar mudanças repentinas de humor.

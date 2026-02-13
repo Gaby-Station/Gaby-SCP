@@ -1,7 +1,7 @@
-ent-ClockworkWindow  = janela mecânica
-    .desc  = Tenha cuidado para não manchar o latão.
-ent-WindowClockworkDirectional  = janela de enrolamento direcional
-    .desc  = Tenha cuidado para não manchar o latão.
-ent-ClockworkWindowDiagonal  = { ent-ClockworkWindow }
-    .suffix  = Diagonal
-    .desc  = { ent-ClockworkWindow.desc }
+ent-ClockworkWindow = janela mecânica
+    .desc = Não manche o latão aí embaixo.
+ent-WindowClockworkDirectional = janela de relógio direcional
+    .desc = Não manche o latão aí embaixo.
+ent-ClockworkWindowDiagonal = { ent-ClockworkWindow }
+    .suffix = diagonal
+    .desc = { ent-ClockworkWindow.desc }

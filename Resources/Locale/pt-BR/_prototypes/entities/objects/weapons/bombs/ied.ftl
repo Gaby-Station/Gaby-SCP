@@ -1,8 +1,8 @@
-ent-ImprovisedExplosive  = dispositivo explosivo improvisado
-    .desc  = Um fraco dispositivo incendiário caseiro.
-ent-ImprovisedExplosiveEmpty  = Um fraco dispositivo incendiário caseiro. Não tem combustível.
-    .desc  = Um fraco dispositivo incendiário caseiro. Não tem combustível.
-    .suffix  = Vazio
-ent-ImprovisedExplosiveFuel  = { ent-ImprovisedExplosiveEmpty }
-    .desc  = Um fraco dispositivo incendiário caseiro. Não há fios nele.
-    .suffix  = Combustível
+ent-ImprovisedExplosive = dispositivo explosivo improvisado
+    .desc = Um dispositivo incendiário fraco e improvisado.
+ent-ImprovisedExplosiveEmpty = dispositivo explosivo improvisado
+    .desc = Um dispositivo incendiário fraco e improvisado. Este não tem combustível.
+    .suffix = vazio
+ent-ImprovisedExplosiveFuel = { ent-ImprovisedExplosiveEmpty }
+    .desc = Um dispositivo incendiário fraco e improvisado. Este está faltando fios.
+    .suffix = combustível

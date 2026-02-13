@@ -1,14 +1,14 @@
-ent-ClothingBackpackCaptainWhite  = Mochila branca com detalhes dourados e emblema do capitão. Tecido grosso, alças macias, vários bolsos internos.
-    .desc  = mochila preta do capitão
-ent-ClothingBackpackCaptainBlack  = mochila preta do capitão
-    .desc  = Mochila preta com detalhes dourados e emblema do capitão. Costuras reforçadas e ajuste confortável nos ombros.
+ent-ClothingBackpackCaptainWhite = mochila de capitão branco
+    .desc = Uma mochila branca com detalhes dourados e um emblema de capitão. Tecido resistente, alças acolchoadas e alguns bolsos internos.
+ent-ClothingBackpackCaptainBlack = mochila preta do capitão
+    .desc = Uma mochila preta com detalhes dourados e um emblema de capitão. Costura reforçada e ajuste confortável.
 
-ent-ClothingBackpackSatchelCaptainWhite  = Bolsa de couro branca com aba rígida e acessórios elegantes. Adequado para documentos.
-    .desc  = Bolsa de couro branca com aba rígida e acessórios elegantes. Adequado para documentos.
-ent-ClothingBackpackSatchelCaptainBlack  = bolsa de capitão preta
-    .desc  = Bolsa de couro preta com aba rígida e fechos confiáveis. Existem compartimentos no interior para que você não precise vasculhar em vão.
+ent-ClothingBackpackSatchelCaptainWhite = bolsa de capitão branca
+    .desc = Uma bolsa de couro branco com aba rígida e detalhes elegantes. Bom para documentos e pequenos itens essenciais.
+ent-ClothingBackpackSatchelCaptainBlack = bolsa preta do capitão
+    .desc = Uma bolsa de couro preto com aba rígida e fechos confiáveis. Possui compartimentos para que você não cave inutilmente.
 
-ent-ClothingBackpackDuffelCaptainWhite  = mochila branca do capitão
-    .desc  = Mochila branca com abertura ampla e fundo reforçado. Transferirá o formulário, definirá e “por precaução” sem complicações desnecessárias.
-ent-ClothingBackpackDuffelCaptainBlack  = mochila preta do capitão
-    .desc  = Bolsa preta com abertura ampla e fundo reforçado. Uma opção prática quando você precisa levar mais do que cabe em uma mochila normal.
+ent-ClothingBackpackDuffelCaptainWhite = bolsa de capitão branca
+    .desc = Uma mochila branca com abertura ampla e fundo reforçado. Transporta um uniforme, um kit e equipamento "por precaução".
+ent-ClothingBackpackDuffelCaptainBlack = mochila preta do capitão
+    .desc = Bolsa preta com abertura ampla e fundo reforçado. A escolha prática quando uma mochila normal não é suficiente.

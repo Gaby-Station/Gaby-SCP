@@ -1,2 +1,2 @@
-ent-BaseHandheldComputer  = { ent-BaseItem }
-    .desc  = { ent-BaseItem.desc }
+ent-BaseHandheldComputer = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }

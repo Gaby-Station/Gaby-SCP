@@ -1,17 +1,22 @@
-machine-insert-item  = { CAPITALIZE($user) } coloca { $item } em { $machine }.
-machine-upgrade-examinable-verb-text  = Melhorias
-machine-upgrade-examinable-verb-message  = Descubra quais configurações do dispositivo foram melhoradas.
-machine-upgrade-increased-by-percentage  = O parâmetro [color=yellow]{ $upgraded }[/color] foi aumentado em { $percent }%.
-machine-upgrade-decreased-by-percentage  = O parâmetro [color=yellow]{ $upgraded }[/color] diminuiu em { $percent }%.
-machine-upgrade-increased-by-amount  = O parâmetro [color=yellow]{ $upgraded }[/color] foi aumentado em { $difference }.
-machine-upgrade-decreased-by-amount  = O parâmetro [color=yellow]{ $upgraded }[/color] foi reduzido em { $difference }.
-machine-upgrade-not-upgraded  = O parâmetro [color=yellow]{ $upgraded }[/color] não melhorou.
-machine-part-name-capacitor  = Capacidade de matéria
-machine-part-name-manipulator  = Capacidade de matéria
-machine-part-name-matter-bin  = Capacidade de matéria
-machine-part-name-power-cell  = Bateria
-two-way-lever-left  = mova a alavanca para a esquerda
-two-way-lever-right  = mova a alavanca para a direita
-two-way-lever-cant  = A alavanca não pode ser movida nesta direção!
-recycler-count-items  = Objetos retrabalhados: { $items }.
-machine-already-in-use  = { CAPITALIZE($machine) } já está em uso.
+machine-insert-item = {CAPITALIZE(THE($user))} inseriu {THE($item)} em {THE($machine)}.
+
+machine-upgrade-examinable-verb-text = Atualizações
+machine-upgrade-examinable-verb-message = Examine as atualizações da máquina.
+machine-upgrade-increased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] aumentou em {$percent}%.
+machine-upgrade-decreased-by-percentage = [color=yellow]{CAPITALIZE($upgraded)}[/color] diminuiu {$percent}%.
+machine-upgrade-increased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/color] aumentado em {$difference}.
+machine-upgrade-decreased-by-amount = [color=yellow]{CAPITALIZE($upgraded)}[/color] diminuiu em {$difference}.
+machine-upgrade-not-upgraded = [color=yellow]{CAPITALIZE($upgraded)}[/color] não atualizado.
+
+machine-part-name-capacitor = Capacitor
+machine-part-name-manipulator = Manipulador
+machine-part-name-matter-bin = Caixa de assuntos
+machine-part-name-power-cell = Célula de energia
+
+two-way-lever-left = empurre para a esquerda
+two-way-lever-right = empurre para a direita
+two-way-lever-cant = não posso empurrar a alavanca dessa maneira!
+
+recycler-count-items = Objetos {$items} reciclados.
+
+machine-already-in-use = {CAPITALIZE(THE($machine))} já está em uso.

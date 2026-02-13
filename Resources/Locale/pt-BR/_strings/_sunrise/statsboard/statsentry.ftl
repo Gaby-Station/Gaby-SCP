@@ -1,57 +1,56 @@
-statsentry-character  = Personagem:
-statsentry-dmg  = Tratamento recebido: { $name }\n
-statsentry-heal  = Danos causados: { $name }\n
-statsentry-inf-dmg  = Danos causados: { $name }\n
-statsentry-inf-heal  = Controle remoto: { $name }\n
-statsentry-slp-cnt  = Cremado { $name } vezes\n
-statsentry-crm-cnt  = Cremado { $name } vezes\n
-statsentry-dre-cnt  = Chocado { $name } vezes\n
-statsentry-elctr-cnt  = Chocado { $name } vezes\n
-statsentry-cuff-cnt  = Encadeado { $name } vezes\n
-statsentry-absrbpudd-cnt  = { $name } poças foram removidas\n
-statsentry-spnt-tk  = Gastei { $name } TK\n
-statsentry-dead-cnt  = Morreu { $name } vezes\n
-statsentry-hmn-kill-cnt  = Matou { $name } humanóide\n
-statsentry-mouse-kill-cnt  = Ratos mortos { $name }\n
-statsentry-cuff-time  = Foi algemado [color=yellow]{ $name }[/color]\n
-statsentry-space-time  = Estava no espaço [color=yellow]{ $name }[/color]\n
-statsentry-sleep-time  = Dormi demais [color=yellow]{ $name }[/color]\n
-statsentry-int-cc  = Tocou no cartão do capitão: { $name }
-statsentry-species-entry-name  = Estavam presentes representantes das seguintes raças na estação:
-statsentry-species-entry  = [bold][color=white]{ $name }[/color][/bold] no valor de [color=white]{ $count }[/color].
-statsentry-mst-pop-species  = A raça mais comum foi [color=white]{ $name }[/color].
-statsentry-bank-balance-total  = Saldo total da estação: [color=white]{ $balance }[/color] créditos.
-statsentry-bank-balance-account  = Saldo da conta [color=white]{ $account }[/color]: [color=white]{ $balance }[/color] créditos.
-statsentry-firth-murder  = A primeira vítima da estação é [color=white]{ $name }[/color]{ $username }.
-statsentry-firth-murder-time  = Hora da morte - [color=yellow]{ $time }[/color].
-statsentry-firth-murder-killer  = O assassino é [color=white]{ $name }[/color]{ $username }.
-statsentry-firth-murder-killer-none  = A morte ocorreu em circunstâncias desconhecidas.
-statsentry-total-slipped  = Os jogadores neste turno escorregaram [color=white]{ $count }[/color] vezes.
-statsentry-most-slipped  = Escorregou na maioria das vezes [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color].
-statsentry-total-creampied  = Total de jogadores cremados: { $total }.
-statsentry-most-dead  = A maioria das mortes ocorreu [color=white]{ $name }[/color]{ $username }, ou seja, [color=white]{ $count }[/color] vezes.
-statsentry-total-door-emaged  = As câmaras de ar foram magnetizadas [color=white]{ $count }[/color] vezes.
-statsentry-most-door-emaged-character  = A maioria dos gateways foram ampliados - [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color] vezes.
-statsentry-joint-created  = [color=white]{ $count }[/color] batentes foram rolados.
-statsentry-total-killed-mice  = Camundongos [color=white]{ $count }[/color] foram mortos.
-statsentry-most-kills-mice-character  = { $name }[/color]{ $username } cometeu genocídio matando ratos [color=white]{ $count }[/color].
-statsentry-hamster-killer  = O assassino de Hamlet foi [color=white]{ $name }[/color]{ $username }.
-statsentry-total-cuffed-count  = Os jogadores foram algemados [color=white]{ $count }[/color] vezes.
-statsentry-player-with-longest-cuffed-time  = Os que passaram mais tempo algemados foram [color=white]{ $name }[/color]{ $username } - [color=yellow]{ $time }[/color].
-statsentry-total-sleep-time  = O tempo total de sono dos jogadores foi [color=yellow]{ $time }[/color].
-statsentry-player-with-longest-sleep-time  = O arganaz principal da estação era [color=white]{ $name }[/color]{ $username }.
-statsentry-player-with-longest-sleep-time-time  = Ele dormiu por [color=yellow]{ $time }[/color].
-statsentry-player-with-longest-space-time  = Passou mais tempo no espaço [color=white]{ $name }[/color]{ $username } - [color=yellow]{ $time }[/color].
-statsentry-clown-cuffed  = O palhaço [color=white]{ $name }[/color]{ $username } foi acorrentado logo após [color=yellow]{ $time }[/color].
-statsentry-total-heal  = No total, os jogadores curaram [color=white]{ $count }[/color] de dano.
-statsentry-player-with-most-infected-heal  = Os jogadores que curaram mais danos foram [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color].
-statsentry-total-damage  = No total, os jogadores receberam [color=white]{ $count }[/color] de dano.
-statsentry-player-with-most-infected-damage  = O maior dano foi causado por [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color].
-statsentry-player-with-min-spent-tk  = O menor número de telecristais foi gasto por [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color]TK.
-statsentry-player-with-max-hum-kills  = O verdadeiro maníaco nesta mudança foi [color=white]{ $name }[/color]{ $username }.
-statsentry-player-with-max-hum-kills-count  = Ele matou humanóides [color=white]{ $count }[/color].
-statsentry-player-with-max-damage  = [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color] recebeu o maior dano. Aqui está o pobre rapaz.
-statsentry-total-absorbed-puddle  = Os jogadores removeram poças de [color=white]{ $count }[/color].
-statsentry-player-with-most-puddle-absorb  = A maioria das poças foi removida graças a [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color].
-statsentry-total-captain-card-interacted  = A carta do capitão foi vista por jogadores de [color=white]{ $count }[/color].
-statsentry-total-electrocuted-count  = Os jogadores ficaram chocados [color=white]{ $count }[/color] vezes.
+statsentry-character = Pessoa:
+statsentry-dmg = Nome usado: { $name }\n
+statsentry-heal = Nome de usuário: { $name }\n
+statsentry-inf-dmg = Nome de usuário: { $name }\n
+statsentry-inf-heal = Voce sabe: { $name }\n
+statsentry-slp-cnt = Подскользнулся { $name } раз\n
+statsentry-crm-cnt = Кремирован { $name } por\n
+statsentry-dre-cnt = Емагнул { $name } дверей\n
+statsentry-elctr-cnt = Шокирован { $name } por\n
+statsentry-cuff-cnt = Faça { $name } por\n
+statsentry-absrbpudd-cnt = Убрано { $name } луж\n
+statsentry-spnt-tk = { $name } ТК\n
+statsentry-dead-cnt = Use { $name } por\n
+statsentry-hmn-kill-cnt = Убил { $name } гуманоидов\n
+statsentry-mouse-kill-cnt = Use meu { $name }\n
+statsentry-cuff-time = Ele está em [color=yellow]{ $name }[/color]\n
+statsentry-space-time = No cosmos [color=yellow]{ $name }[/color]\n
+statsentry-sleep-time = Prospal [color=yellow]{ $name }[/color]\n
+statsentry-int-cc = Capitão do cartão de jogo: { $name }
+statsentry-species-entry-name = No complexo, este é o seguinte:
+statsentry-species-entry = [bold][color=white]{ $name }[/color][/bold] na coleção [color=white]{ $count }[/color].
+statsentry-mst-pop-species = O processo de transferência foi [color=white]{ $name }[/color].
+statsentry-bank-balance = Para conectar os itens, você pode equilibrar a carga com [color=white]{ $balance }[/color] créditos.
+statsentry-firth-murder = Por exemplo, o complexo - [color=white]{ $name }[/color]{ $username }.
+statsentry-firth-murder-time = O valor é - [color=yellow]{ $time }[/color].
+statsentry-firth-murder-killer = Exemplo - [color=white]{ $name }[/color]{ $username }.
+statsentry-firth-murder-killer-none = Смерть наступила при неизвестных обстоятельствах.
+statsentry-total-slipped = Jogue nesta cena com [color=white]{ $count }[/color].
+statsentry-most-slipped = Mais você pode usar [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color].
+statsentry-total-creampied = Seu jogador cremador: { $total }.
+statsentry-most-dead = Mais importante é o nome [color=white]{ $name }[/color]{ $username }, e também [color=white]{ $count }[/color].
+statsentry-total-door-emaged = Você pode usar [color=white]{ $count }[/color] por favor.
+statsentry-most-door-emaged-character = Mais do que isso, é necessário - [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color] раз.
+statsentry-joint-created = Isso é [color=white]{ $count }[/color] косяков.
+statsentry-total-killed-mice = Eu usei [color=white]{ $count }[/color] eu.
+statsentry-most-kills-mice-character = { $name }[/color]{ $username } устроил геноцид, убив [color=white]{ $count }[/color] мышей.
+statsentry-hamster-killer = Use um jogo como [color=white]{ $name }[/color]{ $username }.
+statsentry-total-cuffed-count = O jogo foi criado com [color=white]{ $count }[/color].
+statsentry-player-with-longest-cuffed-time = Mais tarde, você encontrará [color=white]{ $name }[/color]{ $username } - [color=yellow]{ $time }[/color].
+statsentry-total-sleep-time = Deixe o jogo funcionar com [color=yellow]{ $time }[/color].
+statsentry-player-with-longest-sleep-time = A conexão completa é chamada [color=white]{ $name }[/color]{ $username }.
+statsentry-player-with-longest-sleep-time-time = Eu coloquei na solução [color=yellow]{ $time }[/color].
+statsentry-player-with-longest-space-time = Mais momentos no cosmos provaram [color=white]{ $name }[/color]{ $username } - [color=yellow]{ $time }[/color].
+statsentry-clown-cuffed = O comando [color=white]{ $name }[/color]{ $username } foi criado por [color=yellow]{ $time }[/color].
+statsentry-total-heal = Qualquer jogo foi feito com [color=white]{ $count }[/color] урона.
+statsentry-player-with-most-infected-heal = Mais alto no jogo foi [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color].
+statsentry-total-damage = O jogo foi muito mais [color=white]{ $count }[/color] урона.
+statsentry-player-with-most-infected-damage = Mais do que isso é [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color].
+statsentry-player-with-min-spent-tk = Meu telefone está usando o recurso [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color]ТК.
+statsentry-player-with-max-hum-kills = Eu coloquei Man nesta cena como [color=white]{ $name }[/color]{ $username }.
+statsentry-player-with-max-hum-kills-count = Em [color=white]{ $count }[/color] гуманоидов.
+statsentry-player-with-max-damage = Mais você pode usar [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color]. Isso é bom.
+statsentry-total-absorbed-puddle = O jogo foi executado [color=white]{ $count }[/color] луж.
+statsentry-player-with-most-puddle-absorb = Mais do que isso, você pode usar [color=white]{ $name }[/color]{ $username } - [color=white]{ $count }[/color].
+statsentry-total-captain-card-interacted = A carta do capitão foi colocada em [color=white]{ $count }[/color] jogos.
+statsentry-total-electrocuted-count = Jogue o jogo [color=white]{ $count }[/color].

@@ -1,3 +1,3 @@
-ent-ScpBackroomsSlime  = lesma verde
-    .suffix  = Bekrumsy
-    .desc  = { ent-MobAdultSlimesGreen.desc }
+ent-ScpBackroomsSlime = lodo verde
+    .suffix = Bastidores
+    .desc = { ent-MobAdultSlimesGreen.desc }

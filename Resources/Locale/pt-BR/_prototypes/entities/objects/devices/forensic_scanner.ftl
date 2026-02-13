@@ -1,6 +1,6 @@
-ent-ForensicScanner  = scanner forense
-    .desc  = Um dispositivo portátil que permite digitalizar objetos em busca de impressões digitais e peças de roupa.
-ent-ForensicReportPaper  = relatório forense
-    .desc  = Na melhor das hipóteses, evidências circunstanciais.
-ent-PaperAccessLogs  = registro de acesso
-    .desc  = Impressão da confiável sonda de registro do detetive.
+ent-ForensicScanner = scanner forense
+    .desc = Um dispositivo portátil que pode escanear objetos em busca de impressões digitais e fibras.
+ent-ForensicReportPaper = relatório de scanner forense
+    .desc = Provas circunstanciais, na melhor das hipóteses.
+ent-PaperAccessLogs = registros de acesso
+    .desc = Uma impressão do confiável LogProbe do detetive.

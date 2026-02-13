@@ -1,3 +1,3 @@
-power-receiver-component-on-examine-main  = Parece que a nutrição é { $stateText }.
-power-receiver-component-on-examine-powered  = [color=darkgreen]disponível[/color]
-power-receiver-component-on-examine-unpowered  = [color=darkred]ausente[/color]
+power-receiver-component-on-examine-main = Parece ser {$stateText}.
+power-receiver-component-on-examine-powered = [color=darkgreen]alimentado[/color]
+power-receiver-component-on-examine-unpowered =  [color=darkred]sem alimentação[/color]

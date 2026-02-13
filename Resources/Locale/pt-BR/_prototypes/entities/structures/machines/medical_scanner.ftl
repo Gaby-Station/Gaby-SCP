@@ -1,2 +1,2 @@
-ent-MedicalScanner  = scanner médico
-    .desc  = Enorme scanner médico.
+ent-MedicalScanner = scanner médico
+    .desc = Um scanner médico volumoso.

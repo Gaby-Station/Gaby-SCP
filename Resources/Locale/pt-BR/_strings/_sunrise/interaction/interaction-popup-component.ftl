@@ -1,3 +1,3 @@
-petting-success-gorilla  = Você acaricia a cabeça enorme de { $target }.
-petting-failure-gorilla  = Você estende a mão para acariciar { $target }, mas { $target } se levanta em toda a sua altura, tornando isso difícil.
-pat-success-generic  = Você acaricia a cabeça de { $target }.
+petting-success-gorilla = Você gostaria de { $target } em { POSS-ADJ($target) } fazer um grande trabalho.
+petting-failure-gorilla = Se você usar { $target }, não { $target } será colocado no topo da lista, então você será capaz de fazê-lo.
+pat-success-generic = Você vai gostar de { $target } em { POSS-ADJ($target) }.

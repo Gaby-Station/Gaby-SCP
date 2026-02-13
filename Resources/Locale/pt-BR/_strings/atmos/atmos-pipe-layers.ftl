@@ -1,9 +1,10 @@
-atmos-pipe-layers-component-layer-primary  = básico
-atmos-pipe-layers-component-layer-secondary  = terciário
-atmos-pipe-layers-component-layer-tertiary  = Configuração alterada para __PH0__.
-atmos-pipe-layers-component-change-layer  = Configuração alterada para { $layerName }.
-atmos-pipe-layers-component-current-layer  = Localizado na configuração { $layerName }.
-atmos-pipe-layers-component-select-layer  = Configuração { $layerName }
-atmos-pipe-layers-component-tool-missing  = Obrigatório { INDEFINITE($toolName) } { $toolName }
-atmos-pipe-layers-component-pipes-are-covered  = Os canos estão fechados
-atmos-pipe-layers-component-cannot-adjust-pipes  = Os tubos devem ser abertos antes de serem ajustados.
+atmos-pipe-layers-component-layer-primary = primário
+atmos-pipe-layers-component-layer-secondary = secundário
+atmos-pipe-layers-component-layer-tertiary = terciário
+
+atmos-pipe-layers-component-change-layer = Ajustado para sua configuração {$layerName}.
+atmos-pipe-layers-component-current-layer = Está em sua configuração {$layerName}.
+atmos-pipe-layers-component-select-layer = Configuração {CAPITALIZE($layerName)}
+atmos-pipe-layers-component-tool-missing = Requer {INDEFINITE($toolName)} {$toolName}
+atmos-pipe-layers-component-pipes-are-covered = Os canos estão cobertos
+atmos-pipe-layers-component-cannot-adjust-pipes = Você precisa descobrir os tubos antes que possam ser ajustados.

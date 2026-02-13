@@ -1,5 +1,6 @@
-ent-MobHellspawn  = A força imparável da carnificina.
-    .desc  = inferno
-ent-MobHellspawnGhostRole  = A força imparável da carnificina.
-    .desc  = A força imparável da carnificina.
-    .suffix  = O papel do fantasma
+ent-MobHellspawn = cria do inferno
+    .desc = Uma força imparável de carnificina.
+    .suffix = NPC
+ent-MobHellspawnGhostRole = cria do inferno
+    .desc = Uma força imparável de carnificina.
+    .suffix = Papel Fantasma

@@ -1,2 +1,2 @@
-ent-AlertScp096HeatingUp  = { ent-AlertSpriteView }
-    .desc  = { ent-AlertSpriteView.desc }
+ent-AlertScp096HeatingUp = { ent-AlertSpriteView }
+    .desc = { ent-AlertSpriteView.desc }

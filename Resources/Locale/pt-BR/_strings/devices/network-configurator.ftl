@@ -1,53 +1,55 @@
-# Popups
+﻿# Popups
 
-network-configurator-device-saved  = Existem muitos dispositivos salvos neste dispositivo!
-network-configurator-device-failed  = A memória do dispositivo foi atualizada.
-network-configurator-too-many-devices  = A memória do dispositivo foi atualizada.
-network-configurator-update-ok  = Dispositivo de rede: __PH0__ já salvo.
-network-configurator-device-already-saved  = Dispositivo de rede: { $device } já salvo.
-network-configurator-device-access-denied  = Sem acesso!
-network-configurator-link-mode-started  = Conexão do dispositivo iniciada: { $device }
-network-configurator-link-mode-stopped  = A conexão do dispositivo foi encerrada.
-network-configurator-mode-link  = Composto
-network-configurator-mode-list  = Modo alterado para: __PH0__
-network-configurator-switched-mode  = Modo alterado para: { $mode }
+network-configurator-device-saved = Dispositivo de rede {$device} salvo com sucesso com endereço {$address}!
+network-configurator-device-failed = Falha ao salvar o dispositivo de rede {$device}! Nenhum endereço atribuído!
+network-configurator-too-many-devices = Muitos dispositivos armazenados neste dispositivo!
+network-configurator-update-ok = Armazenamento do dispositivo atualizado.
+network-configurator-device-already-saved = dispositivo de rede: {$device} já está salvo.
+network-configurator-device-access-denied = Acesso negado!
+network-configurator-link-mode-started = Dispositivo de vinculação iniciado: {$device}
+network-configurator-link-mode-stopped = Parou de vincular.
+network-configurator-mode-link = Link
+network-configurator-mode-list = Lista
+network-configurator-switched-mode = Modo alterado para: {$mode}
+
 # Verbs
-network-configurator-save-device  = Salvar dispositivo
-network-configurator-configure  = Sintonia
-network-configurator-switch-mode  = Modo de mudança
-network-configurator-link-defaults  = Conexão padrão
-network-configurator-start-link  = Iniciar conexão
-network-configurator-link  = Conectar
+network-configurator-save-device = Salvar dispositivo
+network-configurator-configure = Configurar
+network-configurator-switch-mode = Modo de mudança
+network-configurator-link-defaults = Padrões de link
+network-configurator-start-link = Link inicial
+network-configurator-link = Link
+
 # ui
-network-configurator-title-saved-devices  = Dispositivos salvos
-network-configurator-title-device-configuration  = Configuração do dispositivo
-# ui
-network-configurator-ui-clear-button  = Claro
-network-configurator-ui-count-label =
-    { $count } { $count ->
-        [one] устройство
-        [few] устройства
-       *[other] устройств
-    }.
-network-configurator-name-set  = Instalar
-network-configurator-name-add  = Adicionar
-network-configurator-name-edit  = Mudar
-network-configurator-name-clear  = Claro
-network-configurator-name-copy  = Cópia
-network-configurator-name-show  = Mostrar
+network-configurator-title-saved-devices = Dispositivos salvos
+network-configurator-title-device-configuration = Configuração do dispositivo
+network-configurator-ui-clear-button = Claro
+network-configurator-ui-count-label = {$count} Dispositivos
+
+network-configurator-text-set = Definir
+network-configurator-text-add = Adicionar
+network-configurator-text-clear = Claro
+network-configurator-text-copy = Cópia
+network-configurator-text-show = Mostrar
+
 # tooltips
-network-configurator-tooltip-set  = Criando uma lista de dispositivos de destino
-network-configurator-tooltip-add  = Adicionando à lista de dispositivos de destino
-network-configurator-tooltip-edit  = Editando a lista de dispositivos de destino
-network-configurator-tooltip-clear  = Limpando a lista de dispositivos de destino
-network-configurator-tooltip-copy  = Copiando uma lista de dispositivos de destino para a multiferramenta
-network-configurator-tooltip-show  = __PH0__Conexão__PH1__
+network-configurator-tooltip-set = Define a lista de dispositivos de destino
+network-configurator-tooltip-add = Adicionado à lista de dispositivos de destino
+network-configurator-tooltip-edit = Editar lista de dispositivos de destino
+network-configurator-tooltip-clear = Limpar lista de dispositivos de destino
+network-configurator-tooltip-copy = Copiar lista de dispositivos de destino para ferramenta retida
+network-configurator-tooltip-show = Mostrar uma visualização holográfica da lista de dispositivos alvo
+
 # examine
-network-configurator-examine-mode-link  = [color=red]Conexão[/color]
-network-configurator-examine-mode-list  = [color=green]Lista[/color]
-network-configurator-examine-current-mode  = Modo atual: { $mode }
-network-configurator-examine-switch-modes  = Pressione { $key } para mudar de modo
+network-configurator-examine-mode-link = [color=red]Link[/color]
+network-configurator-examine-mode-list = [color=green]Lista[/color]
+network-configurator-examine-current-mode = Modo atual: {$mode}
+network-configurator-examine-switch-modes = Pressione {$key} para mudar de modo
+
 # item status
-network-configurator-item-status-label =
-    Режим: { $mode }
-    Переключить: { $keybinding }
+network-configurator-item-status-label = Modo: {$mode}
+    Switch: {$keybinding}
+
+# command
+cmd-clearnetworklinkoverlays-desc = Limpe todas as sobreposições de link de rede.
+cmd-clearnetworklinkoverlays-help = Uso: clearnetworklinkoverlays

@@ -1,1 +1,1 @@
-tool-component-qualities  = Este item pode ser usado para [color=yellow]{ $qualities }[/color].
+tool-component-qualities = Este item pode ser usado para [color=yellow]{ $qualities }[/color].

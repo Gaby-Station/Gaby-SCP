@@ -1,2 +1,2 @@
-ent-PinpointerIcarus  = apontador "Ikarus"
-    .desc  = { ent-PinpointerBase.desc }
+ent-PinpointerIcarus = apontador
+    .desc = { ent-PinpointerBase.desc }

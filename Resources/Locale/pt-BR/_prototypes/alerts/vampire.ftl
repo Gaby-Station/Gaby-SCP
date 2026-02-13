@@ -1,4 +1,4 @@
-ent-AlertVampireBloodSpriteView  = { "" }
-    .desc  = { "" }
-ent-AlertVampireStellarWeaknessSpriteView  = { "" }
-    .desc  = { "" }
+ent-AlertVampireBloodSpriteView = { "" }
+    .desc = { "" }
+ent-AlertVampireStellarWeaknessSpriteView = { "" }
+    .desc = { "" }

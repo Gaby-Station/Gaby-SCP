@@ -1,2 +1,2 @@
-ent-StasisBed  = cama de estase
-    .desc  = Uma cama em que o metabolismo do paciente fica muito mais lento e a decomposição do corpo é interrompida, permitindo tempo para tratamento e estabilização.
+ent-StasisBed = cama de estase
+    .desc = Uma cama que retarda enormemente o metabolismo do paciente e evita a deterioração corporal, permitindo mais tempo para administrar um tratamento adequado para estabilização.

@@ -1,44 +1,54 @@
-lathe-category-circuitry  = Eletrônica
-lathe-category-clothing  = Pano
-lathe-category-lights  = Iluminação
-lathe-category-machines  = Equipamento
-lathe-category-parts  = Detalhes
-lathe-category-tiles  = Telha
-lathe-category-tools  = Ferramentas
-lathe-category-weapons  = Arma
+# Generic
+lathe-category-circuitry = Circuitos
+lathe-category-clothing = Roupas
+lathe-category-lights = Luzes
+lathe-category-machines = Máquinas
+lathe-category-parts = Peças
+lathe-category-tools = Ferramentas
+lathe-category-weapons = Armas
+
 # Biogen
-lathe-category-food  = Comida
-lathe-category-chemicals  = Produtos Químicos
-lathe-category-materials  = Materiais
+lathe-category-food = Comida
+lathe-category-chemicals = Produtos Químicos
+lathe-category-materials = Materiais
+
 # Circuit imprinter
-lathe-category-computers  = Computadores
-lathe-category-engineering  = Engenharia
-lathe-category-general  = Medicamento
-lathe-category-medical  = Medicamento
-lathe-category-research  = Pesquisar
-lathe-category-security  = Segurança
-lathe-category-service  = Serviço
-lathe-category-supply  = Fornecer
+lathe-category-computers = Computadores
+lathe-category-engineering = Engenharia
+lathe-category-general = Em geral
+lathe-category-medical = Médico
+lathe-category-research = Pesquisar
+lathe-category-security = Segurança
+lathe-category-service = Serviço
+lathe-category-supply = Fornecer
+
 # Cutter
-lathe-category-concrete  = Concreto
-lathe-category-dark  = Escuro
-lathe-category-maints  = Serviço
-lathe-category-steel  = Aço
-lathe-category-white  = Branco
-lathe-category-wood  = Árvore
+lathe-category-tiles = Azulejos
+lathe-category-circuit-tile = Circuito
+lathe-category-concrete-tile = Concreto
+lathe-category-dark-tile = Escuro
+lathe-category-faux-tile = Falso
+lathe-category-maints-tile = Manutenção
+lathe-category-marble = Mármore
+lathe-category-steel-tile = Aço
+lathe-category-white-tile = Branco
+lathe-category-wood-tile = Madeira
+
 # Science
-lathe-category-mechs  = Mehi
-lathe-category-modules  = Módulos
-lathe-category-robotics  = Robótica
+lathe-category-mechs = Mechas
+lathe-category-modules = Módulos
+lathe-category-robotics = Robótica
+
 # Security TechFab
-lathe-category-ammo  = Munição
-lathe-category-boxes  = Caixas
-lathe-category-magazines  = Lojas
+lathe-category-ammo = Munição
+lathe-category-boxes = Caixas
+lathe-category-magazines = Revistas
+
 # Uniform
-lathe-category-bedsheets  = Folhas
-lathe-category-carpets  = Tapetes
-lathe-category-coats  = Casaco
-lathe-category-command  = Equipe de comando
-lathe-category-hats  = Chapéus
-lathe-category-jumpsuits  = Macacões
-lathe-category-neck  = No pescoço
+lathe-category-bedsheets = Lençóis
+lathe-category-carpets = Tapetes
+lathe-category-coats = Casacos
+lathe-category-command = Comando
+lathe-category-hats = Chapéus
+lathe-category-jumpsuits = Macacões
+lathe-category-neck = Pescoço

@@ -1,3 +1,2 @@
-ent-BaseRoomMarker  = Hah
-    .suffix  = Hah
-    .desc  = { ent-MarkerBase.desc }
+ent-BaseRoomMarker = gerador de sala
+    .desc = { ent-MarkerBase.desc }

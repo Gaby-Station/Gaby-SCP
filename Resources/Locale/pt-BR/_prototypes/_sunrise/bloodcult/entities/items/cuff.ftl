@@ -1,2 +1,2 @@
-ent-CultistCuffs  = algemas de sombra
-    .desc  = None
+ent-CultistCuffs = { ent-Handcuffs }
+    .desc = { ent-Handcuffs.desc }

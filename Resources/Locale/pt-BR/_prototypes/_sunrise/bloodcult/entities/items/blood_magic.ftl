@@ -1,4 +1,4 @@
-ent-CultBloodSpell  = rito sangrento
-    .desc  = None
-ent-CultBloodOrb  = esfera sangrenta
-    .desc  = None
+ent-CultBloodSpell = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-CultBloodOrb = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }

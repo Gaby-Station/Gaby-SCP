@@ -1,4 +1,4 @@
-set-outfit-command-description  = Define a roupa da entidade especificada. A entidade deve ter { $requiredComponent }
-set-outfit-command-help-text  = Isso não funciona no console do servidor. Você também deve passar o ID do trabalho.
-set-outfit-command-is-not-player-error  = Isso não funciona no console do servidor. Você também deve passar o ID do trabalho.
-set-outfit-command-invalid-outfit-id-error  = ID de trabalho inválido
+cmd-setoutfit-desc = Define a roupa da entidade especificada. A entidade deve ter {INDEFINITE($requiredComponent)} {$requiredComponent}
+cmd-setoutfit-help = Uso: setoutfit<entityUid> | conjunto de roupa <entityUid> <outfitId>
+cmd-setoutfit-is-not-player-error = Este comando requer que ambos os argumentos funcionem no console do servidor.
+cmd-setoutfit-invalid-outfit-id-error = ID de roupa inválido.

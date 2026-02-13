@@ -1,2 +1,2 @@
-ent-BulletAmnesiacAGasGrenade  = granada amnésica
-    .desc  = { ent-BulletSmokeGrenade.desc }
+ent-BulletAmnesiacAGasGrenade = granada de gás amnésico
+    .desc = { ent-BulletSmokeGrenade.desc }

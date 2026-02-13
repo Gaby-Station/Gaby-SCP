@@ -1,7 +1,7 @@
-ent-ScpBaseSecretDoor  = parede normal
-    .desc  = Mantém o ar dentro e os assistentes fora.
-    .suffix  = porta secreta
-ent-ScpBaseSecretDoorAssembly  = moldura de porta secreta
-    .desc  = Ele abre, fecha e pode esmagar você.
-ent-ScpSolidSecretDoor  = parede normal
-    .desc  = { ent-BaseSecretDoor.desc }
+ent-ScpBaseSecretDoor = parede sólida
+    .desc = Mantém o ar dentro e a maré cinzenta fora.
+    .suffix = porta secreta
+ent-ScpBaseSecretDoorAssembly = montagem de porta secreta
+    .desc = Ele abre, fecha e talvez esmague você.
+ent-ScpSolidSecretDoor = parede sólida
+    .desc = { ent-ScpBaseSecretDoor.desc }

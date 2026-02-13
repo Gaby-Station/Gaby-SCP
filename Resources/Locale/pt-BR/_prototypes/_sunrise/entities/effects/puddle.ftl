@@ -1,4 +1,4 @@
-ent-Footstep  = depois
-    .desc  = Um rastro de líquido.
-ent-DragMark  = esfregaço
-    .desc  = { ent-Footstep.desc }
+ent-Footstep = Passo
+    .desc = Vestígio de líquido
+ent-DragMark = marca de arrastar
+    .desc = { ent-Footstep.desc }

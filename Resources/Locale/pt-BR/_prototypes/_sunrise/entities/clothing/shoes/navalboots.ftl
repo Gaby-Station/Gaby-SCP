@@ -1,2 +1,2 @@
-ent-ClothingNavalBoots  = Botas náuticas com meias impermeáveis
-    .desc  = Botas pretas com meias emborrachadas impermeáveis ​​azuis escuras estão incluídas no conjunto do uniforme naval.
+ent-ClothingNavalBoots = Botas Navais
+    .desc = Botas pretas com suspensórios azuis profundos. Prático e acolhedor.

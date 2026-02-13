@@ -1,3 +1,3 @@
-ent-ClothingUniformGRU  = Uniforme militar
-    .desc  = Conjunto especial e justo de uniformes de forças especiais do tipo russo.
-    .suffix  = GRU
+ent-ClothingUniformGRU = Uniforme militar
+    .desc = Conjunto especial de uniforme denso das forças especiais russas.
+    .suffix = GRU

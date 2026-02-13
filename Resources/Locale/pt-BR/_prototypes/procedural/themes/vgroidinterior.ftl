@@ -1,2 +1,2 @@
-ent-VGRoidInteriorRoomMarker  = Marcador interior VGRoid
-    .desc  = { ent-BaseRoomMarker.desc }
+ent-VGRoidInteriorRoomMarker = Marcador interno VGRoid
+    .desc = { ent-BaseRoomMarker.desc }

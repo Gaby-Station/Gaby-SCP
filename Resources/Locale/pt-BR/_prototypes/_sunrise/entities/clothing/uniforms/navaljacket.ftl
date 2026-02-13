@@ -1,2 +1,2 @@
-ent-ClothingNavalJacket  = Uniforme marinho com refletores
-    .desc  = Uniforme impermeável azul escuro com elementos reflexivos. Incluído no conjunto de uniforme naval.
+ent-ClothingNavalJacket = Jaqueta Naval
+    .desc = Casaco impermeável azul escuro com detalhes refletores.

@@ -1,8 +1,8 @@
-entity-storage-component-welded-shut-message  = Está bem preparado!
-entity-storage-component-locked-message  = Está muito apertado aqui!
-entity-storage-component-already-contains-user-message  = Está muito apertado aqui!
-entity-storage-component-cannot-open-no-space  = Não há espaço suficiente para abrir isto!
+entity-storage-component-welded-shut-message = Está soldado completamente fechado!
+entity-storage-component-locked-message = Está trancado!
+entity-storage-component-already-contains-user-message = É muito apertado!
+entity-storage-component-cannot-open-no-space = Não há espaço para abri-lo!
 
 ## OpenToggleVerb
 
-open-toggle-verb-welded-shut-message  = { $verb } (soldado de topo)
+open-toggle-verb-welded-shut-message = {$verb} (fechamento soldado)

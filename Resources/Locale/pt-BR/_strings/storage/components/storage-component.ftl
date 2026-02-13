@@ -1,1 +1,1 @@
-storage-component-transfer-verb  = Mover conteúdo
+storage-component-transfer-verb = Transferir conteúdo

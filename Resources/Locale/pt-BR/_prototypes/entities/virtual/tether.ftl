@@ -1,2 +1,2 @@
-ent-TetherEntity  = { "" }
-    .desc  = { "" }
+ent-TetherEntity = { "" }
+    .desc = { "" }

@@ -1,3 +1,3 @@
-ent-ClosetCursed  = armário vazio traje espacial da SKI Foundation
-    .desc  = amaldiçoado
-    .suffix  = amaldiçoado
+ent-ClosetCursed = armário
+    .desc = Uma unidade de armazenamento Nanotrasen padrão.
+    .suffix = amaldiçoado

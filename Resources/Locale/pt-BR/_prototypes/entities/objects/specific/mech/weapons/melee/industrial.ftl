@@ -1,6 +1,6 @@
-ent-WeaponMechMelleDrill  = broca para exosuit
-    .desc  = Equipamento para mineração de exosuits. Esta é uma broca que rompe rochas!
-    .suffix  = broca exosuit com ponta de diamante
-ent-WeaponMechMelleDrillDiamond  = broca exosuit com ponta de diamante
-    .desc  = Equipamento para mineração de exosuits. Esta é uma versão melhorada da broca que rompe rochas!
-    .suffix  = Armas mecânicas, corpo a corpo, industriais
+ent-WeaponMechMelleDrill = broca de exosuit
+    .desc = Equipamento para mineração de exosuits. Esta é a broca que perfurará as rochas!
+    .suffix = Arma mecânica, corpo a corpo, industrial
+ent-WeaponMechMelleDrillDiamond = broca exosuit com ponta de diamante
+    .desc = Equipamento para mineração de exosuits. Esta é uma versão atualizada da broca que perfurará as rochas!
+    .suffix = Arma mecânica, corpo a corpo, industrial

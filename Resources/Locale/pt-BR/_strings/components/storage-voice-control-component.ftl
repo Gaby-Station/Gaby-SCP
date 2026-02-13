@@ -1,1 +1,1 @@
-comp-storagevoicecontrol-self-insert  = Você não pode colocar { THE($entity) } dentro de você!
+﻿comp-storagevoicecontrol-self-insert = Você não pode inserir { THE($entity) } nele mesmo!

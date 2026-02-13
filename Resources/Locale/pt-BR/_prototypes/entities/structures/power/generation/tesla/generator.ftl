@@ -1,2 +1,2 @@
-ent-TeslaGenerator  = Um estranho dispositivo que, ao ser lançado, cria uma poderosa bola de Tesla.
-    .desc  = Um estranho dispositivo que, ao ser lançado, cria uma poderosa bola de Tesla.
+ent-TeslaGenerator = gerador tesla
+    .desc = Um dispositivo estranho que produz uma poderosa bola Tesla quando configurado. Vem com uma contenção de desligamento temporário à prova de falhas.

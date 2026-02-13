@@ -1,4 +1,4 @@
-ent-FTLPoint  = Ponto FSU
-    .desc  = { ent-MarkerBase.desc }
-ent-FTLExclusion  = Zona de exclusão BSS
-    .desc  = { ent-MarkerBase.desc }
+ent-FTLPoint = Ponto FTL
+    .desc = { ent-MarkerBase.desc }
+ent-FTLExclusion = Ponto de exclusão FTL
+    .desc = { ent-MarkerBase.desc }

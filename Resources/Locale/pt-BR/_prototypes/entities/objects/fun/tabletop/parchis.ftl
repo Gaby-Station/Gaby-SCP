@@ -1,4 +1,4 @@
-ent-ParchisBoard  = placa parchis
-    .desc  = O jogo de tabuleiro com cruzes e círculos conhecido por arruinar inúmeras amizades.
-ent-ParchisBoardTabletop  = Parchis
-    .desc  = { ent-BaseBoardTabletop.desc }
+ent-ParchisBoard = tabuleiro de parchís
+    .desc = Jogo de tabuleiro cruzado e circular famoso por destruir inúmeras amizades.
+ent-ParchisBoardTabletop = parchís
+    .desc = { ent-BaseBoardTabletop.desc }

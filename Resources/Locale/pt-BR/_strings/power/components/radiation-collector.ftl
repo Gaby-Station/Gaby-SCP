@@ -1,13 +1,11 @@
-power-radiation-collector-gas-tank-missing  = O recesso para o cilindro de plasma [color=darkred]está vazio[/color].
-power-radiation-collector-gas-tank-present =
-    Выемка для баллона с плазмой [color = darkgreen] é preenchido com [/color] e o indicador do cilindro está em [color={ $fullness ->
-       *[0] red]пусто
-        [1] red]мало
-        [2] yellow]заполнено наполовину
-        [3] lime]заполнено
-    }[/color].
-power-radiation-collector-enabled =
-    Находится в режиме [color = { $state ->
-        [true] darkgreen]вкл
-       *[false] darkred]выкл
-    }[/color].
+power-radiation-collector-gas-tank-missing = O slot do tanque de plasma é [color=darkred]empty[/color].
+power-radiation-collector-gas-tank-present = O slot do tanque de plasma está [color=darkgreen]filled[/color] e o indicador do tanque mostra [color={$fullness ->
+    *[0]red]empty
+    [1]red]low
+    [2]yellow]half-full
+    [3]lime]full
+}[/color].
+power-radiation-collector-enabled = Mudou [color={$state ->
+    [true] darkgreen]on
+    *[false] darkred]off
+}[/color].

@@ -1,32 +1,33 @@
-guidebook-reagent-effect-description =
-    { $chance ->
+﻿guidebook-reagent-effect-description =
+    {$quantity ->
+        [0] {""}
+        *[other] If there is at least {$quantity}u {$reagent},{" "}
+    }{$chance ->
         [1] { $effect }
-       *[other] Имеет { NATURALPERCENT($chance, 2) } шанс { $effect }
+        *[other] Has a { NATURALPERCENT($chance, 2) } chance to { $effect }
     }{ $conditionCount ->
         [0] .
-       *[other] { " " }, пока { $conditions }.
+        *[other] {" "}when { $conditions }.
     }
-guidebook-reagent-name  = Local desconhecido
-guidebook-reagent-recipes-header  = __PH0____PH1____PH2__ \__PH3__
-guidebook-reagent-recipes-reagent-display  = [bold]{ $reagent }[/bold] \[{ $ratio }\]
-guidebook-reagent-sources-header  = Fontes
-guidebook-reagent-sources-ent-wrapper  = [bold]{ $name } (gás)[/bold] \[1\]
-guidebook-reagent-sources-gas-wrapper  = Efeitos
-guidebook-reagent-effects-header  = __PH0____PH1____PH2__ __PH3__(__PH4__ unidades por segundo)__PH5__
-guidebook-reagent-effects-metabolism-group-rate  = [bold]{ $group }[/bold] [color=gray]({ $rate } unidades por segundo)[/color]
-guidebook-reagent-plant-metabolisms-header  = Metabolismo vegetal
-guidebook-reagent-plant-metabolisms-rate  = [bold]Metabolismo da planta[/bold] [color=gray](1 unidade a cada 3 segundos normalmente)[/color]
-guidebook-reagent-recipes-mix-info =
-    { $minTemp ->
-        [0]
-            { $hasMax ->
-                [true] { CAPITALIZE($verb) } ниже { $maxTemp }K
-               *[false] { CAPITALIZE($verb) }
-            }
-       *[other]
-            { CAPITALIZE($verb) } { $hasMax ->
-                [true] между { $minTemp }K и { $maxTemp }K
-               *[false] выше { $minTemp }K
-            }
-    }
-guidebook-reagent-physical-description  = [italic]A substância se parece com { $description }.[/italic].
+
+guidebook-reagent-name = [bold][color={$color}]{CAPITALIZE($name)}[/color][/bold]
+guidebook-reagent-recipes-header = Receita
+guidebook-reagent-recipes-reagent-display = [bold]{$reagent}[/bold] \[{$ratio}\]
+guidebook-reagent-sources-header = Fontes
+guidebook-reagent-sources-ent-wrapper = [bold]{$name}[/bold] \[1\]
+guidebook-reagent-sources-gas-wrapper = [bold]{$name} (gás)[/bold] \[1\]
+guidebook-reagent-effects-header = Efeitos
+guidebook-reagent-effects-metabolism-group-rate = [bold]{$group}[/bold] [color=gray]({$rate} unidades por segundo)[/color]
+guidebook-reagent-plant-metabolisms-header = Metabolismo Vegetal
+guidebook-reagent-plant-metabolisms-rate = [bold]Metabolismo da planta[/bold] [color=gray](1 unidade a cada 3 segundos como base)[/color]
+guidebook-reagent-physical-description = [italic]Parece ser {$description}.[/italic]
+guidebook-reagent-recipes-mix-info = {$minTemp ->
+    [0] {$hasMax ->
+            [true] {CAPITALIZE($verb)} below {NATURALFIXED($maxTemp, 2)}K
+            *[false] {CAPITALIZE($verb)}
+        }
+    *[other] {CAPITALIZE($verb)} {$hasMax ->
+            [true] between {NATURALFIXED($minTemp, 2)}K and {NATURALFIXED($maxTemp, 2)}K
+            *[false] above {NATURALFIXED($minTemp, 2)}K
+        }
+}

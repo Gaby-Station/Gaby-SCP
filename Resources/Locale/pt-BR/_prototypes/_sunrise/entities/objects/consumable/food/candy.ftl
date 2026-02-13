@@ -1,4 +1,4 @@
-ent-FoodLollipop  = geleira
-    .desc  = goma de mascar
-ent-FoodGumball  = goma de mascar
-    .desc  = Por ser um conversador tão bom.
+ent-FoodLollipop = pirulito
+    .desc = Por ser um esporte tão bom.
+ent-FoodGumball = chiclete
+    .desc = Por ser um esporte tão bom.

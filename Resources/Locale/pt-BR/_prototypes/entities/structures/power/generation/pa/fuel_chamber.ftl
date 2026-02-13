@@ -1,5 +1,5 @@
-ent-ParticleAcceleratorFuelChamber  = câmara de combustível UC
-    .desc  = Oficialmente conhecida como Câmara de Aceleração EM. É aqui que as partículas alfa são aceleradas a velocidades extremas.
-ent-ParticleAcceleratorFuelChamberUnfinished  = câmara de combustível UC
-    .desc  = Oficialmente conhecida como Câmara de Aceleração EM. É aqui que as partículas alfa são aceleradas a velocidades extremas. Parece inacabado.
-    .suffix  = Inacabado
+ent-ParticleAcceleratorFuelChamber = Câmara de combustível PA
+    .desc = Formalmente conhecida como Câmara de Aceleração EM. É aqui que as partículas Alfa são aceleradas a velocidades radicais.
+ent-ParticleAcceleratorFuelChamberUnfinished = Câmara de combustível PA
+    .desc = Formalmente conhecida como Câmara de Aceleração EM. É aqui que as partículas Alfa são aceleradas a velocidades radicais. Parece inacabado.
+    .suffix = Inacabado

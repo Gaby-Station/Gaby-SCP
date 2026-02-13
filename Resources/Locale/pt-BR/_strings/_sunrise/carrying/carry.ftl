@@ -1,5 +1,6 @@
-carry-verb  = Carregue em seus braços
-carry-too-heavy  = Você não é forte o suficiente.
-carry-started  = { $carrier } começa a levantar você
-carry-starting  = Você começa a aumentar { $target }
-carry-observed  = { $carrier } começa a subir { $target }
+carry-verb = Нести на руках
+carry-lying-cancel = Попробуйте встать!
+carry-too-heavy = Você não precisa de silicone.
+carry-started = { $carrier } начинает поднимать você
+carry-starting = Você pode usar { $target }
+carry-observed = { $carrier } начинает поднимать { $target }

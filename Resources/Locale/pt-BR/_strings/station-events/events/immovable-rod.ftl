@@ -1,1 +1,1 @@
-station-event-immovable-rod-start-announcement  = Um objeto não identificado em alta velocidade está se aproximando da estação. Uma colisão é inevitável.
+station-event-immovable-rod-start-announcement = Objeto não identificado em alta velocidade está em rota de colisão com a estação. Impacto iminente.

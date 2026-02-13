@@ -1,2 +1,2 @@
-ent-AbductorAlienPad  = plataforma alienígena
-    .desc  = Teleporte as pizzas e divirta-se.
+ent-AbductorAlienPad = almofada alienígena
+    .desc = Coloque as pizzas e coma.

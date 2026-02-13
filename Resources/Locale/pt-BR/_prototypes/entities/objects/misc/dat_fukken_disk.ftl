@@ -1,5 +1,5 @@
-ent-NukeDisk  = Um disco de autorização nuclear capaz de armar uma bomba nuclear quando usado em conjunto com um código. A nota da Fundação diz: “ESTE É O SEU MAIOR VALOR, CUIDE DESSA PORRA DE DISCO!”
-    .desc  = Um disco de autorização nuclear capaz de armar uma bomba nuclear quando usado em conjunto com um código. A nota da Fundação diz: “ESTE É O SEU MAIOR VALOR, CUIDE DESSA PORRA DE DISCO!”
-ent-NukeDiskFake  = disco de autorização nuclear
-    .desc  = Um disco de autorização nuclear capaz de armar uma bomba nuclear quando usado em conjunto com um código. A nota da Fundação diz: “ESTE É O SEU MAIOR VALOR, CUIDE DESSA PORRA DE DISCO!”
-    .suffix  = Falso
+ent-NukeDisk = disco de autenticação nuclear
+    .desc = Um disco de autenticação nuclear, capaz de armar uma bomba nuclear se usado junto com um código. A nota do nanotrasen diz "ESTA É SUA POSSE MAIS IMPORTANTE, DISCO DAT FUKKEN SEGURO!"
+ent-NukeDiskFake = disco de autenticação nuclear
+    .desc = Um disco de autenticação nuclear, capaz de armar uma bomba nuclear se usado junto com um código. A nota do nanotrasen diz "ESTA É SUA POSSE MAIS IMPORTANTE, DISCO DAT FUKKEN SEGURO!"
+    .suffix = Falso

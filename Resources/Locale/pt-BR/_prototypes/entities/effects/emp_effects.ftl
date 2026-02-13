@@ -1,4 +1,4 @@
-ent-EffectEmpPulse  = { "" }
-    .desc  = { "" }
-ent-EffectEmpDisabled  = { "" }
-    .desc  = { "" }
+ent-EffectEmpPulse = { "" }
+    .desc = { "" }
+ent-EffectEmpDisabled = { "" }
+    .desc = { "" }

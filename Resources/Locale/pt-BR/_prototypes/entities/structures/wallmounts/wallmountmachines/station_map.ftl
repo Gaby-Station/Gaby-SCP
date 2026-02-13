@@ -1,8 +1,8 @@
-ent-StationMapBroken  = mapa complexo
-    .desc  = Montado na parede, quebrado
-    .suffix  = Montado na parede, quebrado
-ent-StationMap  = mapa complexo
-    .desc  = { ent-StationMapBroken.desc }
-    .suffix  = quadro de mapa complexo
-ent-StationMapAssembly  = quadro de mapa complexo
-    .desc  = Quadro do mapa complexo.
+ent-StationMapBroken = mapa da estação
+    .desc = Um mapa virtual da estação circundante.
+    .suffix = Parede quebrada
+ent-StationMap = mapa da estação
+    .desc = Um mapa virtual da estação circundante.
+    .suffix = Parede
+ent-StationMapAssembly = montagem do mapa da estação
+    .desc = Uma montagem de mapa de estação.

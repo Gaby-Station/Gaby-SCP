@@ -1,4 +1,4 @@
-ent-BaseCartridgeCap  = cartucho
-    .desc  = { ent-BaseCartridge.desc }
-ent-CartridgeCap  = mamilo
-    .desc  = { ent-BaseCartridgeCap.desc }
+ent-BaseCartridgeCap = cartucho (tampa)
+    .desc = { ent-BaseCartridge.desc }
+ent-CartridgeCap = cartucho de arma de boné
+    .desc = { ent-BaseCartridgeCap.desc }

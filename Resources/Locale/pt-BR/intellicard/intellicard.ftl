@@ -1,3 +1,3 @@
 # General
-intellicard-core-occupied  = Não há consciência digital para inicializar o núcleo da IA.
-intellicard-core-empty  = Não há consciência digital para inicializar o núcleo da IA.
+intellicard-core-occupied = O núcleo da IA ​​já está ocupado por outra consciência digital.
+intellicard-core-empty = O núcleo da IA ​​não tem consciência digital para download.

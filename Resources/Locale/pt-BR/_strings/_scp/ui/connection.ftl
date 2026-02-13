@@ -1,1 +1,1 @@
-launcher-server-name  = Corpo de Bombeiros
+launcher-server-name = Corpo de Bombeiros

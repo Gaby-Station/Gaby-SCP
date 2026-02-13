@@ -1,2 +1,2 @@
-ent-JanitorServiceLight  = lâmpada de chamada de limpeza
-    .desc  = Placa na parede pedindo um faxineiro. Se a luz piscar, é necessária limpeza.
+ent-JanitorServiceLight = luz de serviço de zeladoria
+    .desc = Uma placa de zeladoria montada na parede. Se a luz estiver piscando, é necessário o serviço de um zelador.

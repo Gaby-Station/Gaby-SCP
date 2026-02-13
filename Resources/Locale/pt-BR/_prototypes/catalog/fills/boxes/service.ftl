@@ -1,8 +1,8 @@
-ent-BoxCleanerGrenades  = caixa de granadas de limpeza
-    .desc  = Caixa de granadas de limpeza.
-ent-BoxAgrichem  = Conjunto de base “AgriChem is fun”
-    .desc  = Para o aspirante a botânico pronto para aprender como maximizar as colheitas. Esta caixa desbotada deve ter pelo menos 50 anos.
-ent-BoxLightbulbColorfulMixed  = caixa com lâmpadas coloridas (sortidas)
-    .desc  = { ent-BoxLightbulb.desc }
-ent-BoxLighttubeColorfulMixed  = caixa com lâmpadas fluorescentes multicoloridas (sortidas)
-    .desc  = { ent-BoxLighttube.desc }
+ent-BoxCleanerGrenades = caixa de limpeza
+    .desc = Uma caixa cheia de limpezas.
+ent-BoxAgrichem = Kit NT "AgriChem é divertido"
+    .desc = Para o botânico iniciante pronto para aprender como maximizar a produção agrícola. Esta caixa desbotada deve ter pelo menos 50 anos.
+ent-BoxLightbulbColorfulMixed = caixa de lâmpada colorida mista
+    .desc = { ent-BoxLightbulb.desc }
+ent-BoxLighttubeColorfulMixed = caixa lighttube colorida mista
+    .desc = { ent-BoxLighttube.desc }

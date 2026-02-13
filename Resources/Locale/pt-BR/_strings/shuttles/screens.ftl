@@ -1,2 +1,2 @@
-screens-text  = protótipo de entidade
-screens-color  = cor
+screens-text = texto
+screens-color = cor

@@ -1,1 +1,1 @@
-clock-examine  = No relógio: [color=white]{ $time }[/color]
+clock-examine = A hora diz: [color=white]{$time}[/color]

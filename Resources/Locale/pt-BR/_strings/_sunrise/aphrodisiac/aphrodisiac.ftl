@@ -1,8 +1,8 @@
-aphrodisiac-effect1  = Seu coração está batendo rápido.
-aphrodisiac-effect2  = Seu coração está batendo rápido.
+aphrodisiac-effect1 = Sua pele formiga calorosamente.
+aphrodisiac-effect2 = Seu coração está acelerado.
 reagent-effect-guidebook-love =
     { $chance ->
-        [1] Вызывает
-       *[other] вызывают
-    } изменённое состояние сознания.
-reagent-beepskysmash-effect1  = Bipsky ataca!
+        [1] Causes
+        *[other] cause
+    } subject to fall in love.
+reagent-beepskysmash-effect1 = Bipski dá um soco no corpo!

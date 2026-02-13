@@ -1,2 +1,2 @@
-ent-CargoTelepad  = telepad de carga
-    .desc  = Pegue uma pizza e mãos à obra.
+ent-CargoTelepad = telepad de carga
+    .desc = Coloque as pizzas e coma.

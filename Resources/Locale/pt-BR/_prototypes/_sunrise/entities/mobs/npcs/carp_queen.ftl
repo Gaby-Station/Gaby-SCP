@@ -1,9 +1,9 @@
-ent-MobCarpQueen  = carpa rainha
-    .desc  = Rainha da Carpa
-    .suffix  = { ent-MobHellspawnGhostRole.suffix }
+ent-MobCarpQueen = rainha da carpa
+    .desc = O soberano do cardume.
+    .suffix = { ent-MobHellspawnGhostRole.suffix }
 
-ghost-role-information-carp-queen-name  = Controle seu cardume de carpas criando-as a partir de ovos na água e faça-as fazer tudo o que sua majestade ordena.
-ghost-role-information-carp-queen-description  = A panturrilha começa a pulsar!
+ghost-role-information-carp-queen-name = Rainha da Carpa
+ghost-role-information-carp-queen-description = Comande seu cardume de carpas, chocando-as de ovas na água, e faça-as fazer tudo o que sua majestade ordena.
 
-carp-egg-activates  = Máximo de __PH0__ servos e ovos juntos.
-carp-queen-max-army  = Máximo de { $amount } servos e ovos juntos.
+carp-egg-activates = Roe está começando a latejar!
+carp-queen-max-army = Máximo de { $amount } servos e ovas combinados.

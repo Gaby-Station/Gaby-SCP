@@ -1,2 +1,2 @@
-ent-BaseGunPulseSound  = { "" }
-    .desc  = { "" }
+ent-BaseGunPulseSound = { "" }
+    .desc = { "" }

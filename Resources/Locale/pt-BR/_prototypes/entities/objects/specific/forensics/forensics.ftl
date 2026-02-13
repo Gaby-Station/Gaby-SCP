@@ -1,2 +1,2 @@
-ent-ForensicPad  = Placa de scanner forense, para tirar impressões digitais ou coletar fibras.
-    .desc  = Placa de scanner forense, para tirar impressões digitais ou coletar fibras.
+ent-ForensicPad = almofada forense
+    .desc = Uma almofada forense para coletar impressões digitais ou fibras.

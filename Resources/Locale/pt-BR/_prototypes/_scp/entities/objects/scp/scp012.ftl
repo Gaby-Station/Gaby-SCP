@@ -1,3 +1,3 @@
-ent-Scp012  = None
-    .desc  = SCP-012
-    .suffix  = SCP-012
+ent-Scp012 = ???
+    .desc = Um manuscrito musical intitulado “No Monte Gólgota”. Parece estar inacabado.
+    .suffix = SCP-012

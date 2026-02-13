@@ -1,2 +1,2 @@
-ent-ProximitySensor  = sensor de movimento
-    .desc  = Sente objetos próximos.
+ent-ProximitySensor = sensor de proximidade
+    .desc = Sente coisas próximas.

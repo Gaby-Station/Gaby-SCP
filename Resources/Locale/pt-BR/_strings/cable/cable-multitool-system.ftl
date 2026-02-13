@@ -1,12 +1,13 @@
-cable-multitool-system-internal-error-no-power-node  = Sua multiferramenta exibe a mensagem: "ERRO INTERNO: FALHA NO CABO DE ALIMENTAÇÃO."
-cable-multitool-system-internal-error-missing-component  = Sua multiferramenta exibe a mensagem: "ERRO INTERNO: CABO ANOMAL".
-cable-multitool-system-verb-name  = Nutrição
-cable-multitool-system-verb-tooltip  = Use uma multiferramenta para visualizar estatísticas de energia.
-cable-multitool-system-statistics =
-    Ваш мультитул показывает статистику:
-    Источник тока: { POWERWATTS($supplyc) }
-    От батарей: { POWERWATTS($supplyb) }
-    Теоретическое снабжение: { POWERWATTS($supplym) }
-    Идеальное потребление: { POWERWATTS($consumption) }
-    Входной запас: { POWERJOULES($storagec) } / { POWERJOULES($storagem) } ({ TOSTRING($storager, "P1") })
-    Выходной запас: { POWERJOULES($storageoc) } / { POWERJOULES($storageom) } ({ TOSTRING($storageor, "P1") })
+cable-multitool-system-internal-error-no-power-node = Sua multiferramenta diz: "ERRO INTERNO: NÃO É UM CABO DE ALIMENTAÇÃO".
+cable-multitool-system-internal-error-missing-component = Sua multiferramenta diz "ERRO INTERNO: CABO ANORMAL".
+cable-multitool-system-verb-name = Poder
+cable-multitool-system-verb-tooltip = Use uma ferramenta multifuncional para examinar as estatísticas de energia.
+
+cable-multitool-system-statistics = Sua multiferramenta mostra uma lista de estatísticas:
+                                    Current Supply: { POWERWATTS($supplyc) }
+                                    From Batteries: { POWERWATTS($supplyb) }
+                                    Theoretical Supply: { POWERWATTS($supplym) }
+                                    Ideal Consumption: { POWERWATTS($consumption) }
+                                    Input Storage: { POWERJOULES($storagec) } / { POWERJOULES($storagem) } ({ TOSTRING($storager, "P1") })
+                                    Output Storage: { POWERJOULES($storageoc) } / { POWERJOULES($storageom) } ({ TOSTRING($storageor, "P1") })
+

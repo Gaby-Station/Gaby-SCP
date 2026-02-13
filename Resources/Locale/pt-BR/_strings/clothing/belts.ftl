@@ -1,2 +1,2 @@
-sheath-insert-verb  = Coloque na bainha
-sheath-eject-verb  = Desembainhar
+sheath-insert-verb = Embainhar
+sheath-eject-verb = Desembainhar

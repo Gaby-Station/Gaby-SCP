@@ -1,2 +1,2 @@
-ent-ClothingMaskGasChaos  = Máscara de gás da Insurgência do Caos
-    .desc  = Uma máscara de gás usada por conhecidos ladrões de anomalias.
+ent-ClothingMaskGasChaos = Máscara de Gás Insurgente do Caos
+    .desc = Uma máscara de gás usada pelos infames sequestradores de anomalias.

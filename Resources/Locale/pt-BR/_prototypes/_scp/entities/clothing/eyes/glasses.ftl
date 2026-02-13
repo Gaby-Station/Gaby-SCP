@@ -1,3 +1,2 @@
-ent-ClothingEyesGlassesSecurityGuard  = óculos de segurança
-    .desc  = Óculos de sol atualizados com função de proteção contra flash e viseira SB.
-    .suffix  = Proteção SCP
+ent-ClothingEyesGlassesSecurityGuard = óculos de segurança
+    .desc = Óculos de sol atualizados com proteção contra flash e viseira de segurança.

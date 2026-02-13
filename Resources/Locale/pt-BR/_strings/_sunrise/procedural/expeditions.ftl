@@ -1,1 +1,1 @@
-salvage-dungeon-mod-syndicate-base  = Objeto inimigo
+salvage-dungeon-mod-syndicate-base = Instalação inimiga

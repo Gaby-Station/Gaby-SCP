@@ -1,7 +1,7 @@
-ent-CrateGeneric  = Grande recipiente para itens.
-    .desc  = Grande recipiente para itens.
-ent-CrateBaseWeldable  = { ent-CrateGeneric }
-    .desc  = { ent-CrateGeneric.desc }
-ent-CrateBaseSecure  = { ent-CrateBaseWeldable }
-    .suffix  = Protegido
-    .desc  = { ent-CrateBaseWeldable.desc }
+ent-CrateGeneric = caixote
+    .desc = Um grande recipiente para itens.
+ent-CrateBaseWeldable = { ent-CrateGeneric }
+    .desc = { ent-CrateGeneric.desc }
+ent-CrateBaseSecure = { ent-CrateBaseWeldable }
+    .suffix = Seguro
+    .desc = { ent-CrateBaseWeldable.desc }

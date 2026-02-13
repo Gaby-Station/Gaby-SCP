@@ -1,6 +1,7 @@
-reagent-name-jelly-bun  = geléia de laranja
-reagent-desc-jelly-bun  = esquentar
-reagent-name-jelly-pizza  = geléia de laranja
-reagent-desc-jelly-pizza  = esquentar
-flavor-complex-scp999jelly  = esquentar
-scp-999-change-state-cancelled  = Você não pode fazer isso agora
+reagent-name-jelly-bun = geléia de laranja
+reagent-desc-jelly-bun = geléia de aparência apetitosa
+
+reagent-name-jelly-pizza = geléia de laranja
+reagent-desc-jelly-pizza = geléia de aparência apetitosa
+
+flavor-complex-scp999jelly = cordialidade

@@ -1,2 +1,2 @@
-ent-StrippingHiddenEntity  = Item oculto
-    .desc  = Há algo neste bolso.
+ent-StrippingHiddenEntity = entidade oculta
+    .desc = Há algo neste bolso.

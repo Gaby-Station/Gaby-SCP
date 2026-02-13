@@ -1,2 +1,2 @@
-ent-GavelBlock  = bigorna de juiz
-    .desc  = É atingido com um martelo especial por pessoas especiais com perucas.
+ent-GavelBlock = bloco de martelo
+    .desc = Foi nisso que eles acertaram.

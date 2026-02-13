@@ -1,1 +1,1 @@
-objective-condition-kill-head-title  = Mate { $targetName }, posição: { CAPITALIZE($job) }.
+objective-condition-kill-head-title = Mate {$targetName}, {CAPITALIZE($job)}

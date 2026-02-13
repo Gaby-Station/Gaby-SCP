@@ -1,6 +1,6 @@
-ent-ImplantExtractor  = Extrator de implante de microondas
-    .desc  = Um dispositivo projetado para remover implantes de humanóides, projetado para remover implantes em ambientes médicos pouco qualificados.
-ent-Interrogator  = Extrator de implante
-    .desc  = Um dispositivo projetado para extrair implantes de humanóides.
-ent-InterrogatorMachineCircuitboard  = placa da máquina interrogadora
-    .desc  = Placa de circuito impresso de máquina para interrogador.
+ent-ImplantExtractor = extrator de implante de microondas
+    .desc = Um dispositivo de alta tecnologia projetado especificamente para extração de implantes em condições com pessoal médico pouco qualificado.
+ent-Interrogator = interrogador
+    .desc = apchy
+ent-InterrogatorMachineCircuitboard = placa da máquina interrogadora
+    .desc = Uma placa de circuito impresso de máquina para um interrogador.

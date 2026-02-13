@@ -1,2 +1,2 @@
-ent-FirelockFrame  = quadro de eclusa de fogo
-    .desc  = Esta é a estrutura de uma eclusa de incêndio.
+ent-FirelockFrame = quadro de bloqueio de fogo
+    .desc = Essa é uma moldura firelock.

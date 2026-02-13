@@ -1,2 +1,2 @@
-ent-BaseRandomItemXenoArtifactComponents  = { "" }
-    .desc  = { "" }
+ent-BaseRandomItemXenoArtifactComponents = { "" }
+    .desc = { "" }

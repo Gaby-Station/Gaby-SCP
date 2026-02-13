@@ -1,1 +1,1 @@
-ghost-kick-on-trigger-default  = Tropecei no Kik-minu e quebrei a quarta parede.
+ghost-kick-on-trigger-default = Tropecei numa mina e colidiu com a quarta parede.

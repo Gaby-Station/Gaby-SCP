@@ -1,2 +1,2 @@
-ent-ArmBlade  = mão de lâmina
-    .desc  = Uma lâmina grotesca de osso e carne que corta as pessoas como uma faca quente na manteiga.
+ent-ArmBlade = lâmina de braço
+    .desc = Uma lâmina grotesca feita de osso e carne que corta as pessoas como uma faca quente corta a manteiga.

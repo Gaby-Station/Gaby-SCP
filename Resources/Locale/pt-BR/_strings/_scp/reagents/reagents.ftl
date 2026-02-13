@@ -1,14 +1,14 @@
-﻿reagent-name-scp096-tears  = substrato L-096
-reagent-desc-scp096-tears  = Um líquido incolor secretado por SCP-096 durante uma resposta ao estresse. A análise é parcialmente consistente com lágrimas humanas, com a presença de um componente proteico não identificado.
+reagent-name-scp096-tears = Substrato L-096
+reagent-desc-scp096-tears = Um líquido incolor secretado por SCP-096 durante resposta ao estresse. A análise corresponde parcialmente às lágrimas humanas, contém componentes proteicos não identificados.
 
-reagent-name-scp096-blood  = Um líquido denso e escuro recuperado do biomaterial de SCP-096. Demonstra uma composição estável com desvios anormais na morfologia celular.
-reagent-desc-scp096-blood  = Um líquido denso e escuro recuperado do biomaterial de SCP-096. Demonstra uma composição estável com desvios anormais na morfologia celular.
+reagent-name-scp096-blood = hemosubstrato 096-K
+reagent-desc-scp096-blood = Líquido denso e escuro extraído da biomassa de SCP-096. Apresenta composição estável com desvios anômalos na morfologia celular.
 
-scp096-blood-fear  = Há medo no ar...
-scp096-blood-fear-in-air  = Há medo no ar...
+scp096-blood-fear = Você sente o medo de outra pessoa...
+scp096-blood-fear-in-air = O medo paira no ar...
 
-reagent-name-scp173  = secreção 173-B
-reagent-desc-scp173  = Um líquido viscoso marrom-avermelhado que se forma regularmente na câmara de contenção de SCP-173. A análise espectral revelou componentes orgânicos de origem fecal e hematológica. Requer higienização manual por pessoal Classe D.
-scp173-reagent-effect-nausea  = Você está cansado dessa abominação!
-scp173-reagent-effect-disgusting  = Essa mistura é muito nojenta!
-scp173-reagent-effect-burning  = Tudo dentro está queimando com essa substância nojenta!
+reagent-name-scp173 = Coisas Marrons
+reagent-desc-scp173 = Uma substância com cheiro nojento.
+scp173-reagent-effect-nausea = Você está enjoado com essa sujeira!
+scp173-reagent-effect-disgusting = Essa mistura causa nojo intenso!
+scp173-reagent-effect-burning = Tudo queima por dentro com essa substância nojenta!

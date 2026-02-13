@@ -1,2 +1,2 @@
-ent-CrateNPCVariantCubeBoxSunrise  = Caixa contendo cubos de ancestrais genéticos. 2 cubos de macacos, slimes, galinhas, porcos e baratas.
-    .desc  = Caixa contendo cubos de ancestrais genéticos. 2 cubos de macacos, slimes, galinhas, porcos e baratas.
+ent-CrateNPCVariantCubeBoxSunrise = caixa de cubo de macaco
+    .desc = Uma caixa contendo uma única caixa de cubos de macaco.

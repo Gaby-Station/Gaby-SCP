@@ -1,1 +1,1 @@
-shutter-rattle  = *barulho, barulho*
+shutter-rattle = *chocalho chocalho*

@@ -1,3 +1,3 @@
-gavel-broken  = { $ent } quebra com um baque forte!
-gavel-broken-entityname-prefix-m  = quebrado
-gavel-broken-entityname-prefix-f  = quebrado
+gavel-broken = { $ent } с громким стуком ломается!
+gavel-broken-entityname-prefix-m = сломанный
+gavel-broken-entityname-prefix-f = сломанная

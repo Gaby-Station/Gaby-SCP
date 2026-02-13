@@ -1,1 +1,1 @@
-wire-speech-pulse  = { CAPITALIZE($name) } faz um zumbido
+wire-speech-pulse = {CAPITALIZE(THE($name))} emite um zumbido

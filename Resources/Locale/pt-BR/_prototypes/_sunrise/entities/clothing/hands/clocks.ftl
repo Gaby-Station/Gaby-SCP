@@ -1,2 +1,2 @@
-ent-ClothingHandsClockDivine  = relógio divino
-    .desc  = Este relógio só pode ser usado por uma personalidade divina.
+ent-ClothingHandsClockDivine = relógio divino
+    .desc = Este relógio só pode ser usado por uma pessoa divina.

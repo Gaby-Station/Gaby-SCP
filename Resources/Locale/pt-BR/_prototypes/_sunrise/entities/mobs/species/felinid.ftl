@@ -1,4 +1,4 @@
-ent-MobFelinidBase  = Em Urist McFeliny
-    .desc  = { ent-BaseMobHuman.desc }
-ent-MobFelinidDummy  = { ent-BaseSpeciesDummy }
-    .desc  = { ent-BaseSpeciesDummy.desc }
+ent-MobFelinidBase = Urist McFelinid
+    .desc = { ent-BaseMobSpeciesOrganic.desc }
+ent-MobFelinidDummy = Urist McHands
+    .desc = Um felinídeo fictício destinado a ser usado na configuração do personagem.

@@ -1,10 +1,11 @@
-ent-ActionScp049Resurrect  = Ressurreição
-    .desc  = Mate os ressuscitados
-ent-ActionScp049KillResurrected  = Mate os ressuscitados
-    .desc  = Mate instantaneamente um paciente previamente ressuscitado.
-ent-ActionScp049KillLeavingBeing  = Toque da Morte
-    .desc  = Mate instantaneamente uma criatura viva com um toque.
-ent-ActionScp049SelfHeal  = Autocura
-    .desc  = Restaure a saúde e remova todos os efeitos negativos.
-ent-ActionScp049HealMinion  = Curando o paciente
-    .desc  = Devolve a vitalidade e remove todos os efeitos negativos do seu paciente.
+ent-ActionScp049Resurrect = Ressuscitar
+    .desc = Transforme um corpo morto em seu paciente leal.
+ent-ActionScp049KillResurrected = Matar Ressuscitado
+    .desc = Mate imediatamente um paciente previamente ressuscitado.
+ent-ActionScp049KillLeavingBeing = Toque Mortal
+    .desc = Mate instantaneamente um ser vivo com um toque.
+ent-ActionScp049SelfHeal = Cura automática
+    .desc = Restaura a saúde e remove todos os efeitos negativos.
+ent-ActionScp049HealMinion = Curar Paciente
+    .desc = Restaura a vitalidade e remove todos os efeitos negativos do seu paciente.
+

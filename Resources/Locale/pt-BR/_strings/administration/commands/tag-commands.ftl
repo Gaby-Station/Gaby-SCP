@@ -1,9 +1,13 @@
-addtag-command-description  = Adicione uma tag à entidade selecionada
-addtag-command-help  = Uso: addtag ​​​​<entidade uid> <tag>
-addtag-command-success  = A tag { $tag } foi adicionada por { $target }.
-addtag-command-fail  = Falha ao adicionar a tag { $tag } a { $target }.
-removetag-command-description  = Remover tag da entidade selecionada
-removetag-command-help  = Uso: removetag <entidade uid> <tag>
-removetag-command-success  = A tag { $tag } foi removida de { $target }.
-removetag-command-fail  = Falha ao remover a tag { $tag } de { $target }.
-tag-command-arg-tag  = Marcação
+﻿addtag-command-description = Adiciona uma tag a uma determinada entidade
+addtag-command-help = Uso: addtag ​​<entity uid> <tag>
+
+addtag-command-success = Adicionado {$tag} a {$target}.
+addtag-command-fail = Não foi possível adicionar {$tag} a {$target}.
+
+removetag-command-description = Remove uma tag de uma determinada entidade
+removetag-command-help = Uso: removetag <entity uid> <tag>
+
+removetag-command-success = Removido {$tag} de {$target}.
+removetag-command-fail = Não foi possível remover {$tag} de {$target}.
+
+tag-command-arg-tag = Marcação

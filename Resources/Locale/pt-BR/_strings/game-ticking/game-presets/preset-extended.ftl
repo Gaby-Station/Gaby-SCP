@@ -1,2 +1,2 @@
-extended-title  = Estendido
-extended-description  = Uma aventura relaxante. É necessária a intervenção do administrador.
+extended-title = Estendido
+extended-description = Uma experiência calma. É necessária intervenção do administrador.

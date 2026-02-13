@@ -1,2 +1,2 @@
-ent-dragshadow  = arrastar sombra
-    .desc  = { "" }
+ent-dragshadow = arrastar sombra
+    .desc = { "" }

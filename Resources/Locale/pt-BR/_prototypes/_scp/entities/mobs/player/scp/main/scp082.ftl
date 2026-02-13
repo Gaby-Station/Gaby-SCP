@@ -1,1 +1,1 @@
-ent-Scp082  = None
+ent-Scp082 = SCP-082

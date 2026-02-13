@@ -1,39 +1,39 @@
-ghost-role-information-fugitive-name  = NÃO MAPEE, fugitivo
-ghost-role-information-fugitive-description  = Sindicato Médico Borg
-ghost-role-information-syndicate-medical-cyborg-name  = Sindicato Médico Borg
-ghost-role-information-syndicate-medical-cyborg-description  = Morte de NT.
-ghost-role-information-syndicate-reaper-cyborg-name  = Sindicato Borg "Zhnets"
-ghost-role-information-syndicate-reaper-cyborg-description  = Morte de NT.
-ghost-role-information-syndicate-heavy-cyborg-name  = Sindicato Borg de Batalha Pesada
-ghost-role-information-syndicate-heavy-cyborg-description  = Morte de NT.
-ghost-role-information-syndicate-spider-cyborg-name  = Sindicato Sabotador Borg
-ghost-role-information-syndicate-spider-cyborg-description  = Morte de NT.
-ghost-role-information-syndicate-saboteur-cyborg-name  = Sindicato Sabotador Borg
-ghost-role-information-syndicate-saboteur-cyborg-description  = Morte de NT.
-ghost-role-information-clown-goblin-name  = duende palhaço
-ghost-role-information-clown-goblin-description  = Ajude seu bibliotecário a dedicar esta estação.
-ghost-role-information-foliant-name  = Tomo
-ghost-role-information-foliant-description  = Ajude seu bibliotecário a dedicar esta estação.
-ghost-role-information-foliant-rules  = Você é um livro mímico inteligente. Ajude seu dono a alegrar sua vida, eduque todos na estação.
-ghost-role-information-ert-cyborg-name  = Ciborgue de combate MTF
-ghost-role-information-ert-cyborg-description  = Seguro. Segurar. Salvar.
-ghost-role-information-ert-cyborg-rules  = Obedeça à FTM, ao Quartel-General O4 e ao Comando Regional.
-ghost-role-information-ntr-lead-name  = Operativo ISN
-ghost-role-information-ntr-guard-name  = Operativo ISN
-ghost-role-information-ntr-guard-description  = Você é o apoio e proteção do Departamento Jurídico, cumprindo as decisões e ordens do Magistrado e do próprio Representante da Fundação!
-ghost-role-information-blueshield-operative-name  = Operativo Escudo Azul
-ghost-role-information-blueshield-operative-description  = Acompanhar e/ou proteger funcionários de alto escalão da NanoTrasen Corporation.
-ghost-role-information-ussp-crew-name  = Funcionário SSSP
-ghost-role-information-ussp-crew-description  = “Você é um especialista universal da estação SSSP, treinado para lidar com qualquer tarefa, desde técnica até médica.”
-ghost-role-information-ussp-crew-rules  = Você é [color=green][bold]Equipe, não Antagonista[/bold][/color]. Você deve [bold]cooperar e trabalhar junto[/bold] com seus camaradas! Junto com a equipe, você está imerso em sono criogênico, preparando-se para um longo vôo. Mas de repente algo dá errado. Você é acordado por uma forte dor de cabeça e pelo barulho alarmante do console. Impactos repentinos abalam a estação e o pânico toma conta de você. Você entende que algo atrapalhou seriamente seus planos. Sem ordens e sem tempo para pensar, você imediatamente começa a agir, percebendo que a vida de toda a tripulação e o destino da estação dependem de sua reação.
-ghost-role-information-ussp-sec-name  = SSSP
-ghost-role-information-ussp-sec-description  = "Você é um oficial de segurança da URSS, treinado para lidar com qualquer tarefa, desde combate até médica."
-ghost-role-information-ussp-sec-rules  = Você é [color=green][bold]Equipe, não Antagonista[/bold][/color]. Você deve [bold]cooperar e trabalhar junto[/bold] com seus camaradas! Junto com a equipe, você está imerso em sono criogênico, preparando-se para um longo vôo. Mas de repente algo dá errado. Você é acordado por uma forte dor de cabeça e pelo barulho alarmante do console. Impactos repentinos abalam a estação e o pânico toma conta de você. Você entende que algo atrapalhou seriamente seus planos. Sem ordens e sem tempo para pensar, você imediatamente começa a agir, percebendo que a vida de toda a tripulação e o destino da estação dependem de sua reação.
-ghost-role-information-ussp-com-name  = infiltrador comandante spawner
-ghost-role-information-ussp-com-description  = "Você é o capitão da estação SSSP. Sua tarefa é entender o que aconteceu com a estação e reunir todos os funcionários na luta pela sobrevivência."
-ghost-role-information-ussp-com-rules  = Você é [color=green][bold]Equipe, não Antagonista[/bold][/color]. Você deve [bold]cooperar e trabalhar junto[/bold] com seus camaradas! Junto com a equipe, você está imerso em sono criogênico, preparando-se para um longo vôo. Mas de repente algo dá errado. Você é acordado por uma forte dor de cabeça e pelo barulho alarmante do console. Impactos repentinos abalam a estação e o pânico toma conta de você. Você entende que algo atrapalhou seriamente seus planos. Sem ordens e sem tempo para pensar, você imediatamente começa a agir, percebendo que a vida de toda a tripulação e o destino da estação dependem de sua reação.
-ghost-role-information-ussp-waralt-name  = Oficial Sênior SSSP
-ghost-role-information-ussp-waralt-description  = "Você é um oficial do grande exército da URSS! Siga todas as ordens do seu capitão sem questionar! PARA A GLÓRIA DA PÁTRIA!"
-ghost-role-information-ussp-war-name  = SSSP | ANTAG
-ghost-role-information-ussp-war-description  = "Você é um soldado do grande exército da URSS! Siga todas as ordens do seu comandante sem questionar! PARA A GLÓRIA DA PÁTRIA!"
-ghost-role-information-ussp-war-rules  = Você é [color=red][bold]Antagonista da Equipe[/bold][/color]. Você deve [bold]cooperar e trabalhar junto[/bold] com seus camaradas! Ouça as instruções do seu capitão e aja estritamente de acordo com as instruções dele.
+ghost-role-information-fugitive-name = Belga
+ghost-role-information-fugitive-description = Você está certo. Você é - выжить.
+ghost-role-information-syndicate-medical-cyborg-name = Médico борг синдиката
+ghost-role-information-syndicate-medical-cyborg-description = Смерть NT.
+ghost-role-information-syndicate-reaper-cyborg-name = Борг синдиката "Жнец"
+ghost-role-information-syndicate-reaper-cyborg-description = Смерть NT.
+ghost-role-information-syndicate-heavy-cyborg-name = Você é um bom sindicalista
+ghost-role-information-syndicate-heavy-cyborg-description = Смерть NT.
+ghost-role-information-syndicate-spider-cyborg-name = Diversificação da Sindicata
+ghost-role-information-syndicate-spider-cyborg-description = Смерть NT.
+ghost-role-information-clown-goblin-name = grupo de duendes
+ghost-role-information-clown-goblin-description = Ужасное создание, которое поклоняется творцу...
+ghost-role-information-foliant-name = Foliant
+ghost-role-information-foliant-description = Certifique-se de que sua biblioteca esteja atualizada.
+ghost-role-information-foliant-rules = Você разумная книга-мимик. Depois de selecionar a opção correta, coloque-a na posição correta.
+ghost-role-information-ert-cyborg-name = Bom киборг МОГ
+ghost-role-information-ert-cyborg-description = Obrigado. Obrigado. Сохранить.
+ghost-role-information-ert-cyborg-rules = Use o Grupo Operacional Móvel, Status 4 e Региональному управлению.
+
+ghost-role-information-ntr-lead-name = comandante IСН
+ghost-role-information-ntr-guard-name = operação do IСН
+ghost-role-information-ntr-guard-description = Você está procurando uma solução e um serviço de segurança do Departamento de Administração, sua configuração e pós-venda Magistrate e Представителя NanoTrasen!
+
+ghost-role-information-blueshield-operative-name = Operativo BlueShield
+ghost-role-information-blueshield-operative-description = Acompanhe os funcionários mais graduados da NanoTrasen Corporation.
+
+ghost-role-information-ussp-crew-name = Сотрудник СССП
+ghost-role-information-ussp-crew-description = "Você — универсальный специалист станции СССП, обученный справляться с любыми задачами, от técnica para medicina."
+ghost-role-information-ussp-crew-rules = Em [color=green][bold]Командный Não Антагонист[/bold][/color]. Você pode [bold]кооперироваться e работать сообща[/bold] com seus companheiros! Se você usar o comando no Crioson, coloque-o no mesmo lugar. Não é nada disso. Você está procurando uma solução melhor e mais segura para você. Você não pode se preocupar com a situação e entrar em pânico. Você pode considerar isso, este é o plano de serviço do serviço. Boas compras e férias para você ter uma ótima experiência de teste, sucesso, quais são suas reações зависит жизнь всего экипажа e sua stanции.
+ghost-role-information-ussp-sec-name = Офицер СССП
+ghost-role-information-ussp-sec-description = "Você - Офицер Охраны СССП, обученный справляться с любыми задачами, от боевых до медицинских."
+ghost-role-information-ussp-sec-rules = Em [color=green][bold]Командный Não Антагонист[/bold][/color]. Você pode [bold]кооперироваться e работать сообща[/bold] com seus companheiros! Se você usar o comando no Crioson, coloque-o no mesmo lugar. Não é nada disso. Você está procurando uma solução melhor e mais segura para você. Você não pode se preocupar com a situação e entrar em pânico. Você pode considerar isso, este é o plano de serviço do serviço. Boas compras e férias para você ter uma ótima experiência de teste, sucesso, quais são suas reações зависит жизнь всего экипажа e sua stanции.
+ghost-role-information-ussp-com-name = Capitão СССП
+ghost-role-information-ussp-com-description = "Você — Капитан станции СССП. Ваша задача понять что стряслось со станцией, и сплотить всех сотрудников в борьбе за выживание."
+ghost-role-information-ussp-com-rules = Em [color=green][bold]Командный Não Антагонист[/bold][/color]. Você pode [bold]кооперироваться e работать сообща[/bold] com seus companheiros! Se você usar o comando no Crioson, coloque-o no mesmo lugar. Não é nada disso. Você está procurando uma solução melhor e mais segura para você. Você não pode se preocupar com a situação e entrar em pânico. Você pode considerar isso, este é o plano de serviço do serviço. Boas compras e férias para você ter uma ótima experiência de teste, sucesso, quais são suas reações зависит жизнь всего экипажа e sua stanции.
+ghost-role-information-ussp-waralt-name = Старший Офицер СССП
+ghost-role-information-ussp-war-name = Soldado СССП
+ghost-role-information-ussp-war-description = "Você — Солдат великой армии СССП! Выполняйте любые приказы своего Командира без вопросов! ВО СЛАВУ РОДИНЫ!"
+ghost-role-information-ussp-war-rules = Em [color=red][bold]Командный Antagonista[/bold][/color]. Você pode [bold]кооперироваться e работать сообща[/bold] com seu carro! Confira o tutorial do seu Capitão e defina o caminho para você.

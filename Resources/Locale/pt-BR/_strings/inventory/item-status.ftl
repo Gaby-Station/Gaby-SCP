@@ -1,1 +1,1 @@
-item-status-not-held  = Minha mão está vazia
+﻿item-status-not-held = Nenhum item retido

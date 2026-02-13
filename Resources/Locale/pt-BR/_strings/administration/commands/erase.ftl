@@ -1,6 +1,7 @@
 # erase
-cmd-erase-desc  = Número inválido de argumentos
-cmd-erase-help  = Número inválido de argumentos
-cmd-erase-invalid-args  = Jogador não encontrado
-cmd-erase-player-not-found  = Jogador não encontrado
-cmd-erase-player-completion  = <Nome de usuário>
+cmd-erase-desc = Apagar a entidade de um jogador, se existir, e todas as suas mensagens de bate-papo
+cmd-erase-help = apagar <Username of User Id>
+cmd-erase-invalid-args = Número inválido de argumentos
+cmd-erase-player-not-found = Jogador não encontrado
+
+cmd-erase-player-completion = <Username>

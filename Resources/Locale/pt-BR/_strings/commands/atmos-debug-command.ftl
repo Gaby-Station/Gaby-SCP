@@ -1,14 +1,16 @@
-cmd-atvrange-desc  = Define o intervalo de depuração da atmosfera (especificado como dois pontos flutuantes: início [красный] e fim [синий])
-cmd-atvrange-help  = Uso: { $command } <início> <fim>
-cmd-atvrange-error-start  = Valor inválido para final
-cmd-atvrange-error-end  = Valor inválido para final
-cmd-atvrange-error-zero  = A escala não pode ser zero, pois isso resultará na divisão por zero no AtmosDebugOverlay.
-cmd-atvmode-desc  = Define o modo de depuração da atmosfera. Isso redefinirá automaticamente a escala.
-cmd-atvmode-help  = Uso: { $command } <Número total de moléculas/moléculas de gás/temperatura> [<ID газа (для Молекул газа)>]
-cmd-atvmode-error-invalid  = Modo errado
-cmd-atvmode-error-target-gas  = Um gás alvo deve ser especificado para este modo.
-cmd-atvmode-error-out-of-range  = O ID do gás não é reconhecido ou está fora do alcance.
-cmd-atvmode-error-info  = Nenhuma informação adicional é necessária para este modo.
-cmd-atvcbm-desc  = Muda o esquema de cores de vermelho/verde/azul para tons de cinza
-cmd-atvcbm-help  = Uso: { $command } <verdadeiro/falso>
-cmd-atvcbm-error  = Sinalização inválida
+cmd-atvrange-desc = Define o intervalo de depuração do atmos (como dois pontos flutuantes, início [red] e fim [blue])
+cmd-atvrange-help = Uso: {$command} <start> <end>
+cmd-atvrange-error-start = Flutuação ruim START
+cmd-atvrange-error-end = Flutuação ruim FIM
+cmd-atvrange-error-zero = A escala não pode ser zero, pois isso causaria uma divisão por zero no AtmosDebugOverlay.
+
+cmd-atvmode-desc = Define o modo de depuração do atmos. Isso redefinirá automaticamente a escala.
+cmd-atvmode-help = Uso: {$command} <TotalMoles/GasMoles/Temperature> [<gas ID (for GasMoles)>]
+cmd-atvmode-error-invalid = Modo inválido
+cmd-atvmode-error-target-gas = Um gás alvo deve ser fornecido para este modo.
+cmd-atvmode-error-out-of-range = ID do gás não analisável ou fora do intervalo.
+cmd-atvmode-error-info = Nenhuma informação adicional é necessária para este modo.
+
+cmd-atvcbm-desc = Mudanças de vermelho/verde/azul para escala de cinza
+cmd-atvcbm-help = Uso: {$command} <true/false>
+cmd-atvcbm-error = Sinalização inválida

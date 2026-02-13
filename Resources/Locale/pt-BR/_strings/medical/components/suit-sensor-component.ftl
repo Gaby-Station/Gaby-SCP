@@ -1,22 +1,21 @@
-## Modes
+﻿## Modes
 
-suit-sensor-mode-off  = Binário
-suit-sensor-mode-binary  = Binário
-suit-sensor-mode-vitals  = Saúde
-suit-sensor-mode-cords  = Coordenadas
+suit-sensor-mode-off = Desligado
+suit-sensor-mode-binary = Binário
+suit-sensor-mode-vitals = Sinais vitais
+suit-sensor-mode-cords = Coordenadas
 
 ## Popups
-
-suit-sensor-mode-state  = Parece que todos os sensores { $mode } estão desabilitados em __PH1__.
+suit-sensor-mode-state = Sensores de terno: {$mode}
 
 ## Components
 
-suit-sensor-component-unknown-name  = ou
-suit-sensor-component-unknown-job  = ou
+suit-sensor-component-unknown-name = Desconhecido
+suit-sensor-component-unknown-job = Sem trabalho
 
 ## Examine
 
-suit-sensor-examine-off  = Parece que os sensores estão ativados no modo binário.
-suit-sensor-examine-binary  = Parece que os sensores estão ativados no modo binário.
-suit-sensor-examine-vitals  = Parece que os sensores estão ativados no modo de monitoramento de saúde.
-suit-sensor-examine-cords  = Parece que os sensores estão ativados no modo de rastreamento de posição e saúde.
+suit-sensor-examine-off = Seus sensores parecem estar [color=darkred]desativados[/color].
+suit-sensor-examine-binary = Seus sensores de vida binários parecem estar ativados.
+suit-sensor-examine-vitals = Seu rastreador vital parece estar ativado.
+suit-sensor-examine-cords = Seu rastreador vital e farol de rastreamento parecem estar ativados.

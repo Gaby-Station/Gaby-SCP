@@ -1,1 +1,1 @@
-ent-Scp173  = None
+ent-Scp173 = SCP-173

@@ -1,1 +1,1 @@
-multi-server-kick-reason  = Conectando-se a outro servidor na comunidade
+﻿multi-server-kick-reason = Conectado a um servidor diferente nesta comunidade.

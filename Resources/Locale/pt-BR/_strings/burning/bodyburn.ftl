@@ -1,1 +1,1 @@
-bodyburn-text-others  = { $name } queima até o chão!
+﻿bodyburn-text-others = {CAPITALIZE(THE($name))} queima até virar cinzas!

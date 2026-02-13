@@ -1,2 +1,2 @@
-station-event-solar-flare-start-announcement  = Uma explosão solar foi registrada perto da estação. Alguns canais de comunicação podem não funcionar mais.
-station-event-solar-flare-end-announcement  = A explosão solar passou. Os canais de comunicação não são mais afetados por ela.
+station-event-solar-flare-start-announcement = Uma explosão solar foi detectada perto da estação. Alguns canais de comunicação podem não funcionar.
+station-event-solar-flare-end-announcement = A explosão solar terminou. Os canais de comunicação não são mais afetados.

@@ -1,3 +1,3 @@
-traitor-codes-message-singular  = Palavra-código do sindicato:
-traitor-codes-message-plural  = Distribuir palavras de código:
-traitor-codes-none  = nenhuma palavra de código conhecida
+traitor-codes-message-singular = palavra-código do sindicato:
+traitor-codes-message-plural = palavras-código do sindicato:
+traitor-codes-none = nenhuma palavra-código conhecida

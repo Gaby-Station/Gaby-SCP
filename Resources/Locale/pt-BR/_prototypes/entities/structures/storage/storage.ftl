@@ -1,2 +1,2 @@
-ent-Rack  = ficar
-    .desc  = Rack para guardar coisas.
+ent-Rack = prateleira
+    .desc = Um rack para guardar coisas.

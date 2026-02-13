@@ -1,15 +1,6 @@
 # General
-rule-restarting-in-seconds =
-    Перезапуск через { $seconds } { $seconds ->
-        [one] секунду
-        [few] секунды
-       *[other] секунд
-    }.
-rule-time-has-run-out  = Acabou o tempo!
+rule-restarting-in-seconds = Reiniciando em {$seconds} segundos.
+rule-time-has-run-out = O tempo acabou!
+
 # Respawning
-rule-respawn-in-seconds =
-    Возрождение через { $second } { $second ->
-        [one] секунду
-        [few] секунды
-       *[other] секунд
-    }...
+rule-respawn-in-seconds = Reaparecendo em {$second} segundos...

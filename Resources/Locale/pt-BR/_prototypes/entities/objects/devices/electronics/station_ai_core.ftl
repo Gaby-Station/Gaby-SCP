@@ -1,3 +1,3 @@
-ent-StationAiCoreElectronics  = estação eletrônica central AI
-    .desc  = Placa eletrônica usada em núcleos de IA de estação.
+ent-StationAiCoreElectronics = estação eletrônica central AI
+    .desc = Uma placa eletrônica usada em núcleos de IA de estação.
 

@@ -1,2 +1,2 @@
-ent-SCPResearchServer  = { ent-ResearchAndDevelopmentServer }
-    .desc  = { ent-ResearchAndDevelopmentServer.desc }
+ent-SCPResearchServer = { ent-ResearchAndDevelopmentServer }
+    .desc = { ent-ResearchAndDevelopmentServer.desc }

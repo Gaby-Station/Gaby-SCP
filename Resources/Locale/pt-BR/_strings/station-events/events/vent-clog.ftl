@@ -1,1 +1,1 @@
-station-event-vent-clog-start-announcement  = A rede do purificador experimenta um aumento na contrapressão. O conteúdo pode ser ejetado.
+﻿station-event-vent-clog-start-announcement = A rede de purificadores está passando por um aumento de contrapressão. Pode ocorrer alguma ejeção de conteúdo.

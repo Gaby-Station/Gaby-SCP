@@ -1,3 +1,9 @@
-ent-MobHumanChaosLeader  = { ghost-role-information-chaos-leader-name }
-ent-MobHumanChaosMedic  = { ghost-role-information-chaos-medic-name }
-ent-MobHumanChaos  = { ghost-role-information-chaos-name }
+ent-MobHumanChaosLeader = Líder Rebelde do Caos
+    .suffix = CAOS | ANTAG
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanChaosMedic = Médico Rebelde do Caos
+    .suffix = CAOS | ANTAG
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanChaos = Rebelde do Caos
+    .suffix = CAOS | ANTAG
+    .desc = { ent-MobHuman.desc }

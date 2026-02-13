@@ -1,3 +1,3 @@
-faction-clothing-blocker-notify-wrong-user-detected  = Mídia não autorizada detectada.
-faction-clothing-blocker-notify-inclusion-bolts  = Ativação de parafusos de travamento.
-faction-clothing-blocker-notify-activate-self-destruction  = Lançando um programa de autodestruição.
+faction-clothing-blocker-notify-wrong-user-detected = Não use nada.
+faction-clothing-blocker-notify-inclusion-bolts = Ative o bloqueio de parafusos.
+faction-clothing-blocker-notify-activate-self-destruction = Execute o programa de auto-ajuda.

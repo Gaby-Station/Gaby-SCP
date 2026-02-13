@@ -1,2 +1,2 @@
-ent-RandomIan  = Gerador de ian aleatório
-    .desc  = { ent-MarkerBase.desc }
+ent-RandomIan = gerador aleatório de ian
+    .desc = { ent-MarkerBase.desc }

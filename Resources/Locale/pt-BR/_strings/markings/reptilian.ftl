@@ -1,77 +1,125 @@
-marking-LizardFrillsShort-frills_short  = Unath, colarinho (curto)
-marking-LizardFrillsShort  = Unath, colarinho (curto)
-marking-LizardFrillsSimple-frills_simple  = Unath, colarinho (simples)
-marking-LizardFrillsSimple  = Unath, colarinho (simples)
-marking-LizardFrillsAquatic-frills_aquatic  = Unath, colarinho (Água)
-marking-LizardFrillsAquatic  = Unath, colarinho (Água)
-marking-LizardHornsAngler-horns_angler  = Unath, chifres (pescador)
-marking-LizardHornsAngler  = Unath, chifres (pescador)
-marking-LizardHornsCurled-horns_curled  = Unath, chifres (enrolados)
-marking-LizardHornsCurled  = Unath, chifres (enrolados)
-marking-LizardHornsRam-horns_ram  = Unath, chifres (Cordeiro)
-marking-LizardHornsRam  = Unath, chifres (Cordeiro)
-marking-LizardHornsShort-horns_short  = Unath, chifres (curto)
-marking-LizardHornsShort  = Unath, chifres
-marking-LizardHornsSimple-horns_simple  = Unath, chifres
-marking-LizardHornsSimple  = Unath, chifres
-marking-LizardTailSmooth-tail_smooth_primary  = Unath, cauda
-marking-LizardTailSmooth-tail_smooth_secondary  = Matiz
-marking-LizardTailSmooth  = Unath, cauda (suave)
-marking-LizardTailLarge-tail_large  = Unath, cauda (Grande)
-marking-LizardTailLarge  = Unath, cauda (Grande)
-marking-LizardTailSpikes-tail_spikes  = Unath, cauda (espigada)
-marking-LizardTailSpikes  = Unath, cauda (espigada)
-marking-LizardTailLTiger-tail_ltiger  = Unath, cauda (listras claras de tigre)
-marking-LizardTailLTiger  = Unath, cauda (listras claras de tigre)
-marking-LizardTailDTiger-tail_dtiger  = Unath, cauda (listras escuras de tigre)
-marking-LizardTailDTiger  = Unath, cauda (listras escuras de tigre)
-marking-LizardSnoutRound-snout_round  = Unath, focinho (redondo)
-marking-LizardSnoutRound  = Unath, focinho (redondo)
-marking-LizardSnoutSharp-snout_sharp  = Unath, focinho (apontado)
-marking-LizardSnoutSharp  = Unath, focinho (apontado)
-marking-LizardChestTiger-body_tiger  = Unath, peito (Tigre)
-marking-LizardChestTiger  = Unath, peito (Tigre)
-marking-LizardHeadTiger-head_tiger  = Unath, cabeça (Tigre)
-marking-LizardHeadTiger  = Unath, cabeça (Tigre)
-marking-LizardLArmTiger-l_arm_tiger  = Unath, mão esquerda (Tigre)
-marking-LizardLArmTiger  = Unath, mão esquerda (Tigre)
-marking-LizardLLegTiger-l_leg_tiger  = Unath, perna esquerda (Tigre)
-marking-LizardLLegTiger  = Unath, perna esquerda (Tigre)
-marking-LizardRArmTiger-r_arm_tiger  = Unath, mão direita (Tigre)
-marking-LizardRArmTiger  = Unath, mão direita (Tigre)
-marking-LizardRLegTiger-r_leg_tiger  = Unath, perna direita (Tigre)
-marking-LizardRLegTiger  = Unath, perna direita (Tigre)
-marking-LizardFrillsDivinity-frills_divinity  = Unath, colarinho (Divino)
-marking-LizardFrillsDivinity  = Unath, colarinho (Divino)
-marking-LizardFrillsBig-frills_big  = Unath, colarinho (grande)
-marking-LizardFrillsBig  = Unath, colarinho (pescoço inteiro)
-marking-LizardFrillsNeckfull-frills_neckfull  = Unath, colarinho (pescoço inteiro)
-marking-LizardFrillsNeckfull  = Unath, colarinho (pescoço inteiro)
-marking-LizardHornsDouble-horns_double  = Unath, chifres (duplo)
-marking-LizardHornsDouble  = Unath, chifres (duplo)
-marking-LizardFrillsAxolotl-frills_axolotl  = Capô externo
-marking-LizardFrillsHood-frills_hood_primary  = Capô externo
-marking-LizardFrillsHood-frills_hood_secondary  = Capô interno
-marking-LizardFrillsAxolotl  = Unath, colar (Axolotl)
-marking-LizardFrillsHood  = Unath, colarinho (capuz)
-marking-LizardHornsArgali-horns_argali  = Unath, chifres (Argali)
-marking-LizardHornsArgali  = Unath, chifres (Argali)
-marking-LizardHornsAyrshire-horns_ayrshire  = Unath, chifres (Ayrshire)
-marking-LizardHornsAyrshire  = Unath, chifres (Ayrshire)
-marking-LizardHornsMyrsore-horns_myrsore  = Unath, chifres (Mirsora)
-marking-LizardHornsMyrsore  = Unath, chifres (Mirsora)
-marking-LizardHornsBighorn-horns_bighorn  = Unath, chifres (bighorn)
-marking-LizardHornsBighorn  = Unath, chifres (bighorn)
-marking-LizardHornsDemonic-horns_demonic  = Unath, chifres (demoníaco)
-marking-LizardHornsDemonic  = Unath, chifres (demoníaco)
-marking-LizardHornsKoboldEars-horns_kobold_ears  = Unath, orelhas (Kobold)
-marking-LizardHornsKoboldEars  = Unath, orelhas (Kobold)
-marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears  = Unath, orelhas (kobold orelhudo)
-marking-LizardHornsFloppyKoboldEars  = Unath, orelhas (kobold orelhudo)
-marking-LizardChestUnderbelly-body_underbelly  = Unath, peito (barriga)
-marking-LizardChestUnderbelly  = Unath, peito, espinhos nas costas (Quatro)
-marking-LizardChestBackspikes-body_backspikes  = Unath, peito, espinhos nas costas (Quatro)
-marking-LizardChestBackspikes  = Unath, peito, espinhos nas costas (Quatro)
-marking-LizardSnoutSplotch  = Unath, focinho de rosto (Spot)
-marking-LizardSnoutSplotch-snout_splotch_primary  = Focinho
-marking-LizardSnoutSplotch-snout_splotch_secondary  = Nariz
+marking-LizardFrillsShort-frills_short = Babados de lagarto (curto)
+marking-LizardFrillsShort = Babados de lagarto (curto)
+
+marking-LizardFrillsSimple-frills_simple = Babados de lagarto (simples)
+marking-LizardFrillsSimple = Babados de lagarto (simples)
+
+marking-LizardFrillsAquatic-frills_aquatic = Babados de lagarto (aquático)
+marking-LizardFrillsAquatic = Babados de lagarto (aquático)
+
+marking-LizardHornsAngler-horns_angler = Chifres de lagarto (pescador)
+marking-LizardHornsAngler = Chifres de lagarto (pescador)
+
+marking-LizardHornsCurled-horns_curled = Chifres de lagarto (enrolados)
+marking-LizardHornsCurled = Chifres de lagarto (enrolados)
+
+marking-LizardHornsRam-horns_ram = Chifres de lagarto (carneiro)
+marking-LizardHornsRam = Chifres de lagarto (carneiro)
+
+marking-LizardHornsShort-horns_short = Chifres de lagarto (curtos)
+marking-LizardHornsShort = Chifres de lagarto (curtos)
+
+marking-LizardHornsSimple-horns_simple = Chifres de lagarto
+marking-LizardHornsSimple = Chifres de lagarto
+
+marking-LizardTailSmooth-tail_smooth_primary = Cauda de Lagarto
+marking-LizardTailSmooth-tail_smooth_secondary = Sob tom
+marking-LizardTailSmooth = Cauda de lagarto (lisa)
+
+marking-LizardTailLarge-tail_large = Cauda de lagarto (grande)
+marking-LizardTailLarge = Cauda de lagarto (grande)
+
+marking-LizardTailSpikes-tail_spikes = Cauda de lagarto (espigada)
+marking-LizardTailSpikes = Cauda de lagarto (espigada)
+
+marking-LizardTailLTiger-tail_ltiger = Cauda de lagarto (listras claras de tigre)
+marking-LizardTailLTiger = Cauda de lagarto (listras claras de tigre)
+
+marking-LizardTailDTiger-tail_dtiger = Cauda de lagarto (listras de tigre escuro)
+marking-LizardTailDTiger = Cauda de lagarto (listras de tigre escuro)
+
+marking-LizardTailAquatic-tail_aquatic = Cauda de Lagarto (Aquático)
+marking-LizardTailAquatic = Cauda de Lagarto (Aquático)
+
+marking-LizardSnoutRound-snout_round = Focinho de lagarto (redondo)
+marking-LizardSnoutRound = Focinho de lagarto (redondo)
+
+marking-LizardSnoutSharp-snout_sharp = Focinho de Lagarto (Afiado)
+marking-LizardSnoutSharp = Focinho de Lagarto (Afiado)
+
+marking-LizardChestTiger-body_tiger = Baú de Lagarto (Tigre)
+marking-LizardChestTiger = Baú de Lagarto (Tigre)
+
+marking-LizardHeadTiger-head_tiger = Cabeça de Lagarto (Tigre)
+marking-LizardHeadTiger = Cabeça de Lagarto (Tigre)
+
+marking-LizardLArmTiger-l_arm_tiger = Braço Esquerdo de Lagarto (Tigre)
+marking-LizardLArmTiger = Braço Esquerdo de Lagarto (Tigre)
+
+marking-LizardLLegTiger-l_leg_tiger = Perna Esquerda de Lagarto (Tigre)
+marking-LizardLLegTiger = Perna Esquerda de Lagarto (Tigre)
+
+marking-LizardRArmTiger-r_arm_tiger = Braço Direito do Lagarto (Tigre)
+marking-LizardRArmTiger = Braço Direito do Lagarto (Tigre)
+
+marking-LizardRLegTiger-r_leg_tiger = Perna Direita de Lagarto (Tigre)
+marking-LizardRLegTiger = Perna Direita de Lagarto (Tigre)
+
+marking-LizardFrillsDivinity-frills_divinity = Lagarto Babados (Divindade)
+marking-LizardFrillsDivinity = Lagarto Babados (Divindade)
+
+marking-LizardFrillsBig-frills_big = Babados de lagarto (grande)
+marking-LizardFrillsBig = Babados de lagarto (grande)
+
+marking-LizardFrillsNeckfull-frills_neckfull = Babados de lagarto (pescoço cheio)
+marking-LizardFrillsNeckfull = Babados de lagarto (pescoço cheio)
+
+marking-LizardHornsDouble-horns_double = Chifres de lagarto (duplos)
+marking-LizardHornsDouble = Chifres de lagarto (duplos)
+
+marking-LizardFrillsAxolotl-frills_axolotl = Babados de lagarto (Axolotl)
+marking-LizardFrillsAxolotl = Babados de lagarto (Axolotl)
+
+marking-LizardFrillsHood-frills_hood_primary = Capô Externo
+marking-LizardFrillsHood-frills_hood_secondary = Capô Interno
+marking-LizardFrillsHood = Babados de lagarto (capuz)
+
+marking-LizardHornsArgali-horns_argali = Chifres de lagarto (Argali)
+marking-LizardHornsArgali = Chifres de lagarto (Argali)
+
+marking-LizardHornsAyrshire-horns_ayrshire = Chifres de lagarto (Ayrshire)
+marking-LizardHornsAyrshire = Chifres de lagarto (Ayrshire)
+
+marking-LizardHornsMyrsore-horns_myrsore = Chifres de lagarto (Myrsore)
+marking-LizardHornsMyrsore = Chifres de lagarto (Myrsore)
+
+marking-LizardHornsBighorn-horns_bighorn = Chifres de lagarto (Bighorn)
+marking-LizardHornsBighorn = Chifres de lagarto (Bighorn)
+
+marking-LizardHornsDemonic-horns_demonic = Chifres de Lagarto (Demoníaco)
+marking-LizardHornsDemonic = Chifres de Lagarto (Demoníaco)
+
+marking-LizardHornsKoboldEars-horns_kobold_ears = Orelhas de Lagarto (Kobold)
+marking-LizardHornsKoboldEars = Orelhas de Lagarto (Kobold)
+
+marking-LizardHornsFloppyKoboldEars-horns_floppy_kobold_ears = Orelhas de Lagarto (Floppy Kobold)
+marking-LizardHornsFloppyKoboldEars = Orelhas de Lagarto (Floppy Kobold)
+
+marking-LizardChestUnderbelly-body_underbelly = Peito de lagarto (barriga)
+marking-LizardChestUnderbelly = Peito de lagarto (barriga)
+
+marking-LizardChestBackspikes-body_backspikes = Espinhos nas costas do lagarto (quatro)
+marking-LizardChestBackspikes = Espinhos nas costas do lagarto (quatro)
+
+marking-LizardChestFin-body_fin = Barbatana de lagarto
+marking-LizardChestFin = Barbatana de lagarto
+
+marking-LizardSnoutSplotch = Focinho de lagarto (mancha)
+marking-LizardSnoutSplotch-snout_splotch_primary = Focinho
+marking-LizardSnoutSplotch-snout_splotch_secondary = Snoot
+
+marking-LizardSnoutVisageSharp = Rosto de lagarto (afiado)
+marking-LizardSnoutVisageSharp-visage_sharp = Rosto de lagarto (afiado)
+
+marking-LizardSnoutVisageRound = Rosto de lagarto (redondo)
+marking-LizardSnoutVisageRound-visage_round = Rosto de lagarto (redondo)

@@ -1,130 +1,111 @@
-barsign-component-name  = sinal de barra
-barsign-ui-menu  = Selecione um sinal:
-barsign-ui-set-label  = Selecione um sinal:
+barsign-component-name = sinal de barra
+barsign-ui-menu = Configuração do sinal de barra
+barsign-ui-set-label = Definir sinal:
 
 # Bar signs prototypes
 
-
 ## The Harmbaton
-
-barsign-prototype-name-harmbaton  = Harmbaton
-barsign-prototype-description-harmbaton  = Excelentes almoços para funcionários de segurança e assistentes.
+barsign-prototype-name-harmbaton = O Harmbaton
+barsign-prototype-description-harmbaton = Uma ótima experiência gastronômica para membros da segurança e passageiros.
 
 ## The Singulo
-
-barsign-prototype-name-singulo  = Solteiro
-barsign-prototype-description-singulo  = Para onde vêm pessoas que não gostam de ser chamadas pelo nome.
+barsign-prototype-name-singulo = O Singulo
+barsign-prototype-description-singulo = Aonde vão pessoas que preferem não ser chamadas pelo nome.
 
 ## The Drunk Carp
-
-barsign-prototype-name-drunk-carp  = carpa bêbada
-barsign-prototype-description-drunk-carp  = Não beba enquanto nada.
+barsign-prototype-name-drunk-carp = A carpa bêbada
+barsign-prototype-description-drunk-carp = Não beba e nade.
 
 ## Officer Beersky
-
-barsign-prototype-name-officer-beersky  = Oficial Pivski
-barsign-prototype-description-officer-beersky  = Cara, essas bebidas são ótimas.
+barsign-prototype-name-officer-beersky = Oficial Beersky
+barsign-prototype-description-officer-beersky = Cara, coma um dong, essas bebidas são ótimas.
 
 ## The Outer Spess
-
-barsign-prototype-name-outer-spess  = Espaço aberto
-barsign-prototype-description-outer-spess  = Esta barra não está realmente localizada no espaço sideral.
+barsign-prototype-name-outer-spess = O Spess Exterior
+barsign-prototype-description-outer-spess = Esta barra não está realmente localizada no espaço sideral.
 
 ## The Coderbus
-
-barsign-prototype-name-coderbus  = Koderbas
-barsign-prototype-description-coderbus  = Um bar muito polêmico e conhecido pela grande variedade de bebidas em constante mudança.
+barsign-prototype-name-coderbus = O Coderbus
+barsign-prototype-description-coderbus = Um bar muito polêmico e conhecido pela grande variedade de bebidas em constante mudança.
 
 ## Robusta Cafe
-
-barsign-prototype-name-robusta-cafe  = Café Robusta
-barsign-prototype-description-robusta-cafe  = Um café popular entre nians e moffs. Certa vez, ficou fechado por uma semana depois que uma garçonete usou naftalina em seu uniforme sobressalente.
+barsign-prototype-name-robusta-cafe = O Café Robusta
+barsign-prototype-description-robusta-cafe = Detentor do recorde de 'Most Lethal Barfights' por 5 anos incontestado.
 
 ## Emergency Rum Party
-
-barsign-prototype-name-emergency-rum-party  = A licença foi renovada recentemente após um longo intervalo.
-barsign-prototype-description-emergency-rum-party  = A licença foi renovada recentemente após um longo intervalo.
+barsign-prototype-name-emergency-rum-party = A Festa do Rum de Emergência
+barsign-prototype-description-emergency-rum-party = Recentemente relicenciado após um longo fechamento.
 
 ## The Combo Cafe
-
-barsign-prototype-name-combo-cafe  = Café Combinado
-barsign-prototype-description-combo-cafe  = Festa Extraordinária do Rum
+barsign-prototype-name-combo-cafe = O Café Combinado
+barsign-prototype-description-combo-cafe = Reconhecido em todo o sistema por suas combinações de bebidas nada criativas.
 
 ## The Ale Nath
-
-barsign-prototype-name-ale-nath  = El'nath
-barsign-prototype-description-ale-nath  = Por alguma razão, atrai estranhos misteriosos em vestes que sussurram EI NATH.
+barsign-prototype-name-ale-nath = A Ale’Nath
+barsign-prototype-description-ale-nath = Tudo bem, amigo. Acho que você teve EI NATH. Hora de pegar um táxi.
 
 ## The Net
-
-barsign-prototype-name-the-net  = Líquido
-barsign-prototype-description-the-net  = Você não notará como isso se arrastará por algumas horas.
+barsign-prototype-name-the-net = A rede
+barsign-prototype-description-the-net = Você parece ficar preso nisso por horas.
 
 ## Maid Cafe
-
-barsign-prototype-name-maid-cafe  = Café Maido
-barsign-prototype-description-maid-cafe  = Falcão maltês
+barsign-prototype-name-maid-cafe = Café da empregada
+barsign-prototype-description-maid-cafe = Bem-vindo de volta, mestre!
 
 ## Maltese Falcon
-
-barsign-prototype-name-maltese-falcon  = Falcão maltês
-barsign-prototype-description-maltese-falcon  = Jogue de novo, Sam.
+barsign-prototype-name-maltese-falcon = Falcão Maltês
+barsign-prototype-description-maltese-falcon = Toque de novo, Sam.
 
 ## The Sun
-
-barsign-prototype-name-the-sun  = Sol
-barsign-prototype-description-the-sun  = Ironicamente brilhante para um bar tão escuro.
+barsign-prototype-name-the-sun = O Sol
+barsign-prototype-description-the-sun = Ironicamente brilhante para um bar tão sombreado.
 
 ## The Birdcage
-
-barsign-prototype-name-the-birdcage  = Aviário
-barsign-prototype-description-the-birdcage  = Um café popular entre nians e moffs. Certa vez, ficou fechado por uma semana depois que uma garçonete usou naftalina em seu uniforme sobressalente.
+barsign-prototype-name-the-birdcage = A gaiola
+barsign-prototype-description-the-birdcage = Cacau!
 
 ## Zocalo
-
-barsign-prototype-name-zocalo  = Zócalo
-barsign-prototype-description-zocalo  = Anteriormente localizado na Cosmoamérica.
+barsign-prototype-name-zocalo = Zócalo
+barsign-prototype-description-zocalo = Anteriormente localizado em Spessmerica.
 
 ## LV426
-
-barsign-prototype-name-lv426  = Um café popular entre nians e moffs. Certa vez, ficou fechado por uma semana depois que uma garçonete usou naftalina em seu uniforme sobressalente.
-barsign-prototype-description-lv426  = Tomar uma bebida com uma máscara da moda no rosto é claramente mais importante do que ir para a enfermaria.
+barsign-prototype-name-lv426 = LV-426
+barsign-prototype-description-lv426 = Beber com máscaras sofisticadas é claramente mais importante do que ir ao Medbay.
 
 ## The Wiggle Roomm
-
-barsign-prototype-name-wiggle-room  = Espaço para manobra
-barsign-prototype-description-wiggle-room  = Manobra MoMMI na dança.
+barsign-prototype-name-wiggle-room = A sala de manobra
+barsign-prototype-description-wiggle-room = MoMMIs têm movimentos.
 
 ## The Lightbulb
-
-barsign-prototype-name-the-lightbulb  = Bulbo
-barsign-prototype-description-the-lightbulb  = Um café popular entre nians e moffs. Certa vez, ficou fechado por uma semana depois que uma garçonete usou naftalina em seu uniforme sobressalente.
+barsign-prototype-name-the-lightbulb = A lâmpada
+barsign-prototype-description-the-lightbulb = Um café popular entre mariposas e moffs. Uma vez fechado por uma semana depois que o barman usou naftalina para proteger seus uniformes extras.
 
 ## The Loose Goose
-
-barsign-prototype-name-goose  = Ganso alegre
-barsign-prototype-description-goose  = Beba até vomitar e/ou quebrar as leis da realidade!
+barsign-prototype-name-goose = O Ganso Solto
+barsign-prototype-description-goose = Beba até vomitar e/ou quebrar as leis da realidade!
 
 ## The Engine Change
-
-barsign-prototype-name-enginechange  = Substituição do motor
-barsign-prototype-description-enginechange  = Ainda estamos esperando.
+barsign-prototype-name-enginechange = A mudança do motor
+barsign-prototype-description-enginechange = Ainda estou esperando.
 
 ## 4 The Emprah
+barsign-prototype-name-emprah = 4 A Emprah
+barsign-prototype-description-emprah = Apreciado por fanáticos, hereges e clientes com danos cerebrais.
 
-barsign-prototype-name-emprah  = Para o Império
-barsign-prototype-description-emprah  = Fanáticos, hereges e frequentadores regulares com defeitos cerebrais gostam dele.
+## Spacebucks
+barsign-prototype-name-spacebucks = Spacebucks
+barsign-prototype-description-spacebucks = Você não pode fugir deles, mesmo no espaço, e mesmo depois de começarmos a chamá-los de 'spesos'.
+
+## Maltroach
+barsign-prototype-name-maltroach = Maltroach
+barsign-prototype-description-maltroach = Rangido!
+
+## Whiskey Echoes
+barsign-prototype-name-whiskeyechoes = Ecos de uísque
+barsign-prototype-description-whiskeyechoes = Um bar de elite para espera de ópera de elite, esta é uma estação Nanotrasen. Por que esse sinal está no banco de dados?
 
 ## EmpBarSign
-
-barsign-prototype-name-spacebucks  = Empréstimos
-barsign-prototype-description-spacebucks  = Você não pode se esconder deles, mesmo no espaço.
-barsign-prototype-description-empbarsign  = Algo deu terrivelmente errado.
-barsign-prototype-name-maltroach  = Maltrakan
-barsign-prototype-description-maltroach  = Gritar!
+barsign-prototype-description-empbarsign = Algo deu muito errado.
 
 ## SignOff
-
-barsign-prototype-name-whiskeyechoes  = Eco Whisky
-barsign-prototype-description-whiskeyechoes  = Um bar sofisticado para óperas sofisticadas... espere, esta é uma estação Fonda. Por que esse sinal está no banco de dados?
-barsign-prototype-description-sign-off  = Este sinal não parece estar incluído.
+barsign-prototype-description-sign-off = Este sinal não parece estar aceso.

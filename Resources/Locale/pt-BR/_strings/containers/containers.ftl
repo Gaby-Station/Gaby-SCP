@@ -1,3 +1,5 @@
-container-verb-text-enter  = Escalar
-container-verb-text-empty  = Desembarca o piloto do mech.
-container-thrown-missed  = Perder!
+container-verb-text-enter = Digitar
+container-verb-text-empty = Vazio
+
+## missed
+container-thrown-missed = Perdido!

@@ -1,2 +1,3 @@
-loadout-window  = Equipamento
-loadout-none  = Nada
+loadout-window = Carregamento
+loadout-none = Nenhum
+loadout-window-title-loadout = { $job } carregamento

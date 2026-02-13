@@ -1,2 +1,2 @@
-ent-ClothingBeltStorageWaistbag  = bolsa de cinto de couro
-    .desc  = Bolsa de couro para transportar pequenos itens.
+ent-ClothingBeltStorageWaistbag = bolsa de cintura de couro
+    .desc = Uma bolsa de cintura de couro destinada a transportar pequenos itens.

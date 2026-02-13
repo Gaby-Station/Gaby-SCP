@@ -1,2 +1,2 @@
-ent-ActionToggleThermalVision  = mudar a visão térmica
-    .desc  = Ative ou desative a visão térmica.
+ent-ActionToggleThermalVision = alternar visão térmica
+    .desc = Ative ou desative a visão térmica.

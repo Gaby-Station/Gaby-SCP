@@ -1,1 +1,1 @@
-flammable-component-resist-message  = Você para, cai e rola!
+flammable-component-resist-message = Você para, cai e rola!

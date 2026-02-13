@@ -1,12 +1,2 @@
-terror-dragon  = Atenção tripulação, parece que alguém da sua estação fez contato inesperado com um peixe estranho no espaço próximo.
-terror-revenant  = Atenção tripulação, parece que alguém da sua estação enviou inesperadamente as coordenadas de um disco de autenticação no espaço próximo.
-terror-nukeops-infiltrator  = Atenção tripulação, parece que alguém em sua estação fez contato inesperado com um saqueador vermelho-sangue no espaço próximo.
-terror-lone-operative  = Atenção tripulação, parece que alguém em sua estação fez contato inesperado com um saqueador vermelho-sangue no espaço próximo.
-terror-nukeops-operative  = Atenção tripulação, parece que alguém da sua estação enviou inesperadamente uma declaração de guerra no espaço próximo.
-terror-pirate  = Atenção pessoal, parece que alguém da sua estação contraiu inesperadamente alguns empréstimos hipotecando a própria estação.
-terror-pirate-small  = Atenção equipe, parece que alguém da sua estação contraiu inesperadamente alguns microcréditos hipotecando a própria estação.
-terror-abductor  = Atenção tripulação, parece que alguém em sua estação fez contato inesperado com um bombástico trio de palhaços buzinando no espaço próximo.
-terror-clown  = Atenção tripulação, parece que alguém em sua estação fez contato inesperado com um bombástico trio de palhaços buzinando no espaço próximo.
-terror-ninja  = Atenção tripulação, parece que alguém em sua estação fez contato inesperado com o clã das aranhas no espaço próximo.
-terror-rod  = Atenção tripulação, parece que alguém em sua estação fez contato inesperado com um representante da Federação dos Magos no espaço próximo.
-terror-wizard  = Atenção tripulação, parece que alguém em sua estação fez contato inesperado com um representante da Federação dos Magos no espaço próximo.
+terror-dragon = Atenção tripulação, parece que alguém em sua estação fez uma comunicação inesperada com um estranho peixe comedor de gente no espaço próximo.
+terror-revenant = Atenção tripulação, parece que alguém na sua estação fez uma comunicação inesperada com uma energia sobrenatural no espaço próximo.

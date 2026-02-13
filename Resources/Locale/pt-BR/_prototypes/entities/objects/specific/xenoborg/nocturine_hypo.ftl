@@ -1,2 +1,2 @@
-ent-NocturineHypo  = hipospray
-    .desc  = Injetor autoescorvante para administrar rapidamente nocturina às vítimas.
+ent-NocturineHypo = hipo nocturina
+    .desc = Um injetor de recarga automática para administração rápida de nocturina às vítimas.

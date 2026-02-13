@@ -1,2 +1,2 @@
-ent-AbductorExperimentator  = Dispositivo que analisa os resultados de um experimento e devolve o sujeito ao local de coleta.
-    .desc  = Dispositivo que analisa os resultados de um experimento e devolve o sujeito ao local de coleta.
+ent-AbductorExperimentator = experimentador
+    .desc = Dispositivo que analisa o resultado do experimento e leva o sujeito ao local de onde foi retirado.

@@ -1,6 +1,6 @@
-ent-BaseTerminatorObjective  = { ent-BaseObjective }
-    .desc  = { ent-BaseObjective.desc }
-ent-TerminateObjective  = { ent-BaseTerminatorObjective }
-    .desc  = Após completar a tarefa, morra para evitar o roubo de nossa tecnologia.
-ent-ShutDownObjective  = Após completar a tarefa, morra para evitar o roubo de nossa tecnologia.
-    .desc  = Após completar a tarefa, morra para evitar o roubo de nossa tecnologia.
+ent-BaseTerminatorObjective = { ent-BaseObjective }
+    .desc = { ent-BaseObjective.desc }
+ent-TerminateObjective = { ent-BaseTerminatorObjective }
+    .desc = Siga sua programação e elimine o alvo.
+ent-ShutDownObjective = Desligar
+    .desc = Assim que a missão for concluída, morra para evitar que nossa tecnologia seja roubada.

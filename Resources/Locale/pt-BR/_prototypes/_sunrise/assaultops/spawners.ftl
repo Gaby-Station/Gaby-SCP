@@ -1,2 +1,2 @@
-ent-SpawnPointAssaultOps  = tropas de assalto
-    .desc  = { ent-MarkerBase.desc }
+ent-SpawnPointAssaultOps = operações de assalto
+    .desc = { ent-MarkerBase.desc }

@@ -1,1 +1,1 @@
-weldable-component-examine-is-welded  = Ono soldado de topo.
+weldable-component-examine-is-welded = Foi soldado e fechado.

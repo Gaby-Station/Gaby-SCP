@@ -1,4 +1,4 @@
 ## Entity
 
-seed-extractor-component-interact-message  = { $name } não tem sementes!
-seed-extractor-component-no-seeds  = { CAPITALIZE($name) } não tem sementes!
+seed-extractor-component-interact-message = Você extrai algumas sementes do { THE($name) }.
+seed-extractor-component-no-seeds = { CAPITALIZE(THE($name)) } não tem sementes!

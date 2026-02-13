@@ -1,1 +1,1 @@
-chameleon-outfit-sus-name     = Suspeito
+chameleon-outfit-sus-name = Sus

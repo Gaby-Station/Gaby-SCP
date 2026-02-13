@@ -1,1 +1,1 @@
-set-outfit-verb-get-data-text  = Instalar equipamentos
+set-outfit-verb-get-data-text = Definir roupa

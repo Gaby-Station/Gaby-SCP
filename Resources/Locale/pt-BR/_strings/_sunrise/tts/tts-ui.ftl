@@ -1,6 +1,6 @@
-ui-options-tts-volume  = Volume TTS:
-ui-options-tts-radio-volume  = Volume de alerta:
-ui-options-tts-announce-volume  = Volume de alerta:
-credits-window-tts-title  = Função TTS (texto para fala)
-humanoid-profile-editor-voice-label  = Voz:
-humanoid-profile-editor-voice-play  = None
+ui-options-tts-volume = TTS grosseiro:
+ui-options-tts-radio-volume = Taxas brutas:
+ui-options-tts-announce-volume = Opções gerais:
+credits-window-tts-title = Função TTS (conversão de texto em fala)
+humanoid-profile-editor-voice-label = Gol:
+humanoid-profile-editor-voice-play = ▶

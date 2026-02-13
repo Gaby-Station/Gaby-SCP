@@ -1,2 +1,2 @@
-ent-CrateVendingMachineRestockPaintVendFilled  = Caixa de reposição KraskoMat
-    .desc  = Contém um kit de recarga para a máquina de venda automática KraskoMat.
+ent-CrateVendingMachineRestockPaintVendFilled = Caixa de reabastecimento PaintVend
+    .desc = Contém caixa de reabastecimento para máquina de venda automática PaintVend.

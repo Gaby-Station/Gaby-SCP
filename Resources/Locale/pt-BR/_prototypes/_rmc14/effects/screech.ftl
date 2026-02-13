@@ -1,4 +1,4 @@
-ent-CMEffectScreech  = { "" }
-    .desc  = { "" }
-ent-CMEffectScreechShort  = { "" }
-    .desc  = { "" }
+ent-CMEffectScreech = { "" }
+    .desc = { "" }
+ent-CMEffectScreechShort = { "" }
+    .desc = { "" }

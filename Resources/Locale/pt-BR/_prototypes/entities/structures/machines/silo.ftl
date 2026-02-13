@@ -1,2 +1,2 @@
-ent-MachineMaterialSilo  = armazenamento de materiais
-    .desc  = Uma máquina avançada que usa o bluespace para transmitir materiais para dispositivos próximos.
+ent-MachineMaterialSilo = silo de materiais
+    .desc = Uma máquina avançada, capaz de usar a tecnologia bluespace para transmitir materiais para máquinas próximas.

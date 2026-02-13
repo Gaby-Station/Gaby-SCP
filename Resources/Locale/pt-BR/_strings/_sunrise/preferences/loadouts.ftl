@@ -1,1 +1,1 @@
-loadout-sponsor-only  = Disponível apenas para patrocinadores.
+loadout-sponsor-only = Também é patrocinado.

@@ -1,2 +1,2 @@
-ent-Skub  = sucata
-    .desc  = Scab é o quinto Deus do Caos.
+ent-Skub = esquilo
+    .desc = Skub é o quinto Deus do Caos.

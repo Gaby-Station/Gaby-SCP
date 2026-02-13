@@ -1,2 +1,2 @@
-ent-FTLPointShuttle  = Plataforma de pouso
-    .desc  = { ent-MarkerBase.desc }
+ent-FTLPointShuttle = plataforma de pouso
+    .desc = { ent-MarkerBase.desc }

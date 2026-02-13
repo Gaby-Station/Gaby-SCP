@@ -1,2 +1,2 @@
-ent-AirlockPainter  = pintor de fechaduras
-    .desc  = Pintor de eclusas para pintar eclusas.
+ent-AirlockPainter = pintor de câmara de ar
+    .desc = Um pintor de câmaras de ar para pintar câmaras de ar.

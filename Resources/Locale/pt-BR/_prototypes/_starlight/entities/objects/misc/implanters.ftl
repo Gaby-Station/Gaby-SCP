@@ -1,4 +1,4 @@
-ent-BaseImplantOnlyImplanterSyndi_StarLight  = implantador de sindicato
-    .desc  = Seringa compacta e descartável especialmente desenvolvida para a inserção de implantes subcutâneos.
-ent-MagillitisSerumImplanter  = Implantador de soro Magillite
-    .desc  = { ent-BaseImplantOnlyImplanterSyndi.desc }
+ent-BaseImplantOnlyImplanterSyndi_StarLight = implantador de sindicato
+    .desc = Uma seringa descartável compacta projetada exclusivamente para injeção de implantes subdérmicos.
+ent-MagillitisSerumImplanter = implantador de soro para magilite
+    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }

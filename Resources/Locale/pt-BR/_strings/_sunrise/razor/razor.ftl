@@ -1,1 +1,1 @@
-razor-window-title  = Mudar penteado
+razor-window-title = Изменить причёску

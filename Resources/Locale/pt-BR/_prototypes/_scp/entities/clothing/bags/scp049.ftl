@@ -1,2 +1,2 @@
-ent-ClothingBackpackScp049  = Bolsa sem fundo
-    .desc  = Bolsa com aparência moderna.
+ent-ClothingBackpackScp049 = Saco sem fundo
+    .desc = Uma bolsa com aparência moderna.

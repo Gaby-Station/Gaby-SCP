@@ -1,6 +1,6 @@
-tape-player-menu-title  = Gravador
-tape-player-menu-inserted-tape  = Volume:
-tape-player-menu-volume  = Volume:
-tape-player-menu-buttonplay  = Jogar
-tape-player-menu-buttonpause  = Pausa
-tape-player-menu-buttonstop  = Parar
+tape-player-menu-title = Magnitofon
+tape-player-menu-inserted-tape = Cassete de configuração:
+tape-player-menu-volume = Gromкость:
+tape-player-menu-buttonplay = Jogar
+tape-player-menu-buttonpause = Pausa
+tape-player-menu-buttonstop = Parar

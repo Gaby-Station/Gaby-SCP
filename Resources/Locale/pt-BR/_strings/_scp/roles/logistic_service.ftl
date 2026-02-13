@@ -1,4 +1,2 @@
-job-name-logistics-officer  = Responsável pela manutenção das instalações do armazém e pela distribuição dos recursos e equipamentos recebidos por toda a instituição.
-job-description-logistics-officer  = Responsável pela manutenção das instalações do armazém e pela distribuição dos recursos e equipamentos recebidos por toda a instituição.
-
-job-supervisors-senior-logistics-officer  = intendente
+job-name-logistics-officer = Diretor de Logística
+job-description-logistics-officer = Funcionário do armazém responsável pela venda e transporte de cargas. CLASSE C

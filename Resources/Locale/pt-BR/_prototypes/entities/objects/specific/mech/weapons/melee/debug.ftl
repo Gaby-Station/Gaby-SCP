@@ -1,3 +1,3 @@
-ent-WeaponMechDebugMelle  = Coisa robusta.
-    .desc  = Coisa robusta.
-    .suffix  = Armas Mech, DEBUG, Corpo a Corpo
+ent-WeaponMechDebugMelle = depurar bam
+    .desc = Uma coisa robusta.
+    .suffix = Arma Mech, DEBUG, Corpo a Corpo

@@ -1,2 +1,2 @@
-ent-BoxingBell  = gongo de boxe
-    .desc  = Ding-ding!
+ent-BoxingBell = sino de boxe
+    .desc = Ding ding!

@@ -1,9 +1,10 @@
-timer-trigger-verb-set  = {$time} segundos
-timer-trigger-verb-set-current  = {$time} segundos (atual)
-timer-trigger-verb-cycle  = Alternar atraso de tempo
 
-timer-trigger-examine  = O temporizador está definido para {$time} segundos.
+timer-trigger-verb-set = {$time} Segundos
+timer-trigger-verb-set-current = {$time} Segundos (atual)
+timer-trigger-verb-cycle = Atraso de tempo de ciclo
 
-timer-trigger-popup-set  = O temporizador está definido para {$time} segundos.
+timer-trigger-examine = O temporizador está definido para {$time} segundos.
 
-timer-trigger-activated  = Você ativa {THE($device)}.
+timer-trigger-popup-set = Temporizador definido para {$time} segundos.
+
+timer-trigger-activated = Você ativa {THE($device)}.

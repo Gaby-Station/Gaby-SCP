@@ -1,9 +1,8 @@
-docking-component-dock  = Doca
-docking-component-undock  = Desencaixar
-cmd-dock-desc  = Número inválido de argumentos
-cmd-dock-help  = Número inválido de argumentos
-cmd-dock-args  = Número inválido de argumentos
-cmd-dock-invalid  = EntidadeUid { $entity } inválida
-cmd-dock-found  = Nenhum componente de encaixe encontrado para { $airlock }
-cmd-dock-success  = Encaixado com sucesso
-cmd-dock-fail  = Não é possível atracar
+docking-component-dock = Doca
+docking-component-undock = Desencaixar
+
+cmd-dock-desc = Tenta acoplar 2 câmaras de descompressão juntas. Não verifica se é válido.
+cmd-dock-help = doca <airlock entityuid1> <airlock entityuid2>
+
+cmd-dock-success = Encaixado com sucesso
+cmd-dock-fail = Não é possível atracar

@@ -1,4 +1,4 @@
-ent-ClothingUnderSocksBee  = meias com abelhas
-    .desc  = Faça-os vibrar!
-ent-ClothingUnderSocksCoder  = meias para programadores
-    .desc  = É hora de codificar, irmãs!!11!
+ent-ClothingUnderSocksBee = meias de abelha
+    .desc = Faça-os zumbir!
+ent-ClothingUnderSocksCoder = meias codificadoras
+    .desc = É hora de codificar irmãs!!11!

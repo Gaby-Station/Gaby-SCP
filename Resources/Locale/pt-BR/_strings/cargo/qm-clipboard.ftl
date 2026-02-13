@@ -1,1 +1,1 @@
-qm-clipboard-computer-verb-text  = Lista de solicitações de troca
+qm-clipboard-computer-verb-text = Alternar solicitações

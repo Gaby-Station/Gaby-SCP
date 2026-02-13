@@ -1,3 +1,3 @@
-ent-RandomCloneSpawner  = clone aleatório
-    .suffix  = não é um antagonista
-    .desc  = { "" }
+ent-RandomCloneSpawner = Clone Aleatório
+    .suffix = Não-Antag
+    .desc = { "" }

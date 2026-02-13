@@ -1,2 +1,2 @@
-ent-FloorLiquidPlasmaEntity  = plasma líquido
-    .desc  = Doce, querido néctar. Não use.
+ent-FloorLiquidPlasmaEntity = plasma líquido
+    .desc = Néctar doce e caro. Não consuma.

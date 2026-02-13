@@ -1,13 +1,9 @@
 # Borg Voice Change UI
-borg-voice-window-title  = Audição
-borg-voice-window-description  = Audição
-borg-voice-window-play-button  = Audição
+borg-voice-window-title = Configurações de voz
+borg-voice-window-description = Selecione sua voz TTS. Os ciborgues podem falar com qualquer voz devido aos seus alto-falantes.
+borg-voice-window-voice-label = Voz:
+borg-voice-window-play-button = Visualização
 
 # Action
-action-name-change-borg-voice  = Alterar voz TTS. Os ciborgues podem falar em qualquer voz graças aos alto-falantes.
-action-description-change-borg-voice  = Alterar voz TTS. Os ciborgues podem falar em qualquer voz graças aos alto-falantes.
-
-# Popups
-borg-voice-popup-sponsor-only  = Esta voz está disponível apenas para patrocinadores!
-borg-voice-popup-changed  = Voz alterada para { $voice }!
-borg-voice-popup-invalid  = Uma voz inexistente foi escolhida!
+action-name-change-borg-voice = Alterar voz
+action-description-change-borg-voice = Mude sua voz TTS. Os ciborgues podem falar com qualquer voz devido aos seus alto-falantes.

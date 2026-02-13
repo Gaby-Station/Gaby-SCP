@@ -1,1 +1,1 @@
-construction-step-condition-no-windows-in-tile  = Esta gaiola não pode ter janelas.
+construction-step-condition-no-windows-in-tile = Não pode haver janelas nesse bloco.

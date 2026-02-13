@@ -1,4 +1,4 @@
-ent-ClothingBackpackSyndicateBundle  = { ent-ClothingBackpackSyndicate }
-    .desc  = { ent-ClothingBackpackSyndicate.desc }
-ent-ClothingBackpackSyndicateRaidBundle  = Contém um traje de assalto de sindicato durável.
-    .desc  = Contém um traje de assalto de sindicato durável.
+ent-ClothingBackpackSyndicateBundle = { ent-ClothingBackpackSyndicate }
+    .desc = { ent-ClothingBackpackSyndicate.desc }
+ent-ClothingBackpackSyndicateRaidBundle = pacote de traje de ataque de sindicato
+    .desc = Contém a armadura de ataque durável do Sindicato.

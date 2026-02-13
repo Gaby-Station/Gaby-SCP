@@ -1,2 +1,2 @@
-ent-RandomFloraTree  = árvore aleatória geradora
-    .desc  = { ent-MarkerBase.desc }
+ent-RandomFloraTree = gerador de árvore aleatório
+    .desc = { ent-MarkerBase.desc }

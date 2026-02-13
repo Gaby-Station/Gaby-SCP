@@ -1,1 +1,1 @@
-guide-help-verb  = Ajuda
+guide-help-verb = Ajuda

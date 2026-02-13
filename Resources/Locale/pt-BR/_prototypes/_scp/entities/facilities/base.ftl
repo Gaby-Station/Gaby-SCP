@@ -1,4 +1,4 @@
-ent-BaseFacilitySiliconLawScpDefault  = { "" }
-    .desc  = { "" }
-ent-BaseFacilityAlertLevels  = { "" }
-    .desc  = { "" }
+ent-BaseFacilitySiliconLawScpDefault = { "" }
+    .desc = { "" }
+ent-BaseFacilityAlertLevels = { "" }
+    .desc = { "" }

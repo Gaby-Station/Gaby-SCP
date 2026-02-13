@@ -1,3 +1,3 @@
-ent-SurveillanceCameraRouterHandheld  = { ent-SurveillanceCameraRouterBase }
-    .suffix  = Câmeras corporais
-    .desc  = { ent-SurveillanceCameraRouterBase.desc }
+ent-SurveillanceCameraRouterHandheld = Câmeras portáteis
+    .suffix = Portátil
+    .desc = { ent-SurveillanceCameraRouterBase.desc }

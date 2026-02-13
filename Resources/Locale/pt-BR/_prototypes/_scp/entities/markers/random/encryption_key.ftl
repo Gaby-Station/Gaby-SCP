@@ -1,2 +1,2 @@
-ent-LootSpawnerFacilityEncryptionKey  = gerador de uma chave de criptografia complexa aleatória
-    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerFacilityEncryptionKey = gerador de chave de criptografia de instalação aleatória
+    .desc = { ent-MarkerBase.desc }

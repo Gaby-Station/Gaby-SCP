@@ -1,7 +1,7 @@
-ent-ScpBlastDoor  = selo hermético
-    .desc  = Existe uma etiqueta "PERIGO DE EXPLOSÃO".
-ent-ScpBlastDoorOpen  = { ent-BlastDoor }
-    .suffix  = Abrir
-    .desc  = { ent-BlastDoor.desc }
-ent-ScpBlastDoorFrame  = Não perca um membro!
-    .desc  = { ent-BlastDoor.desc }
+ent-ScpBlastDoor = porta de explosão
+    .desc = Este diz 'BLAST DORGE'.
+ent-ScpBlastDoorOpen = { ent-ScpBlastDoor }
+    .suffix = Abrir
+    .desc = { ent-ScpBlastDoor.desc }
+ent-ScpBlastDoorFrame = moldura da porta de explosão
+    .desc = Este diz 'BLAST DORGE'.

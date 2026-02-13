@@ -1,2 +1,2 @@
-ent-TwoWayLever  = alavanca de duas posições
-    .desc  = Alavanca de duas posições.
+ent-TwoWayLever = alavanca em dois sentidos
+    .desc = Uma alavanca bidirecional.

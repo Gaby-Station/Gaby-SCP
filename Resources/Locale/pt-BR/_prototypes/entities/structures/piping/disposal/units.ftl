@@ -1,6 +1,6 @@
-ent-DisposalUnitBase  = { ent-BaseMachinePowered }
-    .desc  = unidade de reciclagem
-ent-DisposalUnit  = unidade de reciclagem
-    .desc  = { ent-DisposalUnitBase.desc }
-ent-MailingUnit  = Instalação pneumática para entrega de correio.
-    .desc  = Instalação pneumática para entrega de correio.
+ent-DisposalUnitBase = { ent-BaseMachinePowered }
+    .desc = Uma unidade pneumática de eliminação de resíduos.
+ent-DisposalUnit = unidade de eliminação
+    .desc = { ent-DisposalUnitBase.desc }
+ent-MailingUnit = unidade de correspondência
+    .desc = Uma unidade pneumática de entrega de correio.

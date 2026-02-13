@@ -1,2 +1,2 @@
-ent-PotatoAIChip  = chip AI ultracompacto
-    .desc  = Este chip de inteligência artificial de alta tecnologia requer exatamente 1,1 volts para funcionar corretamente.
+ent-PotatoAIChip = chip AI supercompacto
+    .desc = Este chip AI de alta tecnologia requer uma voltagem de exatamente 1,1 V para funcionar corretamente.

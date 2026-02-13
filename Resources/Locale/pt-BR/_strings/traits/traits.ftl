@@ -1,49 +1,78 @@
-trait-blindness-name  = Cegueira
-trait-blindness-desc  = Narcolepsia
-trait-narcolepsy-name  = Narcolepsia
-trait-poor-vision-name  = Miopia
-trait-poor-vision-desc  = Seus olhos não são mais o que eram e você tem dificuldade em ver objetos distantes sem óculos corretivos.
-trait-narcolepsy-desc  = Você é dominado por crises de sonolência
-trait-pacifist-name  = Um pacifista
-trait-pacifist-desc  = Você não pode atacar ou prejudicar seres vivos.
-permanent-blindness-trait-examined  = [color=lightblue]{ CAPITALIZE(POSS-PRONOUN($target)) } olhos vidrados e desfocados. Não parece que { SUBJECT($target) } consegue ver você muito bem, se é que consegue.[/color]
-trait-lightweight-name  = Intoxicação rápida
-trait-lightweight-desc  = O álcool tem um efeito mais forte sobre você
-trait-muted-name  = Nemota
-trait-muted-desc  = Paracussão
-trait-paracusia-name  = Paracussão
-trait-unrevivable-name  = Não renovável
-trait-unrevivable-desc  = Você não pode ser revivido com um desfibrilador.
-trait-paracusia-desc  = Você ouve sons que realmente não existem
-trait-pirate-accent-name  = Sotaque pirata
-trait-pirate-accent-desc  = Você não consegue parar de falar como um pirata!
-trait-accentless-name  = Falta de sotaque
-trait-accentless-desc  = Você não tem o sotaque típico da sua espécie.
-trait-frontal-lisp-name  = Sigmatismo
-trait-frontal-lisp-desc  = Waf tem problemas de pronúncia.
-trait-socialanxiety-name  = Gagueira
-trait-socialanxiety-desc  = Você gagueja.
-trait-southern-name  = Dialeto do sul dos EUA
-trait-southern-desc  = Sua maneira de falar é diferente. Funciona apenas com inglês.
-trait-snoring-name  = Ronco
-trait-snoring-desc  = Você ronca enquanto dorme.
-trait-liar-name  = Mentiroso patológico
-trait-liar-desc  = Você tem dificuldade em se forçar a dizer a verdade. Às vezes você ainda mente.
-trait-cowboy-name  = Sotaque de cowboy
-trait-cowboy-desc  = Você fala com um notável sotaque de cowboy!
-trait-german-name  = sotaque alemão
-trait-german-desc  = Parece que você veio do espaço, Alemanha.
-trait-italian-name  = Sotaque italiano
-trait-italian-desc  = Mamãe Mia! Parece que você morou no Espaço Itália!
-trait-french-name  = sotaque francês
-trait-french-desc  = Há um certo “je ne sais quoi” no seu sotaque.
-trait-spanish-name  = Sotaque espanhol
-trait-spanish-desc  = Olá senhor, onde fica a biblioteca?
-trait-painnumbness-name  = Dormência
-trait-painnumbness-desc  = Você não sente dor sem perceber quanta dor você sente.
-trait-moldovan-name  = dialeto moldavo
-trait-moldovan-desc  = Barragem cigana no espaço espacial!
+trait-blindness-name = Cegueira
+trait-blindness-desc = Você é legalmente cego e não consegue ver claramente além de alguns metros à sua frente.
+
+trait-poor-vision-name = Míope
+trait-poor-vision-desc = Seus olhos não são mais o que eram antes, você tem dificuldade em ver coisas ao longe sem óculos corretivos.
+
+trait-narcolepsy-name = Narcolepsia
+trait-narcolepsy-desc = Você adormece aleatoriamente.
+
+trait-pacifist-name = Pacifista
+trait-pacifist-desc = Você não pode atacar ou ferir nenhum ser vivo.
+
+permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} olhos estão vidrados e desfocados. Não parece que {SUBJECT($target)} possa ver você bem, se é que consegue.[/color]
+
+trait-lightweight-name = Bêbado leve
+trait-lightweight-desc = O álcool tem um efeito mais forte sobre você.
+
+trait-monochromacy-name = Monocromacia
+trait-monochromacy-desc = Você é totalmente daltônico, tudo que você percebe varia de preto a branco.
+
+trait-muted-name = Silenciado
+trait-muted-desc = Você não pode falar.
+
+trait-paracusia-name = Paracusia
+trait-paracusia-desc = Você ouve sons que realmente não existem.
+
+trait-unrevivable-name = Irrecuperável
+trait-unrevivable-desc = Você não pode ser revivido por desfibriladores.
+
+trait-pirate-accent-name = Sotaque pirata
+trait-pirate-accent-desc = Você não consegue parar de falar como um pirata!
+
+trait-accentless-name = Sem sotaque
+trait-accentless-desc = Você não tem o sotaque que sua espécie normalmente teria.
+
+trait-frontal-lisp-name = Ceceio frontal
+trait-frontal-lisp-desc = Você fala com um litp.
+
+trait-socialanxiety-name = Gaguejar
+trait-socialanxiety-desc = Você fala com gagueira.
+
+trait-southern-name = Sotaque sulista
+trait-southern-desc = Você tem um jeito diferente de falar.
+
+trait-snoring-name = Ronco
+trait-snoring-desc = Você vai roncar enquanto dorme.
+
+trait-liar-name = Mentiroso patológico
+trait-liar-desc = Você dificilmente consegue dizer a verdade. Às vezes você mente de qualquer maneira.
+
+trait-cowboy-name = Sotaque de cowboy
+trait-cowboy-desc = Você fala com um sotaque de cowboy distinto!
+
+trait-german-name = Sotaque alemão
+trait-german-desc = Você parece vir do espaço, Alemanha.
+
+trait-italian-name = Sotaque italiano
+trait-italian-desc = Mamãe mia! Você parece ter vivido no espaço Itália!
+
+trait-french-name = Sotaque francês
+trait-french-desc = Seu sotaque parece ter um certo “je ne sais quoi”.
+
+trait-spanish-name = Sotaque espanhol
+trait-spanish-desc = Olá, senhor, onde está a biblioteca.
+
 # Fish-edit-start
-trait-formal-name  = Sotaque formal
-trait-formal-desc  = Você fala muito formalmente, expandindo as abreviações para significados completos.
+trait-formal-name = Sotaque formal
+trait-formal-desc = Você fala de uma maneira muito formal, expandindo as abreviações em seu significado completo.
 # Fish-edit-end
+
+trait-painnumbness-name = Dormente
+trait-painnumbness-desc = Você não tem qualquer sensação de dor, não tem consciência de quão magoado você pode estar.
+
+trait-hemophilia-name = Hemofilia
+trait-hemophilia-desc = Seu corpo não consegue produzir coágulos sanguíneos.
+
+trait-impaired-mobility-name = Mobilidade Prejudicada
+trait-impaired-mobility-desc = Você tem dificuldade para se locomover sem auxílio de mobilidade.

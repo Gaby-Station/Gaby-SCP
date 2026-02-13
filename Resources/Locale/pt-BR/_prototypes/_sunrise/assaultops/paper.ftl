@@ -1,2 +1,2 @@
-ent-DocumentAssaultOpsGoal  = alvo
-    .desc  = { ent-Paper.desc }
+ent-DocumentAssaultOpsGoal = alvo
+    .desc = { ent-Paper.desc }

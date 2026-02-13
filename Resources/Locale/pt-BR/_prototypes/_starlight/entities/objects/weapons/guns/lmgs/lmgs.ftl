@@ -1,6 +1,6 @@
-ent-WeaponLightMachineGunM492  = Metralhadora leve inteligente M492
-    .desc  = M492 "Aquecedor"
-ent-WeaponLightMachineGunM492Cburn  = M492 "Aquecedor"
-    .desc  = Uma modificação da metralhadora inteligente, criada especificamente para unidades CBURN. Usa cartuchos de 7,62 mm.
-ent-WeaponLightMachineGunDP28  = Metralhadora leve DP-28
-    .desc  = Com amor, RA-TA-TA-TA. Usa cartuchos de 7,62 mmR.
+ent-WeaponLightMachineGunM492 = M492 Inteligente LMG
+    .desc = Um LMG não tradicional de alta tecnologia construído especificamente para combater as grandes ameaças entre nós. Usa munição 0,30.
+ent-WeaponLightMachineGunM492Cburn = M492 "Incinerador"
+    .desc = Uma modificação da metralhadora inteligente, criada especificamente para esquadrões CBURN. Usa 0,30 rodadas.
+ent-WeaponLightMachineGunDP28 = DP-28 LMG
+    .desc = De RA-TA-TA-TA com amor. Usa munição 0,30.

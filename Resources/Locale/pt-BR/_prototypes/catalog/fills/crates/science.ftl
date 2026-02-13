@@ -1,6 +1,6 @@
-ent-CrateScienceBiosuit  = caixa de terno de risco biológico
-    .desc  = Contém 2 trajes de risco biológico para mantê-lo focado em sua ciência. Requer acesso do Departamento de Pesquisa para abrir.
-ent-CrateCrewMonitoring  = caixa com equipamento de monitoramento da tripulação
-    .desc  = Contém um servidor de monitoramento de tripulação plano e vários computadores de monitoramento de tripulação. Requer acesso do Departamento de Pesquisa para abrir.
-ent-CrateStationAiCore  = caixa central para estação AI
-    .desc  = Contém as peças necessárias para construir a estação central de IA. O cérebro positrônico não está incluído. Requer acesso do Departamento de Pesquisa para abrir.
+ent-CrateScienceBiosuit = caixa de traje biológico para cientista
+    .desc = Contém 2 trajes de risco biológico para garantir que nenhuma doença o distraia de fazer ciência. Requer acesso Ciência para abrir.
+ent-CrateCrewMonitoring = caixa de monitoramento da tripulação
+    .desc = Contém um flatpack de um servidor de monitoramento de tripulação e alguns computadores de monitoramento de tripulação. Requer acesso Ciência para abrir.
+ent-CrateStationAiCore = caixa central da estação AI
+    .desc = Contém os componentes para construir um núcleo de IA de estação. Cérebro positrônico não incluído. Requer acesso Ciência para abrir.

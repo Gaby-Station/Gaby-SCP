@@ -1,8 +1,8 @@
-ent-FireBomb  = bomba incendiária
-    .desc  = Um fraco dispositivo incendiário caseiro.
-ent-FireBombEmpty  = bomba incendiária
-    .desc  = Um fraco dispositivo incendiário caseiro. Não há combustível nisso.
-    .suffix  = Vazio
-ent-FireBombFuel  = { ent-FireBombEmpty }
-    .desc  = Um fraco dispositivo incendiário caseiro. Não há fios neste.
-    .suffix  = Combustível
+ent-FireBomb = bomba de fogo
+    .desc = Um dispositivo incendiário fraco e improvisado.
+ent-FireBombEmpty = bomba de fogo
+    .desc = Um dispositivo incendiário fraco e improvisado. Este não tem combustível.
+    .suffix = vazio
+ent-FireBombFuel = { ent-FireBombEmpty }
+    .desc = Um dispositivo incendiário fraco e improvisado. Este está faltando fios.
+    .suffix = combustível

@@ -1,11 +1,14 @@
-cmd-rmobjective-desc  = Remove o alvo da mente do jogador.
-cmd-rmobjective-help  = rmobjective <nome de usuário> <índice>
-cmd-rmobjective-invalid-args  = São esperados exatamente 2 argumentos.
-cmd-rmobjective-player-not-found  = Não foi possível encontrar a consciência.
-cmd-rmobjective-mind-not-found  = Alvo excluído com sucesso!
-cmd-rmobjective-success  = Alvo excluído com sucesso!
-cmd-rmobjective-failed  = Falha ao excluir o destino. Talvez o índice esteja fora do intervalo? Confira lsobjetivos!
-cmd-rmobjective-invalid-index  = Falha ao analisar o índice { $index } como um número inteiro.
-cmd-rmobjective-invalid-objective-info  = VAZIO
-cmd-rmobjective-player-completion  = <Jogador>
-cmd-rmobjective-index-completion  = <Índice>
+# addobjectives
+cmd-rmobjective-desc = Remove um objetivo da mente do jogador.
+cmd-rmobjective-help = rmobjetivo <username> <index>
+
+cmd-rmobjective-invalid-args = Esperava exatamente 2 argumentos.
+cmd-rmobjective-player-not-found = Não foi possível encontrar os dados do jogador.
+cmd-rmobjective-mind-not-found = Não consigo encontrar a mente.
+cmd-rmobjective-success = Objetivo removido com sucesso!
+cmd-rmobjective-failed = Falha na remoção do objetivo. Talvez o índice esteja fora dos limites? Verifique os objetivos!
+cmd-rmobjective-invalid-index = Não foi possível analisar o índice { $index } como um número inteiro.
+cmd-rmobjective-invalid-objective-info = INVÁLIDO
+
+cmd-rmobjective-player-completion = <Player>
+cmd-rmobjective-index-completion = <Index>

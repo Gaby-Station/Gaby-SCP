@@ -1,4 +1,4 @@
-ent-EffectSparks  = { "" }
-    .desc  = { "" }
-ent-EffectTeslaSparks  = { "" }
-    .desc  = { "" }
+ent-EffectSparks = { "" }
+    .desc = { "" }
+ent-EffectTeslaSparks = { "" }
+    .desc = { "" }

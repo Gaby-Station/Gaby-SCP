@@ -1,1 +1,1 @@
-attach-to-grandparent-verb-get-data-text  = Anexar à grade
+attach-to-grandparent-verb-get-data-text = Anexar à grade

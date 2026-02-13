@@ -1,2 +1,2 @@
-spider-charge-not-ninja  = Embora tudo pareça normal por fora, você não pode detonar a carga.
-spider-charge-too-far  = Não é aqui que você deve usá-lo!
+spider-charge-not-ninja = Embora pareça normal, você não consegue detonar a carga.
+spider-charge-too-far = Este não é o local onde você deveria usar isso!

@@ -1,3 +1,3 @@
-ent-SubstationExtended  = Reduz a tensão da eletricidade fornecida a ele.
-    .desc  = subestação de parede
-    .suffix  = Ampliado, 7,5MJ
+ent-SubstationExtended = { ent-BaseSubstation }
+    .suffix = Básico, Estendido, 7,5MJ
+    .desc = { ent-BaseSubstation.desc }

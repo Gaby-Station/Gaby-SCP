@@ -1,4 +1,4 @@
-ent-DrinkHolyWaterFull  = garrafa de água benta
-    .desc  = frasco de água profana
-ent-DrinkUnholyWaterFull  = Uma garrafa que contém água profana.
-    .desc  = Uma garrafa que contém água profana.
+ent-DrinkHolyWaterFull = { ent-DrinkBottleGlassBaseFull }
+    .desc = { ent-DrinkBottleGlassBaseFull.desc }
+ent-DrinkUnholyWaterFull = { ent-DrinkBottleGlassBaseFull }
+    .desc = { ent-DrinkBottleGlassBaseFull.desc }

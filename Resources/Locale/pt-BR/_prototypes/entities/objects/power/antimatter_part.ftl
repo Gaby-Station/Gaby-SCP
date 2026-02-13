@@ -1,2 +1,2 @@
-ent-AmePart  = Embalagem pré-fabricada universal usada para criar um motor de antimatéria.
-    .desc  = Embalagem pré-fabricada universal usada para criar um motor de antimatéria.
+ent-AmePart = Embalagem plana AME
+    .desc = Um flatpack usado para construir um reator de motor de antimatéria.

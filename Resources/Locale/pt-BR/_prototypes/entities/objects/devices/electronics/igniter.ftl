@@ -1,2 +1,2 @@
-ent-Igniter  = acendedor
-    .desc  = Quando um sinal é dado, ele cria uma faísca.
+ent-Igniter = acendedor
+    .desc = Cria uma faísca quando ativado por um sinal.

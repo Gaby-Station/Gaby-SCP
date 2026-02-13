@@ -1,8 +1,8 @@
-ent-AITimedSpawner  = gerador periódico AI
-    .desc  = { ent-MarkerBase.desc }
-ent-XenoAITimedSpawner  = rato reprodutor periódico
-    .desc  = { ent-MarkerBase.desc }
-ent-MouseTimedSpawner  = rato reprodutor periódico
-    .desc  = { ent-MarkerBase.desc }
-ent-CockroachTimedSpawner  = barata reprodutora periódica
-    .desc  = { ent-MouseTimedSpawner.desc }
+ent-AITimedSpawner = Gerador cronometrado de IA
+    .desc = { ent-MarkerBase.desc }
+ent-XenoAITimedSpawner = Gerador cronometrado Xeno AI
+    .desc = { ent-MarkerBase.desc }
+ent-MouseTimedSpawner = Gerador cronometrado de mouse
+    .desc = { ent-MarkerBase.desc }
+ent-CockroachTimedSpawner = Gerador cronometrado de barata
+    .desc = { ent-MouseTimedSpawner.desc }

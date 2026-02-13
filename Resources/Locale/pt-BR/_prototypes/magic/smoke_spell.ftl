@@ -1,2 +1,2 @@
-ent-ActionSmoke  = Fumaça
-    .desc  = Cria fumaça ao redor do lançador.
+ent-ActionSmoke = Fumaça
+    .desc = Invoca fumaça ao redor do usuário.

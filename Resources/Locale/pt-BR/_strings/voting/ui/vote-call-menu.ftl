@@ -1,36 +1,43 @@
-ui-vote-type-restart  = A votação para reiniciar a rodada foi bem-sucedida.
-ui-vote-type-gamemode  = Próximo modo de jogo
-ui-vote-type-map  = Próximo cartão
-ui-vote-type-votekick  = Ataque
+ui-vote-type-restart = Reiniciar rodada
+ui-vote-type-gamemode = Próximo modo de jogo
+ui-vote-type-map = Próximo mapa
+ui-vote-type-votekick = Votar
+
 # Votekick reasons
-ui-vote-votekick-type-raiding  = Trapaceando
-ui-vote-votekick-type-cheating  = Detalhes...
-ui-vote-votekick-details-placeholder  = Detalhes...
-ui-vote-votekick-type-spam  = Spam
+ui-vote-votekick-type-raiding = Invasão
+ui-vote-votekick-type-cheating = Trapaceando
+ui-vote-votekick-type-spam = Spam
+ui-vote-votekick-details-placeholder = Detalhes...
+
 # Window title of the vote create menu
-ui-vote-create-title  = Voto
+ui-vote-create-title = Votação de Chamada
+
 # Submit button in the vote create button
-ui-vote-create-button  = Lançar
+ui-vote-create-button = Votação de Chamada
+
 # Follow button in the vote create menu
-ui-vote-follow-button  = Seguir usuário
-ui-vote-type-timeout  = Esta enquete foi lançada recentemente ({ $remaining })
+ui-vote-follow-button = Seguir usuário
+
+# Timeout text if a standard vote type is currently on timeout.
+ui-vote-type-timeout = Esta votação foi convocada recentemente ({$remaining})
+
 # Unavailable text if a vote type has been disabled manually.
-ui-vote-type-not-available  = Este tipo de votação foi desativado
+ui-vote-type-not-available = Este tipo de voto foi desativado
+
 # Vote option only available for specific users.
-ui-vote-trusted-users-notice-whitelist =
-    Этот вариант голосования доступен только для вайтлист игроков.
-    Кроме того, вы должны быть призраком в течение { $timeReq } минут.
-ui-vote-trusted-users-notice-time-req =
-    Этот вариант голосования доступен только игрокам которые наиграли более { $timeReq } часов.
-        Кроме того, вы должны быть призраком в течение { $ghostTimeReq } минут.
-ui-vote-trusted-users-notice  = Você deve ser um fantasma por { $ghostTimeReq } minutos.
+ui-vote-trusted-users-notice =
+  This vote option is only available to players who have enough playtime or are whitelisted.
+  In addition, you must have been a ghost for { $timeReq } seconds.
+
 # Warning to not abuse a specific vote option.
 ui-vote-abuse-warning =
-    Внимание!
-    Злоупотребление системой голосования может привести к бессрочному бану!
-ui-vote-fluff  = Com base no Robust™ SZI-NSD
+  Warning!
+  Abuse of the votekick system may result in an indefinite ban!
+
+# Hue hue hue
+ui-vote-fluff = Alimentado pela tecnologia anti-adulteração Robust™
 
 ## Vote menu command
 
-ui-vote-menu-command-description  = Abre o menu de votação
-ui-vote-menu-command-help-text  = Uso: menu de votação
+cmd-votemenu-desc = Abre o menu de votação.
+cmd-votemenu-help = Uso: menu de votação

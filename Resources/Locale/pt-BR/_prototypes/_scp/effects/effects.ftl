@@ -1,3 +1,3 @@
-ent-ScpBlindnessEffect  = 7 segundos
-    .suffix  = 7 segundos
-    .desc  = { "" }
+ent-ScpBlindnessEffect = efeito de cegueira
+    .suffix = 7 segundos
+    .desc = { "" }

@@ -1,8 +1,4 @@
-ent-ScpBookBase  = { ent-BookBase }
-    .desc  = { ent-BookBase.desc }
-ent-BookScp049Diary  = diário de couro
-    .desc =
-        Небольшая книга в твёрдом переплёте, обтянутая потёртой чёрно-коричневой кожей. Края обложки потрескались, на сгибах заметны следы износа.
-        Замка или застёжки нет, однако кожа вокруг корешка сильно потемнела, будто от постоянного контакта с руками.
-        Бумага внутри пожелтевшая, местами просматриваются следы влаги. При открытии ощущается слабый запах старой кожи и плесени.
-    .suffix  = SCP-049
+ent-ScpBookBase = { ent-BookBase }
+    .desc = { ent-BookBase.desc }
+ent-BookScp049Diary = diário
+    .desc = Um diário de capa dura em couro.

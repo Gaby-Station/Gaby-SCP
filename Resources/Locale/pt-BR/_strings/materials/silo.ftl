@@ -1,11 +1,10 @@
-ore-silo-ui-title  = Carro
-ore-silo-ui-label-clients  = Carro
-ore-silo-ui-label-mats  = Materiais
-ore-silo-ui-itemlist-entry =
-    { $linked ->
-        [true] { "[Соединено] " }
-       *[False] { "" }
-    } { $name } ({ $beacon }) { $inRange ->
-        [true] { "" }
-       *[false] (Вне зоны действия)
-    }
+ore-silo-ui-title = Silo de Materiais
+ore-silo-ui-label-clients = Máquinas
+ore-silo-ui-label-mats = Materiais
+ore-silo-ui-itemlist-entry = {$vinculado ->
+    [true] {"[Linked] "}
+    *[False] {""}
+} {$name} ({$beacon}) {$inRange ->
+    [true] {""}
+    *[false] (Out of Range)
+}

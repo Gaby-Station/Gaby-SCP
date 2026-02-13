@@ -1,3 +1,3 @@
-ent-ClothingShoesClassD  = botas
-    .desc  = Bots, não da melhor qualidade
-    .suffix  = SCP
+ent-ClothingShoesClassD = botas
+    .desc = Botas, não da mais alta qualidade
+    .suffix = SCP

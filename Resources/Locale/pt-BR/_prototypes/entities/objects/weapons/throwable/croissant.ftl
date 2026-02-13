@@ -1,3 +1,3 @@
-ent-WeaponCroissant  = croissant
-    .desc  = Sabor amanteigado e em camadas.
-    .suffix  = Arma
+ent-WeaponCroissant = { ent-FoodBakedCroissant }
+    .suffix = Arma
+    .desc = { ent-FoodBakedCroissant.desc }

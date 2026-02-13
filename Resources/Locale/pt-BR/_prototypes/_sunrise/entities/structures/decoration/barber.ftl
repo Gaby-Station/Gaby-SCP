@@ -1,2 +1,2 @@
-ent-BarberPole  = Cilindro giratório azul-vermelho-branco em cabeleireiro no exterior.
-    .desc  = Cilindro giratório azul-vermelho-branco em cabeleireiro no exterior.
+ent-BarberPole = poste de barbeiro
+    .desc = O cilindro giratório azul-vermelho-branco nos cabeleireiros estrangeiros.

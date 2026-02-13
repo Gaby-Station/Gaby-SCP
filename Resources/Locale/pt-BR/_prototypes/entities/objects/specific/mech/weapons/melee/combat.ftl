@@ -1,3 +1,3 @@
-ent-WeaponMechChainSword  = Espada Elétrica Exosuit
-    .desc  = Equipamento para exosuits de combate. Esta é uma espada mecânica que perfurará os céus!
-    .suffix  = Armas mecânicas, corpo a corpo, combate
+ent-WeaponMechChainSword = espada-chave exosuit
+    .desc = Equipamento para exosuits de combate. Esta é a espada mecânica que perfurará os céus!
+    .suffix = Arma mecânica, corpo a corpo, combate

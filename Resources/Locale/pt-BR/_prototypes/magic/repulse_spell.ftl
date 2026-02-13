@@ -1,2 +1,2 @@
-ent-ActionRepulse  = Repulsão
-    .desc  = Afasta as entidades do usuário.
+ent-ActionRepulse = Repulsa
+    .desc = Afasta as entidades do usuário.

@@ -1,2 +1,2 @@
-ent-FancyTableSpawner  = spawner mesa linda aleatória
-    .desc  = { ent-MarkerBase.desc }
+ent-FancyTableSpawner = gerador de mesa extravagante aleatório
+    .desc = { ent-MarkerBase.desc }

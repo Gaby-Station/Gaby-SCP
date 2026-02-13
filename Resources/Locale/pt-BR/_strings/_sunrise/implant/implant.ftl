@@ -1,3 +1,3 @@
-magillitisserum-implant-activated-user  = Você sente seus músculos inchados e seu cabelo crescendo rapidamente - você está se transformando em um macaco novamente.
-magillitisserum-implant-activated-others  = {CAPITALIZE(THE($entity))} incha e seu pelo volta a crescer rapidamente. Ops!
-portal-implant-action-popup  = ESTA AÇÃO VAI TE TELEPORTAR PARA MUITO LONGE! Use-o novamente para confirmar.
+magillitisserum-implant-activated-user = Você sente seus músculos incharem e seu cabelo crescer quando você volta para a cama.
+magillitisserum-implant-activated-others = {CAPITALIZE(THE($entity))} incha e seu cabelo cresce rapidamente. Ah, ah!.
+portal-implant-action-popup = ESTA AÇÃO VAI TE TELEPORTAR PARA MUITO LONGE! Use-o novamente para confirmar.

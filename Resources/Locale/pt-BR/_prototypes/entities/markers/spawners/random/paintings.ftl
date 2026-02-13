@@ -1,2 +1,2 @@
-ent-RandomPainting  = imagem aleatória do spawner
-    .desc  = { ent-MarkerBase.desc }
+ent-RandomPainting = gerador de pintura aleatória
+    .desc = { ent-MarkerBase.desc }

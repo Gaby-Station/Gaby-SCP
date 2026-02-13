@@ -1,2 +1,2 @@
-ent-MobRoomba  = aspirador de pó rumba
-    .desc  = Pequeno aspirador robô Roomba. Projetado para limpar instalações contaminadas e substituir produtos de limpeza.
+ent-MobRoomba = quartoba
+    .desc = O avanço da automação agora ameaça os zeladores.

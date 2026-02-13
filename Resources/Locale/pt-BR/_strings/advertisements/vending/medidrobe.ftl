@@ -1,4 +1,4 @@
-advertisement-medidrobe-1  = Faça essas manchas de sangue ficarem na moda!!
-advertisement-medidrobe-2  = Essa roupa vai fazer você parecer um médico profissional!
-advertisement-medidrobe-3  = Essa roupa vai fazer você parecer um médico profissional!
-advertisement-medidrobe-4  = Macacão, sim. Capa, sim. Quem vai usá-lo? Comer!
+advertisement-medidrobe-1 = Faça essas manchas de sangue ficarem na moda!!
+advertisement-medidrobe-2 = Limpo e higiênico! Não fique com muitas manchas de sangue!
+advertisement-medidrobe-3 = Com essas roupas você vai parecer um médico profissional agora!
+advertisement-medidrobe-4 = Macacão, confere. Casaco, confira. Alguém que vai usar isso? Verificar!

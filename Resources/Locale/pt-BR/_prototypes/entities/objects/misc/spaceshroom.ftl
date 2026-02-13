@@ -1,7 +1,7 @@
-ent-Spaceshroom  = cogumelo espacial
-    .desc  = Uma coleção de cogumelos selvagens que gostam de crescer em ambientes escuros e úmidos.
-    .suffix  = Estrutura
-ent-FoodSpaceshroom  = cogumelo espacial
-    .desc  = Cogumelo selvagem. Não se sabe que efeito isso pode ter...
-ent-FoodSpaceshroomCooked  = cogumelo cosmo cozido
-    .desc  = Cogumelo selvagem que foi cozido. Parece ter perdido seus efeitos químicos quando exposto a altas temperaturas.
+ent-Spaceshroom = cogumelo espacial
+    .desc = Um cacho de cogumelos selvagens que gosta de crescer em ambientes escuros e úmidos.
+    .suffix = Estrutura
+ent-FoodSpaceshroom = cogumelo espacial
+    .desc = Um cogumelo selvagem. Não há como dizer que efeito isso poderia ter...
+ent-FoodSpaceshroomCooked = cogumelo cozido
+    .desc = Um cogumelo selvagem que foi cozido. Parece que o calor removeu os seus efeitos químicos.

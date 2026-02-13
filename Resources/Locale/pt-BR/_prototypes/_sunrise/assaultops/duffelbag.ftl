@@ -1,3 +1,3 @@
-ent-ClothingBackpackAssaultOpsFill  = { ent-ClothingBackpackChameleon }
-    .suffix  = Preenchido
-    .desc  = { ent-ClothingBackpackChameleon.desc }
+ent-ClothingBackpackAssaultOpsFill = { ent-ClothingBackpackChameleon }
+    .suffix = Preencher
+    .desc = { ent-ClothingBackpackChameleon.desc }

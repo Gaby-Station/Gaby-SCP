@@ -1,2 +1,2 @@
-ent-SpawnMobRoomba  = gerador Rumby
-    .desc  = { ent-MarkerBase.desc }
+ent-SpawnMobRoomba = gerador de roomba
+    .desc = { ent-MarkerBase.desc }

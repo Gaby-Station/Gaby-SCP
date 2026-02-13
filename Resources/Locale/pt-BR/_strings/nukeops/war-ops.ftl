@@ -1,7 +1,2 @@
-war-ops-infiltrator-unavailable =
-    ОШИБКА: Выполняется перерасчёт БСС-перемещений. Расчётное время: { $time } { $time ->
-        [one] минута
-        [few] минуты
-       *[other] минут
-    }.
-war-ops-shuttle-call-unavailable  = O ônibus de evacuação não está disponível no momento. Por favor, aguarde
+war-ops-infiltrator-unavailable = ERRO: Recálculo de viagem FTL em andamento. Tempo estimado: {$time} minutos.
+war-ops-shuttle-call-unavailable = O transporte de evacuação não está disponível no momento. Por favor, aguarde

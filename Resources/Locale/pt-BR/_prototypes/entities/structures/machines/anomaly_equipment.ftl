@@ -1,8 +1,8 @@
-ent-MachineAnomalyVessel  = contêiner anômalo
-    .desc  = Um contêiner capaz de processar varreduras de anomalias e transformá-las em dados de pesquisa.
-ent-MachineAnomalyVesselExperimental  = contêiner anômalo experimental
-    .desc  = Um contêiner anômalo avançado que tem grande potencial de pesquisa devido ao aumento da instabilidade e ao fraco decaimento radioativo no meio ambiente.
-ent-MachineAPE  = M.A.K.A.K.
-    .desc  = Uma fonte de partículas anômalas capaz de disparar partículas instáveis ​​que podem interagir com anomalias.
-ent-MachineAnomalyGenerator  = gerador de anomalia
-    .desc  = O auge da tecnologia pseudocientífica.
+ent-MachineAnomalyVessel = vaso de anomalia
+    .desc = Um contêiner capaz de aproveitar a varredura de uma anomalia e transformá-la em dados de pesquisa.
+ent-MachineAnomalyVesselExperimental = navio de anomalia experimental
+    .desc = Uma embarcação de anomalia avançada capaz de maior potencial de pesquisa ao custo de maior volatilidade e decaimento radioativo de baixo nível no meio ambiente.
+ent-MachineAPE = MACACO.
+    .desc = Um Emissor de Partículas Anômalas, capaz de disparar partículas instáveis ​​que podem interagir com anomalias.
+ent-MachineAnomalyGenerator = gerador de anomalia
+    .desc = O auge da tecnologia pseudocientífica.

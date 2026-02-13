@@ -1,2 +1,2 @@
-ent-Reflector  = refletor
-    .desc  = { "" }
+ent-Reflector = refletor
+    .desc = { "" }

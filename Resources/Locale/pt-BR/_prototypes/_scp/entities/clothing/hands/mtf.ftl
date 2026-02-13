@@ -1,6 +1,6 @@
-ent-ClothingHandsGlovesMobileTaskForceMH  = luvas táticas isoladas
-    .desc  = Luvas grossas com revestimento isolante. Projetado para trabalhar com materiais perigosos e proteger contra descargas elétricas.
-    .suffix  = FTM
-ent-ClothingHandsGlovesMtfMilitary  = Estas luvas táticas de camuflagem urbana são resistentes ao fogo e ao impacto.
-    .desc  = Estas luvas táticas de camuflagem urbana são resistentes ao fogo e ao impacto.
-    .suffix  = FTM
+ent-ClothingHandsGlovesMobileTaskForceMH = luvas táticas isoladas
+    .desc = Luvas resistentes forradas com fibras isolantes. Projetado para proteger o usuário de materiais perigosos e descargas elétricas.
+    .suffix = FTM
+ent-ClothingHandsGlovesMtfMilitary = luvas militares
+    .desc = Estas luvas táticas com camuflagem urbana são à prova de fogo e choque.
+    .suffix = FTM

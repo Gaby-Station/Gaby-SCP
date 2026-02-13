@@ -1,4 +1,4 @@
-marking-AugmentsRoboticRightArm-robotic_r_arm  = Aumento, braço direito (Robô)
-marking-AugmentsRoboticRightArm  = Aumento, braço direito (Robô)
-marking-AugmentsRoboticRightHand-robotic_r_hand  = Aumento, mão direita (Robô)
-marking-AugmentsRoboticRightHand  = Aumento, mão direita (Robô)
+marking-AugmentsRoboticRightArm-robotic_r_arm = Аугментация, правая рука (Робот)
+marking-AugmentsRoboticRightArm = Аугментация, правая рука (Робот)
+marking-AugmentsRoboticRightHand-robotic_r_hand = Аугментация, кисть правой руки (Робот)
+marking-AugmentsRoboticRightHand = Аугментация, кисть правой руки (Робот)

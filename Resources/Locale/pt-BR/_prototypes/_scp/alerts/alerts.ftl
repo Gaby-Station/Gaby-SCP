@@ -1,2 +1,2 @@
-ent-AlertScp106LifeEssenceSpriteView  = { "" }
-    .desc  = { "" }
+ent-AlertScp106LifeEssenceSpriteView = { "" }
+    .desc = { "" }

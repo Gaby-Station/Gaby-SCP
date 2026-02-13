@@ -1,3 +1,3 @@
-ent-RandomIngredient  = gerador de ingredientes aleatórios
-    .suffix  = Não é vegetal
-    .desc  = { ent-MarkerBase.desc }
+ent-RandomIngredient = gerador de ingredientes aleatórios
+    .suffix = Não-Planta
+    .desc = { ent-MarkerBase.desc }

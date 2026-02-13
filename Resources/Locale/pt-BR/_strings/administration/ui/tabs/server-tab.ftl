@@ -1,3 +1,3 @@
-server-shutdown  = Desligue o servidor
-server-ooc-toggle  = Ativar/desativar OOC
-server-looc-toggle  = Ligar/desligar LOOC
+server-shutdown = Desligar
+server-ooc-toggle = Alternar OOC
+server-looc-toggle = Alternar Ajuda (LOOC)

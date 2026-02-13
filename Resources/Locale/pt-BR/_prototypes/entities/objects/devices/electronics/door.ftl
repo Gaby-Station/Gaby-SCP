@@ -1,2 +1,2 @@
-ent-DoorElectronics  = chip de gateway
-    .desc  = { ent-BaseItem.desc }
+ent-DoorElectronics = eletrônica de porta
+    .desc = Uma placa eletrônica usada em portas e eclusas de ar.

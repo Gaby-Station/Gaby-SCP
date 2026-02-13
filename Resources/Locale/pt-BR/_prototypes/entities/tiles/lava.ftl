@@ -1,2 +1,2 @@
-ent-FloorLavaEntity  = lava
-    .desc  = Não se precipite. Não vale a pena, por mais engraçado que pareça.
+ent-FloorLavaEntity = lava
+    .desc = Não se intrometa. Não vale a pena, por mais engraçado que seja.

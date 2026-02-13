@@ -1,2 +1,2 @@
-ent-ActionActivateMagillitisSerumImplant  = Soro de magilite
-    .desc  = Um biochip experimental que causa crescimento muscular rápido e irreversível em hominídeos. Os efeitos colaterais podem incluir hipertricose, episódios violentos e desejo interminável por bananas.
+ent-ActionActivateMagillitisSerumImplant = Soro Magilite
+    .desc = Um biochip experimental que causa crescimento muscular rápido e irreversível em Hominidae. Os efeitos colaterais podem incluir hipertricose, explosões violentas e uma afinidade infinita por bananas.

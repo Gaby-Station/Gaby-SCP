@@ -1,3 +1,3 @@
-ent-ClothingEyesChameleon  = óculos de sol
-    .desc  = Adequado para SB e carga.
-    .suffix  = Camaleão
+ent-ClothingEyesChameleon = óculos de sol
+    .desc = Útil tanto para segurança quanto para cargania.
+    .suffix = Camaleão

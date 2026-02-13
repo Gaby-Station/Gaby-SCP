@@ -1,2 +1,2 @@
-ent-WeaponProtoKineticAccelerator  = acelerador protocinético
-    .desc  = Dispara parafusos cinéticos de baixo dano em uma curta distância.
+ent-WeaponProtoKineticAccelerator = acelerador protocinético
+    .desc = Dispara projéteis cinéticos de baixo dano a curta distância.

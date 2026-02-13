@@ -1,2 +1,2 @@
-ent-HitscanEffect  = { "" }
-    .desc  = { "" }
+ent-HitscanEffect = { "" }
+    .desc = { "" }

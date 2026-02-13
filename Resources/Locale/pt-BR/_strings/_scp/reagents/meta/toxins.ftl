@@ -1,2 +1,2 @@
-reagent-name-corbocarbonate  = Corbocarbonato
-reagent-desc-corbocarbonate  = Substância desconhecida pela ciência
+reagent-name-corbocarbonate = Corbocarbonato
+reagent-desc-corbocarbonate = Pedaço de merda

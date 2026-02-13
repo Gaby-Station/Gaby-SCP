@@ -1,4 +1,4 @@
-ent-MindRoleAssaultOperative  = O papel de um agente de assalto
-    .desc  = { ent-BaseMindRoleAntag.desc }
-ent-MindRoleAssaultCommander  = O papel do comandante do stormtrooper
-    .desc  = { ent-MindRoleNukeops.desc }
+ent-MindRoleAssaultOperative = Função Operativa de Assalto
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRoleAssaultCommander = Função de Comandante de Assalto
+    .desc = { ent-MindRoleNukeops.desc }

@@ -1,7 +1,9 @@
-cmd-respawn-desc  = Revive o jogador, jogando-o de volta ao lobby.
-cmd-respawn-help  = Uso: respawn [player or UserId]
-cmd-respawn-invalid-args  = Você não deve especificar mais de um argumento.
-cmd-respawn-no-player  = Jogador desconhecido.
-cmd-respawn-unknown-player  = O jogador está offline, mas irá reaparecer se retornar.
-cmd-respawn-player-not-online  = O jogador está offline, mas irá reaparecer se retornar.
-cmd-respawn-player-completion  = <Nome de usuário>
+cmd-respawn-desc = Reaparece um jogador, chutando-o de volta para o lobby.
+cmd-respawn-help = reaparecer [player or UserId]
+
+cmd-respawn-invalid-args = Deve fornecer <= 1 argumento.
+cmd-respawn-no-player = Se não for um jogador, um argumento deve ser apresentado.
+cmd-respawn-unknown-player = Jogador desconhecido
+cmd-respawn-player-not-online = O jogador não está online no momento, mas reaparecerá se voltar a ficar online
+
+cmd-respawn-player-completion = <Username>

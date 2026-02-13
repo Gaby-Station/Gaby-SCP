@@ -1,2 +1,2 @@
-ent-MobHumanAssaultOp  = Operativo de Assalto
-    .desc  = { ent-MobHuman.desc }
+ent-MobHumanAssaultOp = Operativo de Assalto
+    .desc = { ent-MobHuman.desc }

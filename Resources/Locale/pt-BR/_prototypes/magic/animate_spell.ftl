@@ -1,2 +1,2 @@
-ent-ActionAnimateSpell  = Reviver
-    .desc  = Dê vida a um objeto inanimado!
+ent-ActionAnimateSpell = Animar
+    .desc = Dê vida a um objeto inanimado!

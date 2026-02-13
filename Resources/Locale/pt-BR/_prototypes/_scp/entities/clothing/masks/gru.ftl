@@ -1,3 +1,3 @@
-ent-ClothingMaskGRU  = Máscara de gás padrão de estilo russo usada pelos militares.
-    .desc  = Máscara de gás padrão de estilo russo usada pelos militares.
-    .suffix  = GRU
+ent-ClothingMaskGRU = Máscara de gás PMK-2
+    .desc = Máscara de gás russa padrão usada por seus militares.
+    .suffix = GRU

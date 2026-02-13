@@ -1,1 +1,1 @@
-cmd-showmeleespread-desc  = Exibe o alcance atual e o arco da arma para depuração.
+﻿cmd-showmeleespread-desc = Mostra o alcance e o arco da arma atual para depuração.

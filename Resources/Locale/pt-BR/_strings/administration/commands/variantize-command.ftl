@@ -1,2 +1,2 @@
-variantize-command-description  = Aleatoriza todas as opções de piso em uma determinada área.
-variantize-command-help-text  = varianteizar <id da grade>
+﻿variantize-command-description = Randomiza todas as variantes de blocos em uma determinada grade.
+variantize-command-help-text = varianteizar <grid id>

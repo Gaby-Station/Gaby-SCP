@@ -1,8 +1,8 @@
-ent-UnfinishedMachineFrame  = Máquina em construção. São necessários mais detalhes.
-    .desc  = Inacabado
-    .suffix  = Inacabado
-ent-MachineFrame  = estrutura da máquina
-    .suffix  = Preparar
-    .desc  = { "" }
-ent-MachineFrameDestroyed  = quadro de carro destruído
-    .desc  = { ent-BaseStructureDynamic.desc }
+ent-UnfinishedMachineFrame = estrutura da máquina
+    .desc = Uma máquina em construção. Precisa de mais peças.
+    .suffix = Inacabado
+ent-MachineFrame = estrutura da máquina
+    .suffix = Preparar
+    .desc = { "" }
+ent-MachineFrameDestroyed = estrutura da máquina destruída
+    .desc = { ent-BaseStructureDynamic.desc }

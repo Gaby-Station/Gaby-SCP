@@ -1,2 +1,2 @@
-speech-muted  = Você não pode falar agora!
-fake-death-muted  = É impossível fingir que está morto sem voz!
+speech-muted = Você não pode falar agora!
+fake-death-muted = Você não pode fingir sua morte sem voz!

@@ -1,5 +1,4 @@
-fire-extinguisher-component-after-interact-refilled-message  = Você preencheu { $owner }
-fire-extinguisher-component-safety-on-message  = Remover proteção
-fire-extinguisher-component-verb-remove  = Remover proteção
-fire-extinguisher-component-verb-engage  = Coloque proteção
-fire-extinguisher-component-verb-text  = Fusível liga/desliga
+fire-extinguisher-component-after-interact-refilled-message = {$owner} agora está recarregado
+fire-extinguisher-component-safety-on-message = Sua segurança está ativada!
+fire-extinguisher-component-verb-remove = Remover segurança
+fire-extinguisher-component-verb-engage = Envolva a segurança

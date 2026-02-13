@@ -1,14 +1,15 @@
-logic-gate-examine  = A operação lógica { $gate } agora está definida.
-logic-gate-cycle  = Mudou para operação { $gate }
-power-sensor-examine =
-    Сейчас проверяется  { $output ->
-        [true] выход
-       *[false] вход
-    } сети.
-power-sensor-voltage-examine  = A rede com tensão { $voltage } é verificada.
-power-sensor-switch =
-    Переключено на проверку { $output ->
-        [true] выход
-       *[false] вход
-    } сети.
-power-sensor-voltage-switch  = Rede mudou para { $voltage }!
+logic-gate-examine = Atualmente é o portão {INDEFINITE($gate)} {$gate}.
+
+logic-gate-cycle = Mudou para porta {INDEFINITE($gate)} {$gate}
+
+power-sensor-examine = Atualmente está verificando o {$output -> da rede
+    [true] output
+    *[false] input
+} battery.
+power-sensor-voltage-examine = Está verificando a rede de energia {$voltage}.
+
+power-sensor-switch = Mudou para verificar o {$output -> da rede
+    [true] output
+    *[false] input
+} battery.
+power-sensor-voltage-switch = Rede trocada para {$voltage}!

@@ -1,6 +1,6 @@
-ent-BaseBallBat  = Taco de beisebol durável.
-    .desc  = Taco de beisebol durável.
-ent-IncompleteBaseBallBat  = taco de beisebol inacabado
-    .desc  = Várias placas presas juntas.
-ent-WeaponMeleeKnockbackStick  = bastão
-    .desc  = E então ele caiu em pedaços.
+ent-BaseBallBat = taco de beisebol
+    .desc = Um taco de beisebol robusto.
+ent-IncompleteBaseBallBat = taco de beisebol incompleto
+    .desc = Algumas tábuas de madeira grudadas.
+ent-WeaponMeleeKnockbackStick = bastão de repulsão
+    .desc = E então ele chorou todo.

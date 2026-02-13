@@ -1,3 +1,3 @@
-advertisement-curadrobe-1  = Os óculos são para os olhos, os livros são para a alma, o Bibliodrobe tem de tudo!
-advertisement-curadrobe-2  = Torne-se proprietário oficial de uma biblioteca com esta incrível coleção de roupas!
-advertisement-curadrobe-3  = Torne-se proprietário oficial de uma biblioteca com esta incrível coleção de roupas!
+advertisement-curadrobe-1 = Óculos para os olhos e literatura para a alma, CuraDrobe tem de tudo!
+advertisement-curadrobe-2 = Impressione e encante os convidados da sua biblioteca com a extensa linha de canetas da CuraDrobe!
+advertisement-curadrobe-3 = Torne-se o proprietário oficial da biblioteca com esta grande seleção de roupas!

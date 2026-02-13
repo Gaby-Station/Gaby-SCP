@@ -1,4 +1,5 @@
 # Shown when examining an in-construction object
-construction-insert-prototype-no-name  = instrumento de sopro
+construction-insert-prototype-no-name = Em seguida, insira {$prototypeName}.
+
 # Shown when examining an in-construction object
-construction-insert-prototype  = instrumento de sopro
+construction-insert-prototype = Em seguida, insira {$entityName}.

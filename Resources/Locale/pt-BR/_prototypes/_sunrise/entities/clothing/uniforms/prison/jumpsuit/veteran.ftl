@@ -1,17 +1,17 @@
-ent-ClothingUniformJumpsuitPrisonDoctorVeteran  = macacão de médico veterano da prisão
-    .desc  = Uniforme médico aprimorado com bolsos adicionais e costura reforçada, suportando leves desgastes decorrentes de inúmeras intervenções em situações de emergência de máxima segurança.
+ent-ClothingUniformJumpsuitPrisonDoctorVeteran = macacão de médico veterano da prisão
+    .desc = Uniforme médico aprimorado com bolsos adicionais e costura reforçada, suportando o desgaste sutil de inúmeras intervenções de emergência com a máxima segurança.
 
-ent-ClothingUniformJumpsuitPrisonChefVeteran  = Um uniforme feito sob medida para especialistas culinários experientes, com a orgulhosa marca de inúmeros pratos perfeitamente preparados e a sabedoria de anos passados ​​dominando a cozinha da prisão.
-    .desc  = Um uniforme feito sob medida para especialistas culinários experientes, com a orgulhosa marca de inúmeros pratos perfeitamente preparados e a sabedoria de anos passados ​​dominando a cozinha da prisão.
+ent-ClothingUniformJumpsuitPrisonChefVeteran = macacão de chef de prisão veterano
+    .desc = Uniforme magistralmente adaptado para especialistas culinários experientes, ostentando as marcas orgulhosas de inúmeras refeições perfeitamente executadas e a sabedoria de anos passados ​​dominando a culinária da prisão.
 
-ent-ClothingUniformJumpsuitPrisonEngineerVeteran  = macacão de engenheiro penitenciário veterano
-    .desc  = Um uniforme de engenharia endurecido pela batalha, usado por técnicos mestres que mantiveram os sistemas da instituição funcionando durante inúmeras crises, sua experiência forjada nos incêndios de reparos de emergência.
+ent-ClothingUniformJumpsuitPrisonEngineerVeteran = macacão de engenheiro penitenciário veterano
+    .desc = Uniforme de engenharia resistente, usado por técnicos mestres que mantiveram os sistemas da instalação funcionando durante inúmeras crises, com sua experiência forjada nos incêndios de reparos de emergência.
 
-ent-ClothingUniformJumpsuitPrisonScientistVeteran  = macacão de cientista penitenciário veterano
-    .desc  = Um uniforme de pesquisa de prestígio para cientistas ilustres cujo trabalho pioneiro avançou na pesquisa prisional, carregando as cicatrizes sutis de anos passados ​​ultrapassando os limites do conhecimento enquanto encarcerados.
+ent-ClothingUniformJumpsuitPrisonScientistVeteran = macacão de cientista penitenciário veterano
+    .desc = Uniforme de pesquisa de prestígio para cientistas ilustres cujo trabalho inovador avançou a pesquisa prisional, trazendo as cicatrizes sutis de anos passados ​​ultrapassando os limites do conhecimento em confinamento.
 
-ent-ClothingUniformJumpsuitPrisonTraineeVeteran  = Uniformes de treinamento experientes para mentores experientes que guiaram inúmeros recrutas em seus primeiros dias desafiadores, com sua sabedoria adquirida ao longo de anos moldando a próxima geração de guardas.
-    .desc  = Uniformes de treinamento experientes para mentores experientes que guiaram inúmeros recrutas em seus primeiros dias desafiadores, com sua sabedoria adquirida ao longo de anos moldando a próxima geração de guardas.
+ent-ClothingUniformJumpsuitPrisonTraineeVeteran = macacão de veterano de prisão
+    .desc = Uniforme de treinamento experiente para mentores experientes que guiaram inúmeros recrutas em seus primeiros dias desafiadores, com sua sabedoria adquirida ao longo de anos moldando a próxima geração de guardas.
 
-ent-ClothingUniformJumpsuitPrisonWorkerVeteran  = macacão de faz-tudo de prisão veterano
-    .desc  = Um uniforme de trabalho reverenciado para mestres artesãos que passaram décadas aperfeiçoando seu ofício nas profundezas, suas mãos calejadas e tecido desgastado contam histórias de incontáveis ​​mudanças nas impiedosas minas.
+ent-ClothingUniformJumpsuitPrisonWorkerVeteran = macacão de veterano de prisão
+    .desc = Uniforme de trabalho consagrado pelo tempo para mestres artesãos que passaram décadas aperfeiçoando seu ofício nas profundezas, suas mãos calejadas e tecido desgastado contando histórias de incontáveis ​​mudanças nas implacáveis ​​minas.

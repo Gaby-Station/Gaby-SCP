@@ -1,1 +1,1 @@
-panic-bunker-account-reason-vpn  = O servidor negou acesso através de conexões VPN
+panic-bunker-account-reason-vpn = O servidor está configurado para uma rede VPN

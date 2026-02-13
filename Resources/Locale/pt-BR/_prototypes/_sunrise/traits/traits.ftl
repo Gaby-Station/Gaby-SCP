@@ -1,15 +1,15 @@
-trait-noemotions-name  = Sem emoções
-trait-noemotions-desc  = Sua voz permanece monótona e sem vida em qualquer circunstância.
-trait-felinid-vocal-name  = Pacotes de gato
-trait-felinid-vocal-desc  = “Miados” brincalhões se transformam em fala.
+trait-noemotions-name = Sem emoções
+trait-noemotions-desc = Sua voz permanece monótona e sem emoção, não importa a situação.
+trait-felinid-vocal-name = Cordas Vocais Felinidas
+trait-felinid-vocal-desc = Você ocasionalmente solta um miado brincalhão enquanto fala.
 
-trait-ss13-accent-name  = Fala com um tom de estação reconhecível.
-trait-ss13-accent-desc  = Fala com um tom de estação reconhecível.
-trait-ukrainian-accent-name  = Sotaque ucraniano
-trait-ukrainian-accent-desc  = Você fala com um sotaque ucraniano distinto.
-trait-russian-accent-name  = sotaque russo
-trait-russian-accent-desc  = Transliteração
-trait-transliteration-accent-name  = Transliteração
-trait-transliteration-accent-desc  = Você constantemente mistura sons, transliterando palavras na hora.
+trait-ss13-accent-name = Sotaque SS13
+trait-ss13-accent-desc = Seu discurso carrega o familiar sotaque de papelaria.
+trait-ukrainian-accent-name = Sotaque Ucraniano
+trait-ukrainian-accent-desc = Você fala com um sotaque ucraniano distinto.
+trait-russian-accent-name = Sotaque Russo
+trait-russian-accent-desc = Você fala com um sotaque russo distinto.
+trait-transliteration-accent-name = Acento de transliteração
+trait-transliteration-accent-desc = Você continua misturando sons, transliterando palavras conforme avança.
 
-trait-category-vocal  = Voz
+trait-category-vocal = Vocal

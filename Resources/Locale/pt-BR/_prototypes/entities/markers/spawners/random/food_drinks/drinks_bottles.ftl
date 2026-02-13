@@ -1,3 +1,3 @@
-ent-RandomDrinkBottle  = bebida aleatória spawner
-    .suffix  = Garrafa
-    .desc  = { ent-MarkerBase.desc }
+ent-RandomDrinkBottle = gerador de bebida aleatória
+    .suffix = Garrafa
+    .desc = { ent-MarkerBase.desc }

@@ -1,3 +1,3 @@
-ent-LockerHeadOfPrisonFilled  = armário do diretor
-    .suffix  = Preenchido
-    .desc  = { ent-LockerHeadOfSecurity.desc }
+ent-LockerHeadOfPrisonFilled = chefe do armário da prisão
+    .suffix = Preenchido
+    .desc = { ent-LockerHeadOfSecurity.desc }

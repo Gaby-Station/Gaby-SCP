@@ -1,2 +1,2 @@
-construction-smokeable-joint-rainbow   = Junta "arco-íris"
-construction-smokeable-blunt-rainbow   = Junta "arco-íris" (grande)
+construction-smokeable-joint-rainbow = junta do arco-íris
+construction-smokeable-blunt-rainbow = arco-íris sem corte

@@ -1,2 +1,2 @@
-ent-ComputerIcarus  = Terminal Ícaro
-    .desc  = Um terminal sinistro com várias portas e teclados, bobagens ininteligíveis rolando pela tela. Ele tem uma marca estranha na lateral - um anel vermelho com um círculo dourado dentro.
+ent-ComputerIcarus = terminal ícaro
+    .desc = Um terminal ameaçador com algumas portas e teclados, a tela rola com bobagens ilegíveis. Tem uma marca estranha na lateral, um anel vermelho com um círculo dourado dentro.

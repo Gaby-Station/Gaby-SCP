@@ -1,2 +1,2 @@
-ent-FloorWaterEntity  = água
-    .desc  = Um verdadeiro matador de sede.
+ent-FloorWaterEntity = água
+    .desc = Um verdadeiro matador de sede.

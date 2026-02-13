@@ -1,2 +1,2 @@
-ent-BookStationsAndAgents  = Estações e Agentes. Livro de regras da 14ª edição
-    .desc  = Um livro detalhando as regras do RPG de mesa Estações e Agentes. Não se sabe o que aconteceu com as 13 edições anteriores, mas provavelmente não vale a pena procurá-las.
+ent-BookStationsAndAgents = Livro de regras da 14ª edição das estações e sindicatos
+    .desc = Um livro detalhando o conjunto de regras para RPG de mesa, Estações e Sindicatos. Você não sabe o que aconteceu com as 13 edições anteriores, mas talvez não valha a pena procurá-las.

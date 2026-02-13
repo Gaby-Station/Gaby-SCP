@@ -1,2 +1,2 @@
-ent-DecoratedFirTree  = árvore de natal decorada
-    .desc  = Uma árvore festiva para um evento muito festivo.
+ent-DecoratedFirTree = pinheiro decorado
+    .desc = Uma árvore muito festiva para um feriado muito festivo.

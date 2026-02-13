@@ -1,2 +1,2 @@
-ent-WelderAbductor  = máquina de solda abdutora
-    .desc  = Ferramenta de soldagem experimental com recarga autônoma e redução de danos à visão.
+ent-WelderAbductor = ferramenta de soldagem do abdutor
+    .desc = Um soldador experimental capaz de gerar autocombustível e menos prejudicial aos olhos.

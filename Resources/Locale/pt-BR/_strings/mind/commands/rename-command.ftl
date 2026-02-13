@@ -1,5 +1,5 @@
-cmd-rename-desc  = Renomeia o objeto, bem como suas entradas em clonagem, carteiras de identidade e PDAs.
-cmd-rename-help  = Uso: renomear <Username|EntityUid> <Novo nome do personagem>
-cmd-rename-too-long  = O nome é muito longo.
-cmd-rename-not-found  = { $target } não é uma entidade.
-cmd-rename-no-entity  = { $target } não é uma entidade.
+cmd-rename-desc = Renomeia uma entidade e suas entradas de clonagem, cartões de identificação e PDAs.
+cmd-rename-help = renomear <Username|EntityUid> <New character name>
+cmd-rename-too-long = O nome é muito longo.
+cmd-rename-not-found = Não foi possível encontrar o nome de usuário/uid: {$target}
+cmd-rename-no-entity = {$target} não possui uma entidade.

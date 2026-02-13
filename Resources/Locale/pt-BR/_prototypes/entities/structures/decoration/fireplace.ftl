@@ -1,2 +1,2 @@
-ent-Fireplace  = lareira
-    .desc  = Uma lareira onde arde um fogo. Aconchegante!
+ent-Fireplace = lareira
+    .desc = Um lugar que tem fogo. Aconchegante!

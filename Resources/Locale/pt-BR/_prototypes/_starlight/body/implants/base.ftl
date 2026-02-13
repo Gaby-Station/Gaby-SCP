@@ -1,2 +1,2 @@
-ent-BaseImplant  = { "" }
-    .desc  = { "" }
+ent-BaseImplant = { "" }
+    .desc = { "" }

@@ -1,2 +1,2 @@
-ent-ActionForceWall  = Barreira mágica
-    .desc  = Cria uma barreira mágica.
+ent-ActionForceWall = muro de força
+    .desc = Cria uma barreira mágica.

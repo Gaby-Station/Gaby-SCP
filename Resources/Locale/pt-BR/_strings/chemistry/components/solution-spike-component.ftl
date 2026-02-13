@@ -1,3 +1,3 @@
-spike-solution-generic  = Você empurra { $spiked-entity } para { $spike-entity }.
-spike-solution-empty-generic  = Você divide { $spike-entity } em { $spiked-entity }.
-spike-solution-egg  = Você divide { $spike-entity } em { $spiked-entity }.
+spike-solution-generic = Você aumenta {THE($spiked-entity)} com {THE($spike-entity)}.
+spike-solution-empty-generic = {THE($spike-entity)} não se dissolve em {THE($spiked-entity)}.
+spike-solution-egg = Você quebra {THE($spike-entity)} em {THE($spiked-entity)}.

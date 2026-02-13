@@ -1,8 +1,8 @@
-ent-CryogenicSleepUnit  = cápsula criogênica do sono
-    .desc  = Um contêiner super-resfriado que garante a segurança dos tripulantes durante viagens espaciais.
-ent-CryogenicSleepUnitSpawner  = { ent-CryogenicSleepUnit }
-    .suffix  = Spawner, início da rodada, todas as posições
-    .desc  = { ent-CryogenicSleepUnit.desc }
-ent-CryogenicSleepUnitSpawnerLateJoin  = { ent-CryogenicSleepUnit }
-    .suffix  = Spawner, adesão tardia
-    .desc  = { ent-CryogenicSleepUnit.desc }
+ent-CryogenicSleepUnit = unidade de sono criogênica
+    .desc = Um contêiner super-resfriado que mantém os tripulantes seguros durante viagens espaciais.
+ent-CryogenicSleepUnitSpawner = { ent-CryogenicSleepUnit }
+    .suffix = Gerador, Roundstart AllJobs
+    .desc = { ent-CryogenicSleepUnit.desc }
+ent-CryogenicSleepUnitSpawnerLateJoin = { ent-CryogenicSleepUnit }
+    .suffix = Gerador, LateJoin
+    .desc = { ent-CryogenicSleepUnit.desc }

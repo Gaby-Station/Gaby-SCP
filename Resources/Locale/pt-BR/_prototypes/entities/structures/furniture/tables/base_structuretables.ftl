@@ -1,4 +1,4 @@
-ent-TableBase  = Uma folha quadrada de metal apoiada em quatro pernas de metal.
-    .desc  = ficar
-ent-CounterBase  = ficar
-    .desc  = { ent-TableBase.desc }
+ent-TableBase = mesa
+    .desc = Uma peça quadrada de metal apoiada em quatro pernas de metal.
+ent-CounterBase = contador
+    .desc = { ent-TableBase.desc }

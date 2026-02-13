@@ -1,3 +1,3 @@
-ent-RandomHumanoidSpawnerBlueShieldOperative  = Operativo Escudo Azul
-    .suffix  = Função Escudo Azul, Básico
-    .desc  = { ent-RandomHumanoidSpawnerERTLeader.desc }
+ent-RandomHumanoidSpawnerBlueShieldOperative = Operativo BlueShield
+    .suffix = BlueShieldRole, Básico
+    .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }

@@ -1,18 +1,26 @@
-reagent-name-e-z-nutrient  = Nutrientes EZ
-reagent-desc-e-z-nutrient  = Dê às suas plantas alguns destes nutrientes LEVES! Os Diones acham que é uma delícia.
-reagent-name-left4-zed  = esquerda-4-zed
-reagent-desc-left4-zed  = pesticidas
-reagent-name-pest-killer  = pesticidas
-reagent-desc-pest-killer  = Uma mistura projetada para controlar pragas. Embora úteis, eles envenenam lentamente as plantas com toxinas, por isso tome cuidado ao usá-los.
-reagent-name-plant-b-gone  = planta-B-desaparecida
-reagent-desc-plant-b-gone  = Mistura tóxica prejudicial para destruir a vida vegetal. Muito eficaz contra o kudzu.
-reagent-name-robust-harvest  = é robusto
-reagent-desc-robust-harvest  = Fertilizante altamente eficaz com um ligeiro efeito de aumento da potência das plantas. Tenha cuidado ao usá-lo, pois o excesso pode reduzir o rendimento das plantas. Tem um efeito positivo na diona.
-reagent-name-weed-killer  = herbicidas
-reagent-desc-weed-killer  = Uma mistura projetada para controlar ervas daninhas. Muito eficaz contra o kudzu. Embora úteis, eles envenenam lentamente as plantas com toxinas, por isso tome cuidado ao usá-los.
-reagent-name-ammonia  = amônia
-reagent-desc-ammonia  = Um fertilizante eficaz que fornece nutrientes às plantas.
-reagent-name-diethylamine  = dietilamina
-reagent-desc-diethylamine  = Um fertilizante muito poderoso que satura as plantas com nutrientes, destrói pragas e às vezes até acelera o crescimento.
-reagent-name-sedin  = você é
-reagent-desc-sedin  = Uma versão modificada de dietil amônia que pode restaurar as sementes às plantas através de sua potência.
+reagent-name-e-z-nutrient = Nutriente EZ
+reagent-desc-e-z-nutrient = Dê às suas plantas alguns desses nutrientes EZ! Dionas acha isso delicioso.
+
+reagent-name-left4-zed = esquerda-4-zed
+reagent-desc-left4-zed = Um coquetel de compostos mutagênicos que fornece nutrientes, prejudica e afeta o genoma da vida vegetal.
+
+reagent-name-pest-killer = assassino de pragas
+reagent-desc-pest-killer = Uma mistura que ataca pragas. Embora seja útil, ele envenena lentamente as plantas com toxinas, tenha cuidado ao usá-lo.
+
+reagent-name-plant-b-gone = planta-B-desaparecida
+reagent-desc-plant-b-gone = Uma mistura tóxica prejudicial para matar as plantas. Muito eficaz contra o kudzu.
+
+reagent-name-robust-harvest = colheita robusta
+reagent-desc-robust-harvest = Um fertilizante altamente eficaz com efeito limitado de aumento de potência nas plantas. Use-o com cautela, pois a aplicação excessiva pode reduzir o rendimento das plantas. Tem um efeito particularmente benéfico nas dionas.
+
+reagent-name-weed-killer = herbicida
+reagent-desc-weed-killer = Uma mistura que ataca ervas daninhas. Muito eficaz contra o kudzu. Embora seja útil, ele envenena lentamente as plantas com toxinas, tenha cuidado ao usá-lo.
+
+reagent-name-ammonia = amônia
+reagent-desc-ammonia = Um fertilizante eficaz, que fornece alguns nutrientes às plantas.
+
+reagent-name-diethylamine = dietilamina
+reagent-desc-diethylamine = Um fertilizante muito potente, trata as plantas com nutrientes, elimina pragas e às vezes pode até acelerar o crescimento.
+
+reagent-name-sedin = sedin
+reagent-desc-sedin = Uma versão modificada da dietilamina que pode restaurar as sementes das plantas à custa da potência.

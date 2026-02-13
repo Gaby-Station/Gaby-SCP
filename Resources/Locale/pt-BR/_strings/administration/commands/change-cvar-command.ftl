@@ -1,13 +1,15 @@
-cmd-changecvar-no-arguments  = Você deve especificar uma variável de console.
-cmd-changecvar-cvar-not-registered  = Você não pode alterar esta variável do console.
-cmd-changecvar-cvar-not-allowed  = Você não pode alterar esta variável do console.
-cmd-changecvar-value-out-of-range  = O valor está fora do intervalo. Faixa de { $min } a { $max }.
-cmd-changecvar-desc  = Altere o valor de uma variável de console.
-cmd-changecvar-help  = Uso: changecvar <cvar | ? | pesquisa> <valor>
-cmd-changecvar-available-cvars  = Lista de variáveis ​​de console disponíveis:
-cmd-changecvar-no-cvars  = Nenhuma variável de console foi encontrada que você possa alterar.
-cmd-changecvar-success  = Variável do console { $cvar } alterada de "{ $old }" para "{ $value }".
-cmd-changecvar-search-no-arguments  = Você deve especificar um termo de pesquisa.
-cmd-changecvar-search-no-matches  = Nenhuma variável de console foi encontrada correspondente à consulta de pesquisa.
-cmd-changecvar-search-matches  = Variáveis ​​de console { $count } encontradas que correspondem à consulta de pesquisa:
-cmd-changecvar-arg-name  = <nome | ? | pesquisar>
+﻿cmd-changecvar-no-arguments = Você deve especificar um cvar.
+cmd-changecvar-cvar-not-registered = O cvar {$cvar} não está registrado.
+cmd-changecvar-cvar-not-allowed = Você não pode alterar este cvar.
+cmd-changecvar-value-out-of-range = O valor está fora do intervalo. O intervalo é de {$min} a {$max}.
+cmd-changecvar-desc = Altere um valor cvar.
+cmd-changecvar-help = Uso: changecvar <cvar | ? | search> <value>
+cmd-changecvar-available-cvars = Listando cvars disponíveis:
+cmd-changecvar-no-cvars = Nenhum cvar encontrado que você possa alterar.
+cmd-changecvar-success = CVar {$cvar} alterado de "{$old}" para "{$value}".
+
+cmd-changecvar-search-no-arguments = Você deve especificar um termo de pesquisa.
+cmd-changecvar-search-no-matches = Nenhum cvar encontrado correspondente ao termo de pesquisa.
+cmd-changecvar-search-matches = Encontrados {$count} cvars correspondentes ao termo de pesquisa:
+
+cmd-changecvar-arg-name = <name | ? | search>

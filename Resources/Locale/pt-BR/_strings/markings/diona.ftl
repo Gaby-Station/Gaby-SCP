@@ -1,58 +1,86 @@
-marking-DionaThornsHead-thorns_head  = Dione, cabeça (espinhos)
-marking-DionaThornsHead  = Dione, cabeça (espinhos)
-marking-DionaThornsBody-thorns_body  = Dione, peito (espinhos)
-marking-DionaThornsBody  = Dione, peito (espinhos)
-marking-DionaFlowersHead-flowers_head  = Dione, cabeça (Flores)
-marking-DionaFlowersHead  = Dione, cabeça (Flores)
-marking-DionaFlowersBody-flowers_body  = Diona, peito (Flores)
-marking-DionaFlowersBody  = Diona, peito (Flores)
-marking-DionaLeafCover-leaf_cover  = Dione, Everbloom (Flores)
-marking-DionaLeafCover  = Dione, Everbloom (Flores)
-marking-DionaBloomHead-bloom  = Dione, Everbloom (Flores)
-marking-DionaBloomHead  = Dione, Everbloom (Flores)
-marking-DionaBracketHead-bracket  = Diona, Poliporo (Cogumelos)
-marking-DionaBracketHead  = Diona, Poliporo (Cogumelos)
-marking-DionaBrushHead-brush  = Diona, Pincéis (Lianas)
-marking-DionaBrushHead  = Diona, Pincéis (Lianas)
-marking-DionaCornflowerHead-cornflower  = Diona, centáurea (flores)
-marking-DionaCornflowerHead  = Diona, centáurea (flores)
-marking-DionaFicusHead-ficus  = Diona, Ficus (folhas)
-marking-DionaFicusHead  = Diona, Ficus (folhas)
-marking-DionaGarlandHead-garland  = Diona, guirlanda (flores)
-marking-DionaGarlandHead  = Diona, guirlanda (flores)
-marking-DionaKingHead-king  = Diona, Rei das Flores (Flores)
-marking-DionaKingHead  = Diona, Rei das Flores (Flores)
-marking-DionaLaurelHead-laurel  = Dione, Kalmia (folhas)
-marking-DionaLaurelHead  = Dione, Kalmia (folhas)
-marking-DionaLeafyHeadTop-leafy  = Dione, Folhas (Folhas)
-marking-DionaLeafyHeadTop  = Dione, Folhas (Folhas)
-marking-DionaLotusHead-lotus  = Dione, Lótus (Flores)
-marking-DionaLotusHead  = Dione, Lótus (Flores)
-marking-DionaMeadowHeadTop-meadow  = Diona, Prado
-marking-DionaMeadowHeadTop  = Diona, Prado
-marking-DionaOakHead-oak  = Diona, Carvalho (Madeira)
-marking-DionaOakHead  = Diona, Carvalho (Madeira)
-marking-DionaPalmHead-palm  = Diona, Palmeira (Folhas)
-marking-DionaPalmHead  = Diona, Palmeira (Folhas)
-marking-DionaRootHead-root  = Dione, Raiz (Raízes)
-marking-DionaRootHead  = Dione, Raiz (Raízes)
-marking-DionaRoseHead-rose  = Dione, Rosa (Flores)
-marking-DionaRoseHead  = Dione, Rosa (Flores)
-marking-DionaRoseyHead-rosey  = Diona, Rosas (Flores)
-marking-DionaRoseyHead  = Diona, Rosas (Flores)
-marking-DionaShrubHeadTop-shrub  = Diona, Arbusto (Espinhos)
-marking-DionaShrubHeadTop  = Diona, Arbusto (Espinhos)
-marking-DionaSpinnerHeadSide-spinner  = Diona, fiandeira
-marking-DionaSpinnerHeadSide  = Diona, fiandeira
-marking-DionaSproutHeadSide-sprout  = Diona, Rostock
-marking-DionaSproutHeadSide  = Diona, Vinha (Vinha)
-marking-DionaVineHeadTop-vine  = Diona, Vinha (Vinha)
-marking-DionaVineHeadTop  = Diona, Vinha (Vinha)
-marking-DionaVinelHead-vinel  = Dione, Videira Longa (Vinha)
-marking-DionaVinelHead  = Dione, videira curta (videira)
-marking-DionaVinesHead-vines  = Dione, videira curta (videira)
-marking-DionaVinesHead  = Dione, Flores Silvestres (Flores)
-marking-DionaWildflowerHead-wildflower  = Dione, Flores Silvestres (Flores)
-marking-DionaWildflowerHead  = Dione, Flores Silvestres (Flores)
-marking-DionaVineOverlay-overlay  = Diona, Corpos de videira
-marking-DionaVineOverlay  = Diona, Corpos de videira
+marking-DionaThornsHead-thorns_head = Cabeça de Diona (Espinhos)
+marking-DionaThornsHead = Cabeça de Diona (Espinhos)
+
+marking-DionaThornsBody-thorns_body = Baú de Diona (Espinhos)
+marking-DionaThornsBody = Baú de Diona (Espinhos)
+
+marking-DionaFlowersHead-flowers_head = Cabeça de Diona (flores)
+marking-DionaFlowersHead = Cabeça de Diona (flores)
+
+marking-DionaFlowersBody-flowers_body = Baú Diona (Flores)
+marking-DionaFlowersBody = Baú Diona (Flores)
+
+marking-DionaLeafCover-leaf_cover = Baú Diona (Folha)
+marking-DionaLeafCover = Baú Diona (Folha)
+
+marking-DionaBloomHead-bloom = Diona Everbloom (Flor)
+marking-DionaBloomHead = Diona Everbloom (Flor)
+
+marking-DionaBracketHead-bracket = Suporte Diona (Cogumelos)
+marking-DionaBracketHead = Suporte Diona (Cogumelos)
+
+marking-DionaBrushHead-brush = Pincel Diona (Lians)
+marking-DionaBrushHead = Pincel Diona (Lians)
+
+marking-DionaCornflowerHead-cornflower = Centáureas Diona (flores)
+marking-DionaCornflowerHead = Centáureas Diona (flores)
+
+marking-DionaFicusHead-ficus = Diona Ficus (folhas)
+marking-DionaFicusHead = Diona Ficus (folhas)
+
+marking-DionaGarlandHead-garland = Diona Guirlanda (Flores)
+marking-DionaGarlandHead = Diona Guirlanda (Flores)
+
+marking-DionaKingHead-king = Diona Flowerking (Flor)
+marking-DionaKingHead = Diona Flowerking (Flor)
+
+marking-DionaLaurelHead-laurel = Diona Laurel (Folhas)
+marking-DionaLaurelHead = Diona Laurel (Folhas)
+
+marking-DionaLeafyHeadTop-leafy = Diona Folhosa (Folhas)
+marking-DionaLeafyHeadTop = Diona Folhosa (Folhas)
+
+marking-DionaLotusHead-lotus = Diona Lótus (Flor)
+marking-DionaLotusHead = Diona Lótus (Flor)
+
+marking-DionaMeadowHeadTop-meadow = Prado Diona
+marking-DionaMeadowHeadTop = Prado Diona
+
+marking-DionaOakHead-oak = Diona Carvalho (Snag)
+marking-DionaOakHead = Diona Carvalho (Snag)
+
+marking-DionaPalmHead-palm = Diona Palmhead (Folhas)
+marking-DionaPalmHead = Diona Palmhead (Folhas)
+
+marking-DionaRootHead-root = Raiz Diona (raízes)
+marking-DionaRootHead = Raiz Diona (raízes)
+
+marking-DionaRoseHead-rose = Diona Rosa (Flor)
+marking-DionaRoseHead = Diona Rosa (Flor)
+
+marking-DionaRoseyHead-rosey = Diona Rosey (Flores)
+marking-DionaRoseyHead = Diona Rosey (Flores)
+
+marking-DionaShrubHeadTop-shrub = Arbusto Diona (espinhos)
+marking-DionaShrubHeadTop = Arbusto Diona (espinhos)
+
+marking-DionaSpinnerHeadSide-spinner = Diona Spinner
+marking-DionaSpinnerHeadSide = Diona Spinner
+
+marking-DionaSproutHeadSide-sprout = Broto Diona
+marking-DionaSproutHeadSide = Broto Diona
+
+marking-DionaVineHeadTop-vine = Vinhas Diona (Vinhas)
+marking-DionaVineHeadTop = Vinhas Diona (Vinhas)
+
+marking-DionaVinelHead-vinel = Diona Vinhas Longas (Vinhas)
+marking-DionaVinelHead = Diona Vinhas Longas (Vinhas)
+
+marking-DionaVinesHead-vines = Diona Vines Curto (Vinhas)
+marking-DionaVinesHead = Diona Vines Curto (Vinhas)
+
+marking-DionaWildflowerHead-wildflower = Diona Flores Silvestres (Flores)
+marking-DionaWildflowerHead = Diona Flores Silvestres (Flores)
+
+marking-DionaVineOverlay-overlay = Diona Corpo Vinhas
+marking-DionaVineOverlay = Diona Corpo Vinhas

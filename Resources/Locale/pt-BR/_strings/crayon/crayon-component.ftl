@@ -1,17 +1,17 @@
+
 ## Entity
 
-crayon-drawing-label  = [color={ $color }] usou um giz de cera.
-crayon-interact-not-enough-left-text  = Não consigo chegar lá!
-crayon-interact-used-up-text  = Não consigo chegar lá!
-crayon-interact-invalid-location  = Não consigo chegar lá!
+crayon-drawing-label = Desenho: [color={$color}]{$state}[/color] ({$charges}/{$capacity})
+crayon-interact-not-enough-left-text = Não sobrou o suficiente.
+crayon-interact-used-up-text = O {$owner} se esgotou.
+crayon-interact-invalid-location = Não consigo chegar lá!
 
 ## UI
-
-crayon-window-title  = Melok
-crayon-window-placeholder  = Pincéis
-crayon-category-1-brushes  = Pincéis
-crayon-category-2-alphanum  = Números e letras
-crayon-category-3-symbols  = Símbolo
-crayon-category-4-info  = sinais
-crayon-category-5-graffiti  = Grafite
-crayon-category-random  = máquina de venda automática de roupas aleatórias spawner
+crayon-window-title = Giz de cera
+crayon-window-placeholder = Pesquise ou enfileire uma lista de nomes separados por vírgula
+crayon-category-1-brushes = Pincéis
+crayon-category-2-alphanum = Números e letras
+crayon-category-3-symbols = Símbolos
+crayon-category-4-info = Sinais
+crayon-category-5-graffiti = Grafite
+crayon-category-random = Aleatório

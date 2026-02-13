@@ -1,2 +1,2 @@
-ent-BaseMagazineBoxImprovised  = caixa de munição improvisada (.any)
-    .desc  = Parece suspeitamente uma caixa de revistas calibre .20 com um desenho tosco de bala no topo. Não é recomendado misturar munições.
+ent-BaseMagazineBoxImprovised = caixa de munição improvisada (.any)
+    .desc = Isto parece suspeitamente com uma caixa de revista .20 com um desenho grosseiro de bala no topo. Não é aconselhável misturar munição.

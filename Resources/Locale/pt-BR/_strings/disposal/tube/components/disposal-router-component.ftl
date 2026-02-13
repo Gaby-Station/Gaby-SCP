@@ -1,6 +1,6 @@
 ## UI
 
-disposal-router-window-title  = Etiquetas:
-disposal-router-window-tags-label  = Etiquetas:
-disposal-router-window-tag-input-tooltip  = Lista de rótulos separados por vírgula
-disposal-router-window-tag-input-confirm-button  = Confirmar
+disposal-router-window-title = Roteador de descarte
+disposal-router-window-tags-label = Etiquetas:
+disposal-router-window-tag-input-tooltip = Uma lista de tags separadas por vírgula
+disposal-router-window-tag-input-confirm-button = Confirmar

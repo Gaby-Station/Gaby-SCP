@@ -1,1 +1,1 @@
-scramble-on-trigger-popup  = Sua aparência está distorcida e mudando!
+scramble-on-trigger-popup = Sua aparência muda e muda!

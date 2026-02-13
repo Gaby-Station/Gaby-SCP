@@ -1,5 +1,4 @@
-ent-hyperDice  = Hipercubo
+ent-hyperDice = Hipercubo
     .desc =
-        Настраиваемый многомерный сингулярный гиперкуб для числовой генерации
-        от 1 до 1 000 000. Последнее слово техники в области настольных игр.
-        Один куб, чтоб править всеми.
+        A customizable multidimensional singular hypercube for numerical generation. The latest technology in board games.
+        One cube to rule them all.

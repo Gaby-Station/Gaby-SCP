@@ -1,1 +1,1 @@
-marking-HumanTopHorns  = Buzina
+marking-HumanTopHorns = Buzina

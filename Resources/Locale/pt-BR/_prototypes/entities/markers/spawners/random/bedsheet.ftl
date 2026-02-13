@@ -1,2 +1,2 @@
-ent-BedsheetSpawner  = cobertor aleatório spawner
-    .desc  = { ent-MarkerBase.desc }
+ent-BedsheetSpawner = Gerador de Folhas Aleatórias
+    .desc = { ent-MarkerBase.desc }

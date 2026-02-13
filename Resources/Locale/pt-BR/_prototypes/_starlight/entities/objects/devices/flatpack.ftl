@@ -1,12 +1,12 @@
-ent-BaseStructureFlatpack  = conjunto plano para design básico
-    .desc  = Um conjunto plano usado para construir algo.
-ent-SupermatterFlatpackAnchored  = Fixado
-    .suffix  = Fixado
-    .desc  = Um conjunto plano usado para construir um Cristal de Supermatéria.
-ent-SupermatterFlatpack  = Embalagem de supermatéria
-    .desc  = Um pacote pré-fabricado universal usado para construir um Cristal de Supermatéria.
-ent-ResearchAndDevelopmentServerFlatpack  = Embalagem para montagem de servidor de pesquisa.
-    .desc  = Embalagem para montagem de servidor de pesquisa.
-ent-ResearchAndDevelopmentComputerFlatpack  = Embalagem para montagem de computador de pesquisa.
-    .desc  = Embalagem para montagem de computador de pesquisa.
+ent-BaseStructureFlatpack = estrutura de base flatpack
+    .desc = Um flatpack usado para construir algo.
+ent-SupermatterFlatpack = embalagem plana de supermatéria
+    .desc = Um flatpack usado para construir um Cristal de Supermatéria.
+ent-SupermatterFlatpackAnchored = embalagem plana de supermatéria
+    .suffix = Ancorado
+    .desc = Um flatpack usado para construir um Cristal de Supermatéria.
+ent-ResearchAndDevelopmentServerFlatpack = Flatpack de servidor de P&D
+    .desc = Um flatpack usado para construir um servidor de pesquisa.
+ent-ResearchAndDevelopmentComputerFlatpack = Flatpack para computador de pesquisa e desenvolvimento
+    .desc = Um flatpack usado para construir um computador de pesquisa.
 

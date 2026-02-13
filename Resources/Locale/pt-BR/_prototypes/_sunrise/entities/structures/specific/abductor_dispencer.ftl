@@ -1,2 +1,2 @@
-ent-AbductorDispencer  = dispensador alienígena
-    .desc  = Isso mostra algo errado?
+ent-AbductorDispencer = dispensador alienígena
+    .desc = Dispense algo errado?

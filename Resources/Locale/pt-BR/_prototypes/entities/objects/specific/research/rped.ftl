@@ -1,2 +1,2 @@
-ent-RPED  = RPZD
-    .desc  = Ferramenta portátil de substituição de peças, ideal para atualizar dispositivos rapidamente.
+ent-RPED = RPED
+    .desc = Um dispositivo de troca rápida de peças, perfeito para atualizar máquinas rapidamente.

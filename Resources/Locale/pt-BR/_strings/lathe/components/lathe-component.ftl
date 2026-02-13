@@ -1,3 +1,4 @@
-lathe-component-upgrade-speed  = consumo de materiais
-lathe-component-upgrade-material-use  = consumo de materiais
-lathe-component-output-slot-beaker-name  = ranhura para copo
+lathe-component-upgrade-speed = velocidade
+lathe-component-upgrade-material-use = uso de materiais
+
+lathe-component-output-slot-beaker-name = Slot para copo

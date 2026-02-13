@@ -1,2 +1,5 @@
-flippable-component-try-flip-is-stuck  = Ele está preso.
-flippable-verb-get-data-text  = Virar
+# FlippableComponent
+flippable-component-try-flip-is-stuck = Está preso.
+
+# FlippableVerb
+flippable-verb-get-data-text = Virar

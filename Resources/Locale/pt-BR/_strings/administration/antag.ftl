@@ -1,22 +1,25 @@
-verb-categories-antag  = Antagonistas
-admin-verb-make-traitor  = Torne o paciente alvo zero.
-admin-verb-make-initial-infected  = Torne o paciente alvo zero.
-admin-verb-make-zombie  = Transforme o alvo em um zumbi.
-admin-verb-make-nuclear-operative  = Faça do alvo um agente nuclear solitário.
-admin-verb-make-pirate  = Faça do alvo um pirata/corsário. Observe que isso não altera o modo de jogo.
-admin-verb-make-head-rev  = Faça do objetivo a cabeça da revolução.
-admin-verb-make-thief  = Faça do alvo um ladrão.
-admin-verb-make-paradox-clone  = Crie o papel fantasma de um clone paradoxal do alvo.
-admin-verb-make-changeling  = Faça do alvo um Genestealer.
-admin-verb-make-vampire  = Faça do alvo um vampiro.
-admin-verb-text-make-traitor  = Faça um traidor
-admin-verb-text-make-initial-infected  = Faça com que seja paciente zero
-admin-verb-text-make-zombie  = Faça um zumbi
-admin-verb-text-make-nuclear-operative  = Faça dele um agente nuclear
-admin-verb-text-make-pirate  = Faça um pirata
-admin-verb-text-make-head-rev  = Faça dele o chefe da revolução
-admin-verb-text-make-paradox-clone  = Crie um clone paradoxal
-admin-verb-text-make-thief  = Faça um ladrão
-admin-verb-text-make-vampire  = Faça um vampiro
-admin-verb-text-make-changeling  = Faça dele um genestealer
-admin-overlay-antag-classic  = ANTAGONISTA
+verb-categories-antag = Ctrl antag
+admin-verb-make-traitor = Transforme o alvo em um traidor.
+admin-verb-make-initial-infected = Transforme o alvo em um infectado inicial.
+admin-verb-make-zombie = Zombifica o alvo imediatamente.
+admin-verb-make-nuclear-operative = Transforme o alvo em um agente nuclear solitário.
+admin-verb-make-pirate = Transforme o alvo em um pirata. Observe que isso não configura a regra do jogo.
+admin-verb-make-head-rev = Transforme o alvo em um Chefe Revolucionário.
+admin-verb-make-thief = Transforme o alvo em um ladrão.
+admin-verb-make-paradox-clone = Crie uma função fantasma de Clone do Paradoxo para o alvo.
+admin-verb-make-wizard = Transforme o alvo em um mago.
+admin-verb-make-changeling = Transforme o alvo em um Changeling.
+
+
+admin-verb-text-make-traitor = Faça Traidor
+admin-verb-text-make-initial-infected = Faça a infecção inicial
+admin-verb-text-make-zombie = Faça Zumbi
+admin-verb-text-make-nuclear-operative = Tornar Operativo Nuclear
+admin-verb-text-make-pirate = Faça Pirata
+admin-verb-text-make-head-rev = Faça a cabeça Rev
+admin-verb-text-make-thief = Faça ladrão
+admin-verb-text-make-paradox-clone = Criar clone do paradoxo
+admin-verb-text-make-wizard = Faça o assistente
+admin-verb-text-make-changeling = Faça Changeling (WIP)
+
+admin-overlay-antag-classic = ANTAG

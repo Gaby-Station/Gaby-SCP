@@ -1,12 +1,1 @@
-comms-console-announcement-title-prison  = Prisão espacial
-comms-console-menu-relay-button  = Ligar
-comms-console-menu-relay-button-tooltip  = Desligar
-comms-console-menu-relay-stop  = Desligar
-comms-console-menu-relay-cooldown  = Tempo de espera: { $time }.
-comms-console-menu-announcement-header  = Alertas
-comms-console-menu-relay-header  = Radiodifusão
-comms-console-menu-relay-time-left  = Restante: { $time }
-comms-console-menu-emergency-header  = Evacuação
-comms-console-menu-alert-level-header  = Código de ameaça
-comms-console-relay-started  = A transmissão através do console de comunicação foi iniciada.
-comms-console-relay-stopped  = A transmissão através do console de comunicações foi interrompida.
+comms-console-announcement-title-prison = Космическая тюрьма

@@ -1,4 +1,4 @@
-ent-BaseChaosContraband  = { "" }
-    .desc  = { "" }
-ent-BaseFoundationEnemyContraband  = { "" }
-    .desc  = { "" }
+ent-BaseChaosContraband = { "" }
+    .desc = { "" }
+ent-BaseFoundationEnemyContraband = { "" }
+    .desc = { "" }

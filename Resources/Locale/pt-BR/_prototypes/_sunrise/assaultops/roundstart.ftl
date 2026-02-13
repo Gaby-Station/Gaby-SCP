@@ -1,2 +1,2 @@
-ent-AssaultOps  = { ent-BaseGameRule }
-    .desc  = { ent-BaseGameRule.desc }
+ent-AssaultOps = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

@@ -1,2 +1,2 @@
-ent-AbductorHandcuffs  = algemas
-    .desc  = Usado para prender criminosos e outros vilões.
+ent-AbductorHandcuffs = algemas
+    .desc = Usado para deter criminosos e outros idiotas.

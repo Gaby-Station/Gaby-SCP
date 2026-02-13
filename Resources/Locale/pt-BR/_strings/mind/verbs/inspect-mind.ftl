@@ -1,1 +1,1 @@
-inspect-mind-verb-get-data-text  = Verifique sua mente
+inspect-mind-verb-get-data-text = Inspecione a Mente

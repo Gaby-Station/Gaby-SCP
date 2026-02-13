@@ -1,2 +1,2 @@
-ent-VentFleshWorms  = { ent-BaseGameRule }
-    .desc  = { ent-BaseGameRule.desc }
+ent-VentFleshWorms = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

@@ -1,2 +1,2 @@
-ent-EffectVoidBlink  = cintilação do vazio
-    .desc  = { "" }
+ent-EffectVoidBlink = piscar vazio
+    .desc = { "" }

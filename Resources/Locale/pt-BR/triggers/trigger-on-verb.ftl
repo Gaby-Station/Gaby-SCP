@@ -1,2 +1,2 @@
-trigger-on-verb-default  = Ativar
-trigger-on-verb-detonation  = Iniciar detonação
+trigger-on-verb-default = Acionar
+trigger-on-verb-detonation = Iniciar detonação

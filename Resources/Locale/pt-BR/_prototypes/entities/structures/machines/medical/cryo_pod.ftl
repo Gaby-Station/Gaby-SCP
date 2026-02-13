@@ -1,4 +1,4 @@
-ent-CryoPod  = criocápsula
-    .desc  = Uma unidade especial que cria um ambiente seguro para o uso de produtos químicos que operam em baixas temperaturas.
-ent-CryoPodDestroyed  = câmara criostática quebrada
-    .desc  = Uma câmara criostática que já viu dias melhores. Completamente inoperante; Adequado apenas para sucata.
+ent-CryoPod = cápsula criogênica
+    .desc = Uma máquina especial destinada a criar um ambiente seguro para a utilização de produtos químicos que reagem em ambientes frios.
+ent-CryoPodDestroyed = cápsula criogênica destruída
+    .desc = Uma cápsula criogênica que já viu dias melhores. É totalmente inoperável ; not good for anything but scrap.

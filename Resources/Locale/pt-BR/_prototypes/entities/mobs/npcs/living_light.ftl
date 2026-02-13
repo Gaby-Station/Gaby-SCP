@@ -1,8 +1,8 @@
-ent-MobLivingLight  = pessoa brilhante
-    .desc  = Uma figura deslumbrante de pura luz, aparentemente intangível.
-ent-MobLuminousPerson  = { ent-MobLivingLight }
-    .desc  = { ent-MobLivingLight.desc }
-ent-MobLuminousObject  = objeto brilhante
-    .desc  = Um pequeno objeto luminoso que queima a pele com seu brilho.
-ent-MobLuminousEntity  = essência brilhante
-    .desc  = Uma entidade transparente e deslumbrante cujo olho brilhante parece perigoso e abrasador.
+ent-MobLivingLight = pessoa luminosa
+    .desc = Uma figura ofuscante de pura luz, aparentemente intangível.
+ent-MobLuminousPerson = { ent-MobLivingLight }
+    .desc = { ent-MobLivingLight.desc }
+ent-MobLuminousObject = objeto luminoso
+    .desc = Um pequeno objeto brilhante que causa queimaduras na pele com seu brilho.
+ent-MobLuminousEntity = entidade luminosa
+    .desc = Uma entidade ofuscante e translúcida, o olho brilhante parece perigoso e escaldante.

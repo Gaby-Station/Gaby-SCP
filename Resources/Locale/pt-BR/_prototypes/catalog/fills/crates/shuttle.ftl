@@ -1,4 +1,4 @@
-ent-CrateEngineeringThruster  = Contém embalagens que podem ser usadas para criar um motor de foguete.
-    .desc  = Contém embalagens que podem ser usadas para criar um motor de foguete.
-ent-CrateEngineeringGyroscope  = caixa com giroscópio
-    .desc  = Contém embalagens que podem ser usadas para criar um giroscópio.
+ent-CrateEngineeringThruster = caixa do propulsor
+    .desc = Contém um flatpack de propulsor.
+ent-CrateEngineeringGyroscope = caixa de giroscópio
+    .desc = Contém um giroscópio flatpack.

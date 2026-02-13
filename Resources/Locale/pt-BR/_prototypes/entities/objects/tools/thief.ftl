@@ -1,6 +1,6 @@
-ent-ThiefBeacon  = Um dispositivo que no final do turno teletransporta tudo para o cofre do ladrão.
-    .desc  = caixa de ferramentas de incerteza dos ladrões
-ent-ToolboxThief  = Aqui estão as coisas dos seus ladrões favoritos. Resta lembrar quais exatamente.
-    .desc  = Aqui estão as coisas dos seus ladrões favoritos. Resta lembrar quais exatamente.
-ent-SatchelThief  = mochila de ladrão não identificado
-    .desc  = Aqui estão os suprimentos dos seus ladrões favoritos. Dobrado para sua conveniência.
+ent-ThiefBeacon = farol de ladrão
+    .desc = Um dispositivo que teletransportará tudo ao seu redor para o cofre do ladrão no final do turno.
+ent-ToolboxThief = caixa de ferramentas de roubo indeterminada
+    .desc = É aqui que estão os suprimentos do seu ladrão favorito. Tente lembrar quais.
+ent-SatchelThief = bolsa de ladrão indeterminada
+    .desc = É aqui que estão os suprimentos do seu ladrão favorito. Dobrado para sua conveniência.

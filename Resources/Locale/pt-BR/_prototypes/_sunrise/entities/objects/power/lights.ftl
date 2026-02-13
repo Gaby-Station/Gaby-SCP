@@ -1,2 +1,2 @@
-ent-UvLightTube  = lâmpada ultravioleta
-    .desc  = Lâmpada potente de alta energia para as profundezas do espaço. Roxo.
+ent-UvLightTube = tubo de luz ultravioleta
+    .desc = Uma lâmpada de alta potência e alta energia para as profundezas do espaço. Roxo.

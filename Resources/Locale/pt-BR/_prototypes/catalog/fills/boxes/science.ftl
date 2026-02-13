@@ -1,2 +1,2 @@
-ent-BoxBeaker  = uma caixa de copos
-    .desc  = Uma caixa cheia de copos.
+ent-BoxBeaker = caixa de copo
+    .desc = Uma caixa cheia de copos.

@@ -1,1 +1,1 @@
-smile-affection-popup  = { $slime } abraços { $target }
+smile-affection-popup = { $slime } foi transferido para { $target }

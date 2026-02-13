@@ -1,2 +1,2 @@
-station-anchor-unanchoring-failed  = Não foi possível liberar a âncora da estação ativa
-station-anchor-window-title  = Âncora da estação
+﻿station-anchor-unanchoring-failed = Não é possível desancorar uma âncora de estação ativa.
+station-anchor-window-title = Âncora da Estação

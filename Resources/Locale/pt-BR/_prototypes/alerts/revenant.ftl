@@ -1,2 +1,2 @@
-ent-AlertEssenceSpriteView  = { "" }
-    .desc  = { "" }
+ent-AlertEssenceSpriteView = { "" }
+    .desc = { "" }

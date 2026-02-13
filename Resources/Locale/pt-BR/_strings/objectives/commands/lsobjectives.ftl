@@ -1,3 +1,3 @@
 # lsobjectives
-cmd-lsobjectives-desc  = Uso: lsobjectives <nome de usuário>
-cmd-lsobjectives-help  = Uso: lsobjectives <nome de usuário>
+cmd-lsobjectives-desc = Lista todos os objetivos na mente do jogador.
+cmd-lsobjectives-help = Uso: lsobjetivos <username>

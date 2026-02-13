@@ -1,2 +1,2 @@
-ent-ActionRetractableItemArmBlade  = Mão Lâmina
-    .desc  = Derrame a carne e transforme-a em uma lâmina carnuda.
+ent-ActionRetractableItemArmBlade = Lâmina de braço
+    .desc = Troque sua carne e transforme-a em uma lâmina carnuda.

@@ -1,2 +1,2 @@
-resist-locker-component-start-resisting  = Suas tentativas de derrubar a porta foram interrompidas!
-resist-locker-component-resist-interrupted  = Suas tentativas de derrubar a porta foram interrompidas!
+resist-locker-component-start-resisting = Você começa a chutar a porta!
+resist-locker-component-resist-interrupted = Suas tentativas de chutar a porta foram interrompidas!

@@ -1,2 +1,2 @@
-ent-ActionSpawnMagicarpSpell  = Invocar Magikarp
-    .desc  = Este feitiço invoca três Magikarp para ajudá-lo! Eles podem atacar o proprietário ou não.
+ent-ActionSpawnMagicarpSpell = Invocar Magicarp
+    .desc = Este feitiço invoca três Magi-Carpas para ajudá-lo! Pode ou não ativar o usuário.

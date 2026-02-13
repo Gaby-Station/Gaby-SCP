@@ -1,2 +1,3 @@
-ent-BaseMachineCircuitboard  = placa de máquina
-    .desc  = { ent-BaseItem.desc }
+ent-BaseMachineCircuitboard = placa de máquina
+    .suffix = Placa da máquina
+    .desc = { ent-BaseItem.desc }

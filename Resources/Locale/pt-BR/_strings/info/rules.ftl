@@ -1,8 +1,9 @@
-# Rules
+﻿# Rules
 
-ui-rules-header  = Regras do servidor
-ui-rules-header-rp  = Regras do servidor
-ui-rules-accept  = Para o começo
-ui-rules-wait  = Para o começo
-ui-rules-button-home  = Para o começo
-ui-rules-button-back  = Voltar
+ui-rules-header = Regras oficiais do servidor Wizard's Den
+ui-rules-header-rp = Regras oficiais do servidor Wizard's Den Roleplay
+ui-rules-accept = Eu li e concordo em seguir as regras
+ui-rules-wait = O botão aceitar será habilitado após {$time} segundos.
+
+ui-rules-button-home = Lar
+ui-rules-button-back = Voltar

@@ -1,2 +1,2 @@
-ent-ActionConfigureMeleeSpeech  = Defina seu próprio grito de guerra enquanto ataca!
-    .desc  = Defina seu próprio grito de guerra enquanto ataca!
+ent-ActionConfigureMeleeSpeech = Definir grito de guerra
+    .desc = Defina um grito de guerra personalizado para quando você atacar!

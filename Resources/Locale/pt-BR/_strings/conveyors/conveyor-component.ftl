@@ -1,1 +1,1 @@
-conveyor-component-failed-link  = Quando você tenta se conectar, a porta te choca!
+conveyor-component-failed-link = A porta choca você quando você tenta se conectar a ela!

@@ -1,7 +1,8 @@
-cmd-adminnotes-desc  = Uso: adminnotes <UserId OR nome de usuário>
-cmd-adminnotes-help  = Uso: adminnotes <UserId OR nome de usuário>
-cmd-adminnotes-wrong-target  = Não foi possível encontrar o usuário '{ $user }'.
-cmd-adminnotes-args-error =
-    Неверные аргументы.
-    Использование: adminnotes <UserId ИЛИ Имя пользователя>
-cmd-adminnotes-hint  = ID de usuário OU nome de usuário
+﻿cmd-adminnotes-desc = Abre o painel de notas do administrador do jogador alvo.
+cmd-adminnotes-help = Uso: notas de administrador <UserId OR Username>
+
+cmd-adminnotes-wrong-target = Não foi possível encontrar o usuário '{$user}'.
+cmd-adminnotes-args-error = Argumentos inválidos.
+                            Usage: adminnotes <UserId OR Username>
+
+cmd-adminnotes-hint = ID de usuário OU nome de usuário

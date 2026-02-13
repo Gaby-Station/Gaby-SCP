@@ -1,2 +1,2 @@
-ent-ActionToggleInternals  = Mudar o fornecimento de ar
-    .desc  = Respire com um cilindro de gás equipado. É necessária uma máscara respiratória.
+ent-ActionToggleInternals = Alternar internos
+    .desc = Respire do tanque de gasolina equipado. Também requer máscara respiratória equipada.

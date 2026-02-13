@@ -1,2 +1,2 @@
-melee-speech-current-battlecry  = Grito de guerra:
-melee-speech-menu-title  = Criando um grito de guerra
+melee-speech-current-battlecry = Grito de Guerra:
+melee-speech-menu-title = Definir grito de guerra

@@ -1,1 +1,1 @@
-smoking-pipe-slot-component-slot-name-bowl  = Uma xícara
+smoking-pipe-slot-component-slot-name-bowl = Tigela

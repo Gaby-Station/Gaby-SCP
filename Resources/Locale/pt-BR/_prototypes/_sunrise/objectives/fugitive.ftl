@@ -1,4 +1,4 @@
-ent-BaseFugitiveObjective  = { ent-BaseObjective }
-    .desc  = { ent-BaseObjective.desc }
-ent-FugitiveEscapeShuttleObjective  = De alguma forma, você conseguiu escapar da prisão para a estação espacial; você precisa voar da estação em um ônibus de evacuação para o espaçoporto.
-    .desc  = De alguma forma, você conseguiu escapar da prisão para a estação espacial; você precisa voar da estação em um ônibus de evacuação para o espaçoporto.
+ent-BaseFugitiveObjective = { ent-BaseObjective }
+    .desc = { ent-BaseObjective.desc }
+ent-FugitiveEscapeShuttleObjective = Fuja para o Centcomm vivo e desenfreado.
+    .desc = De alguma forma, você conseguiu escapar da prisão para uma estação espacial; você precisa voar para longe da estação em um ônibus de fuga para o espaçoporto.

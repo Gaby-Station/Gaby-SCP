@@ -1,168 +1,158 @@
-reagent-name-cryptobiolin  = Criptobiolina
-reagent-desc-cryptobiolin  = Uma antitoxina de amplo espectro que trata danos ao corpo causados ​​por toxinas. A overdose causa vômito, tontura e dor.
+reagent-name-cryptobiolin = criptobiolina
+reagent-desc-cryptobiolin = Causa confusão e tontura.
 
-reagent-name-dylovene  = dilatado
-reagent-desc-dylovene  = Uma antitoxina de amplo espectro que trata danos ao corpo causados ​​por toxinas. A overdose causa vômito, tontura e dor.
+reagent-name-dylovene = diloveno
+reagent-desc-dylovene = Uma antitoxina de amplo espectro, que trata danos causados ​​por toxinas em organismos. A sobredosagem causará vómitos, tonturas e dor.
 
-reagent-name-diphenhydramine  = difenidramina
-reagent-desc-diphenhydramine  = Uma droga ligeiramente instável usada nos casos mais extremos de envenenamento por radiação. Causa leve estresse no corpo.
+reagent-name-diphenhydramine = difenidramina
+reagent-desc-diphenhydramine = Purga rapidamente a histamina do corpo, reduz o nervosismo, causa sonolência e trata danos causados ​​por veneno. Freqüentemente incluído em medicamentos para dormir.
 
-reagent-name-arithrazine  = aritrazina
-reagent-desc-arithrazine  = Uma droga ligeiramente instável usada nos casos mais extremos de envenenamento por radiação. Causa leve estresse no corpo.
+reagent-name-arithrazine = aritrazina
+reagent-desc-arithrazine = Um medicamento levemente instável usado nos casos mais extremos de envenenamento por radiação. Exerce um estresse menor no corpo.
 
-reagent-name-bicaridine  = bicaridina
-reagent-desc-bicaridine  = Necessário para o funcionamento normal da criogenia. Cura todos os tipos de dano padrão, mas só funciona em temperaturas abaixo de 213 Kelvin. Em pequenas doses pode curar e revitalizar plantas. Só funciona em pessoas vivas.
+reagent-name-bicaridine = bicaridina
+reagent-desc-bicaridine = Um analgésico altamente eficaz no tratamento de danos brutos. É útil para estabilizar pessoas que foram espancadas gravemente, bem como para tratar ferimentos menos fatais.
 
-reagent-name-cryoxadone  = crioxadona
-reagent-desc-cryoxadone  = Necessário para o funcionamento normal da criogenia. Cura todos os tipos de dano padrão, mas só funciona em temperaturas abaixo de 213 Kelvin. Em pequenas doses pode curar e revitalizar plantas. Só funciona em pessoas vivas.
+reagent-name-cryoxadone = crioxadona
+reagent-desc-cryoxadone = Necessário para o bom funcionamento da criogenia. Cura todos os tipos de danos padrão, mas só funciona em temperaturas abaixo de 213K. Pode tratar e rejuvenescer plantas quando aplicado em pequenas doses.
 
-reagent-name-doxarubixadone  = doxarubixadona
-reagent-desc-doxarubixadone  = Produto químico criogênico. Trata certos tipos de danos celulares causados ​​por limo e uso indevido de outros produtos químicos. Só funciona em pessoas vivas.
+reagent-name-doxarubixadone = doxarubixadona
+reagent-desc-doxarubixadone = Um produto químico criogênico. Cura danos celulares causados ​​por gases e produtos químicos perigosos.
 
-reagent-name-dermaline  = dermalina
-reagent-desc-dermaline  = Usado para tratar a privação leve de oxigênio e perda de sangue. Reagente necessário para criar Dexalin Plus.
+reagent-name-dermaline = dermalina
+reagent-desc-dermaline = Um produto químico avançado que é mais eficaz no tratamento de queimaduras do que o celotano.
 
-reagent-name-dexalin  = dexalina
-reagent-desc-dexalin  = Usado para tratar a privação leve de oxigênio e perda de sangue. Reagente necessário para criar Dexalin Plus.
+reagent-name-dexalin = dexalina
+reagent-desc-dexalin = Usado para tratar pequenas privações de oxigênio e perda de sangue. Um reagente necessário para dexalin plus.
 
-reagent-name-dexalin-plus  = difenidramina
-reagent-desc-dexalin-plus  = Usado para tratar a privação de oxigênio e perda de sangue. Remove a toxina Heartbreaker do sistema circulatório.
+reagent-name-dexalin-plus = dexalina mais
+reagent-name-dexalin-plus-saline = dexalina plus e solução salina
+reagent-desc-dexalin-plus = Usado no tratamento de casos extremos de privação de oxigênio e perda de sangue. Elimina a toxina destruidora de corações da corrente sanguínea.
 
-reagent-name-epinephrine  = epinefrina
-reagent-desc-epinephrine  = Um medicamento estabilizador eficaz usado para prevenir a morte por asfixia, bem como para tratar ferimentos leves em pacientes gravemente enfermos. Remove a toxina Heartbreaker do sistema circulatório devido a mais epinefrina, mas pode aumentar os níveis de histamina. Ajuda a reduzir o tempo de atordoamento. Frequentemente encontrado em medicamentos de emergência.
+reagent-name-epinephrine = epinefrina
+reagent-desc-epinephrine = Um produto químico estabilizador eficaz usado para evitar que uma pessoa em estado crítico morra por asfixia, enquanto repara pequenos danos durante o ataque crítico. Libera a toxina destruidora de corações da corrente sanguínea ao custo de mais epinefrina, mas pode adicionar histamina. Ajuda a reduzir o tempo de atordoamento. Comumente encontrado na forma de medicamentos de emergência.
 
-reagent-name-hyronalin  = inaprovalina
-reagent-desc-hyronalin  = Um medicamento fraco para o tratamento de danos causados ​​pela radiação. Predecessor da Aritrazina e da Falangimina. Pode causar vômito.
+reagent-name-hyronalin = hidronalina
+reagent-desc-hyronalin = Um tratamento fraco para danos de radiação. Precursor da aritrazina e da falanximina. Pode causar vômito.
 
-reagent-name-ipecac  = ipecacuanha
-reagent-desc-ipecac  = Um emético de ação rápida. Usado para interromper venenos não metabolizados ou sessões de vômito em massa.
+reagent-name-ipecac = ipecacuanha
+reagent-desc-ipecac = Um emético de ação rápida. Útil para interromper venenos não metabolizados ou sessões de vômito em massa.
 
-reagent-name-inaprovaline  = inaprovalina
-reagent-desc-inaprovaline  = A inaprovalina é um estimulante sináptico e cardíaco, amplamente utilizado para aliviar asfixia em condições críticas e reduzir sangramentos. Usado em muitos medicamentos modernos.
+reagent-name-inaprovaline = inaprovalina
+reagent-desc-inaprovaline = A inaprovalina é um estimulante sináptico e cardioestimulante, comumente usado para tratar danos por asfixia causados ​​durante estados críticos e reduzir sangramentos. Usado em muitos medicamentos avançados.
 
-reagent-name-kelotane  = violoncelo
-reagent-desc-kelotane  = Trata queimaduras. Uma overdose reduz significativamente a capacidade do corpo de reter água.
+reagent-name-kelotane = celotano
+reagent-desc-kelotane = Trata danos por queimadura. A sobredosagem reduz significativamente a capacidade do corpo de reter água.
 
-reagent-name-leporazine  = leporazina
-reagent-desc-leporazine  = Um produto químico poderoso que evita danos por pressão. Isso coloca muito estresse no corpo.
+reagent-name-leporazine = leporazina
+reagent-desc-leporazine = Um produto químico usado para estabilizar a temperatura corporal e curar rapidamente os danos causados ​​pelo frio. Ótimo para viagens de EVA desprotegidas, mas evita o uso de tubos criogênicos.
 
-reagent-name-barozine  = vamos
-reagent-desc-barozine  = Um produto químico poderoso que evita danos por pressão. Isso coloca muito estresse no corpo.
+reagent-name-barozine = barozina
+reagent-desc-barozine = Um produto químico potente que evita danos por pressão. Causa estresse extremo no corpo.
 
-reagent-name-phalanximine  = falangio
-reagent-desc-phalanximine  = Um medicamento moderno utilizado no tratamento do câncer. Causa danos moderados de radiação ao corpo e náuseas. Potencialmente pode remover o gene da morte nas plantas.
+reagent-name-phalanximine = falanximina
+reagent-desc-phalanximine = Um produto químico avançado usado no tratamento do câncer. Causa envenenamento moderado por radiação, queimaduras ácidas e vômitos em produtos orgânicos. Pode potencialmente remover o gene da morte nas plantas.
 
-reagent-name-polypyrylium-oligomers  = oligômeros de polipirílio
-reagent-desc-polypyrylium-oligomers  = Uma mistura roxa de cadeias curtas de polieletrólitos que não são fáceis de sintetizar em laboratório. Trata estrangulamento e danos mecânicos. Com o tempo, ele para de sangrar.
+reagent-name-polypyrylium-oligomers = Oligômeros de polipirílio
+reagent-desc-polypyrylium-oligomers = Uma mistura roxa de cadeias curtas de polieletrólitos que não são facilmente sintetizadas em laboratório. Cura asfixia e danos brutos. Para de sangrar com o tempo.
 
-reagent-name-ambuzol  = ambusol plus
-reagent-desc-ambuzol  = Desenvolvimento do futuro utilizando o sangue dos infectados, vacinando os vivos contra a infecção.
+reagent-name-ambuzol = ambuzol
+reagent-desc-ambuzol = Uma substância altamente projetada capaz de deter a progressão de uma infecção zumbi.
 
-reagent-name-ambuzol-plus  = aritrazina
-reagent-desc-ambuzol-plus  = Desenvolvimento do futuro utilizando o sangue dos infectados, vacinando os vivos contra a infecção.
+reagent-name-ambuzol-plus = ambuzol mais
+reagent-desc-ambuzol-plus = Projetada ainda mais com omnizina, inocula os vivos contra a infecção.
 
-reagent-name-pulped-banana-peel  = casca de banana esmagada
-reagent-desc-pulped-banana-peel  = Um poderoso agente anticorrosivo obtido de plantas.
+reagent-name-pulped-banana-peel = casca de banana descascada
+reagent-desc-pulped-banana-peel = As cascas de banana descascadas têm alguma eficácia contra sangramentos.
 
-reagent-name-siderlac  = Siderlak
-reagent-desc-siderlac  = Um poderoso agente anticorrosivo obtido de plantas.
+reagent-name-siderlac = siderlac
+reagent-desc-siderlac = Um poderoso medicamento anticáustico derivado de plantas.
 
-reagent-name-stellibinin  = Stellini
-reagent-desc-stellibinin  = Uma antitoxina natural que é particularmente eficaz contra a amatoxina.
+reagent-name-stellibinin = estelibinina
+reagent-desc-stellibinin = Uma antitoxina natural com particular eficácia contra a amatoxina.
 
-reagent-name-synaptizine  = sinaptisina
-reagent-desc-synaptizine  = Uma droga tóxica que reduz pela metade a duração do atordoamento e do nocaute.
+reagent-name-synaptizine = sinaptizina
+reagent-desc-synaptizine = Um produto químico tóxico que reduz pela metade a duração de atordoamentos e nocautes.
 
-reagent-name-tranexamic-acid  = ácido tranexâmico
-reagent-desc-tranexamic-acid  = Um medicamento para coagulação do sangue usado para estancar sangramentos intensos. Em caso de sobredosagem, provoca hemorragias ainda mais graves. Frequentemente encontrado em medicamentos de emergência.
+reagent-name-tranexamic-acid = ácido tranexâmico
+reagent-desc-tranexamic-acid = Medicamento para coagulação do sangue usado para prevenir sangramento abundante. Causa sangramento mais intenso em caso de overdose. Comumente encontrado em pequenas doses em medicamentos de emergência.
 
-reagent-name-tricordrazine  = tricordrazina
-reagent-desc-tricordrazine  = Um estimulante de amplo espectro originalmente criado à base de cordrazina. Cura danos menores de todos os tipos principais, desde que o usuário não fique gravemente ferido. Melhor usado como aditivo a outros medicamentos.
+reagent-name-tricordrazine = tricordrazina
+reagent-desc-tricordrazine = Estimulante de amplo espectro, originalmente derivado da cordrazina. Trata danos menores de todos os tipos básicos de saúde, desde que o usuário não esteja gravemente ferido. Melhor usado como aditivo para outros produtos químicos.
 
-reagent-name-lipozine  = liposina
-reagent-desc-lipozine  = Uma substância química que acelera o metabolismo, fazendo com que o usuário sinta fome mais rapidamente.
+reagent-name-lipozine = lipozina
+reagent-desc-lipozine = Uma substância química que acelera o metabolismo, fazendo com que o usuário sinta fome mais rapidamente.
 
-reagent-name-omnizine  = omnisina
-reagent-desc-omnizine  = Líquido leitoso emoliente com tonalidade arco-íris. Uma teoria da conspiração proeminente é que a sua origem permanece um mistério porque revelar o segredo da sua produção tornaria desnecessária a maioria dos produtos farmacêuticos comerciais.
+reagent-name-omnizine = omnizina
+reagent-desc-omnizine = Um líquido leitoso calmante com um brilho iridescente. Uma teoria da conspiração bem conhecida diz que as suas origens permanecem um mistério porque revelar os segredos da sua produção tornaria obsoletas a maioria dos produtos farmacêuticos comerciais.
 
-reagent-name-ultravasculine  = ultravasculina
-reagent-desc-ultravasculine  = Uma antitoxina complexa que remove toxinas rapidamente e causa pouco estresse no corpo. Reage com a histamina, duplicando-se e eliminando-a ao mesmo tempo. Uma overdose causa dor intensa.
+reagent-name-ultravasculine = ultravasculina
+reagent-desc-ultravasculine = Uma solução antitoxina complicada que elimina rapidamente as toxinas enquanto causa um pequeno estresse no corpo. Reage com a histamina, duplicando-se enquanto a elimina. A overdose causa dor extrema.
 
-reagent-name-oculine  = leia
-reagent-desc-oculine  = Uma solução salina simples usada para tratar lesões oculares quando administrada por via oral.
+reagent-name-oculine = oculino
+reagent-desc-oculine = Um composto salino simples usado para tratar os olhos por ingestão.
 
-reagent-name-ethylredoxrazine  = etilredoxrazina
-reagent-desc-ethylredoxrazine  = Neutraliza o efeito do álcool no sistema circulatório. Apesar de ser frequentemente necessário, raramente é solicitado.
+reagent-name-ethylredoxrazine = etilredoxrazina
+reagent-desc-ethylredoxrazine = Neutraliza os efeitos do álcool na corrente sanguínea. Embora seja comumente necessário, raramente é solicitado.
 
-reagent-name-cognizine  = saber
-reagent-desc-cognizine  = Uma substância química misteriosa que pode tornar inteligente qualquer criatura irracional.
+reagent-name-cognizine = cognizina
+reagent-desc-cognizine = Um produto químico misterioso que é capaz de tornar senciente qualquer criatura insensível.
 
-reagent-name-ethyloxyephedrine  = etiloxiefedrina
-reagent-desc-ethyloxyephedrine  = Medicamento derivado da desoxiefedrina ligeiramente instável, usado principalmente para a prevenção da narcolepsia.
+reagent-name-ethyloxyephedrine = etiloxiefedrina
+reagent-desc-ethyloxyephedrine = Medicamento ligeiramente instável derivado da desoxiefedrina, usado principalmente para combater a narcolepsia.
 
-reagent-name-diphenylmethylamine  = difenilmetilamina
-reagent-desc-diphenylmethylamine  = Um medicamento mais estável que a etiloxiefedrina. Útil para manter a energia.
+reagent-name-diphenylmethylamine = difenilmetilamina
+reagent-desc-diphenylmethylamine = Um medicamento mais estável que a etiloxiefedrina. Útil para manter alguém acordado.
 
-reagent-name-sigynate  = assinatura
-reagent-desc-sigynate  = Um xarope espesso de rosas que é útil para neutralizar ácidos e atenuar os danos causados ​​por ácidos. Doce ao paladar!
+reagent-name-sigynate = siginato
+reagent-desc-sigynate = Um xarope rosa espesso, útil para neutralizar ácidos e acalmar traumas causados ​​por ácidos. Tem um gosto doce!
 
-reagent-name-saline  = criatura física
-reagent-desc-saline  = Uma mistura de água e sal. Normalmente usado para tratar desidratação ou níveis baixos de fluidos no sangue.
+reagent-name-saline = salina
+reagent-desc-saline = Uma mistura de sal e água. Comumente usado para tratar desidratação ou baixa presença de líquidos no sangue.
 
-reagent-name-lacerinol  = lacerinol
-reagent-desc-lacerinol  = Um produto químico bastante não reativo que aumenta a síntese de colágeno a níveis incríveis e cura feridas incisas.
+reagent-name-lacerinol = lacerinol
+reagent-desc-lacerinol = Um produto químico pouco reativo que aumenta a síntese de colágeno a níveis incríveis, curando traumas.
 
-reagent-name-puncturase  = tempos de punção
-reagent-desc-puncturase  = Um produto químico efervescente que cura feridas perfurantes ao custo de uma pequena quantidade de hematomas.
+reagent-name-puncturase = punturase
+reagent-name-puncturase-tranexamic = punturase e tranexâmico
+reagent-desc-puncturase = Um produto químico efervescente que ajuda a reconstruir o trauma causado por danos perfurantes, deixando para trás uma pequena quantidade de danos nos tecidos.
 
-reagent-name-bruizine  = hematoma
-reagent-desc-bruizine  = Originalmente desenvolvido como remédio para tosse, este produto químico provou ser extraordinariamente eficaz no tratamento de hematomas.
+reagent-name-bruizine = hematoma
+reagent-desc-bruizine = Originalmente desenvolvido como remédio para tosse, descobriu-se que esse produto químico é extremamente eficaz no tratamento de traumas contundentes.
 
-reagent-name-holywater  = água benta
-reagent-desc-holywater  = A água mais pura e pura, vinda diretamente das mãos de Deus, é conhecida por curar feridas magicamente.
+reagent-name-holywater = água benta
+reagent-desc-holywater = A mais limpa e pura das águas vinda diretamente das mãos de Deus, é conhecida por curar feridas magicamente.
 
-reagent-name-pyrazine  = pirazina
-reagent-desc-pyrazine  = Trata eficazmente as queimaduras recebidas nos incêndios mais quentes. Em caso de sobredosagem, causa hemorragia interna extensa.
+reagent-name-pyrazine = pirazina
+reagent-name-pyrazine-dermaline = pirazina e dermalina
+reagent-desc-pyrazine = Cura com eficiência queimaduras causadas pelos incêndios mais quentes. Causa hemorragia interna maciça em caso de sobredosagem.
 
-reagent-name-insuzine  = insulina
-reagent-desc-insuzine  = Restaura rapidamente os tecidos que morreram devido ao choque elétrico, mas ao mesmo tempo proporciona um leve efeito de resfriamento. Congela completamente o paciente em caso de sobredosagem.
+reagent-name-insuzine = insulina
+reagent-desc-insuzine = Repara rapidamente o tecido morto causado por eletrocussão, mas esfria um pouco. Congela completamente o paciente em caso de overdose.
 
-reagent-name-opporozidone  = Oposição
-reagent-desc-opporozidone  = Uma droga criogênica difícil de sintetizar, usada para regenerar tecidos em decomposição e matéria cerebral. Só funciona nos mortos.
+reagent-name-opporozidone = oporozidona
+reagent-desc-opporozidone= Uma droga criogênica difícil de sintetizar, usada para regenerar tecidos e matéria cerebral em decomposição.
 
-reagent-name-necrosol  = necrossol
-reagent-desc-necrosol  = Uma substância necrótica que parece ser capaz de curar cadáveres congelados. Em pequenas doses pode curar e revitalizar plantas. Funciona nos mortos e nos vivos.
+reagent-name-arcryox = arcriox
+reagent-desc-arcryox = Um produto químico criogênico doentiamente azul que é capaz de curar feridas extremas, mesmo em mortos. No entanto, tem problemas para estabilizar os pacientes.
 
-reagent-name-aloxadone  = emboscada
-reagent-desc-aloxadone  = Elimina eficazmente os danos cerebrais.
+reagent-name-necrosol = necrossol
+reagent-desc-necrosol = Uma substância necrótica que parece ser capaz de curar cadáveres congelados. Pode tratar e rejuvenescer plantas quando aplicado em pequenas doses.
 
-reagent-name-mannitol  = manitol
-reagent-desc-mannitol  = Elimina eficazmente os danos cerebrais.
+reagent-name-aloxadone = aloxadona
+reagent-desc-aloxadone = Um produto químico criogênico. Usado para tratar queimaduras graves e congelamento através da regeneração do tecido afetado. Funciona independentemente do paciente estar vivo ou morto.
 
-reagent-name-psicodine  = casca de banana esmagada
-reagent-desc-psicodine  = Suprime a ansiedade e outras diversas formas de transtornos mentais. A overdose causa alucinações e pequenos danos causados ​​por toxinas.
+reagent-name-mannitol = manitol
+reagent-desc-mannitol = Restaura eficientemente os danos cerebrais.
 
-reagent-name-potassium-iodide  = iodeto de potássio
-reagent-desc-potassium-iodide  = Reduz os efeitos destrutivos da radiação em 90%. Usado apenas para fins preventivos.
+reagent-name-psicodine = psicodina
+reagent-desc-psicodine = Suprime a ansiedade e outras diversas formas de sofrimento mental. A overdose causa alucinações e pequenos danos causados ​​por toxinas.
 
-reagent-name-haloperidol  = haloperidol
-reagent-desc-haloperidol  = Remove a maioria das drogas estimulantes e alucinógenas do corpo. Reduz efeitos narcóticos e tremores. Causa sonolência.
+reagent-name-potassium-iodide = iodeto de potássio
+reagent-desc-potassium-iodide = Reduzirá os efeitos prejudiciais da radiação em 90%. Somente uso profilático.
 
-reagent-name-pyrazine-dermaline  = pirazina e dermalina
-reagent-name-puncturase-tranexamic  = punturase e ácido tranexâmico
-reagent-name-dexalin-plus-saline  = dexalin plus e solução salina
+reagent-name-haloperidol = haloperidol
+reagent-desc-haloperidol = Remove a maioria das drogas estimulantes e alucinógenas. Reduz efeitos de drogas e nervosismo. Causa sonolência.
 
-reagent-name-hemostatic-powder  = pó hemostático
-reagent-desc-hemostatic-powder  = Pó hemostático à base de uma mistura de ácido tranexâmico e silicieto de ferro. Em caso de sobredosagem, envenena gravemente o corpo com toxinas.
-
-reagent-name-retroindralyne  = retroindralina
-reagent-desc-retroindralyne  = um agente anti-radiação muito antigo, aperfeiçoado pelos cientistas modernos, tem efeitos colaterais.
-
-reagent-name-barozine-plus  = barosina mais
-reagent-desc-barozine-plus  = Barosin, uma versão melhorada especificamente para medipenes. Menos tóxico.
-
-reagent-name-warfarin  = varfarina
-reagent-desc-warfarin  = Amplamente utilizado como anticoagulante. Dificulta a formação de coágulos sanguíneos, diluindo-o; em caso de sobredosagem, pode causar hemorragia interna.
-
-reagent-name-arcryox  = acrioxarina
-reagent-desc-arcryox  = Um produto químico criogênico azul fantasmagórico que pode curar feridas graves até mesmo nos mortos. No entanto, tem dificuldade em estabilizar a condição dos pacientes.
+reagent-name-warfarin = varfarina
+reagent-desc-warfarin = Comumente usado como medicamento anticoagulante. Faz com que o sangue tenha dificuldade em formar coágulos. Pode causar hemorragia interna em caso de sobredosagem.

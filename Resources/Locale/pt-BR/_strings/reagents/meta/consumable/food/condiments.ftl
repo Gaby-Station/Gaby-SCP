@@ -1,32 +1,44 @@
-reagent-name-astrotame  = Astrotemas
-reagent-desc-astrotame  = Mais doce que mil colheres de açúcar, mas sem calorias.
-reagent-name-bbq-sauce  = molho de churrasco
-reagent-desc-bbq-sauce  = Guardanapos não estão incluídos.
-reagent-name-cornoil  = óleo de milho
-reagent-desc-cornoil  = Óleo de milho. Um saboroso óleo usado na culinária. Feito de milho.
-reagent-name-coldsauce  = Molho frio. Deixa a língua dormente após o consumo.
-reagent-desc-coldsauce  = Deixa a língua dormente após o consumo.
-reagent-name-frostoil  = molho frio
-reagent-desc-frostoil  = Deixa a língua dormente.
-reagent-name-horseradish-sauce  = raiz-forte
-reagent-desc-horseradish-sauce  = Um saco de raiz-forte perfumada.
-reagent-name-hotsauce  = molho picante
-reagent-desc-hotsauce  = Feito com purê de tomate com adição de temperos.
-reagent-name-ketchup  = ketchup
-reagent-desc-ketchup  = xarope engraçado
-reagent-name-ketchunaise  = xarope engraçado
-reagent-desc-ketchunaise  = xarope engraçado
-reagent-name-laughin-syrup  = xarope engraçado
-reagent-desc-laughin-syrup  = Um produto de ervilhas engraçadas. É efervescente e parece mudar de sabor dependendo do que é servido!
-reagent-name-mayo  = maionese
-reagent-desc-mayo  = Um molho gorduroso feito de manteiga, ovos e algum tipo de ácido (alimentar).
-reagent-name-mustard  = mostarda
-reagent-desc-mustard  = Uma mostarda amarela simples feita de sementes de mostarda.
-reagent-name-vinaigrette  = molho vinagrete
-reagent-desc-vinaigrette  = Um molho simples para salada feito com azeite, vinagre e temperos.
-reagent-name-soysauce  = molho de soja
-reagent-desc-soysauce  = Tempero salgado à base de soja.
-reagent-name-table-salt  = sal de cozinha
-reagent-desc-table-salt  = O cloreto de sódio, comumente conhecido como sal, é frequentemente usado como tempero alimentar ou para matar instantaneamente vermes cerebrais.
-reagent-name-syrup  = xarope
-reagent-desc-syrup  = Um delicioso xarope feito de seiva de árvore que é mais pegajoso que cola.
+reagent-name-astrotame = Astrotame
+reagent-desc-astrotame = A doçura de mil açúcares, mas nenhuma das calorias.
+
+reagent-name-bbq-sauce = Molho de churrasco
+reagent-desc-bbq-sauce = Toalhetes de mão não incluídos.
+
+reagent-name-cornoil = óleo de milho
+reagent-desc-cornoil = Óleo de milho, um óleo delicioso usado na culinária. Feito de milho.
+
+reagent-name-coldsauce = molho frio
+reagent-desc-coldsauce = Deixa a língua dormente em sua passagem.
+
+reagent-name-horseradish-sauce = molho de raiz-forte
+reagent-desc-horseradish-sauce = Molho de raiz-forte fedorento.
+
+reagent-name-hotsauce = molho picante
+reagent-desc-hotsauce = Queima tão bem.
+
+reagent-name-ketchup = ketchup
+reagent-desc-ketchup = Feito com purê de tomate e aromatizado com especiarias.
+
+reagent-name-ketchunaise = ketchunaise
+reagent-desc-ketchunaise = O chamado curativo russo, popular entre os espaciais americanos.
+
+reagent-name-laughin-syrup = xarope de risada
+reagent-desc-laughin-syrup = O produto do suco de Laughin 'Peas. Efervescente e parece mudar de sabor com base no que é usado!
+
+reagent-name-mayo = maionese
+reagent-desc-mayo = Molho cremoso, feito de óleo, ovo e um pouco de ácido (comestível).
+
+reagent-name-mustard = mostarda
+reagent-desc-mustard = Mostarda amarela básica, feita a partir das sementes da mostarda.
+
+reagent-name-vinaigrette = vinagrete
+reagent-desc-vinaigrette = Um molho básico para salada feito com azeite, vinagre e temperos.
+
+reagent-name-soysauce = molho de soja
+reagent-desc-soysauce = Um aroma salgado à base de soja.
+
+reagent-name-table-salt = sal de cozinha
+reagent-desc-table-salt = Comumente conhecido como sal, o Cloreto de Sódio é frequentemente usado para temperar alimentos ou matar brocas instantaneamente.
+
+reagent-name-syrup = xarope
+reagent-desc-syrup = Delicioso xarope feito de seiva de árvore, de alguma forma mais pegajoso que cola.

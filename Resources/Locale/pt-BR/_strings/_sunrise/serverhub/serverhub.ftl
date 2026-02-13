@@ -1,5 +1,5 @@
-servers-hub-title  = Modo: __PH0__ | Estação: __PH1__
-serverhub-info  = Modo: { $mode } | Estação: { $station }
-serverhub-connect  = Conectar
-serverhub-here  = Você já está aqui
-serverhub-playingnow  = Jogando atualmente: { $total }/{ $max }
+servers-hub-title = Хаб серверов
+serverhub-info = Registo: { $mode } | Cidade: { $station }
+serverhub-connect = Подключиться
+serverhub-here = Você está aqui
+serverhub-playingnow = Сейчас играет: { $total }/{ $max }

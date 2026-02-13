@@ -1,2 +1,2 @@
-ent-TestStation  = { ent-BaseStation }
-    .desc  = { ent-BaseStation.desc }
+ent-TestStation = { ent-BaseStation }
+    .desc = { ent-BaseStation.desc }

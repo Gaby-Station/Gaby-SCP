@@ -1,2 +1,2 @@
-powersink-examine-drain-amount  = O absorvedor de energia consome [color={ $markupDrainColor }]{ $amount } kW[/color].
-powersink-imminent-explosion-announcement  = Uma verificação do sistema detectou operação instável de um dispositivo consumidor de energia não autorizado. O pessoal é aconselhado a localizar e desativar imediatamente este dispositivo antes que a estação seja danificada.
+powersink-examine-drain-amount = O dissipador de energia está drenando [color={$markupDrainColor}]{$amount} kW[/color].
+powersink-imminent-explosion-announcement = As verificações do sistema detectaram que um dispositivo não autorizado que consome energia está se tornando instável.  A equipe é aconselhada a localizar e desconectar este dispositivo imediatamente antes que a estação seja danificada.

@@ -1,8 +1,8 @@
-messenger-auto-group-common-name  = Em geral
-department-engineering  = Engenharia
-department-security  = Serviço de segurança
-department-medical  = Médico
-department-science  = RND
-department-cargo  = Carga
-department-civilian  = Civil
-department-command  = Comando
+messenger-auto-group-common-name = Obrigado
+department-engineering = Infinito
+department-security = Служба безопастности
+department-medical = Medicina
+department-science = РНД
+department-cargo = Cargo
+department-civilian = Graça
+department-command = Comando

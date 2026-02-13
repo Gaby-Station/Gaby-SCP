@@ -1,1 +1,1 @@
-vote-options-server-initiator-text  = Mantenha-se aberto
+vote-options-server-initiator-text = O servidor

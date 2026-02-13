@@ -1,1 +1,1 @@
-station-event-greytide-virus-start-announcement  = Foi detectada falha no funcionamento das rotinas de criptografia da chave de acesso criptográfico. Nível de perigo { $severity }. Recomenda-se intervenção de engenharia.
+station-event-greytide-virus-start-announcement = Vírus Gr3y.T1d3 detectado nas sub-rotinas de criptografia de bloqueio seguro da estação. Nível de gravidade de { $severity }. Recomendar o envolvimento da IA ​​da estação.

@@ -1,3 +1,3 @@
-battery-drainer-full  = Não há energia suficiente em __PH0__ que possa ser extraída
-battery-drainer-empty  = Você está drenando energia de { CAPITALIZE($battery) }!
-battery-drainer-success  = Você está drenando energia de { $battery }!
+battery-drainer-full = Sua bateria já está cheia
+battery-drainer-empty = {CAPITALIZE(THE($battery))} não tem energia suficiente para drenar
+battery-drainer-success = Você drena energia de {THE($battery)}!

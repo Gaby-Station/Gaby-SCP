@@ -1,3 +1,3 @@
-ent-ClothingUniformClassD  = Uniforme classe D
-    .desc  = Ela cheira a merda. E para estranhos.
-    .suffix  = SCP
+ent-ClothingUniformClassD = Uniforme Classe D
+    .desc = Cheira a merda... a merda de outra pessoa...
+    .suffix = SCP

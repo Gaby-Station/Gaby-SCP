@@ -1,4 +1,4 @@
-ent-PlantAnalyzer  = analisador de plantas
-    .desc  = Um scanner usado para avaliar vários aspectos do crescimento das plantas, características genéticas e produtos químicos.
-ent-PlantAnalyzerReportPaper  = relatório do analisador de planta
-    .desc  = Impressão do analisador de planta.
+ent-PlantAnalyzer = analisador de plantas
+    .desc = Um scanner usado para avaliar as diversas áreas de crescimento, características genéticas e produtos químicos de uma planta.
+ent-PlantAnalyzerReportPaper = relatório do analisador de planta
+    .desc = Uma impressão de um analisador de planta.

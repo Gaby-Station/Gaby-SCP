@@ -1,11 +1,4 @@
-fax-name-regional-administration  = Gestão regional
-fax-name-o4-headquarters  = Sede O4
-fax-name-complex-director-office  = Gabinete do Pesquisador Chefe
-fax-name-encrypted  = Gabinete do Pesquisador Chefe
-fax-name-chief-researcher-office  = Gabinete do Pesquisador Chefe
-fax-name-security-commander-office  = Gabinete do chefe do serviço de segurança
-fax-name-chief-engineer-office  = Escritório do engenheiro líder
-fax-name-personnel-manager-office  = Escritório do gerente de RH
-fax-name-chief-medical-officer-office  = Gabinete do médico-chefe
-fax-name-quartermaster-office  = Escritório do Intendente
-fax-name-ethics-committee-office  = Escritório do Comitê de Ética
+fax-name-regional-administration = Administração Regional
+fax-name-o4-headquarters = Sede da O4
+fax-name-complex-director-office = Escritório do Diretor Complexo
+fax-name-encrypted = Cф&щ*?*%!

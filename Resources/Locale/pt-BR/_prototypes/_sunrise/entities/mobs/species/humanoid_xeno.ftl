@@ -1,4 +1,4 @@
-ent-BaseMobHumanoidXeno  = Urist McXenomorfo
-    .desc  = { ent-BaseMobSpeciesOrganic.desc }
-ent-MobXenoDummy  = { ent-BaseSpeciesDummy }
-    .desc  = { ent-BaseSpeciesDummy.desc }
+ent-BaseMobHumanoidXeno = Urist McXeno
+    .desc = { ent-BaseMobSpeciesOrganic.desc }
+ent-MobXenoDummy = { ent-BaseSpeciesDummy }
+    .desc = { ent-BaseSpeciesDummy.desc }

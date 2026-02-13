@@ -1,3 +1,2 @@
-ent-PlushieScp999  = O brinquedo macio laranja, que lembra um pedaço de geleia levemente derretido, exala um brilho quente e calmante. Ao ser tocada, ela solta um grito de satisfação quase inaudível, como se ela mesma estivesse feliz por ser abraçada.
-    .desc  = SCP-999
-    .suffix  = SCP-999
+ent-PlushieScp999 = Pelúcia SCP-999
+    .desc = Um brinquedo macio e laranja, semelhante a um pedaço de geleia levemente derretido, exala um brilho quente e calmante. Ao ser tocado, emite um grito de satisfação quase inaudível, como se estivesse feliz por ser abraçado.

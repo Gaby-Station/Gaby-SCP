@@ -1,4 +1,4 @@
-ent-ActionBlink  = Quicar
-    .desc  = Teleporta para o local selecionado.
-ent-ActionVoidApplause  = Algodão Vazio
-    .desc  = Bata palmas e troque de lugar com o alvo.
+ent-ActionBlink = Piscar
+    .desc = Teletransporte-se para o local clicado.
+ent-ActionVoidApplause = Aplausos vazios
+    .desc = Bata palmas e troque de lugar com o alvo.

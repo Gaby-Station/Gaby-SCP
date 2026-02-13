@@ -1,2 +1,2 @@
-ent-WeaponWandBase  = { ent-BaseItem }
-    .desc  = { ent-BaseItem.desc }
+ent-WeaponWandBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }

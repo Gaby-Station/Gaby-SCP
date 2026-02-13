@@ -1,5 +1,5 @@
-ent-MaintsRoomMarker  = Marcador técnico de túnel
-    .desc  = { ent-BaseRoomMarker.desc }
-ent-MaintsRoomMarkerClearing  = { ent-MaintsRoomMarker }
-    .suffix  = Decapagem
-    .desc  = { ent-MaintsRoomMarker.desc }
+ent-MaintsRoomMarker = Mantém marcador interior
+    .desc = { ent-BaseRoomMarker.desc }
+ent-MaintsRoomMarkerClearing = { ent-MaintsRoomMarker }
+    .suffix = Limpeza
+    .desc = { ent-MaintsRoomMarker.desc }

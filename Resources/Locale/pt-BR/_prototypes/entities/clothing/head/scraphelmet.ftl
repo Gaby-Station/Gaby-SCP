@@ -1,8 +1,8 @@
-ent-WiredBucketBase  = balde com fios
-    .desc  = Balde com fios presos para melhor uso como faixa de queixo.
-ent-SlicedBucketBase  = balde cortado
-    .desc  = Um balde com uma fenda de visualização cortada na lateral.
-ent-SteelBucketBase  = balde de aço
-    .desc  = Um balde com aço soldado na parte externa. Precisa de melhor moldagem antes de poder ser usado confortavelmente.
-ent-ClothingHeadHelmetScrap  = capacete caseiro
-    .desc  = Um capacete feito de cabos, aço e um balde.
+ent-WiredBucketBase = balde com fio
+    .desc = Um balde com fiação acoplada para melhor servir como tira de queixo.
+ent-SlicedBucketBase = balde fatiado
+    .desc = Um balde com uma fenda de visão cortada na lateral.
+ent-SteelBucketBase = balde de aço
+    .desc = Um balde com aço soldado em sua parte externa. Requer uma melhor modelagem antes de poder ser usado confortavelmente.
+ent-ClothingHeadHelmetScrap = capacete de sucata
+    .desc = Um capacete remendado feito de cabos, aço e um balde.

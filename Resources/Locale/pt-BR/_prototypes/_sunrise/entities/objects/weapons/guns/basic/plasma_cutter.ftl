@@ -1,2 +1,2 @@
-ent-WeaponPlasmaCutter  = Dispara raios de plasma com baixo dano a curta distância.
-    .desc  = Dispara raios de plasma com baixo dano a curta distância.
+ent-WeaponPlasmaCutter = cortador de plasma
+    .desc = Dispara raios de plasma de baixo dano a curta distância.

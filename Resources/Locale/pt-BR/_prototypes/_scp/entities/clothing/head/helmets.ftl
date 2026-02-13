@@ -1,2 +1,2 @@
-ent-ClothingHeadHelmetChaos  = Capacete rebelde
-    .desc  = Uniforme rebelde padrão. Protege a cabeça.
+ent-ClothingHeadHelmetChaos = { ent-ClothingHeadHelmetBase }
+    .desc = { ent-ClothingHeadHelmetBase.desc }

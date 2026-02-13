@@ -1,4 +1,4 @@
-call-shuttle-command-description  = Uso: __PH0__ __PH1__
-call-shuttle-command-help-text  = Uso: { $command } [m:ss]
-recall-shuttle-command-description  = O transportador de evacuação está sendo recolhido.
-recall-shuttle-command-help-text  = Uso: { $command }
+cmd-callshuttle-desc = Chama o ônibus de emergência com um horário de chegada fornecido opcionalmente.
+cmd-callshuttle-help = Uso: callhuttle [m:ss]
+cmd-recallshuttle-desc = Chama o ônibus de emergência.
+cmd-recallshuttle-help = Uso: recallshuttle

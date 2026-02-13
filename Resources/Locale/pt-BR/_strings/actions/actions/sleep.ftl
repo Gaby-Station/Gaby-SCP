@@ -1,5 +1,7 @@
-action-name-wake  = Acordar
-sleep-onomatopoeia  = __PH0____PH1__ dormindo.__PH2__
-sleep-examined  = [color=lightblue]{ CAPITALIZE($target) } dormindo.[/color]
-wake-other-success  = Você mexe { $target }, mas { $target } não acorda.
-wake-other-failure  = Você mexe { $target }, mas { $target } não acorda.
+action-name-wake = Acordar
+
+sleep-onomatopoeia = Zzz...
+sleep-examined = [color=lightblue]{CAPITALIZE(SUBJECT($target))} {CONJUGATE-BE($target)} dormindo.[/color]
+
+wake-other-success = Você sacode {THE($target)} acordado.
+wake-other-failure = Você sacode {THE($target)}, mas {SUBJECT($target)} {CONJUGATE-BE($target)} não acorda.

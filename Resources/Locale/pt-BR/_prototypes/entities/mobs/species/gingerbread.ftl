@@ -1,5 +1,4 @@
-ent-BaseMobGingerbread  = Urist McCookie
-    .desc  = { ent-BaseMobSpeciesOrganic.desc }
-    .suffix  = Biscoitos
-ent-MobGingerbreadDummy  = { ent-BaseSpeciesDummy }
-    .desc  = { ent-BaseSpeciesDummy.desc }
+ent-BaseMobGingerbread = Urist McCookie
+    .desc = { ent-BaseMobSpeciesOrganic.desc }
+ent-MobGingerbreadDummy = { ent-BaseSpeciesDummy }
+    .desc = { ent-BaseSpeciesDummy.desc }

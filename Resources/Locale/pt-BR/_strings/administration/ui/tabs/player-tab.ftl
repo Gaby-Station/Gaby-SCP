@@ -1,19 +1,16 @@
-player-tab-player-count  = Jogadores: { $count }
-player-tab-username  = Usuário
-player-tab-character  = Cargo
-player-tab-job  = Cargo
-player-tab-antagonist  = Antag
-player-tab-roletype  = Tipo de funções
-player-tab-playtime  = Tempo
-player-tab-show-disconnected  = Mostrar desconectado
-player-tab-overlay  = Sobreposição
-player-tab-entry-tooltip  = SIM
-player-tab-filter-line-edit-placeholder  = Procurar
-player-tab-is-antag-yes  = SIM
-player-tab-character-name-antag-symbol  = { $symbol } { $name }
-player-tab-antag-prefix  = None
-player-tab-is-antag-no  = NÃO
-# Sunrise-Sponsors
-player-tab-sponsor  = Patrocinador
-player-tab-objectives  = Metas
-player-tab-objectives-button  = Metas
+﻿player-tab-player-count = Jogadores: { $count }
+player-tab-username = Nome de usuário
+player-tab-character = Personagem
+player-tab-job = Trabalho
+player-tab-roletype = Tipo de função
+player-tab-playtime = Hora de brincar
+player-tab-show-disconnected = Mostrar desconectado
+player-tab-overlay = Sobreposição
+player-tab-entry-tooltip = O tempo de reprodução é exibido em dias:horas:minutos.
+player-tab-filter-line-edit-placeholder = Filtro
+player-tab-is-antag-yes = SIM
+player-tab-is-antag-no = NÃO
+
+player-tab-character-name-antag-symbol = {$symbol} {$name}
+
+player-tab-antag-prefix = 🗡

@@ -1,2 +1,2 @@
-ent-NukeOpsDeclarationOfWar  = declarador de guerra
-    .desc  = Usado para enviar um anúncio do início das hostilidades, o que atrasará a partida do seu ônibus espacial enquanto são feitos os preparativos para o ataque. Um movimento tão ousado atrairá a atenção de poderosos patronos do Sindicato, que fornecerão à sua equipe uma enorme quantidade de telecristais bônus. A guerra deve ser declarada no início da operação, caso contrário os seus apoiantes perderão o interesse nela.
+ent-NukeOpsDeclarationOfWar = declarador de guerra
+    .desc = Use para enviar uma declaração de hostilidades ao alvo, atrasando a partida do ônibus espacial enquanto ele se prepara para o ataque. Um movimento tão descarado atrairá a atenção de poderosos benfeitores dentro do Sindicato, que fornecerão à sua equipe uma enorme quantidade de telecristais bônus. Deve ser usado no início da missão, ou seus benfeitores perderão o interesse.

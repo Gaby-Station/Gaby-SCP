@@ -1,1 +1,1 @@
-chat-radio-hivemind  = Mente Coletiva
+chat-radio-hivemind = Mente Coletiva

@@ -1,2 +1,2 @@
-ent-HighSecDoor  = porta blindada
-    .desc  = Mantém o que é ruim por fora e o que é bom por dentro.
+ent-HighSecDoor = porta de alta segurança
+    .desc = Mantém o ruim fora e mantém o bom dentro.

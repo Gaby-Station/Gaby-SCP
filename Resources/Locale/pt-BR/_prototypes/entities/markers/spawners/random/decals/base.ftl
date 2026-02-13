@@ -1,2 +1,2 @@
-ent-DecalSpawnerBase  = gerador de decalque
-    .desc  = { ent-MarkerBase.desc }
+ent-DecalSpawnerBase = Gerador de Decalques
+    .desc = { ent-MarkerBase.desc }

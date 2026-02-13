@@ -1,2 +1,2 @@
-ent-IceCrust  = crosta de gelo
-    .desc  = Frio e escorregadio.
+ent-IceCrust = crosta de gelo
+    .desc = Está frio e escorregadio.

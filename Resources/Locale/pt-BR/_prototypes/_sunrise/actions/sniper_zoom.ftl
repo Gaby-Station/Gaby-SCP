@@ -1,2 +1,2 @@
-ent-ActionTakeAim  = Habilitar mira
-    .desc  = { "" }
+ent-ActionTakeAim = Ativar mira
+    .desc = { "" }

@@ -1,8 +1,8 @@
-ent-WeaponEnergyTurretCSS  = torre de segurança do Complexo Sistema de Segurança
-    .desc  = Armas de alta tecnologia sob o controle direto do Complexo Sistema de Segurança.
-ent-WeaponEnergyTurretFacility  = Uma arma de alta tecnologia projetada para manter pessoas não autorizadas fora de áreas restritas.
-    .desc  = placa de circuito da torre de segurança do complexo
-ent-WeaponEnergyTurretFacilityMachineCircuitboard  = Placa de circuito impresso para torre de segurança do complexo.
-    .desc  = Placa de circuito impresso para torre de segurança do complexo.
-ent-WeaponEnergyTurretCSSMachineCircuitboard  = placa de circuito impresso da torre de segurança do Complexo Sistema de Segurança
-    .desc  = Placa de circuito impresso para torre de segurança do Sistema Complexo de Segurança.
+ent-WeaponEnergyTurretCSS = Torre de sentinela do Sistema de Segurança do Complexo
+    .desc = Equipamentos de alta tecnologia sob controle direto do Sistema de Segurança do Complexo.
+ent-WeaponEnergyTurretFacility = torre de sentinela da instalação
+    .desc = Equipamentos de alta tecnologia projetados para manter pessoas não autorizadas fora de áreas sensíveis.
+ent-WeaponEnergyTurretFacilityMachineCircuitboard = placa de máquina de torre de sentinela de instalação
+    .desc = Uma placa de circuito impresso de máquina para uma torre de sentinela.
+ent-WeaponEnergyTurretCSSMachineCircuitboard = Placa de máquina de torre sentinela CSS
+    .desc = Uma placa de circuito impresso de máquina para uma torre de sentinela CSS de instalação.

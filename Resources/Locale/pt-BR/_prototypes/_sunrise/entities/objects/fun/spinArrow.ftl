@@ -1,11 +1,13 @@
-ent-ArrowRouletteEros  = flecha de Eros
+ent-ArrowRouletteEros = Flecha de Eros
     .desc =
-        Стрела рулетка, созданная для качественного рандома в ваших любовных играх.
-        Производитель не несет ответственности при использовании стрелы не по назначению.
+        A roulette arrow designed to bring quality randomness to your love games.
+        The manufacturer is not responsible for any misuse of the arrow.
 
-ent-ArrowRouletteErot  = acelera a flecha
-    .desc  = { ent-ArrowRouletteEros.desc }
+ent-ArrowRouletteErot = Flecha de Erot
+    .desc =
+        A roulette arrow designed to add quality randomness to your love games.
+        The manufacturer is not responsible for any misuse of the arrow.
 
-arrow-speed-up  = acelera a flecha
+arrow-speed-up = acelera a flecha
 
-arrow-spin-start  = gira a flecha
+arrow-spin-start = gira a flecha

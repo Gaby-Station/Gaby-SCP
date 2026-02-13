@@ -1,1 +1,1 @@
-rejuvenate-verb-get-data-text  = cura
+rejuvenate-verb-get-data-text = Rejuvenescer

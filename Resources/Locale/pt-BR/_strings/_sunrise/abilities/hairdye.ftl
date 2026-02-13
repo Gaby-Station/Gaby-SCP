@@ -1,2 +1,2 @@
-hairdye-switch-hair  = Mude para o cabelo
-hairdye-switch-facial  = Mudar para barba
+hairdye-switch-hair = Переключить на волосы
+hairdye-switch-facial = Переключить на бороду

@@ -1,10 +1,11 @@
-ent-CrateVendingMachineRestockSeedsScpClassDFilled  = Contém um kit de recarga para máquina de venda automática { ent-VendingMachineSeedsDClass }.
-    .desc  = caixa de reabastecimento { ent-VendingMachineSeedsDClass } classe D
-ent-CrateVendingMachineRestockNutriMaxScpClassDFilled  = Contém um kit de recarga para máquina de venda automática { ent-VendingMachineNutriDClass }.
-    .desc  = Contém um kit de recarga para máquina de venda automática { ent-VendingMachineNutriDClass }.
-ent-CrateVendingMachineRestockChefvendScpClassDFilled  = caixa de reabastecimento { ent-VendingMachineChefvendDClass } classe D
-    .desc  = Contém um kit de recarga para máquina de venda automática { ent-VendingMachineChefvendDClass }.
-ent-CrateVendingMachineRestockDinnerwareScpClassDFilled  = Contém um kit de recarga para máquina de venda automática { ent-VendingMachineDinnerwareDClass }.
-    .desc  = Contém um kit de recarga para máquina de venda automática { ent-VendingMachineDinnerwareDClass }.
-ent-CrateVendingMachineRestockBoozeScpClassDFilled  = Contém um kit de recarga para máquina de venda automática { ent-VendingMachineBoozeDClass }.
-    .desc  = caixa de reabastecimento { ent-VendingMachineBoozeDClass } classe D
+ent-CrateVendingMachineRestockSeedsScpClassDFilled = caixa de reabastecimento MegaSeed
+    .desc = Contém uma caixa de reabastecimento para a máquina automática MegaSeed.
+ent-CrateVendingMachineRestockNutriMaxScpClassDFilled = caixa de reabastecimento NutriMax
+    .desc = Contém uma caixa de reabastecimento para a máquina automática NutriMax.
+ent-CrateVendingMachineRestockChefvendScpClassDFilled = caixa de reabastecimento ChefVend
+    .desc = Contém uma caixa de reabastecimento para o ChefVend.
+ent-CrateVendingMachineRestockDinnerwareScpClassDFilled = caixa de reabastecimento Plasteel Chef
+    .desc = Contém uma caixa de reabastecimento para a máquina automática Plasteel Chef.
+ent-CrateVendingMachineRestockBoozeScpClassDFilled = caixa de reabastecimento Booze-O-Mat
+    .desc = Contém uma caixa de reabastecimento para o Booze-O-Mat.
+

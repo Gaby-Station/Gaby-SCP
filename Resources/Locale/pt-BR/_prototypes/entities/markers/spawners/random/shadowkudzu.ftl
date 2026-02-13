@@ -1,2 +1,2 @@
-ent-ShadowKudzuLootSpawner  = { ent-MarkerBase }
-    .desc  = { ent-MarkerBase.desc }
+ent-ShadowKudzuLootSpawner = gerador de saque de kudzu sombra
+    .desc = { ent-MarkerBase.desc }

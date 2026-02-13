@@ -1,3 +1,3 @@
-ent-OptionsVisualizerTest  = { "" }
-    .suffix  = DEPURAR
-    .desc  = { "" }
+ent-OptionsVisualizerTest = { "" }
+    .suffix = DEPURAR
+    .desc = { "" }

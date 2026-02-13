@@ -1,2 +1,2 @@
-take-item-verb-text  = Coloque { $subject }
-place-item-verb-text  = Coloque { $subject }
+take-item-verb-text = Pegue {$subject}
+place-item-verb-text = Local {$subject}

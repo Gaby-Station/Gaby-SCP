@@ -1,3 +1,3 @@
-ent-ZombieClaw  = Garras de zumbi
-    .desc  = { "" }
-    .suffix  = { "" }
+ent-ZombieClaw = Garra Zumbi
+    .desc = { "" }
+    .suffix = { "" }

@@ -1,4 +1,4 @@
-ent-CMExplosionEffectGrenade  = { "" }
-    .desc  = { "" }
-ent-RMCExplosionEffectGrenadeShockWave  = { "" }
-    .desc  = { "" }
+ent-CMExplosionEffectGrenade = { "" }
+    .desc = { "" }
+ent-RMCExplosionEffectGrenadeShockWave = { "" }
+    .desc = { "" }

@@ -1,2 +1,2 @@
-ent-FleshCult  = { ent-BaseGameRule }
-    .desc  = { ent-BaseGameRule.desc }
+ent-FleshCult = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

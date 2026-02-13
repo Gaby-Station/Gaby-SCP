@@ -1,5 +1,4 @@
-ent-VendingMachineRestockAbductorDispenser  = Uma caixa cheia de órgãos estranhos. Coloque-o no dispensador alienígena para uso.
-    .desc  = dispositivo de teletransporte
-ent-AbductorTeleport  = dispositivo de teletransporte
-    .desc  = { ent-BaseItem.desc }
-    .suffix  = Abdutores
+ent-VendingMachineRestockAbductorDispenser = reabastecimento de dispensador alienígena
+    .desc = Uma caixa cheia de órgãos estranhos. Carregue-o em um dispensador alienígena para começar.
+ent-AbductorTeleport = dispositivo de teletransporte
+    .desc = { ent-BaseItem.desc }

@@ -1,165 +1,165 @@
 station-goal-scp-1 =
     |
-    |   [head = 1]SCP[/head]
-    |   [bold]Обезопасить. Удержать. Сохранить.[/bold]
+    |   [head=1]SCP[/head]
+    |   [bold]Secure. Contain. Protect.[/bold]
         ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    |   [head = 3] MUDAR OBJETIVO { $station }[/head]
+    |   [head=3] MUDAR OBJETIVO { $station }[/head]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   Приветствую, уважаемое командование фонда!
-    |   Цель вашей текущей смены - [bold]ИССЛЕДОВАНИЯ SCP[/bold].
-    |   [bullet/]Провести серию тестов на успокаивающее воздействие SCP-999 на агрессивных сотрудников.
-    |   [bullet/]Проверить эффективность SCP-999 при снижении уровня стресса у персонала в критических ситуациях.
-    |   [bullet/]Организовать исследование на тему долговременного воздействия SCP-999 на психическое здоровье сотрудников.
-    |   [bullet/]Подготовить отчёт о совместимости SCP-999 с объектами других SCP для взаимодействия.
-    |   [bullet/]Провести испытание влияния SCP-999 на продуктивность сотрудников в стрессовых условиях.
-    |   [bullet/]Определить пределы физической активности SCP-999 вне камеры содержания.
-    |   [bullet/]Задействовать SCP-999 в экспериментах по усилению командного духа среди персонала.
-    |   [bullet/]Изучить мотивацию SCP-049 при выборе объектов для «лечения».
-    |   [bullet/]Зафиксировать процесс лечения 049 и оценить его результаты на добровольцах из Класса D.
-    |   [bullet/]Провести эксперименты на предмет возможности модификации поведения SCP-049 через диалог.
+    |   Greetings, esteemed Foundation command!
+    |   The goal of your current shift is [bold]SCP RESEARCH[/bold].
+    |   [bullet/]Conduct a series of tests on the soothing effect of SCP-999 on aggressive employees.
+    |   [bullet/]Test the effectiveness of SCP-999 in reducing stress levels in personnel in critical situations.
+    |   [bullet/]Organize a study on the long-term effects of SCP-999 on the mental health of employees.
+    |   [bullet/]Prepare a report on the compatibility of SCP-999 with objects of other SCPs for interaction.
+    |   [bullet/]Conduct a test of the effect of SCP-999 on the productivity of employees in stressful conditions.
+    |   [bullet/]Determine the limits of physical activity of SCP-999 outside the containment chamber.
+    |   [bullet/]Involve SCP-999 in experiments to strengthen team spirit among personnel.
+    |   [bullet/]Study the motivation of SCP-049 when choosing objects for "treatment".
+    |   [bullet/]Record the treatment process of 049 and evaluate its results on volunteers from Class D.
+    |   [bullet/]Conduct experiments on the possibility of modifying the behavior of SCP-049 through dialogue.
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [color = 3] MUDAR OBJETIVO [bold]{ $station }
+    |   [color=#9c9492]Responsible for the objective: [bold] RESEARCH DEPARTMENT, COMPLEX DIRECTOR  { $station }[/bold][/color]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [italic]Место для печатей[/italic]
+    |   [italic]Place for seals[/italic]
 station-goal-scp-2 =
     |
-    |   [head = 1]SCP[/head]
-    |   [bold]Обезопасить. Удержать. Сохранить.[/bold]
+    |   [head=1]SCP[/head]
+    |   [bold]Secure. Contain. Protect.[/bold]
         ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    |   [head = 3] MUDAR OBJETIVO { $station }[/head]
+    |   [head=3] MUDAR OBJETIVO { $station }[/head]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   Приветствую, уважаемое командование фонда!
-    |   Цель вашей текущей смены - [bold]ИССЛЕДОВАНИЯ SCP[/bold].
-    |   [bullet/]Оценить длительность безопасного визуального контакта с SCP-173 без ухудшения состояния персонала.
-    |   [bullet/]Провести тесты на воздействие SCP-173 в условиях полного отсутствия света.
-    |   [bullet/]Исследовать поведение SCP-173 при длительном нахождении в неподвижном состоянии.
-    |   [bullet/]Организовать серию опытов по взаимодействию SCP-173 с неодушевлёнными объектами.
-    |   [bullet/]Провести эксперименты с использованием специальных очков для предотвращения визуального контакта с SCP-096.
-    |   [bullet/]Исследовать механизм активации агрессии SCP-096 и её связь с расстоянием до наблюдателя.
-    |   [bullet/]Проверить способность SCP-096 реагировать на изображение лица в цифровом формате.
+    |   Greetings, esteemed Foundation command!
+    |   The goal of your current shift is [bold]SCP RESEARCH[/bold].
+    |   [bullet/]Assess the duration of safe visual contact with SCP-173 without deterioration of personnel's condition.
+    |   [bullet/]Conduct tests on the effect of SCP-173 in conditions of complete absence of light.
+    |   [bullet/]Investigate the behavior of SCP-173 during prolonged stay in a stationary state.
+    |   [bullet/]Organize a series of experiments on the interaction of SCP-173 with inanimate objects.
+    |   [bullet/]Conduct experiments using special glasses to prevent visual contact with SCP-096.
+    |   [bullet/]Investigate the mechanism of activation of aggression of SCP-096 and its connection with the distance to the observer.
+    |   [bullet/]Test the ability of SCP-096 to react to an image of a face in digital format.
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [color = #9c9492]Responsável pela meta: [bold] DEPARTAMENTO DE PESQUISA, DIRETOR COMPLEXO { $station }[/bold][/color]
+    |   [color=#9c9492]Responsible for the objective: [bold] RESEARCH DEPARTMENT, COMPLEX DIRECTOR  { $station }[/bold][/color]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [italic]Место для печатей[/italic]
+    |   [italic]Place for seals[/italic]
 station-goal-scp-3 =
     |
-    |   [head = 1]SCP[/head]
-    |   [bold]Обезопасить. Удержать. Сохранить.[/bold]
+    |   [head=1]SCP[/head]
+    |   [bold]Secure. Contain. Protect.[/bold]
         ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    |   [head = #9c9492]Responsável pela meta: { $station } DEPARTAMENTO DE PESQUISA, DIRETOR COMPLEXO [/head]__PH2____PH3__
+    |   [head=3] MUDAR OBJETIVO { $station }[/head]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   Приветствую, уважаемое командование фонда!
-    |   Цель вашей текущей смены - [bold]ИССЛЕДОВАНИЯ SCP[/bold].
-    |   [bullet/]Изучить способность SCP-939 к имитации голосов в условиях стресса.
-    |   [bullet/]Проверить реакцию SCP-939 на различные акценты и языки.
-    |   [bullet/]Оценить эффективность голосовой имитации SCP-939 для привлечения персонала.
-    |   [bullet/]Провести серию тестов на взаимодействие SCP-939 с группами людей.
-    |   [bullet/]Изучить механизм появления коррозионных зон SCP-106 в различных материалах.
-    |   [bullet/]Исследовать пределы физической активности SCP-106 вне камеры содержания.
-    |   [bullet/]Оценить влияние SCP-106 на психическое состояние персонала.
+    |   Greetings, esteemed Foundation command!
+    |   The goal of your current shift is [bold]SCP RESEARCH[/bold].
+    |   [bullet/]Study the ability of SCP-939 to imitate voices under stress.
+    |   [bullet/]Test the reaction of SCP-939 to different accents and languages.
+    |   [bullet/]Assess the effectiveness of voice imitation of SCP-939 to attract personnel.
+    |   [bullet/]Conduct a series of tests on the interaction of SCP-939 with groups of people.
+    |   [bullet/]Investigate the mechanism of appearance of corrosive zones of SCP-106 in various materials.
+    |   [bullet/]Investigate the limits of physical activity of SCP-106 outside the containment chamber.
+    |   [bullet/]Assess the impact of SCP-106 on the mental state of personnel.
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [color = #9c9492]Responsável pela meta: [bold] DEPARTAMENTO DE PESQUISA, DIRETOR COMPLEXO { $station }[/bold][/color]
+    |   [color=#9c9492]Responsible for the objective: [bold] RESEARCH DEPARTMENT, COMPLEX DIRECTOR  { $station }[/bold][/color]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [italic]Место для печатей[/italic]
+    |   [italic]Place for seals[/italic]
 station-goal-scp-4 =
     |
-    |   [head = 1]SCP[/head]
-    |   [bold]Обезопасить. Удержать. Сохранить.[/bold]
+    |   [head=1]SCP[/head]
+    |   [bold]Secure. Contain. Protect.[/bold]
         ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    |   [head = 3] MUDAR OBJETIVO { $station }[/head]
+    |   [head=3] MUDAR OBJETIVO { $station }[/head]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   Приветствую, уважаемое командование фонда!
-    |   Цель вашей текущей смены - [bold]ИССЛЕДОВАНИЯ SCP[/bold].
-    |   [bullet/]Провести серию тестов на взаимодействие SCP-106 с объектами Класса D.
-    |   [bullet/]Зафиксировать процесс перемещения SCP-106 через коррозионные зоны.
-    |   [bullet/]Разработать методику нейтрализации SCP-106 в случае побега.
-    |   [bullet/]Исследовать влияние долгосрочной изоляции на поведение SCP-106.
-    |   [bullet/]Проанализировать предпочтения SCP-082 в еде для создания протоколов содержания.
-    |   [bullet/]Изучить реакцию SCP-082 на различные типы пищи.
-    |   [bullet/]Провести серию бесед с SCP-082 для оценки его когнитивных способностей.
+    |   Greetings, esteemed Foundation command!
+    |   The goal of your current shift is [bold]SCP RESEARCH[/bold].
+    |   [bullet/]Conduct a series of tests on the interaction of SCP-106 with Class D objects.
+    |   [bullet/]Record the process of moving SCP-106 through corrosive zones.
+    |   [bullet/]Develop a method for neutralizing SCP-106 in case of escape.
+    |   [bullet/]Investigate the effect of long-term isolation on the behavior of SCP-106.
+    |   [bullet/]Analyze the preferences of SCP-082 in food to create containment protocols.
+    |   [bullet/]Study the reaction of SCP-082 to various types of food.
+    |   [bullet/]Conduct a series of conversations with SCP-082 to assess its cognitive abilities.
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [color = 3] MUDAR OBJETIVO [bold]{ $station }
+    |   [color=#9c9492]Responsible for the objective: [bold] RESEARCH DEPARTMENT, COMPLEX DIRECTOR  { $station }[/bold][/color]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [italic]Место для печатей[/italic]
+    |   [italic]Place for seals[/italic]
 station-goal-scp-5 =
     |
-    |   [head = 1]SCP[/head]
-    |   [bold]Обезопасить. Удержать. Сохранить.[/bold]
+    |   [head=1]SCP[/head]
+    |   [bold]Secure. Contain. Protect.[/bold]
         ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    |   [head = 3] MUDAR OBJETIVO { $station }[/head]
+    |   [head=3] MUDAR OBJETIVO { $station }[/head]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   Приветствую, уважаемое командование фонда!
-    |   Цель вашей текущей смены - [bold]ИССЛЕДОВАНИЯ SCP[/bold].
-    |   [bullet/]Задействовать SCP-082 в симуляции взаимодействия с персоналом.
-    |   [bullet/]Оценить уровень агрессии SCP-082 при отказе в предоставлении пищи.
-    |   [bullet/]Исследовать влияние общения с SCP-082 на моральный дух персонала.
-    |   [bullet/]Создать протоколы безопасного взаимодействия с SCP-082 в рамках ролевых экспериментов.
-    |   [bullet/]Составить отчёт о поведении SCP-082 в контролируемых условиях.
-    |   [bullet/]Зафиксировать продолжительность фазы агрессии SCP-096 в различных условиях.
-    |   [bullet/]Создать симуляцию массового наблюдения за SCP-096 для проверки пределов его реакций.
-    |   [bullet/]Изучить возможности по предотвращению разрушений во время фазы агрессии SCP-096.
-    |   [bullet/]Изучить мотивацию SCP-049 при выборе объектов для «лечения».
-    |   [bullet/]Провести эксперименты на предмет возможности модификации поведения SCP-049 через диалог.
-    |   [bullet/]Определить пределы знаний SCP-049 в области медицины и анатомии.
+    |   Greetings, esteemed Foundation command!
+    |   The goal of your current shift is [bold]SCP RESEARCH[/bold].
+    |   [bullet/]Engage SCP-082 in a simulation of interaction with personnel.
+    |   [bullet/]Assess the level of aggression of SCP-082 when refused food.
+    |   [bullet/]Investigate the impact of communication with SCP-082 on the morale of personnel.
+    |   [bullet/]Create protocols for safe interaction with SCP-082 as part of role-playing experiments.
+    |   [bullet/]Compile a report on the behavior of SCP-082 under controlled conditions.
+    |   [bullet/]Record the duration of the aggression phase of SCP-096 under various conditions.
+    |   [bullet/]Create a simulation of mass observation of SCP-096 to test the limits of its reactions.
+    |   [bullet/]Study the possibilities for preventing destruction during the aggression phase of SCP-096.
+    |   [bullet/]Study the motivation of SCP-049 when choosing objects for "treatment".
+    |   [bullet/]Conduct experiments on the possibility of modifying the behavior of SCP-049 through dialogue.
+    |   [bullet/]Determine the limits of knowledge of SCP-049 in the field of medicine and anatomy.
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [color = 3] MUDAR OBJETIVO [bold]{ $station }
+    |   [color=#9c9492]Responsible for the objective: [bold] RESEARCH DEPARTMENT, COMPLEX DIRECTOR  { $station }[/bold][/color]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [italic]Место для печатей[/italic]
+    |   [italic]Place for seals[/italic]
 station-goal-scp-6 =
     |
-    |   [head = 1]SCP[/head]
-    |   [bold]Обезопасить. Удержать. Сохранить.[/bold]
+    |   [head=1]SCP[/head]
+    |   [bold]Secure. Contain. Protect.[/bold]
         ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    |   [head = 3] MUDAR OBJETIVO { $station }[/head]
+    |   [head=3] MUDAR OBJETIVO { $station }[/head]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   Приветствую, уважаемое командование фонда!
-    |   Цель вашей текущей смены - [bold]ИССЛЕДОВАНИЯ SCP[/bold].
-    |   [bullet/]Определить пределы физической активности SCP-939 вне камеры содержания.
-    |   [bullet/]Провести опыты по изучению агрессии SCP-939 при угрозе его безопасности.
-    |   [bullet/]Разработать стратегию предотвращения побегов SCP-939 через голосовую манипуляцию.
-    |   [bullet/]Зафиксировать процесс перемещения SCP-106 через коррозионные зоны.
-    |   [bullet/]Изучить реакцию SCP-082 на различные типы пищи.
-    |   [bullet/]Провести серию бесед с SCP-082 для оценки его когнитивных способностей.
+    |   Greetings, esteemed Foundation command!
+    |   The goal of your current shift is [bold]SCP RESEARCH[/bold].
+    |   [bullet/]Determine the limits of physical activity of SCP-939 outside the containment chamber.
+    |   [bullet/]Conduct experiments to study the aggression of SCP-939 when its safety is threatened.
+    |   [bullet/]Develop a strategy to prevent escapes of SCP-939 through voice manipulation.
+    |   [bullet/]Record the process of moving SCP-106 through corrosive zones.
+    |   [bullet/]Study the reaction of SCP-082 to various types of food.
+    |   [bullet/]Conduct a series of conversations with SCP-082 to assess its cognitive abilities.
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [color = 3] MUDAR OBJETIVO [bold]{ $station }
+    |   [color=#9c9492]Responsible for the objective: [bold] RESEARCH DEPARTMENT, COMPLEX DIRECTOR  { $station }[/bold][/color]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [italic]Место для печатей[/italic]
+    |   [italic]Place for seals[/italic]
 station-goal-scp-7 =
     |
-    |   [head = 1]SCP[/head]
-    |   [bold]Обезопасить. Удержать. Сохранить.[/bold]
+    |   [head=1]SCP[/head]
+    |   [bold]Secure. Contain. Protect.[/bold]
         ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    |   [head = 3] MUDAR OBJETIVO { $station }[/head]
+    |   [head=3] MUDAR OBJETIVO { $station }[/head]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   Приветствую, уважаемое командование фонда!
-    |   Цель вашей текущей смены - [bold]ИССЛЕДОВАНИЯ SCP[/bold].
-    |   [bullet/]Исследовать «лекарственные препараты», используемые SCP-049, и их влияние на организм испытуемых.
-    |   [bullet/]Зафиксировать процесс «лечения» и оценить его результаты на добровольцах из Класса D.
-    |   [bullet/]Провести ролевую симуляцию с участием SCP-049 и персонала для анализа его пацифистских качеств.
-    |   [bullet/]Провести испытание влияния SCP-999 на продуктивность сотрудников в стрессовых условиях.
-    |   [bullet/]Определить пределы физической активности SCP-999 вне камеры содержания.
-    |   [bullet/]Задействовать SCP-999 в экспериментах по усилению командного духа среди персонала.
+    |   Greetings, esteemed Foundation command!
+    |   The goal of your current shift is [bold]SCP RESEARCH[/bold].
+    |   [bullet/]Investigate the "medicinal preparations" used by SCP-049 and their effect on the body of test subjects.
+    |   [bullet/]Record the "treatment" process and evaluate its results on volunteers from Class D.
+    |   [bullet/]Conduct a role-playing simulation with the participation of SCP-049 and personnel to analyze its pacifist qualities.
+    |   [bullet/]Conduct a test of the effect of SCP-999 on the productivity of employees in stressful conditions.
+    |   [bullet/]Determine the limits of physical activity of SCP-999 outside the containment chamber.
+    |   [bullet/]Involve SCP-999 in experiments to strengthen team spirit among personnel.
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [color = 3] MUDAR OBJETIVO [bold]{ $station }
+    |   [color=#9c9492]Responsible for the objective: [bold] RESEARCH DEPARTMENT, COMPLEX DIRECTOR  { $station }[/bold][/color]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [italic]Место для печатей[/italic]
+    |   [italic]Place for seals[/italic]
 station-goal-scp-8 =
     |
-    |   [head = 1]SCP[/head]
-    |   [bold]Обезопасить. Удержать. Сохранить.[/bold]
+    |   [head=1]SCP[/head]
+    |   [bold]Secure. Contain. Protect.[/bold]
         ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    |   [head = 3] MUDAR OBJETIVO { $station }[/head]
+    |   [head=3] MUDAR OBJETIVO { $station }[/head]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   Приветствую, уважаемое командование фонда!
-    |   Цель вашей текущей смены - [bold]ИССЛЕДОВАНИЯ SCP[/bold].
-    |   [bullet/]Разработать новые методы содержания для уменьшения рисков побегов.
-    |   [bullet/]Построить центральный наблюдательный пункт для анализа поведения SCP в реальном времени.
-    |   [bullet/]Организовать учения для персонала с участием «агрессивных» SCP-объектов.
-    |   [bullet/]Исследовать возможности перекрёстных взаимодействий между SCP для получения новых данных.
-    |   [bullet/]Подготовить серию отчётов для руководства фонда на основе проведённых экспериментов.
-    |   [bullet/]Создать сценарий полной эвакуации комплекса при массовом нарушении содержания.
-    |   [bullet/]Оценить эффективность системы наблюдения за SCP в реальных условиях.
+    |   Greetings, esteemed Foundation command!
+    |   The goal of your current shift is [bold]SCP RESEARCH[/bold].
+    |   [bullet/]Develop new containment methods to reduce the risk of escapes.
+    |   [bullet/]Build a central observation post to analyze the behavior of SCPs in real time.
+    |   [bullet/]Organize training exercises for personnel with the participation of "aggressive" SCP objects.
+    |   [bullet/]Investigate the possibilities of cross-interactions between SCPs to obtain new data.
+    |   [bullet/]Prepare a series of reports for the Foundation management based on the experiments conducted.
+    |   [bullet/]Create a scenario for a complete evacuation of the complex in case of a mass breach of containment.
+    |   [bullet/]Assess the effectiveness of the SCP monitoring system in real conditions.
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [color = #9c9492]Responsável: [bold] DEPARTAMENTO DE PESQUISA, DIRETOR COMPLEXO, DEPARTAMENTO DE ENGENHARIA { $station }[/bold][/color]
+    |   [color=#9c9492]Responsible for the objective: [bold] RESEARCH DEPARTMENT, COMPLEX DIRECTOR, ENGINEERING DEPARTMENT  { $station }[/bold][/color]
         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    |   [italic]Место для печатей[/italic]
+    |   [italic]Place for seals[/italic]

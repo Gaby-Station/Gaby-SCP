@@ -1,2 +1,2 @@
-ent-PowerSink  = absorvedor de energia
-    .desc  = Extrai uma enorme quantidade de eletricidade da rede.
+ent-PowerSink = dissipador de energia
+    .desc = Drena imensas quantidades de eletricidade da rede.

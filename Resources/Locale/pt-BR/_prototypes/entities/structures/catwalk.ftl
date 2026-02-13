@@ -1,2 +1,2 @@
-ent-Catwalk  = ponte
-    .desc  = Uma ponte que facilita as manobras no espaço exterior e a colocação de cabos.
+ent-Catwalk = passarela
+    .desc = Uma passarela para facilitar manobras de EVA e colocação de cabos.

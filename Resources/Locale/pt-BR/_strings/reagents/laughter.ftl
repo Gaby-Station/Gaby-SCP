@@ -1,1 +1,1 @@
-laughter-effect-control-laughter  = Você não consegue parar de rir!
+﻿laughter-effect-control-laughter = Você não consegue conter o riso!

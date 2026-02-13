@@ -1,2 +1,2 @@
-nuke-core-container-whitelist-fail-popup  = Não cabe no recipiente!
-nuke-core-container-sealed-popup  = O recipiente com o núcleo de plutônio { $container } está bem fechado!
+nuke-core-container-whitelist-fail-popup = Isso não cabe no contêiner.
+nuke-core-container-sealed-popup = O {$container} está selado!

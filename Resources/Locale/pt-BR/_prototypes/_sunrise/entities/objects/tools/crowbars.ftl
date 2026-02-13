@@ -1,2 +1,2 @@
-ent-CrowbarAbductor  = Uma ferramenta universal para abrir portas e combater invasores interdimensionais.
-    .desc  = Uma ferramenta universal para abrir portas e combater invasores interdimensionais.
+ent-CrowbarAbductor = pé de cabra do sequestrador
+    .desc = Uma ferramenta multifuncional para arrombar portas e combater invasores interdimensionais.

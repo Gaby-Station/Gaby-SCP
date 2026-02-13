@@ -1,68 +1,46 @@
-document-difficulty-mode-summary  = relatório de segurança automático
-document-meta-garbage-summary  = conclusão da comissão sanitária
+document-difficulty-mode-summary = relatório de segurança automático
 paper-neutralized-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: НОМИНАЛЬНЫЙ[/bold]
+    ​[bold]THREAT LEVEL ASSESSMENT: NOMINAL[/bold]
     
-    Согласно автоматизированной оценке риска, текущий уровень активности аномальных объектов на участке признан незначительным. Все ранее содержащиеся аномалии нейтрализованы, перемещены или не представляют угрозы безопасности.
-    ​[bullet] Режим работы персонала — штатный.
-    ​[bullet] Персоналу предписывается соблюдать стандартный уровень тревожности.
-    ​[bullet] Проведение плановых технических, кадровых и научных операций разрешено без ограничений.
+    According to an automated risk assessment, the current level of anomalous object activity in the area is considered insignificant. All previously contained anomalies have been neutralized, relocated, or pose no security threat.
+    ​[bullet] Staff operational mode — normal.
+    ​[bullet] Staff are instructed to maintain a standard level of vigilance.
+    ​[bullet] Scheduled technical, personnel, and scientific operations are permitted without restrictions.
     
-    ​[italic]Особое указание:[/italic] в связи с отсутствием актуальных угроз, региональное управление может инициировать широкомасштабные испытания, проверки протоколов и внеплановые тренировки.
+    ​[italic]Special Note:[/italic] Due to the absence of current threats, the regional administration may initiate large-scale tests, protocol checks, and unscheduled drills.
 paper-safe-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: КОНТРОЛИРУЕМЫЙ[/bold]
+    ​[bold]THREAT LEVEL ASSESSMENT: CONTROLLED[/bold]
     
-    Участок содержит ряд аномальных объектов, классифицированных как безопасные. Один или несколько контролируемых субъектов повышенного риска могут находиться под наблюдением.
-    ​[bullet] Персонал комплекса имеет право на свободное перемещение по участку, за исключением камер содержания SCP объектов
-    ​[bullet] Зафиксировано присутствие: безопасных объектов и контролируемых экземпляров SCP-035 и/или одного класса «Евклид».
-    ​[bullet] Угрозы персоналу считаются маловероятными при соблюдении стандартных процедур.
+    The area contains a number of anomalous objects classified as safe. One or more controlled high-risk subjects may be under observation.
+    ​[bullet] Facility personnel are free to move around the area, with the exception of SCP object containment chambers.
+    ​[bullet] Presence detected: safe objects and controlled instances of SCP-035 and/or one Euclid-class object.
+    ​[bullet] Threats to personnel are considered unlikely if standard procedures are followed.
     
-    ​[italic]Напоминание:[/italic] отклонение от утверждённых процедур обращения с объектами может привести к локализованным инцидентам.
+    ​[italic]Reminder:[/italic] Deviation from approved object handling procedures may lead to localized incidents.
 paper-euclid-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: ПОВЫШЕННЫЙ[/bold]
+    ​[bold]THREAT LEVEL ASSESSMENT: ELEVATED[/bold]
     
-    На участке содержатся активные аномальные субъекты, включающие как предсказуемые, так и нестабильные экземпляры.
-    ​[bullet] Службе безопасности рекомендуется усиленно контролировать любые взаимодействия с аномальными объектами.
-    ​[bullet] Зафиксировано присутствие: объектов класса «Безопасный», одного «Евклид» и, возможно, одного экземпляра класса «Кетер».
-    ​[bullet] Контроль ситуации требует повышенного внимания.
+    The area contains active anomalous subjects, including both predictable and unstable instances.
+    ​[bullet] Security is advised to strictly control any interactions with anomalous objects.
+    ​[bullet] Presence detected: Safe-class objects, one Euclid-class object, and possibly one Keter-class instance.
+    ​[bullet] Situation control requires increased attention.
     
-    ​[italic]Особое указание:[/italic] персоналу предписывается действовать в рамках утверждённых процедур, избегать несанкционированного контакта с аномалиями и незамедлительно сообщать о любых нарушениях условий содержания.
+    ​[italic]Special Note:[/italic] Personnel are instructed to act within the framework of approved procedures, avoid unauthorized contact with anomalies, and immediately report any violations of containment conditions.
 paper-keter-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: КРИТИЧЕСКИЙ[/bold]
+    ​[bold]THREAT LEVEL ASSESSMENT: CRITICAL[/bold]
     
-    Участок перешёл в режим расширенного содержания. Один или несколько аномальных субъектов представляют серьёзную и непосредственную угрозу существующим протоколам безопасности.
-    ​[bullet] Служба безопасности обязана установить дежурный режим возле камер содержания активных SCP объектов.
-    ​[bullet] Подтверждено присутствие: минимум одного объекта класса «Кетер», а также возможных экземпляров классов «Евклид» и «Безопасный».
-    ​[bullet] Потенциальный риск потери контроля над объектами высок.
+    The area has transitioned to extended containment mode. One or more anomalous subjects pose a serious and immediate threat to existing security protocols.
+    ​[bullet] Security is required to establish a duty mode near the containment chambers of active SCP objects.
+    ​[bullet] Presence confirmed: at least one Keter-class object, as well as possible instances of Euclid and Safe classes.
+    ​[bullet] The potential risk of losing control over objects is high.
     
-    ​[italic]Внимание:[/italic] при поступлении сигнала о нарушении условий содержания — немедленно следовать в ближайшую зону эвакуации и ожидать дальнейших указаний от регионального командования.
+    ​[italic]Attention:[/italic] Upon receiving a signal of a breach of containment conditions, immediately proceed to the nearest evacuation zone and await further instructions from regional command.
 paper-thaumiel-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: НЕОПРЕДЕЛЕННЫЙ [/bold]
+    ​[bold]THREAT LEVEL ASSESSMENT: UNDETERMINED[/bold]
     
-    Участок содержит одновременно несколько аномалий, классифицированных как объекты повышенного контроля. Их одновременное содержание сопряжено с непредсказуемыми последствиями.
-    ​[bullet] Служба безопасности обязана установить полный контроль над взаимодействием с SCP объектами. Количество одновременных взаимодействий не должно превышать более 1 раза в 20 минут.
-    ​[bullet] Подтверждено присутствие: множества объектов классов «Кетер», «Евклид» и «Безопасный».
-    ​[bullet] Ситуация нестабильна, контроль осуществляется под грифом «Совершенно секретно».
+    The area contains several anomalies simultaneously, classified as objects of increased control. Their simultaneous containment is associated with unpredictable consequences.
+    ​[bullet] Security is required to establish full control over interaction with SCP objects. The number of simultaneous interactions should not exceed more than once every 20 minutes.
+    ​[bullet] Presence confirmed: multiple objects of Keter, Euclid, and Safe classes.
+    ​[bullet] The situation is unstable, control is carried out under the "Top Secret" classification.
     
-    ​[italic]Особое указание:[/italic] большая часть операций проводится в условиях ограниченного допуска. Персоналу, не обладающему необходимым уровнем допуска, категорически запрещено вмешательство.
-paper-meta-garbage-successful-info =
-    ​[bold]ЗАКЛЮЧЕНИЕ САНИТАРНОЙ КОМИССИИ[/bold]
-    
-    По результатам внеплановой проверки установлено:
-    ​[bullet] На территории комплекса обнаружены бытовые отходы (бумажные стаканчики, остатки пищи, упаковочные материалы).
-    ​[bullet] В помещениях зафиксированы лужи технической жидкости и неубранные следы.
-    ​[bullet] Освещение: часть ламп разбита, осколки стекла не устранены.
-    ​[bullet] Уровень санитарного содержания признан неудовлетворительным.
-    
-    ​[italic]Причина:[/italic] ресурсная группа фонда была полностью задействована в ликвидации последствий инцидента ██-███, уборка не произведена.
-    
-    ​[italic]Указание:[/italic] текущему персоналу предписывается устранить указанные нарушения в кратчайшие сроки.
-paper-meta-garbage-failed-info =
-    ​[bold]ЗАКЛЮЧЕНИЕ САНИТАРНОЙ КОМИССИИ[/bold]
-    
-    Проверка помещений завершена. Замечания отсутствуют:
-    ​[bullet] Полы сухие, следов загрязнений не обнаружено.
-    ​[bullet] Освещение функционирует в полном объёме.
-    ​[bullet] Бытовой мусор и отходы не выявлены.
-    
-    ​[italic]Вывод:[/italic] санитарное состояние комплекса признано удовлетворительным, вмешательства не требуется.
+    ​[italic]Special Note:[/italic] Most operations are carried out under limited access conditions. Personnel who do not have the required level of access are strictly prohibited from interfering.

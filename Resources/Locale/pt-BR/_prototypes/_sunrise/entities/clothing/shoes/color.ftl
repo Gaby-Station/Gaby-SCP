@@ -1,2 +1,2 @@
-ent-ClothingShoesColorCyan  = sapatos azuis
-    .desc  = Especialmente para você e seu marido, garoto.
+ent-ClothingShoesColorCyan = sapatos ciano
+    .desc = Sapatos cianos elegantes.

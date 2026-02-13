@@ -1,4 +1,4 @@
-ent-BoxEncryptionKeyLaw  = caixa com a chave de criptografia Blue Shield
-    .desc  = { ent-BoxEncryptionKeyPassenger.desc }
-ent-BoxEncryptionKeyBlueShield  = caixa com a chave de criptografia Blue Shield
-    .desc  = { ent-BoxEncryptionKeyPassenger.desc }
+ent-BoxEncryptionKeyLaw = caixa de chave de criptografia de escudo azul
+    .desc = { ent-BoxEncryptionKeyPassenger.desc }
+ent-BoxEncryptionKeyBlueShield = caixa de chave de criptografia de escudo azul
+    .desc = { ent-BoxEncryptionKeyPassenger.desc }

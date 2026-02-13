@@ -1,2 +1,2 @@
-ent-EffectMechSparks  = { "" }
-    .desc  = { "" }
+ent-EffectMechSparks = { "" }
+    .desc = { "" }

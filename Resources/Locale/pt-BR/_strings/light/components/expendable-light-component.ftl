@@ -1,11 +1,2 @@
-expendable-light-start-verb  = sinalizador queimado
-expendable-light-spent-flare-name  = Parece que este sinalizador queimou. Que chatice.
-expendable-light-spent-flare-desc  = tocha queimada
-expendable-light-burnt-torch-name  = Parece que esta tocha queimou. Que chatice.
-expendable-light-burnt-torch-desc  = Parece que esta tocha queimou. Que chatice.
-expendable-light-spent-green-glowstick-name  = luz química verde extinta
-expendable-light-spent-red-glowstick-name  = luz química vermelha extinta
-expendable-light-spent-purple-glowstick-name  = luz química violeta extinta
-expendable-light-spent-yellow-glowstick-name  = luz química amarela extinta
-expendable-light-spent-blue-glowstick-name  = Parece que a luz química se apagou. Que trágico.
-expendable-light-spent-glowstick-desc  = Parece que a luz química se apagou. Que trágico.
+expendable-light-start-verb = Iniciar luz
+expendable-light-spent-prefix = gastou {$baseName}

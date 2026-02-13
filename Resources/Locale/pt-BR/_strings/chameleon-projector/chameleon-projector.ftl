@@ -1,4 +1,4 @@
-chameleon-projector-inside-container  = Você não pode se disfarçar assim!
-chameleon-projector-invalid  = O novo disfarce é projetado com sucesso.
-chameleon-projector-success  = Configure o disfarce.
-chameleon-projector-set-disguise  = Configure o disfarce.
+chameleon-projector-inside-container = Não há espaço para digitalizar isso!
+chameleon-projector-invalid = Você não pode disfarçar assim!
+chameleon-projector-success = Novo disfarce projetado.
+chameleon-projector-set-disguise = Definir disfarce

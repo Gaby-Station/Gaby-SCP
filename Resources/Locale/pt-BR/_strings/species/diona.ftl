@@ -1,1 +1,1 @@
-diona-hurt-by-herbicide-popup  = Os produtos químicos estão fazendo com que algumas de suas verduras murchem!
+diona-hurt-by-herbicide-popup = O produto químico murcha um pouco da sua vegetação!

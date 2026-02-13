@@ -1,11 +1,11 @@
-ent-Memorial  = monumento
-    .desc  = Tumba do Colaborador Desconhecido
-ent-SS13Memorial  = Tumba do Colaborador Desconhecido
+ent-Memorial = memorial
+    .desc = Comemorando algo.
+ent-SS13Memorial = túmulo do funcionário desconhecido
     .desc =
-        Здесь покоится неизвестный сотрудник
-        Неизвестный по имени и званию
-        Чьи деяния не будут забыты
-ent-Monolith  = monólito
+        Here rests an unknown employee
+        Unknown by name or rank
+        Whose acts will not be forgotten
+ent-Monolith = monólito
     .desc =
-        Черт возьми, современное искусство.
-        Держу пари, это стоит целое состояние.
+        Holy shit modern art.
+        I bet it's worth a fortune.

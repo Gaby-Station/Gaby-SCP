@@ -1,4 +1,4 @@
-ent-Boris  = cérebro de robô
-    .desc  = Um cérebro artificial capaz de atividades intelectuais banais.
-ent-Sofia  = cérebro robô sindicato
-    .desc  = Um cérebro artificial capaz de atividades intelectuais banais.
+ent-Boris = cérebro robótico
+    .desc = { ent-BaseItem.desc }
+ent-Sofia = cérebro robótico sindicato
+    .desc = { ent-Boris.desc }

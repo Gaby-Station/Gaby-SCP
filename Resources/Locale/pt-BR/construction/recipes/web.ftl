@@ -1,1 +1,1 @@
-construction-recipe-silk-woven-cloth  = tecido de seda
+construction-recipe-silk-woven-cloth = pano de seda

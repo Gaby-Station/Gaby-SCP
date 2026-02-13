@@ -1,12 +1,14 @@
-ent-ActionCarpQueenSummon  = Colocar ovos
-    .desc  = Coloca ovos, que quando liberados no líquido eclodem em uma carpa aleatória.
-ent-ActionCarpQueenOrderStay  = Descansar
-    .desc  = Seguir
-ent-ActionCarpQueenOrderFollow  = Seguir
-    .desc  = Ordena aos servos carpas que o sigam de perto.
-ent-ActionCarpQueenOrderKill  = Mate-o
-    .desc  = Ordena aos servos carpas que ataquem quem você apontar.
-ent-ActionCarpQueenOrderLoose  = À vontade
-    .desc  = Ordena aos servos carpas que sigam as ordens da Mãe Natureza.
+ent-ActionCarpQueenSummon = Coloque ovas
+    .desc = Coloca ovos que eclodem em uma carpa aleatória quando expostos a líquidos.
+ent-ActionCarpQueenOrderStay = Descansar
+    .desc = Ordena às carpas servas que ignorem as ameaças.
+ent-ActionCarpQueenOrderFollow = Seguir
+    .desc = Ordena às carpas servas que o sigam de perto.
+ent-ActionCarpQueenOrderKill = Mate-o
+    .desc = Comanda as carpas servas para atacar o alvo que você indicar.
+ent-ActionCarpQueenOrderLoose = Livre
+    .desc = Comanda as carpas servas a agirem de acordo com a vontade da Mãe Natureza.
 
-carp-queen-summon-popup  = Você botou ovos!
+carp-queen-summon-popup = Você colocou ovas!
+
+

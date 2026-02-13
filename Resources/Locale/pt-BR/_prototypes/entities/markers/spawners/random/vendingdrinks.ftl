@@ -1,3 +1,3 @@
-ent-RandomVendingDrinks  = máquina de venda aleatória spawner
-    .suffix  = Bebidas
-    .desc  = { ent-MarkerBase.desc }
+ent-RandomVendingDrinks = gerador de máquina de venda aleatória
+    .suffix = Bebidas
+    .desc = { ent-MarkerBase.desc }

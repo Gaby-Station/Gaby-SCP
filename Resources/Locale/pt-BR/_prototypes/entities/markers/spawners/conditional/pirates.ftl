@@ -1,2 +1,2 @@
-ent-SpawnPointPirates  = pirata gerador
-    .desc  = { ent-MarkerBase.desc }
+ent-SpawnPointPirates = Ponto de desova pirata
+    .desc = { ent-MarkerBase.desc }

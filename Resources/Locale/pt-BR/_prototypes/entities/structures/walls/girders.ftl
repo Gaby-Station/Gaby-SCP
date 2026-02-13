@@ -1,6 +1,6 @@
-ent-Girder  = quadro
-    .desc  = Grande estrutura metálica; Deve ser coberto com chapas de metal para ser considerado uma parede.
-ent-ReinforcedGirder  = quadro reforçado
-    .desc  = Grande moldura em metal e plástico; Deve ser revestido com placas de plasteel para ser considerado muro fortificado.
-ent-ClockworkGirder  = quadro de engrenagem
-    .desc  = Equipamento enorme com suportes para cobertura extra; usando folhas de latão pode ser transformado em parede.
+ent-Girder = viga
+    .desc = Um grande conjunto estrutural feito de metal ; It requires a layer of metal before it can be considered a wall.
+ent-ReinforcedGirder = viga reforçada
+    .desc = Um grande conjunto estrutural feito de metal e plasteel ; It requires a layer of plasteel before it can be considered a reinforced wall.
+ent-ClockworkGirder = equipamento de parede
+    .desc = Uma engrenagem grande com suportes de montagem para revestimento adicional ; This could be made into a wall with more brass plating.

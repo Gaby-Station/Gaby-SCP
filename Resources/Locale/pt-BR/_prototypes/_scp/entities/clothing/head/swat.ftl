@@ -1,3 +1,3 @@
-ent-ClothingHeadHelmetSwatScp  = Equipamento de proteção padrão. Protege a cabeça de golpes.
-    .desc  = Capacete muito robusto.
-    .suffix  = SCP
+ent-ClothingHeadHelmetSwatScp = capacete
+    .desc = Um capacete muito robusto.
+    .suffix = SCP

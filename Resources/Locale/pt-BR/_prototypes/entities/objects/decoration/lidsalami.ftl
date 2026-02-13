@@ -1,2 +1,2 @@
-ent-LidSalami  = Cobertura de salame. Não vai caber, não vai caber.
-    .desc  = Cobertura de salame. Não vai caber, não vai caber.
+ent-LidSalami = tampa de salame
+    .desc = Não vai caber, não vai caber.

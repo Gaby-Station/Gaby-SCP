@@ -1,2 +1,1 @@
-announcement-gamma-armory  = O Comando Central decidiu enviar uma nave com sala de armas Code Gamma para eliminar a ameaça na estação. Ônibus ancorado { $location } Espere! Glória à Fundação!
-announcements-welcome  = Bem-vindo ao complexo, tenha um bom turno.
+announcement-gamma-armory = O comando central é uma solução de configuração para abrir o circuito com o código gama para a operação угрозы на станции. Шаттл пристыкован { $location } Certo! Viva NT!
