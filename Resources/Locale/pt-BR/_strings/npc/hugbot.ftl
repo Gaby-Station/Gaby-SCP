@@ -1,4 +1,4 @@
-﻿hugbot-start-hug-1 = DEFICIÊNCIA DE ABRAÇO NÍVEL 5 DETECTADA!
+hugbot-start-hug-1 = DEFICIÊNCIA DE ABRAÇO NÍVEL 5 DETECTADA!
 hugbot-start-hug-2 = Parece que você precisa de um abraço!
 hugbot-start-hug-3 = Ah, alguém precisa de um abraço!
 hugbot-start-hug-4 = Alvo adquirido ; Initiating hug routine.

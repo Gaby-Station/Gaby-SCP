@@ -1,4 +1,4 @@
-﻿advertisement-megaseed-1 = Nós gostamos de plantas!
+advertisement-megaseed-1 = Nós gostamos de plantas!
 advertisement-megaseed-2 = Cultive algumas colheitas
 advertisement-megaseed-3 = Cresça, querido, cresça!
 advertisement-megaseed-4 = Ah, sim, filho!

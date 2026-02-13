@@ -1,4 +1,4 @@
-﻿zombie-title = Zumbis
+zombie-title = Zumbis
 zombie-description = Os mortos-vivos foram soltos na estação! Trabalhe com a tripulação para sobreviver ao surto e proteger a estação.
 
 zombieteors-title = Zumbiteores

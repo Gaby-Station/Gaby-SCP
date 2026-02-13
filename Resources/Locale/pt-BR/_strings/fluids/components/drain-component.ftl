@@ -1,4 +1,4 @@
-﻿drain-component-empty-verb-using-is-empty-message = { CAPITALIZE(THE($object)) } está vazio!
+drain-component-empty-verb-using-is-empty-message = { CAPITALIZE(THE($object)) } está vazio!
 drain-component-empty-verb-target-is-full-message = { CAPITALIZE(THE($object)) } está cheio!
 drain-component-empty-verb-inhand = Vazio {$object}
 drain-component-examine-hint-full = [color="blue"]Está cheio até a borda. Talvez um êmbolo possa ajudar?[/color]

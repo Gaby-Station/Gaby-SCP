@@ -1,4 +1,4 @@
-﻿## Default
+## Default
 teleportation-menu-default-window-title = Menu Teletransporte
 
 ## Wizard

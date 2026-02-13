@@ -1,4 +1,4 @@
-﻿## Strings for the "grant_connect_bypass" command.
+## Strings for the "grant_connect_bypass" command.
 
 cmd-grant_connect_bypass-desc = Permitir temporariamente que um usuário ignore as verificações regulares de conexão.
 cmd-grant_connect_bypass-help = Uso: grant_connect_bypass <user> [duration minutes]

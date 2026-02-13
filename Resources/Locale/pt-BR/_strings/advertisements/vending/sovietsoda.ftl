@@ -1,4 +1,4 @@
-﻿advertisement-sovietsoda-1 = Para camarada e país.
+advertisement-sovietsoda-1 = Para camarada e país.
 advertisement-sovietsoda-2 = Você já cumpriu sua cota nutricional hoje?
 advertisement-sovietsoda-3 = Muito legal!
 advertisement-sovietsoda-4 = Somos pessoas simples, pois isso é tudo que comemos.

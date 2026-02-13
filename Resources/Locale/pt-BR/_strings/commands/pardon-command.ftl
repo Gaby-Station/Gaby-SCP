@@ -1,4 +1,4 @@
-﻿cmd-pardon-desc = Perdoe a proibição de alguém.
+cmd-pardon-desc = Perdoe a proibição de alguém.
 cmd-pardon-help = Uso: perdão <ban id>
 cmd-pardon-unable-to-parse = Não é possível analisar {$id} como um inteiro de ID de banimento.
                              {$help}

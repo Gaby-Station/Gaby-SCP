@@ -1,4 +1,4 @@
-﻿quick-dialog-ui-integer = Inteiro..
+quick-dialog-ui-integer = Inteiro..
 quick-dialog-ui-float = Flutuador..
 quick-dialog-ui-short-text = Texto curto..
 quick-dialog-ui-long-text = Texto longo..

@@ -1,4 +1,4 @@
-﻿cmd-changecvar-no-arguments = Você deve especificar um cvar.
+cmd-changecvar-no-arguments = Você deve especificar um cvar.
 cmd-changecvar-cvar-not-registered = O cvar {$cvar} não está registrado.
 cmd-changecvar-cvar-not-allowed = Você não pode alterar este cvar.
 cmd-changecvar-value-out-of-range = O valor está fora do intervalo. O intervalo é de {$min} a {$max}.

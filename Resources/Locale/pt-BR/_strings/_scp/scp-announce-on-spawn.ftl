@@ -1,4 +1,4 @@
-﻿scp-announce-on-spawn-source-name  = Sistema de alerta automático
+scp-announce-on-spawn-source-name  = Sistema de alerta automático
 
 scp999-announce-on-spawn  = Atividade detectada na câmara de contenção de SCP-173
 scp049-announce-on-spawn  = Atividade detectada na câmara de contenção de SCP-173

@@ -1,4 +1,4 @@
-﻿advertisement-bruiseomat-1 = EU VOTO EM GUERRAS!!!
+advertisement-bruiseomat-1 = EU VOTO EM GUERRAS!!!
 advertisement-bruiseomat-2 = Quem tem CT?
 advertisement-bruiseomat-3 = Alguém comprou um EMAG?
 advertisement-bruiseomat-4 = Quero voltar para minha estação natal...

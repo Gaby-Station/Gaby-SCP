@@ -1,4 +1,4 @@
-﻿cmd-whitelistadd-desc = Adiciona o jogador com o nome de usuário fornecido à lista de permissões do servidor.
+cmd-whitelistadd-desc = Adiciona o jogador com o nome de usuário fornecido à lista de permissões do servidor.
 cmd-whitelistadd-help = Uso: whitelistadd <username or User ID>
 cmd-whitelistadd-existing = {$username} já está na lista de permissões!
 cmd-whitelistadd-added = {$username} adicionado à lista de permissões

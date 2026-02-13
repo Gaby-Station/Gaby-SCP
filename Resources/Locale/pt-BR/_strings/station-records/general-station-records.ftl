@@ -1,4 +1,4 @@
-﻿general-station-record-console-window-title = Console de registro de pessoal
+general-station-record-console-window-title = Console de registro de pessoal
 general-station-record-console-select-record-info = Selecione um registro à esquerda.
 general-station-record-console-empty-state = Nenhum registro encontrado!
 general-station-record-console-no-record-found = Nenhum registro foi encontrado para a pessoa selecionada.

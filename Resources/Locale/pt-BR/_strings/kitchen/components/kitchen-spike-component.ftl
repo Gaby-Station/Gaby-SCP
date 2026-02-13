@@ -1,4 +1,4 @@
-﻿comp-kitchen-spike-begin-hook-self = Você começa a se arrastar para { THE($hook) }!
+comp-kitchen-spike-begin-hook-self = Você começa a se arrastar para { THE($hook) }!
 comp-kitchen-spike-begin-hook-self-other = { CAPITALIZE(THE($victim)) } começa a arrastar { REFLEXIVE($victim) } para { THE($hook) }!
 
 comp-kitchen-spike-begin-hook-other-self = Você começa a arrastar { CAPITALIZE(THE($victim)) } para { THE($hook) }!

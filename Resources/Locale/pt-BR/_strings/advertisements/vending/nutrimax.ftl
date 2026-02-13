@@ -1,4 +1,4 @@
-﻿advertisement-nutrimax-1 = Nós gostamos de plantas!
+advertisement-nutrimax-1 = Nós gostamos de plantas!
 advertisement-nutrimax-2 = Você não quer um pouco?
 advertisement-nutrimax-3 = Os polegares mais verdes de todos os tempos.
 advertisement-nutrimax-4 = Gostamos de plantas grandes.

@@ -1,4 +1,4 @@
-﻿admin-ui-baby-jail-window-title = Prisão de bebê
+admin-ui-baby-jail-window-title = Prisão de bebê
 
 admin-ui-baby-jail-enabled = Prisão de bebê habilitada
 admin-ui-baby-jail-disabled = Prisão de bebê desativada

@@ -1,4 +1,4 @@
-﻿# Popups
+# Popups
 
 network-configurator-device-saved = Dispositivo de rede {$device} salvo com sucesso com endereço {$address}!
 network-configurator-device-failed = Falha ao salvar o dispositivo de rede {$device}! Nenhum endereço atribuído!

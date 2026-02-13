@@ -1,4 +1,4 @@
-﻿changecvar-simple-debug_test_cvar = Não faz nada.
+changecvar-simple-debug_test_cvar = Não faz nada.
 changecvar-full-debug_test_cvar = Apenas um simples teste cvar. Não faz nada.
 
 changecvar-simple-events_enabled = Controla se o jogo deve executar eventos de estação.

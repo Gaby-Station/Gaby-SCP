@@ -1,4 +1,4 @@
-﻿alert-name-scp096-face  = Estado
+alert-name-scp096-face  = Estado
 alert-desc-scp096-face-base  = Esse rosto... vil e feio. Reflete seu estado mental e físico atual.
     ​[bold] Задумываясь об этом, внутри что-то говорит... [/bold]
     ​

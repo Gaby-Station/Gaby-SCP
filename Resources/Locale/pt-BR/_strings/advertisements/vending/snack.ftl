@@ -1,4 +1,4 @@
-﻿advertisement-snack-1 = Experimente a nossa nova barra de nougat!
+advertisement-snack-1 = Experimente a nossa nova barra de nougat!
 advertisement-snack-2 = O dobro das calorias pela metade do preço!
 advertisement-snack-3 = O mais saudável!
 advertisement-snack-4 = Barras de chocolate premiadas!

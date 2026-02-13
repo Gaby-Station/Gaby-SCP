@@ -1,4 +1,4 @@
-﻿cmd-showaccessreaders-desc = Alterna a exibição das permissões do leitor de acesso no mapa
+cmd-showaccessreaders-desc = Alterna a exibição das permissões do leitor de acesso no mapa
 cmd-showaccessreaders-help =
     Overlay Info:
     -Disabled | The access reader is disabled

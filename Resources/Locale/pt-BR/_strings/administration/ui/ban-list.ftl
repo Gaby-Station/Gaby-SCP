@@ -1,4 +1,4 @@
-﻿# UI
+# UI
 ban-list-bans = Proibições
 ban-list-role-bans = Proibições de funções
 

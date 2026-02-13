@@ -1,4 +1,4 @@
-﻿cmd-bql_select-desc = Mostrar resultados de uma consulta BQL em uma janela do lado do cliente
+cmd-bql_select-desc = Mostrar resultados de uma consulta BQL em uma janela do lado do cliente
 cmd-bql_select-help = Uso: bql_select <bql query>
     The opened window allows you to teleport to or view variables the resulting entities.
 

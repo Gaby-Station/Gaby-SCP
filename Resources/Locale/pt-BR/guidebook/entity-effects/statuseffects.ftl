@@ -1,4 +1,4 @@
-﻿entity-effect-status-effect-Stun = esplêndido
+entity-effect-status-effect-Stun = esplêndido
 entity-effect-status-effect-KnockedDown = Derrubar
 entity-effect-status-effect-Jitter = tremor
 entity-effect-status-effect-TemporaryBlindness = cegueira

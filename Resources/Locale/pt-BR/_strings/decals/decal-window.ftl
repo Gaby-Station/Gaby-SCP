@@ -1,4 +1,4 @@
-﻿decal-placer-window-title = Colocador de decalques
+decal-placer-window-title = Colocador de decalques
 decal-placer-window-use-color = Cor personalizada
 decal-placer-window-rotation = Rotação
 decal-placer-window-zindex = Profundidade do desenho

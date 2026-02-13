@@ -1,4 +1,4 @@
-﻿cmd-forceghost-desc = Faz do jogador um observador.
+cmd-forceghost-desc = Faz do jogador um observador.
 cmd-forceghost-help = Uso: forceghost <player>
 
 cmd-forceghost-error-lobby = O jogador alvo não pode fantasma agora. Eles não estão no jogo!

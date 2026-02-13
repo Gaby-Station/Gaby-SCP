@@ -1,4 +1,4 @@
-﻿parse-minutes-fail = Não é possível analisar '{$minutes}' como minutos
+parse-minutes-fail = Não é possível analisar '{$minutes}' como minutos
 parse-session-fail = Não foi encontrada sessão para '{$username}'
 
 ## Role Timer Commands

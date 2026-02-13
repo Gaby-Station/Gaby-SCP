@@ -1,4 +1,4 @@
-﻿intercom-menu-title = Interfone
+intercom-menu-title = Interfone
 intercom-channel-label = Canal:
 intercom-button-text-mic = Microfone.
 intercom-button-text-speaker = Spkr.

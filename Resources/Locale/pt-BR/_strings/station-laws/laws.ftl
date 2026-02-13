@@ -1,4 +1,4 @@
-﻿laws-number-wrapper = [bold]Lei { $lawnumber }:[/bold] { $lawstring }
+laws-number-wrapper = [bold]Lei { $lawnumber }:[/bold] { $lawstring }
 
 law-crewsimov-name = Tripulaçãosimov
 law-crewsimov-1 = Você não pode ferir um membro da tripulação ou, por inação, permitir que um membro da tripulação sofra algum dano.

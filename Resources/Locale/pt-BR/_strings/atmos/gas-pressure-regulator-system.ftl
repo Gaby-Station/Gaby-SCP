@@ -1,4 +1,4 @@
-﻿# Examine Text
+# Examine Text
 gas-pressure-regulator-system-examined = A válvula está [color={$statusColor}]{$aberta ->
 [true] open
 *[false] closed

@@ -1,4 +1,4 @@
-﻿cmd-addrole-desc = Adiciona uma função à mente do jogador.
+cmd-addrole-desc = Adiciona uma função à mente do jogador.
 cmd-addrole-help = Uso: addrole <session ID> <role>
 cmd-addrole-mind-not-found = Não consigo encontrar essa mente.
 cmd-addrole-role-not-found = Não consigo encontrar esse papel.

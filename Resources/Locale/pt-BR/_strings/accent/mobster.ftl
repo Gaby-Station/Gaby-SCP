@@ -1,4 +1,4 @@
-﻿accent-mobster-prefix-1 = Novamente,
+accent-mobster-prefix-1 = Novamente,
 
 accent-mobster-suffix-boss-1 = , ver?
 accent-mobster-suffix-boss-2 = , fugido sobre isso.

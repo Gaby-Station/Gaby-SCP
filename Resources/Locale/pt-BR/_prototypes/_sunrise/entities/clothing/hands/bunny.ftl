@@ -1,2 +1,2 @@
-﻿ent-BunnyManjets  = punhos
+ent-BunnyManjets  = punhos
     .desc  = Lindos punhos de terno.

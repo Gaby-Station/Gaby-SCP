@@ -1,4 +1,4 @@
-﻿ent-BaseMechPod = { "" }
+ent-BaseMechPod = { "" }
     .desc = { "" }
 ent-MechSecPod = Pod de segurança
     .desc = Apesar do seu tamanho, o Security Pod possui uma mobilidade incrível no espaço graças aos seus motores.

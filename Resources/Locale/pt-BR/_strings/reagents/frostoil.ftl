@@ -1,3 +1,3 @@
-﻿### Messages that pop up when metabolizing Frost Oil.
+### Messages that pop up when metabolizing Frost Oil.
 
 frost-oil-effect-light-cold = Você sente um leve formigamento na garganta...

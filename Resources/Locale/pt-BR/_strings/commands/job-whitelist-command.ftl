@@ -1,4 +1,4 @@
-﻿cmd-jobwhitelist-job-does-not-exist = A tarefa {$job} não existe.
+cmd-jobwhitelist-job-does-not-exist = A tarefa {$job} não existe.
 cmd-jobwhitelist-player-not-found = Jogador {$player} não encontrado.
 cmd-jobwhitelist-hint-player = [player]
 cmd-jobwhitelist-hint-job = [job]

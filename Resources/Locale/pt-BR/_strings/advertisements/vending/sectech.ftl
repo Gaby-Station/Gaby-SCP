@@ -1,4 +1,4 @@
-﻿advertisement-sectech-1 = Quebre crânios de sindicatos!
+advertisement-sectech-1 = Quebre crânios de sindicatos!
 advertisement-sectech-2 = Bata algumas cabeças!
 advertisement-sectech-3 = Não se esqueça: o mal é bom!
 advertisement-sectech-4 = Suas armas estão bem aqui.

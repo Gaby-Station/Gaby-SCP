@@ -1,4 +1,4 @@
-﻿### EmitterComponent
+### EmitterComponent
 
 # Shows when attempting to turn the emitter on or off without proper access
 comp-emitter-access-locked = O {$target} está com acesso bloqueado!

@@ -1,4 +1,4 @@
-﻿## Damage command loc.
+## Damage command loc.
 
 damage-command-description = Adicione ou remova danos a uma entidade.
 damage-command-help = Uso: {$command} <type/group> <amount> [ignoreResistances] [uid]

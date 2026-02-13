@@ -1,4 +1,4 @@
-﻿roles-antag-generic-solo-antagonist-name = Antagonista Solo
+roles-antag-generic-solo-antagonist-name = Antagonista Solo
 
 roles-antag-generic-free-agent-name = Agente Livre
 

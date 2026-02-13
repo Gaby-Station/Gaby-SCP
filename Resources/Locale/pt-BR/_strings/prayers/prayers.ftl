@@ -1,4 +1,4 @@
-﻿prayer-verbs-subtle-message = Mensagem sutil
+prayer-verbs-subtle-message = Mensagem sutil
 prayer-verbs-pray = Rezar
 prayer-verbs-call = Chamar
 prayer-verbs-rub = Esfregar

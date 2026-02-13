@@ -1,4 +1,4 @@
-﻿advertisement-dinnerware-1 = Hum, alimentos!
+advertisement-dinnerware-1 = Hum, alimentos!
 advertisement-dinnerware-2 = Alimentos e acessórios alimentares.
 advertisement-dinnerware-3 = Pegue seus pratos!
 advertisement-dinnerware-4 = Você gosta de garfos?

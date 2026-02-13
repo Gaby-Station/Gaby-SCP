@@ -1,4 +1,4 @@
-﻿advertisement-pride-1 = Seja gay, faça crime!
+advertisement-pride-1 = Seja gay, faça crime!
 advertisement-pride-2 = Cheio de cores!
 advertisement-pride-3 = Você é válido!
 advertisement-pride-4 = O primeiro orgulho foi um motim!

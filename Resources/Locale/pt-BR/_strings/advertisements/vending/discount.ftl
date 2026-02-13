@@ -1,4 +1,4 @@
-﻿advertisement-discount-1 = Desconto Dan, ele é o cara!
+advertisement-discount-1 = Desconto Dan, ele é o cara!
 advertisement-discount-2 = Não há nada melhor neste mundo do que um pouco de mistério.
 advertisement-discount-3 = Não dê ouvidos a essas outras máquinas, compre meu produto!
 advertisement-discount-4 = Quantidade acima da qualidade!

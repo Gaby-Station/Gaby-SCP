@@ -1,4 +1,4 @@
-﻿advertisement-happyhonk-1 = Buzina! Buzina! Por que não pedir um Happy Honk Meal hoje?
+advertisement-happyhonk-1 = Buzina! Buzina! Por que não pedir um Happy Honk Meal hoje?
 advertisement-happyhonk-2 = Palhaços merecem um abraço, se você vir um não deixe de demonstrar seu agradecimento.
 advertisement-happyhonk-3 = Se você encontrar o Golden Honker, então ore aos deuses, você é uma pessoa de sorte.
 advertisement-happyhonk-4 = Happy Honk: é uma refeição, é um acordo, tem um brinquedo de plástico que vai te fazer gritar.

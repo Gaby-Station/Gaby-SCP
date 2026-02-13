@@ -1,2 +1,2 @@
-﻿ent-BunnyButterfly  = borboleta com gola
+ent-BunnyButterfly  = borboleta com gola
     .desc  = Laço de pescoço com gola branca.

@@ -1,4 +1,4 @@
-﻿## Targets
+## Targets
 
 uplink-core-extraction-toolbox-name = Caixa de ferramentas de extração de núcleo
 uplink-core-extraction-toolbox-desc = Uma caixa de ferramentas contendo tudo que você precisa para remover o núcleo de plutônio de uma bomba nuclear. Instruções não incluídas.

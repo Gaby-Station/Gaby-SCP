@@ -1,4 +1,4 @@
-﻿scp330-bowl-empty  = SEUS ESCOVAS CAÍRAM!
+scp330-bowl-empty  = SEUS ESCOVAS CAÍRAM!
 scp330-removed-hands  = SEUS ESCOVAS CAÍRAM!
 scp330-cant-see-count  = Daqui você não consegue ver quantos deles sobraram...
 scp330-see-count  = Em uma tigela { $count ->

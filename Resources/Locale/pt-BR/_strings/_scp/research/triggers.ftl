@@ -1,4 +1,4 @@
-﻿artifact-trigger-hint-insert-into-container  = Coloque dentro
+artifact-trigger-hint-insert-into-container  = Coloque dentro
 artifact-trigger-hint-remove-from-container  = Elevação
 artifact-trigger-hint-take-item  = Colocar
 artifact-trigger-hint-drop-item  = Colocar

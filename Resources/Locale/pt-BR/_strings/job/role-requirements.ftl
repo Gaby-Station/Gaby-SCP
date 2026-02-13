@@ -1,4 +1,4 @@
-﻿role-timer-department-insufficient = Você precisa de [color=yellow]{$time}[/color] mais tempo de jogo no departamento [color={$departmentColor}]{$department}[/color] para desbloquear isso.
+role-timer-department-insufficient = Você precisa de [color=yellow]{$time}[/color] mais tempo de jogo no departamento [color={$departmentColor}]{$department}[/color] para desbloquear isso.
 role-timer-department-too-high = Você precisa de [color=yellow]{$time}[/color] menos tempo de jogo no departamento [color={$departmentColor}]{$department}[/color] para selecionar esta opção. (Você está tentando desempenhar um papel de trainee?)
 role-timer-overall-insufficient = Você precisa de [color=yellow]{$time}[/color] mais tempo de jogo geral para desbloquear isso.
 role-timer-overall-too-high = Você precisa de [color=yellow]{$time}[/color] menos tempo de jogo geral para selecionar esta opção. (Você está tentando desempenhar um papel de trainee?)

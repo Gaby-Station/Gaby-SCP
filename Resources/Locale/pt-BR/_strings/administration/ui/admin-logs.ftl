@@ -1,4 +1,4 @@
-﻿admin-logs-title = Painel de registros administrativos
+admin-logs-title = Painel de registros administrativos
 admin-logs-count = Mostrando {$showing}/{$total} de {$round}
 admin-logs-export = Exportar
 admin-logs-pop-out = Sair

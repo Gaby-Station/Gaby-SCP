@@ -1,4 +1,4 @@
-﻿## TabletopGameComponent
+## TabletopGameComponent
 tabletop-verb-play-game = Jogar
 tabletop-verb-dump-pieces = Despejar peças
 tabletop-default-board-name = Jogo de tabuleiro

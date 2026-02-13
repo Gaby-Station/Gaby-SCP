@@ -1,4 +1,4 @@
-﻿# UI
+# UI
 admin-notes-title = Notas para {$player}
 admin-notes-new-note = Nova nota
 admin-notes-show-more = Mostrar mais

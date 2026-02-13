@@ -1,4 +1,4 @@
-﻿nukeops-title = Operativos Nucleares
+nukeops-title = Operativos Nucleares
 nukeops-description = Operativos nucleares têm como alvo a estação. Tente impedi-los de armar e detonar a bomba nuclear, protegendo o disco nuclear!
 
 nukeops-welcome =

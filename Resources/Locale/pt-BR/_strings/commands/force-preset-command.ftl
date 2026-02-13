@@ -1,4 +1,4 @@
-﻿cmd-forcepreset-desc = Força o início de uma predefinição de jogo específica para o lobby atual.
+cmd-forcepreset-desc = Força o início de uma predefinição de jogo específica para o lobby atual.
 cmd-forcepreset-help = Uso: forcepreset <preset>
 cmd-forcepreset-preround-lobby-only = Isso só pode ser executado enquanto o jogo estiver no lobby da pré-rodada.
 cmd-forcepreset-no-preset-found = Não existe nenhuma predefinição com o nome {$preset}.

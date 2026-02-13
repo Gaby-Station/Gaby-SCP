@@ -1,4 +1,4 @@
-﻿advertisement-nanomed-1 = Vá salvar algumas vidas!
+advertisement-nanomed-1 = Vá salvar algumas vidas!
 advertisement-nanomed-2 = As melhores coisas para o seu medbay.
 advertisement-nanomed-3 = Apenas as melhores ferramentas.
 advertisement-nanomed-4 = Produtos químicos naturais!

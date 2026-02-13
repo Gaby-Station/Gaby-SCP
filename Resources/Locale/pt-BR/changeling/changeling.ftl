@@ -1,4 +1,4 @@
-﻿roles-antag-changeling-name = Mutano
+roles-antag-changeling-name = Mutano
 roles-antag-changeling-objective = Um predador inteligente que assume a identidade de suas vítimas.
 
 changeling-devour-attempt-failed-rotting = Este cadáver tem apenas biomassa apodrecida.

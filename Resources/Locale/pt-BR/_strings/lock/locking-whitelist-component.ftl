@@ -1,1 +1,1 @@
-﻿locking-whitelist-component-lock-toggle-deny = Você não pode alternar o bloqueio.
+locking-whitelist-component-lock-toggle-deny = Você não pode alternar o bloqueio.

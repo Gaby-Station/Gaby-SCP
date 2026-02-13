@@ -1,4 +1,4 @@
-﻿advertisement-chefvend-1 = Pelo menos sessenta por cento dos nossos ovos intactos, garantido!
+advertisement-chefvend-1 = Pelo menos sessenta por cento dos nossos ovos intactos, garantido!
 advertisement-chefvend-2 = Arroz, arroz, querido.
 advertisement-chefvend-3 = Coloque um pouco de manteiga nele!
 advertisement-chefvend-4 = Você vale o seu sal? Nós somos.

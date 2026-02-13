@@ -1,4 +1,4 @@
-﻿advertisement-donut-1 = Cada um de nós é um pequeno policial!
+advertisement-donut-1 = Cada um de nós é um pequeno policial!
 advertisement-donut-2 = Espero que você esteja com fome!
 advertisement-donut-3 = Mais de 1 milhão de donuts vendidos!
 advertisement-donut-4 = Orgulhamo-nos da consistência dos nossos produtos!

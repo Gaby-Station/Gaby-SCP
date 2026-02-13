@@ -1,4 +1,4 @@
-﻿silicon-law-ui-verb = Gerenciar leis
+silicon-law-ui-verb = Gerenciar leis
 silicon-law-ui-title = Leis do silício
 silicon-law-ui-new-law = Nova lei
 silicon-law-ui-save = Salvar alterações

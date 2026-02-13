@@ -1,4 +1,4 @@
-﻿department-Cargo-description = Complete recompensas, ganhe Spessos e peça suprimentos úteis para a tripulação.
+department-Cargo-description = Complete recompensas, ganhe Spessos e peça suprimentos úteis para a tripulação.
 department-Civilian-description = Execute pequenas tarefas úteis para manter a estação sã e bem cuidada.
 department-Command-description = Gerencie a equipe e mantenha-a trabalhando com eficiência.
 department-CentralCommand-description = Gerencie a equipe e mantenha-a trabalhando com eficiência.

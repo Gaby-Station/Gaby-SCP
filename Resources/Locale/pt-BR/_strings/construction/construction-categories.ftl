@@ -1,4 +1,4 @@
-﻿construction-category-all = Todos
+construction-category-all = Todos
 construction-category-furniture = Mobília
 construction-category-storage = Armazenar
 construction-category-tools = Ferramentas

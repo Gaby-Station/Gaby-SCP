@@ -1,4 +1,4 @@
-﻿advertisement-smite-1 = ATAQUE! Proíba sua sede!
+advertisement-smite-1 = ATAQUE! Proíba sua sede!
 advertisement-smite-2 = Uma explosão misteriosa de limão e lima!
 advertisement-smite-3 = Mais de 1 milhão de bebidas vendidas!
 advertisement-smite-4 = ATAQUE! Role 2d8 para SABOR.

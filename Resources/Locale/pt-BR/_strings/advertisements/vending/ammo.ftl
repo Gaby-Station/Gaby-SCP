@@ -1,4 +1,4 @@
-﻿advertisement-ammo-1 = Estação de Libertação: Seu balcão único para todas as coisas relacionadas à Segunda Emenda!
+advertisement-ammo-1 = Estação de Libertação: Seu balcão único para todas as coisas relacionadas à Segunda Emenda!
 advertisement-ammo-2 = Seja um patriota hoje, pegue uma arma!
 advertisement-ammo-3 = Armas de qualidade por preços baratos!
 advertisement-ammo-4 = Melhor morto do que vermelho!

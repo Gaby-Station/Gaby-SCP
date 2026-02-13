@@ -1,4 +1,4 @@
-﻿advertisement-vendomat-1 = Apenas os melhores!
+advertisement-vendomat-1 = Apenas os melhores!
 advertisement-vendomat-2 = Tenha algumas ferramentas.
 advertisement-vendomat-3 = O equipamento mais robusto.
 advertisement-vendomat-4 = O melhor equipamento do espaço!

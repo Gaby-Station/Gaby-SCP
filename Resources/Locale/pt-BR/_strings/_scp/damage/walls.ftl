@@ -1,4 +1,4 @@
-﻿scp-wall-metal-damaged-1  = A parede parece intacta.
+scp-wall-metal-damaged-1  = A parede parece intacta.
 scp-wall-metal-damaged-2  = Amassados ​​​​e lascas individuais do revestimento são visíveis.
 scp-wall-metal-damaged-3  = Amassados ​​​​e lascas individuais do revestimento são visíveis.
 scp-wall-metal-damaged-4  = O metal está visivelmente deformado, rachaduras podem ser vistas na estrutura.

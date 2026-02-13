@@ -1,4 +1,4 @@
-﻿### Localization used for the list verbs command.
+### Localization used for the list verbs command.
 # Mostly help + error messages.
 
 list-verbs-command-description = Lista todos os verbos que um jogador pode usar em uma determinada entidade.

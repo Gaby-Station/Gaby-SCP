@@ -1,4 +1,4 @@
-﻿### Localization used for the invoke verb command.
+### Localization used for the invoke verb command.
 # Mostly help + error messages.
 
 invoke-verb-command-description = Invoca um verbo com o nome dado em uma entidade, com a entidade do jogador
