@@ -1,0 +1,14 @@
+ent-ClothingShoesBootsJackSec = { ent-ClothingShoesBootsJack }
+    .desc = { ent-ClothingShoesBootsJack.desc }
+ent-ClothingShoesBootsBlueShield = botas de escudo azul
+    .desc = Azul ou azul, eis a questão.
+ent-ClothingShoesBootsPrisonerGrey = botas de prisioneiro
+    .desc = Por que eles não são laranja?
+ent-ClothingShoesUSSPBlack = Botas de couro USSP
+    .desc = Coisas antigas, saídas diretamente do SSSP.
+ent-ClothingShoesEliteCaptain = botas de capitão
+    .desc = O design das botas tem um efeito de amortecimento que proporciona conforto ao nível do capitão.
+ent-ClothingShoesBootsMajima = sapatos da moda
+    .desc = Sapatos da moda com biqueira de aço.
+ent-ClothingShoesBootsMettaton = sapatos elegantes estilo roupas de ópio
+    .desc = Sapatos de ópio da moda direto dos anos 80.

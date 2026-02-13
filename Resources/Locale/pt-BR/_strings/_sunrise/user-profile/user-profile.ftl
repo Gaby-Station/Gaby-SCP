@@ -1,0 +1,11 @@
+user-profile-no-sponsor = Отсутствует
+user-profile-sponsor-title = Patrocinador
+user-profile-level = Verdadeiro:
+user-profile-social-links = Соц.сети
+user-profile-sponsor-info-button = Informações
+user-profile-sponsor-buy-button = Prioбрести
+user-profile-service-link = Possível
+user-profile-service-discord = Discórdia:
+user-profile-service-telegram = Telegrama:
+user-profile-service-github = Github:
+user-profile-service-reset = Отвязать

@@ -1,0 +1,17 @@
+ent-OrganVoxLungs = { ent-OrganHumanLungs }
+    .desc = Os pulmões azuis e anaeróbicos de um vox, eles ingerem nitrogênio para respirar. Qualquer forma de oxigênio gasoso é letalmente tóxica se inalada.
+    .suffix = voz
+ent-OrganVoxStomach = estômago
+    .desc = Um estômago que cheira a amônia.
+ent-OrganVoxLiver = fígado
+    .desc = Cheira a inflamável.
+ent-OrganVoxHeart = coração
+    .desc = O estranho coração de uma vox.
+ent-OrganVoxKidneys = rim
+    .desc = Cheira a inflamável.
+ent-OrganVoxEyes = olhos
+    .desc = Um par de olhos vox.
+ent-OrganVoxTongueA = língua
+    .desc = Um músculo carnudo usado principalmente para gritar.
+ent-OrganVoxTongueB = língua
+    .desc = Um músculo carnudo usado principalmente para gritar.

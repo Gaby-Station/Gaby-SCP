@@ -1,0 +1,10 @@
+job-name-external-administrative-zone-commandant = Comandante da Zona Administrativa Externa
+job-description-external-administrative-zone-commandant = Chefe de segurança da EAZ, responsável pela segurança do território atribuído, pela integridade dos portões A e B e pela segurança da liderança do complexo localizado na EAZ. CLASSE C
+job-name-senior-external-administrative-zone-officer = Oficial Sênior da Zona Administrativa Externa
+job-description-senior-external-administrative-zone-officer = Especialista de elite, um pau para toda obra. Possui armamento especial e poderes estendidos, atuando como braço direito do Comandante. CLASSE C
+job-name-external-administrative-zone-officer = Oficial de Zona Administrativa Externa
+job-description-external-administrative-zone-officer = Especialista em segurança desempenhando funções básicas, patrulhando a EAZ e acompanhando a administração do complexo até os portões do TSC. CLASSE C
+job-name-junior-external-administrative-zone-officer = Diretor Júnior da Zona Administrativa Externa
+job-description-junior-external-administrative-zone-officer = Agente de segurança júnior em treinamento. CLASSE C
+job-supervisors-security-commander = Chefe de Segurança
+job-supervisors-external-administrative-zone-commandant = Comandante da Zona Administrativa Externa

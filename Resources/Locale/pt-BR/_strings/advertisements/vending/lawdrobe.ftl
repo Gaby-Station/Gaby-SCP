@@ -1,0 +1,14 @@
+advertisement-lawdrobe-1 = OBJEÇÃO! Obtenha o Estado de Direito para você!
+advertisement-lawdrobe-2 = Vá incomodar a segurança até que eles cumpram suas próprias regras!
+advertisement-lawdrobe-3 = Um novo caso acabou de chegar? Vá tirá-los da prisão!
+advertisement-lawdrobe-4 = Um donut por dia mantém a segurança afastada!
+advertisement-lawdrobe-5 = Ninguém está acima da lei!
+advertisement-lawdrobe-6 = Não, oficial, não concordo com uma busca!
+advertisement-lawdrobe-7 = Injetar drogas espaciais não deixa evidências!
+advertisement-lawdrobe-8 = Você ou um ente querido foi ferido pelo Nanotrasen? Muito ruim!
+advertisement-lawdrobe-9 = Caso encerrado! O réu tem muito gotejamento!
+thankyou-lawdrobe-1 = Você pode ganhar qualquer caso com essa roupa!
+thankyou-lawdrobe-2 = Compre um para o seu cliente também!
+thankyou-lawdrobe-3 = Ganhe ou perca, você será pago de qualquer maneira!
+thankyou-lawdrobe-4 = Lembre-se: só é ilegal se você for pego!
+thankyou-lawdrobe-5 = OBJEÇÃO! Essa roupa é legal demais para o tribunal!

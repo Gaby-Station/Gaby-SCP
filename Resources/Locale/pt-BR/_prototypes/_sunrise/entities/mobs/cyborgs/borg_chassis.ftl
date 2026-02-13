@@ -1,0 +1,14 @@
+ent-BorgChassisSecurity = ciborgue de segurança
+    .desc = { ent-BorgChassisSelectable.desc }
+ent-BorgChassisPeace = ciborgue da paz
+    .desc = { ent-BorgChassisSelectable.desc }
+ent-BorgChassisClown = palhaço ciborgue
+    .desc = { ent-BorgChassisSelectable.desc }
+ent-BorgChassisSyndicateReaper = sindicato ceifador ciborgue
+    .desc = { ent-BaseBorgChassisSyndicate.desc }
+ent-BorgChassisERT = Ciborgue ERT
+    .desc = Um robô de combate Nanotrasen projetado para apoiar a Equipe de Resposta a Emergências em operações de combate.
+ent-BorgChassisSyndicateHeavy = ciborgue de combate pesado do sindicato
+    .desc = Uma versão modernizada do ciborgue de combate do Sindicato, equipado com armas pesadas e um casco robusto.
+ent-BorgChassisSyndicateSpider = ciborgue-sabotador do sindicato
+    .desc = O pequeno robô do Syndicate, projetado para o Diversion Squad, está equipado com tudo que você precisa para grandes sabotagens.

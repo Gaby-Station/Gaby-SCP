@@ -1,0 +1,9 @@
+ent-BodyBag = saco para cadáveres
+    .desc = Saco plástico projetado para armazenamento e transporte de cadáveres para impedir a decomposição corporal.
+ent-BodyBagFolded = saco para cadáveres
+    .desc = Saco plástico projetado para armazenamento e transporte de cadáveres para impedir a decomposição corporal.
+    .suffix = dobrado
+ent-Ash = cinzas
+    .desc = Isso costumava ser alguma coisa, mas agora não é.
+ent-Ectoplasm = ectoplasma
+    .desc = Muito menos mortal nesta forma.

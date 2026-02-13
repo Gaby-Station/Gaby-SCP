@@ -1,0 +1,13 @@
+ent-BaseMagazineShotgun = tambor de munição (0,50 cartuchos)
+    .desc = { ent-BaseItem.desc }
+ent-MagazineShotgunEmpty = tambor de munição (0,50 cartuchos qualquer)
+    .suffix = vazio
+    .desc = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgun = tambor de munição (0,50 pelota)
+    .desc = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgunBeanbag = tambor de munição (0,50 pufes)
+    .desc = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgunSlug = tambor de munição (bala 0,50)
+    .desc = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgunIncendiary = tambor de munição (0,50 incendiário)
+    .desc = { ent-BaseMagazineShotgun.desc }

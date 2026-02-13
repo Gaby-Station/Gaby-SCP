@@ -1,0 +1,14 @@
+ent-BaseToilet = banheiro
+    .desc = O HT-451, uma unidade de eliminação de resíduos baseada em rotação de torque para pequenos materiais. Este parece extremamente limpo.
+ent-ToiletEmpty = banheiro
+    .desc = O HT-451, uma unidade de eliminação de resíduos baseada em rotação de torque para pequenos materiais. Este parece extremamente limpo.
+    .suffix = Vazio
+ent-ToiletDirtyWater = { ent-ToiletEmpty }
+    .suffix = Água Suja
+    .desc = { ent-ToiletEmpty.desc }
+ent-ToiletGoldenEmpty = banheiro dourado
+    .desc = O HT-451G é a versão dourada do aparelho. Na lateral diz que é feito do mais puro ouro mercuriano e tem assento de couro verdadeiro.
+    .suffix = Vazio
+ent-ToiletGoldenDirtyWater = { ent-ToiletGoldenEmpty }
+    .suffix = Água Suja, StealTarget
+    .desc = { ent-ToiletGoldenEmpty.desc }

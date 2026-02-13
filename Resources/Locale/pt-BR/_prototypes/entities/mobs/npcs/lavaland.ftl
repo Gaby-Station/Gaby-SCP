@@ -1,0 +1,11 @@
+ent-MobWatcherBase = observador
+    .desc = É como se estivesse olhando através de você.
+ent-MobWatcherLavaland = { ent-MobWatcherBase }
+    .desc = { ent-MobWatcherBase.desc }
+ent-MobWatcherIcewing = observador de asas de gelo
+    .desc = { ent-MobWatcherBase.desc }
+ent-MobWatcherMagmawing = observador magmático
+    .desc = { ent-MobWatcherBase.desc }
+ent-MobWatcherPride = observador do orgulho
+    .desc = Esta subespécie rara só aparece em junho.
+    .suffix = Admeme

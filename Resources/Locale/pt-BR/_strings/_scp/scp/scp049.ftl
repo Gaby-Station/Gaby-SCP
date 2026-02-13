@@ -1,0 +1,10 @@
+scp049-kill-action-already-dead = A entidade já está morta.
+scp049-kill-action-cant-kill = A entidade não pode morrer.
+scp049-touch-action-success = { $performer } toca em { $target }.
+scp049-self-heal = { $performer } cura suas feridas.
+scp049-heal-minion = Cura as feridas de { $target }.
+scp049-ghost-role-name = SCP-049 Paciente Reanimado
+scp049-ghost-role-description = Você é uma vítima reanimada de SCP-049, conhecido como "O Médico da Peste". Você agora é seu servo leal, movido por um desejo irresistível de ajudar seu mestre em sua “cura”.
+scp049-ghost-role-rules = Siga as instruções de SCP-049. Não ataque outros escravos ou SCP-049. Seu objetivo principal é ajudar "The Plague Doctor" em sua missão. Você não tem lembranças de sua vida anterior.
+scp049-missing-surgery-tool = Preciso de { $instrument } para realizar uma cirurgia.
+scp049-cannot-zombify-entity = { $name } resiste e não pode ser curado.

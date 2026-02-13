@@ -1,0 +1,12 @@
+ent-CultRunicMetal = metal rúnico
+    .desc = Uma folha de metal incomum com uma runa pulsante.
+    .suffix = Completo
+ent-CultRunicMetal1 = { ent-CultRunicMetal }
+    .suffix = Solteiro
+    .desc = { ent-CultRunicMetal.desc }
+ent-CultRunicMetal20 = { ent-CultRunicMetal }
+    .suffix = 20
+    .desc = { ent-CultRunicMetal.desc }
+ent-CultRunicMetal10 = { ent-CultRunicMetal }
+    .suffix = 10
+    .desc = { ent-CultRunicMetal.desc }

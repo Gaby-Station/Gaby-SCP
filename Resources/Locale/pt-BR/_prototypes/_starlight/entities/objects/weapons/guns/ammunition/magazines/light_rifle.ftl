@@ -1,0 +1,17 @@
+ent-LightRifleHeavyBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-LightRifleHeavyMagazineEmpty = Caixa de revista (7,62 qualquer)
+    .suffix = vazio
+    .desc = { ent-LightRifleHeavyBase.desc }
+ent-LightRifleHeavyMagazineSP = Caixa de revistas (7,62 SP)
+    .desc = { ent-LightRifleHeavyBase.desc }
+ent-LightRifleHeavyMagazineHP = Caixa de revistas (7,62 HP)
+    .desc = { ent-LightRifleHeavyBase.desc }
+ent-LightRifleHeavyMagazineFMJ = Caixa de revistas (7,62 FMJ)
+    .desc = { ent-LightRifleHeavyBase.desc }
+ent-LightRifleHeavyMagazineIncendiary = Caixa de Revista (7,62 incendiária)
+    .desc = { ent-LightRifleHeavyBase.desc }
+ent-LightRifleHeavyMagazineUranium = Caixa de revistas (urânio 7,62)
+    .desc = { ent-LightRifleHeavyBase.desc }
+ent-LightRifleHeavyMagazineAP = Caixa de Revista (7,62 AP)
+    .desc = { ent-LightRifleHeavyBase.desc }

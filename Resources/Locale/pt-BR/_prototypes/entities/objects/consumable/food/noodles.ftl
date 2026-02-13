@@ -1,0 +1,16 @@
+ent-FoodNoodlesBase = { ent-FoodInjectableBase }
+    .desc = Essa é uma bela massa!
+ent-FoodNoodlesBoiled = espaguete cozido
+    .desc = Um prato simples de macarrão, precisa de mais ingredientes.
+ent-FoodNoodles = espaguete
+    .desc = Espaguete e tomate esmagado. Exatamente como seu pai abusivo costumava fazer!
+ent-FoodNoodlesCopy = copypasta
+    .desc = Você provavelmente não deveria tentar isso, você sempre ouve pessoas falando sobre como isso é ruim...
+ent-FoodNoodlesMeatball = espaguete e almôndegas
+    .desc = Isso é uma bela almôndega!
+ent-FoodNoodlesSpesslaw = lei de segurança
+    .desc = O favorito de um advogado.
+ent-FoodNoodlesChowmein = chow mein
+    .desc = Uma bela mistura de macarrão e legumes fritos.
+ent-FoodNoodlesButter = macarrão de manteiga
+    .desc = Macarrão coberto com manteiga saborosa. Simples e escorregadio, mas delicioso.

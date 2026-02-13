@@ -1,0 +1,11 @@
+ent-BaseHandheldStationMap = mapa da estação
+    .desc = Exibe uma leitura da estação atual.
+ent-HandheldStationMap = { ent-BaseHandheldStationMap }
+    .suffix = Portátil, alimentado
+    .desc = { ent-BaseHandheldStationMap.desc }
+ent-HandheldStationMapEmpty = { ent-HandheldStationMap }
+    .suffix = Portátil, vazio
+    .desc = { ent-HandheldStationMap.desc }
+ent-HandheldStationMapUnpowered = { ent-BaseHandheldStationMap }
+    .suffix = Portátil, sem energia
+    .desc = { ent-BaseHandheldStationMap.desc }

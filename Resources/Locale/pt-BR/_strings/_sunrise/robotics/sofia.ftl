@@ -1,0 +1,11 @@
+sofia-installed = Обнаружена нейронная активность.
+sofia-off = A ação negativa não foi realizada.
+sofia-still-searching = Идёт процесс синтетического нейронного дескремблирования...
+sofia-searching = Начинается процесс синтетического нейронного дескремблирования...
+sofia-role-name = роботический мозг синдиката
+sofia-role-description = Служите членам синдиката.
+sofia-wipe-device-verb-text = Estereome
+sofia-wiped-device = A ação negativa foi realizada.
+sofia-stop-searching-verb-text = Прекратить поиск
+sofia-stopped-searching = Não descreva a pré-definição.
+sofia-slot-component-slot-name-brain = Mозг

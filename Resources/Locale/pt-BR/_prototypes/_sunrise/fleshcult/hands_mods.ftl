@@ -1,0 +1,12 @@
+ent-FleshClaw = Garra de Carne
+    .desc = Garra de Carne
+    .suffix = Culto da Carne
+ent-FleshFist = punho de carne
+    .desc = Fisting custa trezentos dólares
+    .suffix = Culto da Carne
+ent-FleshBlade = Lâmina de carne
+    .desc = Lâmina de carne
+    .suffix = Culto da Carne
+ent-FleshSpikeHandGun = arma de pico
+    .suffix = Culto da Carne
+    .desc = { ent-BaseItem.desc }

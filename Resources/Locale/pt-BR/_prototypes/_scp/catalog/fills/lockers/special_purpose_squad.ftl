@@ -1,0 +1,9 @@
+ent-LockerHeavyContainmentZoneCommandantFilled = { ent-LockerHeavyContainmentZoneCommandant }
+    .suffix = Preenchido
+    .desc = { ent-LockerHeavyContainmentZoneCommandant.desc }
+ent-LockerHeavyContainmentZoneOfficerFilled = { ent-LockerHeavyContainmentZoneOfficer }
+    .suffix = Preenchido
+    .desc = { ent-LockerHeavyContainmentZoneOfficer.desc }
+ent-ScpLockerSpecialPurposeSquadFilledWardrobe = { ent-ScpLockerSpecialPurposeSquad }
+    .suffix = Cheio, Guarda-roupa
+    .desc = { ent-ScpLockerSpecialPurposeSquad.desc }

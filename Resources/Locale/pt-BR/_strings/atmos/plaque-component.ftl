@@ -1,0 +1,10 @@
+atmos-plaque-component-desc-zum  = Esta placa comemora a ascensão do departamento Atmos da ZUM. Deixe-os carregar a tocha que Atmos ZAS, LINDA e FEA deixaram para trás.
+atmos-plaque-component-desc-fea  = Esta placa comemora a queda do departamento Atmos FEA. Por todas as pessoas queimadas, tontas e frágeis que morreram nas suas mãos.
+atmos-plaque-component-desc-linda  = Esta placa comemora a queda do departamento Atmos da LINDA. Por todas as pessoas queimadas, tontas e frágeis que morreram nas suas mãos.
+atmos-plaque-component-desc-zas  = Esta placa comemora a queda do departamento Atmos da ZAS. Por todas as pessoas queimadas, tontas e frágeis que morreram nas suas mãos.
+atmos-plaque-component-desc-unset  = Hum
+atmos-plaque-component-name-zum  = Sinal do departamento Atmos ZUM
+atmos-plaque-component-name-fea  = Placa do Departamento Atmos FEA
+atmos-plaque-component-name-linda  = Atmos LINDA no tablet
+atmos-plaque-component-name-zas  = Atmos ZAS no tablet
+atmos-plaque-component-name-unset  = Hum

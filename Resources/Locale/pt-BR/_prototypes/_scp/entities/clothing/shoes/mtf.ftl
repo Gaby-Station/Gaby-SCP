@@ -1,0 +1,12 @@
+ent-ClothingShoesBootsMtfMilitary = botas militares
+    .desc = Botas militares pesadas com camuflagem urbana confeccionadas em couro grosso com sola de metal reforçada.
+    .suffix = FTM
+ent-ClothingShoesBootsMtfMilitaryFilled = { ent-ClothingShoesBootsMtfMilitary }
+    .desc = { ent-ClothingShoesBootsMtfMilitary.desc }
+    .suffix = FTM | Preenchido
+ent-ClothingShoesBootsNTFFilled = botas reforçadas
+    .desc = Botas táticas reforçadas de cor escura, projetadas para uso prolongado em condições de campo.
+    .suffix = FTM
+ent-ClothingShoesRRHFilled = botas de forças especiais
+    .desc = Botas de unidades especiais fortemente modificadas. Degrau silencioso, sola antiderrapante, bainha e comodidade.
+    .suffix = FTM | NÃO MAPEE

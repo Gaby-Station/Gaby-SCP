@@ -1,0 +1,3 @@
+cult-title  = Cultistas aparecem na estação, obcecados por uma ideia maníaca: chamar seu poderoso Deus para o nosso universo. Eles estão prontos para usar todas as forças e recursos disponíveis para alcançar esta missão ambiciosa e trazer caos e grandeza desconhecidos ao nosso mundo.
+cult-description  = Cultistas aparecem na estação, obcecados por uma ideia maníaca: chamar seu poderoso Deus para o nosso universo. Eles estão prontos para usar todas as forças e recursos disponíveis para alcançar esta missão ambiciosa e trazer caos e grandeza desconhecidos ao nosso mundo.
+objective-issuer-cult  = [color=red]Culto do Sangue[/color]

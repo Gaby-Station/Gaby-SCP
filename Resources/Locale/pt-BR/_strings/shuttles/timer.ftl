@@ -1,0 +1,11 @@
+shuttle-timer-eta = HEC
+shuttle-timer-etd = ETD
+shuttle-timer-shuttle-time = Tempo de transporte
+shuttle-timer-source-time = Tempo de origem
+shuttle-timer-dest-time = Hora de destino
+shuttle-timer-shuttle-map = ShuttleMap
+shuttle-timer-source-map = Mapa de origem
+shuttle-timer-dest-map = Mapa de destino
+shuttle-timer-docked = Ancorado
+shuttle-timer-bye = TCHAU!
+shuttle-timer-kill = MATAR

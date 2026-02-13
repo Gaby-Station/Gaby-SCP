@@ -1,0 +1,9 @@
+job-name-lead-researcher = Pesquisador Líder
+job-description-lead-researcher = Especialista científico sênior responsável pela formação de pesquisadores juniores. Gerencia equipes de pesquisa e participa do estudo de objetos. CLASSE C
+job-name-anomarchology-researcher = Pesquisador de Anomarcologia
+job-description-anomarchology-researcher = Pesquisador com formação arqueológica. Responsável por pesquisar e documentar experimentos com artefatos. CLASSE C
+job-name-production-specialist = Especialista em Produção
+job-description-production-specialist = Pesquisador com formação em engenharia. Produz materiais e itens em autolathes/protolathes, além de criar novos modelos de robôs. CLASSE C
+job-name-junior-researcher = Pesquisador Júnior
+job-description-junior-researcher = Pesquisador júnior de especialização geral. Aprende e escolhe outro subdepartamento de trabalho. CLASSE C
+job-supervisors-scientific-service-director = Diretor de Serviço Científico

@@ -1,0 +1,10 @@
+ent-ClothingMaskBandOrange = bandana laranja
+    .desc = Uma bandana laranja para deixar você com uma aparência descolada.
+ent-ClothingMaskBandYellow = bandana amarela
+    .desc = Uma bandana amarela para deixar você com uma aparência descolada.
+ent-ClothingMaskBandCyan = bandana ciano
+    .desc = bandana ciano para fazer você parecer legal.
+ent-ClothingMaskBandWhite = bandana branca
+    .desc = bandana branca para fazer você parecer legal.
+ent-ClothingMaskBandPurple = bandana roxa
+    .desc = bandana roxa para fazer você parecer legal.

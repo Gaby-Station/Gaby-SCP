@@ -1,0 +1,10 @@
+marking-VoxBeak  = Vox, Mão Esquerda, Balança
+marking-VoxLArmScales  = Vox, Mão Esquerda, Balança
+marking-VoxLHandScales  = Vox, Palma Esquerda, Balança
+marking-VoxRArmScales  = Vox, braço direito, balança
+marking-VoxRHandScales  = Vox, Palma Direita, Balança
+marking-VoxLFootScales  = Vox, pé esquerdo, balança
+marking-VoxLLegScales  = Vox, pé direito, balança
+marking-VoxRFootScales  = Vox, pé direito, balança
+marking-VoxRLegScales  = Vox, Perna Direita, Balança
+marking-VoxTail  = Vox, Cauda

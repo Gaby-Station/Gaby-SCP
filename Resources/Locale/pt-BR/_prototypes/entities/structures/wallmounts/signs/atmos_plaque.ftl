@@ -1,0 +1,10 @@
+ent-PlaqueAtmos = placa atmosférica
+    .desc = { ent-BaseSign.desc }
+ent-PlaqueAtmosFEA = Placa da Divisão Atmosférica da FEA
+    .desc = Esta placa comemora a queda da divisão Atmos FEA. Por todos os homens carbonizados, tontos e frágeis que morreram em suas mãos.
+ent-PlaqueAtmosLINDA = Placa da Divisão Atmosférica LINDA
+    .desc = Esta placa comemora a queda da divisão Atmos LINDA. Por todos os homens carbonizados, tontos e frágeis que morreram em suas mãos.
+ent-PlaqueAtmosZAS = Placa da Divisão Atmosférica ZAS
+    .desc = Esta placa comemora a queda da divisão Atmos ZAS. Por todos os homens carbonizados, tontos e frágeis que morreram em suas mãos.
+ent-PlaqueAtmosZUM = Placa da Divisão Atmosférica ZUM
+    .desc = Esta placa comemora a ascensão da divisão Atmos ZUM. Que eles carreguem a tocha que as divisões Atmos ZAS, LINDA e FEA deixaram para trás.

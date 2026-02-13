@@ -1,0 +1,12 @@
+recipe-CultGirder-name  = feixe rúnico
+recipe-CultGirder-description  = Grande elemento estrutural em metal. Há uma runa nele.
+recipe-AirlockGlassCult-name  = portal rúnico
+recipe-AirlockGlassCult-description  = Estranho portal de vidro com uma runa.
+recipe-CultPylon-name  = Projeto místico.
+recipe-CultPylon-description  = Projeto místico.
+recipe-AltarTome-name  = arquivos
+recipe-AltarTome-description  = Uma mesa repleta de manuscritos secretos e livros em línguas desconhecidas.
+recipe-CultBloodAltar-name  = Altar dos Deuses.
+recipe-CultBloodAltar-description  = Um maldito altar dedicado a alguma criatura.
+recipe-CultForge-name  = forja
+recipe-CultForge-description  = Uma forja onde são feitas armas profanas.

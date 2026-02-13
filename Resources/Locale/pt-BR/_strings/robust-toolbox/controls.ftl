@@ -1,0 +1,9 @@
+color-selector-sliders-red  = R
+color-selector-sliders-green  = G
+color-selector-sliders-blue  = H
+color-selector-sliders-hue  = H
+color-selector-sliders-saturation  = S
+color-selector-sliders-value  = V
+color-selector-sliders-alpha  = UM
+color-selector-sliders-rgb  = RGB
+color-selector-sliders-hsv  = HSV

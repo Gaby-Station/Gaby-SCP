@@ -1,0 +1,10 @@
+ent-WeaponRifleAk = AKMS
+    .desc = Um rifle de combate um tanto desgastado, com design originário da Terra Antiga. Favorecido por criminosos, milícias e terroristas devido à sua famosa confiabilidade e design fácil de fabricar. Alimenta-se de revistas de rifle .30.
+ent-WeaponRifleM90GrenadeLauncher = M-90gl
+    .desc = Um modelo de carabina bullpup mais antigo, com um lançador de granadas embaixo do cano acoplado. Usa munição de rifle .20.
+ent-WeaponRifleLecter = Lecter
+    .desc = Um rifle de assalto de nível militar de última geração. Usa munição de rifle .20.
+ent-WeaponRifleEstoc = Estoc DMR
+    .desc = Um rifle de atirador designado, preferido para combates de médio a longo alcance. Usa munição de rifle .20.
+ent-WeaponRifleFoam = Força de Espuma Astro Ace
+    .desc = Um rifle de espuma premium da mais alta qualidade. Seu plástico parece robusto e seus mecanismos, resistentes.

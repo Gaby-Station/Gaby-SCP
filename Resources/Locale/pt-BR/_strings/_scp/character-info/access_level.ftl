@@ -1,0 +1,14 @@
+access-level-name-zero = Nível 0 (Uso Geral)
+access-level-name-one = Nível 1 (Uso Oficial)
+access-level-name-two = Nível 2 (Uso Restrito)
+access-level-name-three = Nível 3 (Confidencial)
+access-level-name-four = Nível 4 (extremamente secreto)
+access-level-name-five = Nível 5 (Taumiel)
+access-level-name-unspecified = Nível de acesso desconhecido
+access-level-description-zero = O Nível de Acesso 0 é concedido a funcionários de baixo valor que não necessitam de acesso a informações sobre artefatos ou entidades anômalas contidas na Fundação.
+access-level-description-one = O Nível de Acesso 1 é concedido ao pessoal que trabalha próximo a objetos ou entidades anômalas, mas que não possui acesso direto, indireto ou informativo a eles, bem como ao pessoal que lida com informações classificadas.
+access-level-description-two = O Nível de Acesso 2 é concedido ao pessoal de segurança e pesquisa que requer acesso direto a informações básicas sobre objetos ou entidades anômalas contidas.
+access-level-description-three = O Nível de Acesso 3 é concedido a pessoal sênior de segurança e pesquisa que requer acesso a informações detalhadas sobre objetos ou entidades anômalas contidas, incluindo sua origem, circunstâncias de aquisição e planos de longo prazo.
+access-level-description-four = O Nível de Acesso 4 é concedido ao pessoal da alta administração que necessita de acesso a todas as informações de uma instalação e/ou região específica, bem como a planos de longo prazo relativos às operações e projetos de pesquisa da Fundação.
+access-level-description-five = O Nível de Acesso 5 é concedido ao pessoal de gestão da Fundação de mais alto nível e fornece acesso virtualmente total a todas as informações estratégicas e ultrassecretas.
+access-level-description-unspecified = Nível de acesso não declarado, impacto desconhecido.

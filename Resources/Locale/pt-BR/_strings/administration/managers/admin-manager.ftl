@@ -1,0 +1,13 @@
+admin-manager-self-de-admin-message = {$exAdminName} se desadministraram.
+admin-manager-self-re-admin-message = {$newAdminName} se readministraram.
+admin-manager-became-normal-player-message = Você agora é um jogador normal.
+admin-manager-became-admin-message = Agora você é um administrador.
+admin-manager-no-longer-admin-message = Você não é mais um administrador.
+admin-manager-admin-permissions-updated-message = Sua permissão de administrador foi atualizada.
+admin-manager-admin-logout-message = Sair do administrador: {$name}
+admin-manager-admin-login-message = Login de administrador: {$name}
+admin-manager-admin-data-host-title = Hospedar
+admin-manager-stealthed-message = Agora você é um administrador oculto.
+admin-manager-unstealthed-message = Você não está mais escondido.
+admin-manager-self-enable-stealth = {$stealthAdminName} agora está oculto.
+admin-manager-self-disable-stealth = {$exStealthAdminName} não está mais oculto.

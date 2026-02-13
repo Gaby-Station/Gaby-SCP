@@ -1,0 +1,12 @@
+reagent-name-disease-blood = мутная кровь
+reagent-description-disease-bad-physical-desc = Merzkoe
+reagent-description-disease-strange-physical-desc = странное
+mixing-verb-vaccinator = vacinador
+reagent-description-disease-blood = очень странная жидкость. Напоминает кровь
+reagent-name-disease-blood-reagent = заражённая жидкость
+reagent-name-notready-vaccine = vírus
+reagent-description-notready-vaccine = эта мерзкая жидкость не то, что не вылечит você, она ещё и заразит. Muito bem.
+reagent-name-vaccine = antivirusino
+reagent-description-vaccine = с лёгкостью сможет освободить вас от оков вируса! Não use imunidade.
+reagent-name-vaccine-plus = Antivirusin Plus
+reagent-description-vaccine-plus = наделит вас иммунитетом antes do vírus!

@@ -1,0 +1,15 @@
+ent-ClothingOuterEVASuitPirateOld  = antigo traje espacial EVA
+    .desc  = Um antigo traje blindado, perfeito para proteção contra o escorbuto espacial e canalhas que usam caixas de ferramentas.
+    .suffix  = Piratas
+ent-ClothingOuterEVASuitPirate  = Um traje espacial leve capaz de proteger o usuário do vácuo do espaço durante uma emergência.
+    .desc  = Fato de embarque em EVA
+    .suffix  = Piratas
+ent-ClothingOuterEVASuitPirateArmored  = Um terno surrado, coberto de fita adesiva e remendos. Uma armadura macia é colocada por cima, é igualmente cheia de buracos, mas ainda pode resistir a um golpe.
+    .desc  = Fato de embarque em EVA
+    .suffix  = Piratas
+ent-ClothingOuterEVASuitPirateArmoredAlt  = Fato de embarque em EVA
+    .desc  = Um terno surrado, coberto de fita adesiva e remendos. Uma armadura macia com uma caveira pintada é colocada no topo para que todos conheçam o poder dos Esqueletos! Ah! Ah!
+    .suffix  = Piratas
+ent-ClothingOuterHardsuitScaf  = Traje EVA
+    .desc  = Traje EVA verde-marrom usado por piratas e mercenários. Protege fracamente contra lasers, mas dificilmente aguenta balas. Projetado para uma fuga rápida quando as coisas dão errado.
+    .suffix  = Piratas

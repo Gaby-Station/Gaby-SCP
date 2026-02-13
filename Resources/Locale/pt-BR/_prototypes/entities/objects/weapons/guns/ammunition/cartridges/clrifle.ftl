@@ -1,0 +1,12 @@
+ent-CartridgeClRifleBase = cartucho (rifle .25)
+    .desc = { ent-BaseCartridge.desc }
+    .suffix = { "" }
+ent-CartridgeClRifle = cartucho (0,25 sem caixa)
+    .desc = { ent-CartridgeClRifleBase.desc }
+    .suffix = { "" }
+ent-CartridgeClRifleFlash = cartucho (0,25 flash sem caixa)
+    .desc = { ent-CartridgeClRifleBase.desc }
+    .suffix = { "" }
+ent-CartridgeClRiflePractice = cartucho (0,25 prática sem caixa)
+    .desc = { ent-CartridgeClRifleBase.desc }
+    .suffix = { "" }

@@ -1,0 +1,10 @@
+ent-BlankHandyFlag = bandeira portátil em branco
+    .desc = Um pedaço de pano branco enrolado em um pedaço de pau.
+ent-NTHandyFlag = Bandeira portátil Nanotrasen
+    .desc = Glória ao NT! Espere, eles realmente fizeram uma bandeira portátil para uma empresa?
+ent-SyndieHandyFlag = bandeira portátil do sindicato
+    .desc = Para patriotas verdadeiramente rebeldes. Morte ao NT!
+ent-LGBTQHandyFlag = Bandeira portátil LGBTQ
+    .desc = A bandeira seja gay, faça crime.
+ent-PirateHandyFlag = bandeira portátil pirata
+    .desc = Segurando-o nas mãos, mostre a essas carpas que você não está brincando.

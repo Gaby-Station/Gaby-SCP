@@ -1,0 +1,10 @@
+ent-BaseMagazineBoxCaselessRifle = caixa de munição (0,25 sem caixa)
+    .desc = { ent-BaseItem.desc }
+ent-MagazineBoxCaselessRifle = caixa de munição (0,25 sem caixa)
+    .desc = Uma caixa de papelão com 0,25 cartuchos sem caixa. Destinado a conter munição cinética de uso geral.
+ent-MagazineBoxCaselessRiflePractice = caixa de munição (0,25 prática sem caixa)
+    .desc = Uma caixa de papelão com 0,25 cartuchos sem caixa. Destinado a conter munição de giz não prejudicial.
+ent-MagazineBoxCaselessRifle10x24 = caixa de munição (0,25 sem caixa)
+    .desc = { ent-BaseMagazineBoxCaselessRifle.desc }
+ent-MagazineBoxCaselessRifleBig = caixa de munição (0,25 sem caixa)
+    .desc = { ent-BaseMagazineBoxCaselessRifle.desc }

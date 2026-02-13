@@ -1,0 +1,14 @@
+ent-BlastDoor = porta de explosão
+    .desc = Este diz 'BLAST DORGE'.
+ent-BlastDoorOpen = { ent-BlastDoor }
+    .suffix = Abrir
+    .desc = { ent-BlastDoor.desc }
+ent-BlastDoorFrame = moldura da porta de explosão
+    .desc = Este diz 'BLAST DORGE'.
+ent-BlastDoorXeno = porta de explosão xeno
+    .desc = Não perca um braço!
+ent-BlastDoorXenoOpen = { ent-BlastDoorXeno }
+    .suffix = Abrir
+    .desc = { ent-BlastDoorXeno.desc }
+ent-BlastDoorXenoFrame = moldura da porta de explosão xeno
+    .desc = Este diz 'BLAST DORGE'.

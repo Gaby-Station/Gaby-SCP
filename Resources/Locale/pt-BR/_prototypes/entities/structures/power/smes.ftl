@@ -1,0 +1,14 @@
+ent-BaseSMES = PME
+    .desc = Uma unidade de armazenamento de energia magnética supercondutora (SMES) de alta capacidade.
+ent-SMESBasic = { ent-BaseSMES }
+    .suffix = Básico, 8 MW
+    .desc = { ent-BaseSMES.desc }
+ent-SMESBasicEmpty = { ent-SMESBasic }
+    .suffix = Vazio
+    .desc = { ent-SMESBasic.desc }
+ent-SMESAdvanced = PMEs avançadas
+    .desc = Uma unidade de armazenamento de energia magnética supercondutora (SMES) de capacidade ainda maior.
+    .suffix = Avançado, 16MJ
+ent-SMESAdvancedEmpty = { ent-SMESAdvanced }
+    .suffix = Vazio
+    .desc = { ent-SMESAdvanced.desc }

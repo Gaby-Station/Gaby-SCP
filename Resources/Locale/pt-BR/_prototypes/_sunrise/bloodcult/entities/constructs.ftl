@@ -1,0 +1,12 @@
+ent-BaseConstruct = { "" }
+    .desc = { "" }
+ent-JuggernautConstruct = rolo compressor
+    .desc = grande e assustador
+ent-ArtificerConstruct = artífice
+    .desc = criar alguma merda
+ent-WraithConstruct = espectro
+    .desc = correr...
+ent-ReaperConstruct = ceifador
+    .desc = correr...
+ent-ConstructShell = construir casca
+    .desc = shell de construção vazio

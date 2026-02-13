@@ -1,0 +1,16 @@
+job-name-director = Diretor Complexo
+job-description-director = O supervisor direto do complexo, com acesso total. Suas tarefas incluem coordenar a administração para garantir a rápida conclusão das tarefas definidas pela RAF. Classe A
+job-name-scientific-service-director = Diretor de Serviço Científico
+job-description-scientific-service-director = Chefe do serviço científico do complexo, regulando o seu trabalho e na maioria das vezes responsável pela concretização do objetivo. A segunda pessoa mais importante do complexo. CLASSE A
+job-name-security-commander = Comandante de Segurança
+job-description-security-commander = O segundo “Chefe” do complexo, pois é o responsável direto pela operacionalidade da segurança de todas as Zonas - VA e TZS. Ele tem acesso total a toda a zona, além de equipamentos especiais para auxiliar em seu trabalho. A terceira pessoa mais importante do complexo. CLASSE B
+job-name-chief-technical-specialist = Especialista Técnico Chefe
+job-description-chief-technical-specialist = O técnico-chefe do complexo, responsável pela coordenação do serviço de TI. A quarta pessoa mais importante do complexo. CLASSE C
+job-name-personnel-officer = Oficial de Pessoal
+job-description-personnel-officer = O chefe local do departamento de pessoal, regulamentando determinados acessos aos funcionários do complexo. Responsável pela emissão de novos cartões, além de acompanhar a operacionalidade do departamento de manutenção alimentar e sanitária do complexo. A quinta pessoa mais importante do complexo. CLASSE B
+job-name-head-of-medical-sector = Chefe do Setor Médico
+job-description-head-of-medical-sector = O médico-chefe do complexo, cujas responsabilidades incluem zelar pela vida dos funcionários e pela administração do complexo. A sexta pessoa mais importante do complexo. CLASSE B
+job-name-senior-logistics-officer = Diretor Sênior de Logística
+job-description-senior-logistics-officer = O chefe de logística, responsável por abastecer o complexo com determinados materiais, enviando cargas valiosas para o MPA. A sétima pessoa mais importante do complexo. CLASSE C
+job-supervisors-regional-administration = administração regional
+job-supervisors-director = Diretor Complexo

@@ -1,0 +1,10 @@
+ent-CultTileSpawnEffect = Brilho
+    .desc = { "" }
+ent-CultTeleportInEffect = Teleporte para dentro
+    .desc = { "" }
+ent-CultTeleportOutEffect = Teleporte para fora
+    .desc = { "" }
+ent-CultWallGlow = brilho da parede
+    .desc = { "" }
+ent-CultAirlockGlow = brilho da câmara de ar
+    .desc = { "" }

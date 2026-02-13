@@ -1,0 +1,13 @@
+service-auth-discord-title = Autoria Discord
+service-auth-telegram-title = Telegrama de autoria
+service-auth-github-title = Autorização GitHub
+service-auth-select-service-title = Выбор сервиса авторизации
+service-auth-select-service = Para obter um servidor, você provavelmente não precisará abrir uma conta SS14 c одним из сервисов.
+service-auth-warn1 = Você deve entrar em contato com sua conta novamente.
+service-auth-warn2 = Clique em sua conta.
+service-auth-browser-btn = Abrir no Braузере
+service-auth-quit-btn = Vamos
+service-auth-qrcode = QrCode para verificação de telefone.
+service-auth-check-btn = Provérbio
+service-auth-check-btn-wait = Fonte: { TOSTRING($time, "G3") }
+service-auth-switch-link-service = Выбрать другой сервис

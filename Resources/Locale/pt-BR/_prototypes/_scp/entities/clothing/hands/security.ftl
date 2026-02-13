@@ -1,0 +1,9 @@
+ent-ClothingHandsGlovesSecurity = luvas de segurança
+    .desc = Luvas de segurança pretas normais que não impedem que você frite.
+    .suffix = Guarda SCP
+ent-ClothingHandsGlovesWinterSecurity = luvas de segurança de inverno
+    .desc = Luvas de segurança pretas de inverno que não impedem de fritar.
+    .suffix = Guarda SCP
+ent-ClothingHandsGlovesColorBlackAlt = { ent-ClothingHandsGlovesColorBlack }
+    .suffix = Guarda SCP
+    .desc = { ent-ClothingHandsGlovesColorBlack.desc }

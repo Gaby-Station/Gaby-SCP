@@ -1,0 +1,11 @@
+ent-PortableScrubber = purificador portátil
+    .desc = Esfrega, portável!
+ent-SpaceHeater = aquecedor
+    .desc = Um dispositivo de tecnologia bluespace que altera a temperatura local. Comumente referido como "Aquecedor de Espaço".
+    .suffix = Não ancorado
+ent-SpaceHeaterAnchored = { ent-SpaceHeater }
+    .suffix = Ancorado
+    .desc = { ent-SpaceHeater.desc }
+ent-SpaceHeaterEnabled = { ent-SpaceHeaterAnchored }
+    .suffix = Ancorado, Habilitado
+    .desc = { ent-SpaceHeaterAnchored.desc }

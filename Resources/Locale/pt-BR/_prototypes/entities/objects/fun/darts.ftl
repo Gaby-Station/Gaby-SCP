@@ -1,0 +1,16 @@
+ent-Dart = dardo
+    .desc = Dardo leve para jogar dardos. Não entre nos olhos!
+ent-DartBlue = { ent-Dart }
+    .desc = { ent-Dart.desc }
+ent-DartPurple = { ent-Dart }
+    .desc = { ent-Dart.desc }
+ent-DartYellow = { ent-Dart }
+    .desc = { ent-Dart.desc }
+ent-HypoDart = { ent-Dart }
+    .suffix = HipoDart
+    .desc = { ent-Dart.desc }
+ent-TargetDarts = alvo de dardos
+    .desc = Um alvo para jogar dardos.
+ent-HypoDartBox = caixa hipodardo
+    .desc = Uma pequena caixa contendo um hipodardo. A embalagem se desintegra quando aberta, não deixando nenhuma evidência.
+    .suffix = HipoDart

@@ -1,0 +1,16 @@
+ent-CrateSecurityArmor = caixa de armadura
+    .desc = Contém três coletes à prova de balas. Requer acesso de segurança para abrir.
+ent-CrateSecurityHelmet = caixa de capacete
+    .desc = Contém três baldes cerebrais padrão. Requer acesso de segurança para abrir.
+ent-CrateSecurityNonlethal = caixa de não letais
+    .desc = Contém uma mistura de desabilitadores, bastões de choque e flashes. Requer acesso de segurança para abrir.
+ent-CrateSecuritySupplies = caixa de suprimentos de segurança
+    .desc = Contém diversos suprimentos para a equipe de segurança da estação. Requer acesso de segurança para abrir.
+ent-CrateRestraints = caixa de restrições
+    .desc = Contém duas caixas de algemas e zipties. Requer acesso de segurança para abrir.
+ent-CrateSecurityBiosuit = caixa de traje biológico de segurança
+    .desc = Contém 2 trajes de risco biológico para garantir que nenhuma doença o distraia de seus deveres. Requer acesso de segurança para abrir.
+ent-CrateSecurityTrackingMindshieldImplants = caixa do implantador
+    .desc = Contém 4 implantes MindShield e 4 implantes de rastreamento. Requer acesso de segurança para abrir.
+ent-CrateSecNonlethalThrowables = caixa de itens não letais
+    .desc = Contém uma caixa de flashbangs, ferrões, granadas de gás lacrimogêneo e quatro bolas. Requer acesso de segurança para abrir.

@@ -1,0 +1,10 @@
+ent-BaseWeaponSubMachineGun = BaseSMG
+    .desc = Uma ponta enraizada e atirada.
+ent-WeaponSubMachineGunAtreides = Atreides
+    .desc = Uma pistola automática rara vinda das Guerras Corporativas. Sua cadência de tiro extremamente alta e perfil compacto o tornam útil em combate corpo a corpo. Apesar da idade, está em excelentes condições. Feeds de revistas .35 SMG.
+ent-WeaponSubMachineGunC20r = Submetralhadora C-20r
+    .desc = Uma submetralhadora clássica e difundida, famosa por seu uso pelos Saqueadores Gorlex. Um dos primeiros designs caseiros da Waffle Corp., ele permanece em serviço até hoje. Feeds de revistas .35 SMG.
+ent-WeaponSubMachineGunDrozd = Drozd
+    .desc = Um SMG moderno fabricado pela Divisão de Armas Leves da Nanotrasen. Ele apresenta uma cadência de tiro excepcional no modo burst, útil para manter ângulos defensivos ou enfrentar inimigos em distâncias mais longas. Feeds de revistas .35 SMG.
+ent-WeaponSubMachineGunWt550 = WT550
+    .desc = Um excelente SMG, produzido pela Divisão de Armas Leves da NanoTrasen. Usa munição automática .35.

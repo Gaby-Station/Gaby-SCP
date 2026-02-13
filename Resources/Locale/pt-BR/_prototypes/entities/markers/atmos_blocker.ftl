@@ -1,0 +1,17 @@
+ent-AtmosFixBlockerMarker = Marcador de vácuo Atmos Fix
+    .desc = Vácuo, T20C
+ent-AtmosFixOxygenMarker = Marcador de oxigênio Atmos Fix
+    .desc = Pressão do minerador de oxigênio @ gás, T20C
+ent-AtmosFixNitrogenMarker = Marcador de nitrogênio Atmos Fix
+    .desc = Pressão do minerador de nitrogênio @ gás, T20C
+ent-AtmosFixPlasmaMarker = Marcador de plasma Atmos Fix
+    .desc = Pressão do minerador de plasma @ gás, T20C
+ent-AtmosFixInstantPlasmaFireMarker = Marcador Instantâneo Plasmafire Atmos Fix
+    .desc = FOGO DE PLASMA INSTANTÂNEO
+ent-AtmosFixFreezerMarker = Marcador de freezer Atmos Fix
+    .desc = Mude a temperatura do ar para 235K, para que o freezer tenha um pouco de espaço de manobra para ser configurado.
+ent-AtmosFixVoxMarker = { ent-AtmosFixNitrogenMarker }
+    .desc = Nitrogênio @ 101 kPa, 20C
+    .suffix = Atmosfera Vox
+ent-AtmosFixAirMarker = Marcador de ar Atmos Fix
+    .desc = Oxigênio (21%) e nitrogênio (79%) na pressão do minerador de gás, T20C

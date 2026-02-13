@@ -1,0 +1,10 @@
+ent-Cigar = charuto
+    .desc = Um rolo marrom de tabaco e... bem, você não tem certeza.
+ent-CigarSpent = { ent-Cigar }
+    .suffix = gasto
+    .desc = { ent-Cigar.desc }
+ent-CigarGold = charuto havaniano premium
+    .desc = Um charuto adequado apenas para o melhor dos melhores.
+ent-CigarGoldSpent = { ent-CigarGold }
+    .suffix = gasto
+    .desc = { ent-CigarGold.desc }

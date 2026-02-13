@@ -1,0 +1,10 @@
+examine-trigger-voice  = O display mostra: Não inicializado...
+trigger-voice-uninitialized  = O display mostra: Não inicializado...
+verb-trigger-voice-record  = Registro
+verb-trigger-voice-stop  = Parar
+verb-trigger-voice-clear  = Fim da gravação
+popup-trigger-voice-start-recording  = Fim da gravação
+popup-trigger-voice-stop-recording  = Fim da gravação
+popup-trigger-voice-record-failed-too-long  = Mensagem muito longa, tente novamente
+popup-trigger-voice-record-failed-too-short  = Mensagem muito curta, tente novamente
+popup-trigger-voice-recorded  = Gravado com sucesso

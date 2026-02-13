@@ -1,0 +1,16 @@
+ent-BaseAnimalOrganUnGibbable = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-BaseAnimalOrgan = { ent-BaseAnimalOrganUnGibbable }
+    .desc = { ent-BaseAnimalOrganUnGibbable.desc }
+ent-OrganAnimalLungs = pulmões
+    .desc = { ent-BaseAnimalOrgan.desc }
+ent-OrganAnimalStomach = estômago
+    .desc = { ent-BaseAnimalOrgan.desc }
+ent-OrganMouseStomach = estômago
+    .desc = { ent-OrganAnimalStomach.desc }
+ent-OrganAnimalLiver = fígado
+    .desc = { ent-BaseAnimalOrgan.desc }
+ent-OrganAnimalHeart = coração
+    .desc = { ent-BaseAnimalOrgan.desc }
+ent-OrganAnimalKidneys = rins
+    .desc = { ent-BaseAnimalOrgan.desc }

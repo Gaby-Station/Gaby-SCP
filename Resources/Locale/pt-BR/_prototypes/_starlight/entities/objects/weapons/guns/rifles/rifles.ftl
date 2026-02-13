@@ -1,0 +1,10 @@
+ent-WeaponGunLaserCarbineSemi = Carabina laser IK-30
+    .desc = Uma carabina laser de bateria semiautomática.
+ent-WeaponGunLaserCarbineAutomatic = Carabina laser IK-60
+    .desc = Uma carabina laser de bateria automática estourada.
+ent-WeaponRifleLeikha = Leikha
+    .desc = Um rifle de assalto de nível militar de última geração. Este foi adaptado com um osciloscópio e um receptor de burst. Usa munição de rifle .20.
+ent-WeaponRifleARG = ARG
+    .desc = Um antigo rifle de assalto padrão galáctico, usado por vários grupos paramilitares e ex-milícias desde então. Usa munição de rifle .30.
+ent-WeaponRifleM52 = Arsenal Aussec M-52
+    .desc = Um dos exemplos menos populares de rifles de assalto pesados. Possui um poder de fogo impressionante.

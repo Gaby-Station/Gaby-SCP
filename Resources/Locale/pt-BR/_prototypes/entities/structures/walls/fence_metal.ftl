@@ -1,0 +1,15 @@
+ent-BaseFenceMetal = cerca de arame
+    .desc = Uma cerca de metal isolando algo provavelmente muito importante.
+ent-FenceMetalBroken = cerca de arame quebrada
+    .desc = Alguém ficou muito bravo com um objeto inanimado.
+ent-FenceMetalStraight = { ent-BaseFenceMetal }
+    .suffix = Direto
+    .desc = { ent-BaseFenceMetal.desc }
+ent-FenceMetalCorner = { ent-BaseFenceMetal }
+    .suffix = Canto
+    .desc = { ent-BaseFenceMetal.desc }
+ent-FenceMetalEnd = { ent-BaseFenceMetal }
+    .suffix = Fim
+    .desc = { ent-BaseFenceMetal.desc }
+ent-FenceMetalGate = portão de cerca de arame
+    .desc = Você poderia usar a porta em vez de pular - se você for um COVARDE, claro.

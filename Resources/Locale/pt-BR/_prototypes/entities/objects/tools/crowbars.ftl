@@ -1,0 +1,12 @@
+ent-BaseCrowbar = pé de cabra
+    .desc = { ent-BaseItem.desc }
+ent-Crowbar = { ent-BaseCrowbar }
+    .desc = Uma ferramenta multifuncional para arrombar portas e combater invasores interdimensionais.
+ent-CrowbarRed = pé de cabra de emergência
+    .desc = Um pé-de-cabra de emergência projetado para arrombar portas e travas de fogo durante quedas de energia.
+ent-CrowbarGreen = { ent-BaseCrowbar }
+    .desc = Uma ferramenta multifuncional para arrombar portas e combater invasores interdimensionais, impressa em um torno automático.
+ent-CrowbarOrange = { ent-BaseCrowbar }
+    .desc = Uma ferramenta multifuncional para arrombar portas e combater invasores interdimensionais, encontrada em caixas de ferramentas.
+ent-CrowbarYellow = { ent-BaseCrowbar }
+    .desc = Uma ferramenta multifuncional para arrombar portas e combater invasores interdimensionais, dispensada da Engenharia.

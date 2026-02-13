@@ -1,0 +1,15 @@
+ent-MobHumanUSSP = Tripulação USSP
+    .suffix = USSP
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanUSSPOfficer = Oficial da USSP
+    .suffix = USSP
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanUSSPOfficerSoldier = Oficial Soldado da USSP
+    .suffix = USSP | ANTAG
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanUSSPSoldier = Soldado USSP
+    .suffix = USSP | ANTAG
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanUSSPCaptain = Capitão USSP
+    .suffix = USSP
+    .desc = { ent-MobHuman.desc }

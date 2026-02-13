@@ -1,0 +1,10 @@
+advertisement-honkers-1 = Você tem uma grana nova, você está feliz, e não pode? Eu estou aqui para a minha estratégia... ПУФ!
+advertisement-honkers-2 = Sua operação é independente? Sim, claro... Não, sim. E você prova isso para você!
+advertisement-honkers-3 = Голопаразит? Mais uma vez no mundo! Isso é tudo!
+advertisement-honkers-4 = Quais são as anomalias? Para minha filha, não убедительные — даже учёные будут ломать голову!
+advertisement-honkers-5 = Qual é a grana, o que é isso? Шуму много, а вреда ноль! Muito bom e bom!
+advertisement-honkers-6 = Фальшивый костюм оперативника — для тех, кто хочет выглядеть опасно, но на деле… клоун!
+advertisement-honkers-7 = Никаких реальных голопаразитов, только качественная иллюзия! Não e o que é isso?
+advertisement-honkers-8 = Аномалии такие фальшивые, что ты сам начнёшь в них верить! Обман на высшем уровне!
+advertisement-honkers-9 = Sim, cara! E essas coisas são tão boas quanto suas coisas, e não há nenhuma dor!
+advertisement-honkers-10 = Custo operacional — isso não é muito bom, não e смеялись. Настоящий хит сезона!

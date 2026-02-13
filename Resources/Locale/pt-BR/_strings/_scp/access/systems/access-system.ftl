@@ -1,0 +1,12 @@
+access-system-accesses-delay-basic-text = Alteração no nível de ameaça detectada! Iniciando sistema de reescrita automática de acesso.
+access-system-accesses-delay-scpNone = { access-system-accesses-delay-basic-text } Todos os acessos de emergência serão apagados em { $time } segundos.
+access-system-accesses-delay-scpGreen = { access-system-accesses-delay-basic-text } A equipe médica e de segurança receberá acesso estendido em { $time } segundos.
+access-system-accesses-delay-scpBlue = { access-system-accesses-delay-basic-text } O pessoal de segurança receberá acesso estendido em { $time } segundos.
+access-system-accesses-delay-scpOrange = { access-system-accesses-delay-scpBlue }
+access-system-accesses-delay-scpGray = { access-system-accesses-delay-scpBlue }
+access-system-accesses-delay-scpYellow = { access-system-accesses-delay-scpBlue }
+access-system-accesses-delay-scpRed = { access-system-accesses-delay-scpBlue }
+access-system-accesses-delay-scpPurple = { access-system-accesses-delay-basic-text } O pessoal de segurança e pesquisa receberá acesso estendido em { $time } segundos.
+access-system-accesses-delay-scpBlack = { access-system-accesses-delay-basic-text } O pessoal de segurança e administração receberá acesso estendido em { $time } segundos.
+access-system-accesses-delay-scpDelta = { access-system-accesses-delay-basic-text } Acessos de emergência serão concedidos em { $time } segundos.
+access-system-accesses-delay-scpColdSilver = { access-system-accesses-delay-basic-text } O pessoal administrativo receberá acessos especiais em { $time } segundos.

@@ -1,0 +1,17 @@
+ent-MopItem = esfregar
+    .desc = Um esfregão que não pode ser parado, detalhes de limpeza de vísceras aguardam.
+ent-AdvMopItem = esfregão avançado
+    .desc = Esfregona motorizada que possui reservatório maior e substitui rapidamente os reagentes internos por água. Contramedida automática de palhaço não incluída.
+ent-WetFloorSign = sinal de piso molhado
+    .desc = Cuidado! Piso molhado!
+ent-WetFloorSignMineExplosive = { ent-WetFloorSign }
+    .suffix = Explosivo
+    .desc = { ent-WetFloorSign.desc }
+ent-Plunger = êmbolo
+    .desc = Um êmbolo com ventosa de plástico vermelho e cabo de madeira. Utilizado para desentupir ralos.
+ent-GoldenPlunger = êmbolo dourado
+    .desc = Um êmbolo com uma ventosa de plástico revestido com uma fina camada de ouro, oferecido como forma de agradecimento pelos anos de serviço. Ainda usado para desentupir ralos.
+ent-RagItem = pano úmido
+    .desc = Para limpar bagunça, você supõe.
+ent-WireBrush = escova de aço
+    .desc = Uma escova de aço com cerdas, perfeita para raspar até mesmo as manchas de ferrugem mais difíceis.

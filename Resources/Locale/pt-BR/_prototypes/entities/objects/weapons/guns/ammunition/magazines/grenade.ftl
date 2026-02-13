@@ -1,0 +1,14 @@
+ent-BaseMagazineGrenade = cartucho de granada
+    .desc = { ent-BaseItem.desc }
+ent-MagazineGrenadeEmpty = cartucho de granada
+    .desc = { ent-BaseMagazineGrenade.desc }
+ent-MagazineGrenadeFrag = cartucho de granada de fragmentação
+    .desc = { ent-BaseMagazineGrenade.desc }
+ent-MagazineGrenadeEMP = Cartucho de granada EMP
+    .desc = { ent-BaseMagazineGrenade.desc }
+ent-MagazineGrenadeFlash = cartucho de granada flash
+    .desc = { ent-BaseMagazineGrenade.desc }
+ent-MagazineGrenadeBlast = cartucho de granada de explosão
+    .desc = { ent-BaseMagazineGrenade.desc }
+ent-MagazineGrenadeBaton = cartucho de granada de bastão
+    .desc = { ent-BaseMagazineGrenade.desc }

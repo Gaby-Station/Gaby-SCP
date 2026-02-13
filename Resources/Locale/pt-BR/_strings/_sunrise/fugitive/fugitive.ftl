@@ -1,0 +1,16 @@
+station-event-fugitive-hunt-announcement = Por favor, forneça o fato do capitão para obter informações secretas.
+fugitive-spawn = { CAPITALIZE(THE($name)) } вылазит из под пола!
+fugitive-announcement-GALPOL = ГАЛПОЛ
+fugi-report-ent-name = ДОНОС О БЕГЛЕЦЕ: { $name }
+fugi-report-title = РОЗЫСК: { $name }
+fugitive-report-first-line = Ele foi criado por { $name } no setor. Você pode começar a usar a posição anterior.
+fugitive-report-inhuman = { CAPITALIZE(THE($name)) } não é compatível. Não há informações fornecidas.
+fugitive-report-morphotype = МОРФОТИП: { $species }
+fugitive-report-sex-m = ПОЛ: М
+fugitive-report-sex-f = ПОЛ: Ж
+fugitive-report-sex-n = ПОЛ: Н/Д
+fugitive-report-weight = ВЕС: { $weight } кг
+fugitive-report-age = OBRIGATÓRIO: { $age }
+fugitive-report-last-line = Danny человек em розыске em nosso setor ; предпочтительно живым.
+fugitive-round-end-name = begлец
+fugitive-role-greeting = Você está trabalhando com o equipamento - você deve colocar o seu telefone no lugar certo.

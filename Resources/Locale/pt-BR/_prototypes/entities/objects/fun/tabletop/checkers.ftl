@@ -1,0 +1,12 @@
+ent-CheckerBoard = tabuleiro de damas
+    .desc = Um tabuleiro de xadrez. Peças incluídas!
+ent-CheckerBoardTabletop = tabuleiro de damas
+    .desc = { ent-BaseBoardTabletop.desc }
+ent-CheckerPieceWhite = peça xadrez branca
+    .desc = { ent-BaseTabletopPiece.desc }
+ent-CheckerCrownWhite = coroa xadrez branca
+    .desc = { ent-BaseTabletopPiece.desc }
+ent-CheckerPieceBlack = peça xadrez preta
+    .desc = { ent-BaseTabletopPiece.desc }
+ent-CheckerCrownBlack = coroa xadrez preta
+    .desc = { ent-BaseTabletopPiece.desc }

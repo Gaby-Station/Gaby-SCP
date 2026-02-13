@@ -1,0 +1,14 @@
+ent-PartSilicon = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-LeftArmBorg = braço esquerdo ciborgue
+    .desc = { ent-PartSilicon.desc }
+ent-RightArmBorg = braço direito ciborgue
+    .desc = { ent-PartSilicon.desc }
+ent-LeftLegBorg = perna esquerda ciborgue
+    .desc = { ent-PartSilicon.desc }
+ent-RightLegBorg = perna direita ciborgue
+    .desc = { ent-PartSilicon.desc }
+ent-LightHeadBorg = cabeça de ciborgue
+    .desc = { ent-PartSilicon.desc }
+ent-TorsoBorg = torso ciborgue
+    .desc = { ent-PartSilicon.desc }

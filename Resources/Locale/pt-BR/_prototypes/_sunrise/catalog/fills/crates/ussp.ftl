@@ -1,0 +1,10 @@
+ent-CrateAmmunitionSmall = caixa de madeira antiga
+    .desc = Um pequeno caixote de madeira com pintura desbotada e o emblema do USSP.
+ent-CrateAmmunitionSmallLightRifle = caixa de madeira antiga
+    .suffix = Preenchido
+    .desc = Um pequeno caixote de madeira com pintura desbotada e o emblema do USSP. No interior da tampa, uma instrução pouco legível sobre munição calibre .30.
+ent-CrateShelfMosin = caixa de madeira antiga
+    .suffix = Preenchido
+    .desc = Grande caixote de madeira com pintura desbotada e emblema do USSP. No interior da tampa, uma instrução pouco legível explica a importância da baioneta e qual parte do rifle segurar para matar corretamente. A julgar pela poeira, está esperando há séculos. Aviso: As instruções podem estar desatualizadas por vários séculos.
+ent-WrappedMosin = rifle mosin embrulhado
+    .desc = Um antigo rifle Kardashev-Mosin, hermeticamente fechado em papel de embalagem e encharcado de graxa cósmica. Esquecido, esperando por uma guerra que nunca aconteceu. Munição não incluída, mas pelo menos você tem uma baioneta!

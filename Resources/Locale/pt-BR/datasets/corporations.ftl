@@ -1,0 +1,9 @@
+traitor-corporations-dataset-1 = Indústrias CyberSun
+traitor-corporations-dataset-2 = Saqueadores Gorlex
+traitor-corporations-dataset-3 = MI13
+traitor-corporations-dataset-4 = Cooperativa Tigre
+traitor-corporations-dataset-5 = AUTO.
+traitor-corporations-dataset-6 = Consórcio de Direitos Animais
+traitor-corporations-dataset-7 = Donk Corporação
+traitor-corporations-dataset-8 = Corporação Waffle
+traitor-corporations-dataset-9 = Farmacêutica Interdyne

@@ -1,0 +1,12 @@
+ent-Bluecrystal = Cristal espaço azul
+    .desc = Parece brilhar com uma energia atraente.
+    .suffix = 100 AC
+ent-Bluecrystal1 = Cristal espaço azul
+    .desc = Parece brilhar com uma energia atraente.
+    .suffix = 1 AC
+ent-Bluecrystal10 = Cristal espaço azul
+    .desc = Parece brilhar com uma energia atraente.
+    .suffix = 10 AC
+ent-Bluecrystal25 = Cristal espaço azul
+    .desc = Parece brilhar com uma energia atraente.
+    .suffix = 25 AC

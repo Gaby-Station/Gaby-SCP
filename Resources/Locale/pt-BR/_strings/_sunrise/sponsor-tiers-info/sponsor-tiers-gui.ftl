@@ -1,0 +1,37 @@
+sponsors-tiers-gui-title  = Níveis de patrocínio
+sponsor-tiers-gui-yes  = Sim
+sponsor-tiers-gui-no  = Não
+sponsor-tiers-gui-entry-info  = Informação
+sponsor-tiers-gui-tier  = Cor OOC:
+sponsor-tiers-gui-extra-slots  = Cor OOC:
+sponsor-tiers-gui-ooc-color  = Cor OOC:
+sponsor-tiers-gui-priority-join  = Entrada prioritária:
+sponsor-tiers-gui-allowed-respawn  = Nova vida:
+sponsor-tiers-gui-allowed-flavor  = Descrição do personagem:
+sponsor-tiers-gui-size-flavor  = Limite de descrição de personagem:
+sponsor-tiers-gui-allowed-species  = Prioridades antagonistas
+sponsor-tiers-gui-allowed-species-description  = Prioridades antagonistas
+sponsor-tiers-gui-priority-antags  = Prioridades antagonistas
+sponsor-tiers-gui-priority-antags-description  = Você terá prioridade para receber os dados do antagonista no início da rodada.
+sponsor-tiers-gui-open-antags  = Descoberta do Antagonista
+sponsor-tiers-gui-open-antags-description  = Permite que você ignore os requisitos de tempo de jogo para esses antagonistas.
+sponsor-tiers-gui-priority-roles  = Prioridades de função
+sponsor-tiers-gui-priority-roles-description  = Você terá prioridade para receber essas funções no início da rodada.
+sponsor-tiers-gui-open-roles  = Abrindo funções
+sponsor-tiers-gui-open-roles-description  = Permite ignorar os requisitos de tempo de jogo para essas funções.
+sponsor-tiers-gui-allowed-markings  = Personalização
+sponsor-tiers-gui-allowed-markings-description  = Fornece acesso a essas personalizações de personagens.
+sponsor-tiers-gui-bypass-roles  = Dramatização
+sponsor-tiers-gui-bypass-roles-description  = Permite que você insira essas funções ignorando o limite.
+sponsor-tiers-gui-ghost-themes  = Peles fantasmas
+sponsor-tiers-gui-ghost-themes-description  = Como fantasma, você pode mudar sua aparência para um destes.
+sponsor-tiers-gui-priority-ghost-roles  = Prioridade do papel fantasma
+sponsor-tiers-gui-priority-ghost-roles-description  = Você terá prioridade para receber esses papéis fantasmas durante a loteria.
+sponsor-tiers-gui-open-ghost-roles  = Revelando papéis fantasmas
+sponsor-tiers-gui-open-ghost-roles-description  = Permite que você ignore os requisitos de tempo de jogo para essas funções de fantasmas.
+sponsor-tiers-gui-allowed-loadouts  = Carregamentos exclusivos
+sponsor-tiers-gui-allowed-loadouts-description  = Fornece acesso a itens especificados no carregamento.
+sponsor-tiers-gui-tts-voices  = Vozes exclusivas
+sponsor-tiers-gui-tts-voices-description =
+    Открывает возможность использовать данные голоса для ваших персонажей.
+    Вы можете нажать на любой голос чтобы услышать как он звучит.

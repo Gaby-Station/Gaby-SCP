@@ -1,0 +1,12 @@
+ent-WeaponSniperDragunov = Dragunov
+    .desc = { ent-BaseWeaponRifle.desc }
+ent-WeaponRifleBR64 = BR-64
+    .desc = { ent-BaseWeaponRifle.desc }
+ent-WeaponRifleBauer127 = Rifle de ferrolho SR-127 Bauer
+    .desc = { ent-BaseWeaponRifle.desc }
+ent-WeaponSniperGarand = M1 Garand
+    .desc = { ent-BaseWeaponSniper.desc }
+ent-WeaponSniperRepeater = Repetidor N2524
+    .desc = Uma arma de fogo de ação de alavanca de nível civil, preferida pelos cowboys espaciais por sua confiabilidade e poder de parada. Usa munição .45 magnum.
+ent-WeaponSniperMosinLubed = Kardashev-Mosin
+    .desc = Uma relíquia do rifle Kardashev-Mosin que sobreviveu a inúmeras guerras e ainda é mortal. Recentemente aberto, fortemente untado – pronto para a próxima guerra! Usa cartuchos calibre .30.

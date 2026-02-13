@@ -1,0 +1,17 @@
+interaction-icon-name-face-cheeks-pull-icon  = Empurre para pegar palitos
+interaction-icon-name-face-pats-icon  = Acaricie o rosto
+interaction-icon-name-face-lick-doggy-style-icon  = Lamber o rosto estilo cachorrinho
+interaction-icon-name-friendly-pat-shoulder-icon  = Dê um tapinha no ombro
+interaction-icon-name-friendly-blow-slap-icon  = Tapa na cara
+interaction-icon-name-friendly-face-rub-cat-icon  = Esfregue como um gato
+interaction-icon-name-friendly-icon  = Amigável
+interaction-icon-name-friendly-finger-tap-icon  = Toque suas costas com o dedo
+interaction-icon-name-friendly-nose-boop-icon  = Toque a ponta do nariz com o dedo
+interaction-icon-name-friendly-tail-pull-icon  = Puxe a cauda
+interaction-icon-name-friendly-handshake-icon  = Aperto de mão
+interaction-icon-name-friendly-hign-five-icon  = Mais cinco
+interaction-icon-name-friendly-pat-tail-icon  = Acaricie a cauda
+interaction-icon-name-friendly-shoulder-massage-icon  = Massagem nas costas
+interaction-icon-name-friendly-tail-hug-icon  = Caudas entrelaçadas
+interaction-icon-name-friendly-tail-icon  = cauda
+interaction-icon-name-friendly-pat-horns-icon  = Acariciando os chifres

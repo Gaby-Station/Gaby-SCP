@@ -1,0 +1,12 @@
+ent-ClothingNeckShoulderPatchWhite = remendo de ombro branco
+    .desc = Uma ferramenta simples e conveniente para grupos
+ent-ClothingNeckShoulderPatchRed = remendo vermelho no ombro
+    .desc = Uma ferramenta simples e conveniente para grupos
+ent-ClothingNeckShoulderPatchBlue = remendo azul no ombro
+    .desc = Uma ferramenta simples e conveniente para grupos
+ent-ClothingNeckShoulderPatchGreen = patch de ombro verde
+    .desc = Uma ferramenta simples e conveniente para grupos
+ent-ClothingNeckShoulderPatchYellow = remendo de ombro amarelo
+    .desc = Uma ferramenta simples e conveniente para grupos
+ent-BoxCardboardShoulderPatches = caixa com patches diferentes
+    .desc = Uma caixa com as ferramentas mais simples e convenientes para grupos

@@ -1,0 +1,15 @@
+ent-SmokeScreenImplanter = { ent-BaseImplantOnlyImplanterSyndi }
+    .suffix = cortina de fumaça
+    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+ent-CreepyLaughImplanter = { ent-BaseImplantOnlyImplanterSyndi }
+    .suffix = Nascer do sol, rir
+    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+ent-RadioImplanterFreelance = { ent-BaseImplantOnlyImplanterSyndi }
+    .suffix = rádio freelancer
+    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+ent-DeathRattleImplanterFreelance = { ent-BaseImplantOnlyImplanterSyndi }
+    .suffix = chocalho da morte freelancer
+    .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+ent-ScramImplanterProto = { ent-ScramImplanter }
+    .suffix = scram protótipo
+    .desc = { ent-ScramImplanter.desc }

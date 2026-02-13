@@ -1,0 +1,10 @@
+ent-CrateChemistryRawAmnesiac = Recipiente amnésico
+    .desc = Contém jarro de amnésico bruto usado para produzir amnésicos.
+ent-CrateChemistryAmnesiacA = Recipiente amnésico
+    .desc = Contém jarro com frascos do amnésico A.
+ent-CrateChemistryAmnesiacB = Recipiente amnésico
+    .desc = Contém jarro de frascos de amnésico B.
+ent-CrateChemistryAmnesiacC = Recipiente amnésico
+    .desc = Contém jarro de frascos de amnésico C.
+ent-CrateChemistryAmnesiacD = Recipiente amnésico
+    .desc = Contém jarro com frascos do amnésico D.

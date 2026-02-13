@@ -1,0 +1,57 @@
+artifact-trigger-hint-health-analyzer = Digitalização
+artifact-effect-hint-data-deleted = ██████████ █████
+
+# Artifact Effect Descriptions
+artifact-effect-description-wandering = Faz com que o artefato se mova aleatoriamente pela área
+artifact-effect-description-heal = Cura seres vivos próximos
+artifact-effect-description-generate-energy = Gera energia elétrica
+artifact-effect-description-throw-things = Joga objetos próximos violentamente
+artifact-effect-description-knock = Derruba entidades próximas
+artifact-effect-description-junk-spawn = Gera itens indesejados aleatórios
+artifact-effect-description-shatter-windows = Quebra janelas próximas
+artifact-effect-description-bolt-airlocks = Parafusos nas eclusas de ar próximas
+artifact-effect-description-hunger = Aumenta a fome em seres próximos
+artifact-effect-description-thirst = Aumenta a sede em seres próximos
+artifact-effect-description-tesla-discharge = Cria descargas Tesla
+artifact-effect-description-spawn-evil-twin = Gera um gêmeo do mal
+artifact-effect-description-teleport = Teleporta entidades próximas
+artifact-effect-description-emp = Cria pulsos eletromagnéticos
+artifact-effect-description-ignite = Incendeia objetos próximos
+artifact-effect-description-shuffle-ultra = Embaralha posições de entidades próximas
+artifact-effect-description-polymorph-chair = Transforma objetos próximos em cadeiras
+artifact-effect-description-polymorph-watermelon = Transforma objetos próximos em melancias
+artifact-effect-description-polymorph-appendix = Transforma objetos próximos em apêndices
+artifact-effect-description-polymorph-disposal = Transforma objetos próximos em unidades de descarte
+artifact-effect-description-polymorph-table = Transforma objetos próximos em tabelas
+artifact-effect-description-swap = Troca entidades próximas
+artifact-effect-description-random-transformation = Transforma aleatoriamente objetos próximos
+artifact-effect-description-magnet-ultra = Cria campos magnéticos poderosos
+artifact-effect-description-shifted-ascii = Torna a fala completamente incoerente e incompreensível
+
+# Additional Vanilla Effect Descriptions
+artifact-effect-description-solution-storage = Cria armazenamento interno para produtos químicos
+artifact-effect-description-speed-up = Aumenta a velocidade de movimento quando segurado
+artifact-effect-description-drill = Transforma-se em uma ferramenta de perfuração
+artifact-effect-description-ghost = Permite posse fantasma
+artifact-effect-description-omnitool = Transforma-se em uma ferramenta multifuncional
+artifact-effect-description-bad-feeling = Causa efeitos mentais negativos
+artifact-effect-description-good-feeling = Causa efeitos mentais positivos
+artifact-effect-description-light-flicker = Faz com que as luzes pisquem
+artifact-effect-description-potassium-wave = Cria potássio e bananas
+artifact-effect-description-flora-spawn = Gera vida vegetal
+artifact-effect-description-chemical-puddle = Cria poças químicas
+artifact-effect-description-cold-wave = Cria temperaturas frias
+artifact-effect-description-heat-wave = Cria temperaturas quentes
+artifact-effect-description-foam-mild = Cria espuma
+artifact-effect-description-random-instrument = Gera instrumentos musicais
+artifact-effect-description-monkey-spawn = Gera macacos
+artifact-effect-description-radioactive = Emite radiação
+artifact-effect-description-charge-battery = Carrega baterias próximas
+artifact-effect-description-magnet = Cria atração magnética
+artifact-effect-description-magnet-negative = Cria repulsão magnética
+artifact-effect-description-stealth = Torna o artefato invisível
+artifact-effect-description-rare-material-silver = Gera minério de prata
+artifact-effect-description-rare-material-plasma = Gera minério de plasma
+artifact-effect-description-rare-material-gold = Gera minério de ouro
+artifact-effect-description-rare-material-uranium = Gera minério de urânio
+artifact-effect-description-angry-carp-spawn = Gera carpas espaciais agressivas

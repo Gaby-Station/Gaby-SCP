@@ -1,0 +1,17 @@
+marking-CatTail = Кошачий хвост
+marking-CatTail-tail_cat_wag = Основной
+marking-CatTailStripes = Кошачий хвост (Полосатый)
+marking-CatTailStripes-tail_cat_wag_stripes_prime = Políticas de segurança
+marking-CatTailStripes-tail_cat_wag_stripes_second = Вторичные полосы
+marking-CatEars = Кошачьи ушки
+marking-CatEars-ears_cat_outer = Você está feliz
+marking-CatEars-ears_cat_inner = Você está feliz
+marking-CatEarsStubby = Короткие ушки
+marking-CatEarsStubby-ears_stubby_outer = Você está feliz
+marking-CatEarsStubby-ears_stubby_inner = Você está feliz
+marking-CatEarsCurled = Завитые ушки
+marking-CatEarsCurled-ears_curled_outer = Você está feliz
+marking-CatEarsCurled-ears_curled_inner = Você está feliz
+marking-CatEarsTorn = Рассечённые ушки
+marking-CatEarsTorn-ears_torn_outer = Você está feliz
+marking-CatEarsTorn-ears_torn_inner = Você está feliz

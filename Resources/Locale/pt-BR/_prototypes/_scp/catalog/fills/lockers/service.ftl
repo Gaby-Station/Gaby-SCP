@@ -1,0 +1,15 @@
+ent-ScpClosetGastronomicSpecialistFilled = { ent-ScpClosetGastronomicSpecialist }
+    .suffix = Preenchido
+    .desc = { ent-ScpClosetGastronomicSpecialist.desc }
+ent-ScpClosetJanitorFilled = { ent-ScpClosetJanitor }
+    .suffix = Preenchido
+    .desc = { ent-ScpClosetJanitor.desc }
+ent-ScpLockerBotanistPhytogeneticistFilled = { ent-ScpLockerBotanistPhytogeneticist }
+    .suffix = Preenchido
+    .desc = { ent-ScpLockerBotanistPhytogeneticist.desc }
+ent-ScpLockerBoozeFilled = { ent-ScpLockerBooze }
+    .suffix = Preenchido
+    .desc = { ent-ScpLockerBooze.desc }
+ent-ScpClosetLegalFilled = { ent-ScpClosetLegal }
+    .suffix = Preenchido
+    .desc = { ent-ScpClosetLegal.desc }

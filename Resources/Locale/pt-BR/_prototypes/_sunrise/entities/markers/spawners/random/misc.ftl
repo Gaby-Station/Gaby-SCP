@@ -1,0 +1,14 @@
+ent-RandomRockSpawner = Gerador de rochas de mineração
+    .desc = { ent-MarkerBase.desc }
+ent-MineWallRockSpawner = Gerador de rocha de parede de mineração
+    .desc = Gera parede de pedra e decoração.
+ent-MineWallRockMobCrabSpawner = Gerador de rocha de parede de mineração [Ore Crab 15%]
+    .desc = Gera parede de rocha, mineração que pode gerar um caranguejo de minério aleatório.
+ent-MineWallRockMobCarpSpawner = Gerador de rocha de parede de mineração [Carp 10%]
+    .desc = Gera parede de rocha (sem plasma, com pedras), mineração que pode gerar uma carpa aleatória.
+ent-MineWallRockMobSpaceSpawner = Gerador de rocha de parede de mineração [Space Mob 10%]
+    .desc = Gera parede de rocha (sem minério, sem vigas, mais cristais e barricadas), mineração que pode gerar um Space Mob aleatório.
+ent-MineWallRockMobAsteroidSpawner = Gerador de rocha de parede de mineração [Asteroid Mob 10%]
+    .desc = Gera parede de rocha (+espaço), mineração que pode gerar um Asteroid Mob aleatório.
+ent-MineWallRockMobXenoSpawner = Gerador de rocha de parede de mineração [Xeno 10%]
+    .desc = Gera parede de rocha, mineração que pode gerar um Xenomorfo aleatório.

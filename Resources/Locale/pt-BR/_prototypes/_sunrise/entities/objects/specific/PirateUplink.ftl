@@ -1,0 +1,27 @@
+ent-DoubloonBase  = dobrão
+    .desc  = dobrões
+ent-Doubloon  = dobrões
+    .desc  = { ent-DoubloonBase.desc }
+    .suffix  = dobrões
+ent-Doubloon1  = dobrões
+    .desc  = { ent-DoubloonBase.desc }
+    .suffix  = dobrões
+ent-Doubloon5  = dobrões
+    .desc  = { ent-DoubloonBase.desc }
+    .suffix  = 5dB
+ent-Doubloon15  = dobrões
+    .desc  = { ent-DoubloonBase.desc }
+    .suffix  = 15dB
+ent-Doubloon50  = dobrões
+    .desc  = { ent-DoubloonBase.desc }
+    .suffix  = 50dB
+ent-PirateUplinkDebug  = rádio do mercado negro
+    .desc  = Se você não for um administrador, devolva isso ao administrador mais próximo o mais rápido possível.
+    .suffix  = 999, DEPURAÇÃO
+ent-ComputerPirateUplink  = console do mercado negro
+    .desc  = Um velho terminal enferrujado, mal sustentado pelos fios e pela sorte. A tela pisca, mas a rede do mercado negro ainda responde.
+ent-ComputerPirateExchanger  = trocador do mercado negro
+    .desc  = Um velho terminal enferrujado, mal sustentado pelos fios e pela sorte. A tela pisca, mas a rede do mercado negro ainda responde.
+ent-ComputerPirateExchangerWallmount  = trocador do mercado negro
+    .desc  = Uma versão montada na parede de um trocador enferrujado, quase morto, mas ainda conectado ao mercado negro.
+
