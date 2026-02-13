@@ -1,5 +1,5 @@
 chaos-leader-1 = Comandante
-chaos-soldier-1 = Privado
+chaos-soldier-1 = Recruta
 chaos-medic-1 = Médico
 chaos-last-name-1 = Alfa
 chaos-last-name-2 = Bravo
