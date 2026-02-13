@@ -1,0 +1,17 @@
+ent-ToolboxBase  = { ent-BaseItem }
+    .desc  = { ent-BaseItem.desc }
+ent-ToolboxEmergency  = caixa de ferramentas de emergência
+    .desc  = Caixa de ferramentas cheia de equipamentos elétricos.
+ent-ToolboxMechanical  = caixa de ferramentas técnicas
+    .desc  = Caixa de ferramentas cheia de equipamentos elétricos.
+ent-ToolboxElectrical  = Sindicato, Cheio, Torreta
+    .desc  = Caixa de ferramentas cheia de equipamentos elétricos.
+ent-ToolboxElectricalTurret  = Sindicato, Cheio, Torreta
+    .desc  = União, Turel
+    .suffix  = União, Turel
+ent-ToolboxArtistic  = caixa de ferramentas de arte
+    .desc  = Uma caixa de ferramentas na qual geralmente são armazenados materiais de arte.
+ent-ToolboxSyndicate  = caixa de ferramentas suspeita
+    .desc  = Uma caixa de ferramentas de aparência sinistra repleta das melhores ferramentas do Sindicato.
+ent-ToolboxGolden  = caixa de ferramentas de ouro
+    .desc  = Caixa de ferramentas em ouro maciço. Os rappers matariam por isso.

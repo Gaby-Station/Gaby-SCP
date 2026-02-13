@@ -1,0 +1,16 @@
+ent-BaseHandcuffs  = algemas
+    .desc  = Usado para dissuadir criminosos e outros idiotas.
+ent-Handcuffs  = algemas
+    .desc  = algemas caseiras
+ent-Cablecuffs  = Algemas caseiras feitas com cabos sobressalentes.
+    .desc  = Algemas caseiras feitas com cabos sobressalentes.
+ent-Zipties  = abraçadeiras
+    .desc  = Abraçadeiras plásticas duráveis ​​e descartáveis, ideais para conter prisioneiros violentos.
+ent-BaseHandcuffsBroken  = { ent-BaseItem }
+    .desc  = { ent-BaseItem.desc }
+ent-ZiptiesBroken  = abraçadeiras quebradas
+    .desc  = Essas braçadeiras parecem ter sido usadas para amarrar o cabo errado.
+ent-CablecuffsBroken  = algemas caseiras rasgadas
+    .desc  = Os fios estão quebrados em vários lugares e não parecem utilizáveis.
+ent-ClothingOuterStraightjacket  = camisa de força
+    .desc  = Usado para dissuadir aqueles que estão tentando prejudicar a si mesmos ou aos outros.

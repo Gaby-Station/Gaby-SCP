@@ -1,0 +1,39 @@
+
+ent-ClothingHeadHatCapPrisonDoctor  = Pesado, puro, seu portador está acostumado a decidir quem vive e quem não vive.
+    .desc  = boné de chef de prisão
+ent-ClothingHeadHatCapPrisonChef  = boné de chef da prisão
+    .desc  = Velho, mas bem cuidado, pertence a quem conseguiu sobreviver alimentando os monstros, ao mesmo tempo que comandava até as panelas.
+ent-ClothingHeadHatCapPrisonEngineer  = boné de engenheiro penitenciário
+    .desc  = Resistente e preciso, indicado para quem, pela 220ª vez, mantém o sistema de alimentação em ordem enquanto outros enlouquecem.
+ent-ClothingHeadHatCapPrisonScientist  = boné de cientista da prisão
+    .desc  = Coberto de manchas de reagentes e de um cheiro estranho, e na faixa desbotada onde antes havia marcações de autorização, agora só restam vestígios de quem ultrapassou os limites da ciência.
+ent-ClothingHeadHatCapPrisonWorker  = boné de faz-tudo da prisão
+    .desc  = O tecido estava escurecido pelo pó de minério e nas bordas havia vestígios de queimaduras, como se tivesse sido usado por quem estava mais próximo daquilo que não deveria respirar.
+ent-ClothingHeadHatCapPrisonTrainee  = boné de estagiário
+    .desc  = Boné laranja elegante para um estagiário de prisão.
+
+ent-ClothingHeadHatBeretPrisonDoctor  = leva o médico da prisão
+    .desc  = Macio, reservado, como seu dono, acostumado a corpos frios e a uma indiferença calorosa.
+ent-ClothingHeadHatBeretPrisonChef  = leva o cozinheiro da prisão
+    .desc  = Fica firme, traindo alguém que aprendeu a manter a ordem mesmo entre prisioneiros e facas.
+ent-ClothingHeadHatBeretPrisonEngineer  = assume um engenheiro penitenciário
+    .desc  = Suavemente definido, prático, indicando alguém que conhece de cor o layout da prisão.
+ent-ClothingHeadHatBeretPrisonScientist  = leva cientista da prisão
+    .desc  = Puro mas sem graça, pertence a quem entendeu demais e agora só finge que trabalha.
+ent-ClothingHeadHatBeretPrisonWorker  = pega um faz-tudo da prisão
+    .desc  = Distorcido, mas usado com orgulho, porque seu portador trabalhou por muito mais de uma vez.
+ent-ClothingHeadHatBeretPrisonTrainee  = assume um estagiário de prisão
+    .desc  = Fresco e novo, ainda sem consciência do fardo do longo serviço, marcado em laranja, mostrando o caminho para o futuro.
+
+ent-ClothingHeadCapPrisonDoctor  = boné de médico da prisão
+    .desc  = Simples e limpo, mas rachado pela lavagem, como símbolo daqueles que curam os quebrados pelo sistema.
+ent-ClothingHeadCapPrisonChef  = boné de cozinheiro da prisão
+    .desc  = O tecido barato, encharcado de fuligem e suor, pertence a quem alimenta a prisão e mal vive do seu cheiro.
+ent-ClothingHeadCapPrisonEngineer  = boné de engenheiro penitenciário
+    .desc  = Oleado e queimado, indica quem está tentando consertar a prisão enquanto outros decidem quem culpar.
+ent-ClothingHeadCapPrisonScientist  = boné de cientista da prisão
+    .desc  = Desgastado, como sinal de quem carrega amostras e não faz descobertas.
+ent-ClothingHeadCapPrisonWorker  = boné de faz-tudo da prisão
+    .desc  = boné de estagiário de prisão
+ent-ClothingHeadCapPrisonTrainee  = boné de estagiário de prisão
+    .desc  = Simples e limpo, mas novo, um símbolo para quem está começando no sistema prisional.

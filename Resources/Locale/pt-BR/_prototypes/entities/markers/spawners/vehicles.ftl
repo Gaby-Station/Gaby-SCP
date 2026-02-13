@@ -1,0 +1,12 @@
+ent-SpawnVehicleSecway  = sequência de desova
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnVehicleJanicart  = quadriciclo spawner
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnVehicleATV  = motocicleta geradora
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnVehicleMotobike  = motocicleta geradora
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnVehicleWheelchair  = cadeira de rodas geradora __PH0__
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnVehicleWheelchairFolded  = cadeira de rodas geradora [Сложенный]
+    .desc  = { ent-MarkerBase.desc }

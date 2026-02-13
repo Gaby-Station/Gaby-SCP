@@ -1,0 +1,9 @@
+ent-IntercomHeavyContainmentSecurityService  = { ent-Intercom }
+    .desc  = área de contenção pesada
+    .suffix  = área de contenção pesada
+ent-IntercomExternalAdministrativeZoneSecurityService  = { ent-IntercomHeavyContainmentSecurityService }
+    .desc  = { ent-IntercomHeavyContainmentSecurityService.desc }
+    .suffix  = Interfone. Foi reforçado com metal dos capacetes dos seguranças do complexo, por isso abri-lo não foi tão fácil.
+ent-IntercomMasterZoneSecurityService  = { ent-IntercomHeavyContainmentSecurityService }
+    .desc  = Interfone. Foi reforçado com metal dos capacetes dos seguranças do complexo, por isso abri-lo não foi tão fácil.
+    .suffix  = mestre do sistema de segurança do complexo

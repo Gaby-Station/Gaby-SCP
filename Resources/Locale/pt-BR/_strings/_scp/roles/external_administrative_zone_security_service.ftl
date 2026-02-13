@@ -1,0 +1,12 @@
+job-name-external-administrative-zone-commandant  = Comandante Chefe
+job-description-external-administrative-zone-commandant  = Líder do destacamento do comandante. Ele coordena as forças de segurança para manter a ordem.
+job-name-senior-external-administrative-zone-officer  = Comandante Sênior
+job-description-senior-external-administrative-zone-officer  = Soldado sênior do destacamento do comandante. Um funcionário testado pelo tempo que conhece seu trabalho de A a Z.
+job-name-external-administrative-zone-officer  = Comandante
+job-description-external-administrative-zone-officer  = Soldado do destacamento do comandante. Ele é responsável por manter a ordem entre os funcionários da instituição.
+job-name-junior-external-administrative-zone-officer  = Comandante Júnior
+job-description-junior-external-administrative-zone-officer  = Apenas o soldado júnior do destacamento do comandante que entrou em serviço. Ele ajuda os oficiais superiores a manter a ordem no complexo.
+job-name-field-medical-specialist  = Um anestesista
+job-description-field-medical-specialist  = Especialista em segurança médica. Fornece cuidados médicos e administra amnésia ao pessoal.
+job-supervisors-security-commander  = comandante-chefe
+job-supervisors-external-administrative-zone-commandant  = comandante-chefe

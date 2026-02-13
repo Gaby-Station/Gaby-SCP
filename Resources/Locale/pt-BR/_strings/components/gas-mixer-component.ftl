@@ -1,0 +1,9 @@
+comp-gas-mixer-ui-mixer-status  = incluindo
+comp-gas-mixer-ui-status-enabled  = incluindo
+comp-gas-mixer-ui-status-disabled  = Desligado
+comp-gas-mixer-ui-mixer-output-pressure  = Porta secundária:
+comp-gas-mixer-ui-mixer-node-primary  = Porta secundária:
+comp-gas-mixer-ui-mixer-node-side  = Porta secundária:
+comp-gas-mixer-ui-mixer-set  = Instalar
+comp-gas-mixer-ui-mixer-max  = Máximo
+comp-gas-mixer-ui-needs-anchor  = Proteja-o primeiro!

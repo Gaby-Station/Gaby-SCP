@@ -1,0 +1,9 @@
+docking-component-dock  = Doca
+docking-component-undock  = Desencaixar
+cmd-dock-desc  = Número inválido de argumentos
+cmd-dock-help  = Número inválido de argumentos
+cmd-dock-args  = Número inválido de argumentos
+cmd-dock-invalid  = EntidadeUid { $entity } inválida
+cmd-dock-found  = Nenhum componente de encaixe encontrado para { $airlock }
+cmd-dock-success  = Encaixado com sucesso
+cmd-dock-fail  = Não é possível atracar

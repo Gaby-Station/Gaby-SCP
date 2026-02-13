@@ -1,0 +1,12 @@
+ent-ElevatorPoint  = O ponto onde o elevador se teletransporta.
+    .desc  = O ponto onde o elevador se teletransporta.
+    .suffix  = Vazio
+ent-ElevatorPointComplex  = { ent-ElevatorPoint }
+    .desc  = { ent-ElevatorPoint.desc }
+    .suffix  = Intermediário
+ent-ElevatorPointIntermediate  = { ent-ElevatorPoint }
+    .desc  = { ent-ElevatorPoint.desc }
+    .suffix  = Intermediário
+ent-ElevatorPointSurface  = { ent-ElevatorPoint }
+    .desc  = { ent-ElevatorPoint.desc }
+    .suffix  = Superfície

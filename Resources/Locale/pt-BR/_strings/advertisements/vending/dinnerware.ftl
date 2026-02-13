@@ -1,0 +1,10 @@
+advertisement-dinnerware-1  = Hum, comida!
+advertisement-dinnerware-2  = Alimentos e acessórios alimentares.
+advertisement-dinnerware-3  = Pegue seus pratos!
+advertisement-dinnerware-4  = Você gosta de garfos?
+advertisement-dinnerware-5  = Eu gosto de garfos.
+advertisement-dinnerware-6  = Uau, uma tigela.
+advertisement-dinnerware-7  = Você realmente não precisa deles...
+advertisement-dinnerware-8  = Pegue se quiser!
+advertisement-dinnerware-9  = Temos certeza absoluta de que os béqueres são indispensáveis.
+advertisement-dinnerware-10  = POR QUE EXISTEM TANTAS CANECAS DIFERENTES?

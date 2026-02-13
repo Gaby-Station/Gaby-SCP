@@ -1,0 +1,16 @@
+ent-ClothingNeckMantleERTLeader  = Cortinas com decoração incomum nos ombros.
+    .desc  = manto de ajudante
+ent-ClothingNeckMantleAdjutant  = manto de ajudante
+    .desc  = Leve, aveludado, sem restringir os movimentos, apoiado em um ombro, como se falasse de sua posição instável no comando.
+ent-ClothingHoSMantleCoat  = Robe do Chefe do Serviço de Segurança
+    .desc  = Mate-se.
+ent-ClothingBSMantle  = manto de guarda-costas
+    .desc  = Robe para guarda-costas de comando.
+ent-ClothingNeckMantleCaptainWhite  = manto branco de capitão
+    .desc  = Robe leve confeccionado em tecido de aramida com revestimento cerâmico branco e resistente a manchas. Nas estações do século 31 eles adoram isso: lava-se facilmente, mas suja-se ainda mais facilmente.
+ent-ClothingNeckMantleCaptainBlack  = manto negro de capitão
+    .desc  = Robe leve confeccionado em tecido aramida, pintado em preto fosco, com forro antiestático para evitar aderência ao equipamento. Prático para o turno da noite e para quem não gosta de brilho extra e perguntas desnecessárias.
+ent-ClothingNeckMantleCaptainWhiteShoulder  = Manto de Ombro do Capitão Branco
+    .desc  = Robe de ombro com fecho magnético, adaptado para caber confortavelmente nas alças. Revestimento branco, padrão de estação e um pouco de calor para corredores frios.
+ent-ClothingNeckMantleCaptainBlackShoulder  = Manto de Ombro do Capitão Negro
+    .desc  = Robe de ombro com acabamento em preto fosco e costuras reforçadas. Para cada dia, eles disseram: durável, não brilha e raramente prende nas portas...normalmente.

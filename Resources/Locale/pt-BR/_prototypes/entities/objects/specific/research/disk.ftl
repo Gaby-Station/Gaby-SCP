@@ -1,0 +1,14 @@
+ent-ResearchDisk  = disco de pontos de pesquisa (1000)
+    .desc  = Disco para o servidor RND contendo 1000 pontos.
+ent-ResearchDisk5000  = disco de pontos de pesquisa (5000)
+    .desc  = Disco para o servidor RND contendo 5000 pontos.
+ent-ResearchDisk10000  = disco de pontos de pesquisa (10000)
+    .desc  = Disco para o servidor RND contendo 10.000 pontos.
+ent-ResearchDiskDebug  = disco de óculos de pesquisa
+    .desc  = Um disco para o servidor RND contendo quantos pontos você precisar.
+    .suffix  = DEBUGAR, NÃO MAPEAR
+ent-TechnologyDisk  = disco de tecnologia
+    .desc  = Um disco para o servidor RND contendo a tecnologia pesquisada.
+ent-TechnologyDiskRare  = { ent-TechnologyDisk }
+    .suffix  = Cru
+    .desc  = { ent-TechnologyDisk.desc }

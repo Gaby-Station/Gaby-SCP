@@ -1,0 +1,10 @@
+ent-SwordMakeshift  = espada caseira
+    .desc  = espada improvisada
+ent-SwordImprovised  = Não é muito picante, mas faz o trabalho perfeitamente.
+    .desc  = espada forjada
+ent-SwordForged  = espada forjada
+    .desc  = Feito de plasteel, um toque da lâmina é suficiente para tirar sangue.
+ent-SwordFlaming  = Como melhorar a perfeição? Claro, com fogo! Seja uma luz brilhante nas baias tecnológicas e lute bravamente!
+    .desc  = Como melhorar a perfeição? Claro, com fogo! Seja uma luz brilhante nas baias tecnológicas e lute bravamente!
+ent-ClaymoreForged  = A maré
+    .desc  = A arma perfeita para o aspirante a cavaleiro da baía tecnológica!

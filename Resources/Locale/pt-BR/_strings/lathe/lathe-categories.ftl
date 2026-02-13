@@ -1,0 +1,12 @@
+lathe-category-mechs-vim  = Vim
+lathe-category-mechs-honker  = H.O.N.K.
+lathe-category-mechs-hamptr  = Ripley MK II
+lathe-category-mechs-ripley  = Versátil e com blindagem leve, o Ripley é útil para quase todos os cenários de serviço pesado. AVP significa Empilhadeira autônoma.
+lathe-category-mechs-ripleymkii  = Ripley MK II
+lathe-category-mechs-clarke  = Clark
+lathe-category-mechs-gygax  = Gygax
+lathe-category-mechs-durand  = Durand
+lathe-category-mechs-phazon  = Fazon
+lathe-category-mechs-equipment  = Armas mecanóides
+lathe-category-mechs-weapons  = Armas mecanóides
+lathe-category-scp  = SCP

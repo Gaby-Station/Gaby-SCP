@@ -1,0 +1,15 @@
+ent-RandomHumanoidSpawnerHDLeader  = { ghost-role-information-mtf-leader-HD-name }
+    .suffix  = EU POSSO | Novo-7
+    .desc  = { ghost-role-information-mtf-leader-description }
+ent-RandomHumanoidSpawnerHDSpecialist  = { ghost-role-information-mtf-specialist-HD-name }
+    .suffix  = EU POSSO | Novo-7
+    .desc  = { ghost-role-information-mtf-specialist-description }
+ent-RandomHumanoidSpawnerHDCadet  = { ghost-role-information-mtf-cadet-HD-name }
+    .suffix  = __PH0__ MOG Nu-7
+    .desc  = { ghost-role-information-mtf-cadet-description }
+ent-SpawnerMTFSquadHD  = { spawner-squad-name } MOG Nu-7
+    .desc  = Novo-7
+    .suffix  = Novo-7
+ent-SpawnerMTFSquadHDSpawnOnTrigger  = { ent-SpawnerMTFSquadHD }
+    .desc  = { ent-SpawnerMTFSquadHD.desc }
+    .suffix  = { ent-SpawnerMTFSquadHD.suffix }, { spawner-on-trigger-suffix }

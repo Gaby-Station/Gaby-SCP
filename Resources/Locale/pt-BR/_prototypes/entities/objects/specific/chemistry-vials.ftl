@@ -1,0 +1,16 @@
+ent-BaseChemistryEmptyVial  = tubo de ensaio
+    .desc  = Tubo de ensaio pequeno.
+ent-VestineChemistryVial  = tubo de ensaio vestin
+    .desc  = { ent-BaseChemistryEmptyVial.desc }
+    .suffix  = vestido
+ent-RadiumChemistryVial  = { ent-BaseChemistryEmptyVial }
+    .suffix  = cloro
+    .desc  = { ent-BaseChemistryEmptyVial.desc }
+ent-ChlorineChemistryVial  = { ent-BaseChemistryEmptyVial }
+    .suffix  = cloro
+    .desc  = { ent-BaseChemistryEmptyVial.desc }
+ent-PlasmaChemistryVial  = { ent-BaseChemistryEmptyVial }
+    .suffix  = plasma
+    .desc  = { ent-BaseChemistryEmptyVial.desc }
+ent-BorgVial  = tubo de ensaio embutido
+    .desc  = Compartimento interno instalado em ciborgue. Projetado para 30 unidades de qualquer líquido.

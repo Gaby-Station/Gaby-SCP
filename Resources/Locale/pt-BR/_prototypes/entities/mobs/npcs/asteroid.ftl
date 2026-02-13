@@ -1,0 +1,24 @@
+ent-BaseMobAsteroid  = { ent-BaseMob }
+    .desc  = { ent-BaseMob.desc }
+ent-MobGoliath  = Um monstro enorme que usa longos tentáculos para capturar suas presas. Não é recomendado atacá-lo em hipótese alguma.
+    .desc  = Um monstro enorme que usa longos tentáculos para capturar suas presas. Não é recomendado atacá-lo em hipótese alguma.
+ent-ActionGoliathTentacle  = [color=red]Ataque do Tentáculo[/color]
+    .desc  = Use seus tentáculos para agarrar e atordoar seu alvo!
+ent-GoliathTentacle  = tentáculo
+    .desc  = { "" }
+ent-BaseEffectGoliathTentacleSpawn  = tentáculo
+    .desc  = { "" }
+ent-EffectGoliathTentacleSpawn  = tentáculo
+    .desc  = { ent-BaseEffectGoliathTentacleSpawn.desc }
+ent-EffectGoliathTentacleRetract  = { ent-BaseEffectGoliathTentacleSpawn }
+    .desc  = { ent-BaseEffectGoliathTentacleSpawn.desc }
+ent-MobHivelord  = senhor do enxame
+    .desc  = Uma criatura verdadeiramente alienígena, uma massa de material orgânico desconhecido que está em constante mudança. Quando atacado, as partes são separadas dele e atacam junto com o original.
+ent-MobHivelordBrood  = ninhada do senhor do enxame
+    .desc  = Um fragmento do Swarmlord original apoiando-o. Um não representa uma grande ameaça, mas...
+ent-FoodHivelordRemains  = restos mortais do senhor do enxame
+    .desc  = Tudo o que resta do senhor do enxame parece ser o que lhe permite rasgar partes de si mesmo sem ser ferido... suas propriedades curativas logo desaparecerão se não forem usadas rapidamente. Tente não pensar no que você come.
+ent-FoodHivelordRemainsInert  = restos inativos do senhor do enxame
+    .desc  = Tudo o que resta do senhor do enxame... Tudo está realmente perdido agora.
+ent-MobBasilisk  = basilisco
+    .desc  = Uma fera territorial coberta por uma carapaça grossa que absorve energia. Seu olhar faz suas vítimas congelarem por dentro.

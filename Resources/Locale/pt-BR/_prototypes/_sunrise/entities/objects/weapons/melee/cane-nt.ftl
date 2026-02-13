@@ -1,0 +1,3 @@
+ent-CaneNT  = bengala requintada
+    .suffix  = NÃO MAPEE
+    .desc  = Uma bengala com gravação especial. Ela parece bem adequada para se defender de ataques...

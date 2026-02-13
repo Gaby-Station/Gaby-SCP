@@ -1,0 +1,15 @@
+damage-type-asphyxiation  = Estrangulamento
+damage-type-bloodloss  = Perda de sangue
+damage-type-blunt  = Celular
+damage-type-cellular  = Ácido
+damage-type-caustic  = Ácido
+damage-type-cold  = Congelamento
+damage-type-heat  = Térmico
+damage-type-piercing  = Injeções
+damage-type-poison  = Venenos
+damage-type-radiation  = Radiação
+damage-type-shock  = Elétrica
+damage-type-slash  = Cortes
+damage-type-structural  = Exaustão
+damage-type-holy  = Santo
+damage-type-mangleness  = Exaustão

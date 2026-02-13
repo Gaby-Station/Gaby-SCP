@@ -1,0 +1,11 @@
+ent-ExtinguisherCabinet  = Um pequeno armário de parede projetado para armazenar um extintor de incêndio.
+    .desc  = Um pequeno armário de parede projetado para armazenar um extintor de incêndio.
+ent-ExtinguisherCabinetOpen  = { ent-ExtinguisherCabinet }
+    .suffix  = Abrir
+    .desc  = { ent-ExtinguisherCabinet.desc }
+ent-ExtinguisherCabinetFilled  = { ent-ExtinguisherCabinet }
+    .suffix  = Preenchido
+    .desc  = { ent-ExtinguisherCabinet.desc }
+ent-ExtinguisherCabinetFilledOpen  = { ent-ExtinguisherCabinetFilled }
+    .suffix  = Aberto, preenchido
+    .desc  = { ent-ExtinguisherCabinetFilled.desc }

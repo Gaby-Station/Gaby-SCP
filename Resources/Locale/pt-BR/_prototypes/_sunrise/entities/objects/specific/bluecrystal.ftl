@@ -1,0 +1,12 @@
+ent-Bluecrystal  = cristal espaço azul
+    .desc  = Parece brilhar com uma energia sedutora.
+    .suffix  = 100 AC
+ent-Bluecrystal1  = { ent-Bluecrystal }
+    .suffix  = 1 AC
+    .desc  = { ent-Bluecrystal.desc }
+ent-Bluecrystal10  = { ent-Bluecrystal }
+    .suffix  = 25 AC
+    .desc  = { ent-Bluecrystal.desc }
+ent-Bluecrystal25  = { ent-Bluecrystal }
+    .suffix  = 25 AC
+    .desc  = { ent-Bluecrystal.desc }

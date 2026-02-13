@@ -1,0 +1,17 @@
+admin-ui-panic-bunker-window-title  = Bunker
+admin-ui-panic-bunker-enabled  = Bunker desligado
+admin-ui-panic-bunker-disabled  = O bunker restringe a conexão dos jogadores se sua conta for muito nova ou se eles não tiverem tempo total de jogo suficiente naquele servidor.
+admin-ui-panic-bunker-tooltip  = O bunker restringe a conexão dos jogadores se sua conta for muito nova ou se eles não tiverem tempo total de jogo suficiente naquele servidor.
+admin-ui-panic-bunker-disable-automatically  = Desligamento automático
+admin-ui-panic-bunker-disable-automatically-tooltip  = Desativa automaticamente o bunker quando um administrador se conecta.
+admin-ui-panic-bunker-enable-automatically  = Ativação automática
+admin-ui-panic-bunker-enable-automatically-tooltip  = Ativa automaticamente o bunker quando os administradores não estão online.
+admin-ui-panic-bunker-count-deadminned-admins  = Considere administrador morto
+admin-ui-panic-bunker-count-deadminned-admins-tooltip  = O deadmin dos administradores deve ser levado em consideração ao ligar/desligar automaticamente o bunker?
+admin-ui-panic-bunker-show-reason  = Mostrar motivo
+admin-ui-panic-bunker-show-reason-tooltip  = Mostre ao usuário por que ele foi impedido de se conectar pelo bunker.
+admin-ui-panic-bunker-min-account-age  = Min. idade da conta
+admin-ui-panic-bunker-min-overall-minutes  = Min. tempo total de jogo
+admin-ui-panic-bunker-is-enabled  = O bunker está atualmente ligado.
+admin-ui-panic-bunker-enabled-admin-alert  = O bunker foi ligado.
+admin-ui-panic-bunker-disabled-admin-alert  = O bunker foi desligado.

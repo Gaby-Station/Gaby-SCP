@@ -1,0 +1,10 @@
+ent-BaseMechAction  = { ent-BaseAction }
+    .desc  = { ent-BaseAction.desc }
+ent-ActionMechCycleEquipment  = Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+    .desc  = Painel de controle
+ent-ActionMechOpenUI  = Painel de controle
+    .desc  = Deixar
+ent-ActionMechEject  = Desembarca o piloto do mech.
+    .desc  = Desembarca o piloto do mech.
+ent-ActionMechLights  = Mundo
+    .desc  = Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.

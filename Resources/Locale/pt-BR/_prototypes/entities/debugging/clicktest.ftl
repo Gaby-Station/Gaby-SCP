@@ -1,0 +1,15 @@
+ent-ClickTestBase  = { "" }
+    .suffix  = DEPURAR
+    .desc  = { "" }
+ent-ClickTestRotatingCornerVisible  = Ângulo de rotação invisível
+    .desc  = { ent-ClickTestBase.desc }
+ent-ClickTestRotatingCornerVisibleNoRot  = Ângulo de rotação invisível
+    .desc  = { ent-ClickTestRotatingCornerVisible.desc }
+ent-ClickTestRotatingCornerInvisible  = Ângulo de rotação invisível
+    .desc  = { ent-ClickTestBase.desc }
+ent-ClickTestRotatingCornerInvisibleNoRot  = Ângulo de rotação invisível sem rotação
+    .desc  = { ent-ClickTestRotatingCornerInvisible.desc }
+ent-ClickTestFixedCornerVisible  = Ângulo fixo visível
+    .desc  = { ent-ClickTestBase.desc }
+ent-ClickTestFixedCornerInvisible  = Ângulo fixo invisível
+    .desc  = { ent-ClickTestBase.desc }

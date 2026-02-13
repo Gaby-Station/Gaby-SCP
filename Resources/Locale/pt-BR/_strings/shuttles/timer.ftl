@@ -1,0 +1,11 @@
+shuttle-timer-eta  = APROX.
+shuttle-timer-etd  = OTB
+shuttle-timer-shuttle-time  = Tempo de transporte
+shuttle-timer-source-time  = Hora da consulta
+shuttle-timer-dest-time  = Hora da consulta
+shuttle-timer-shuttle-map  = Mapa de transporte
+shuttle-timer-source-map  = Cartão de partida
+shuttle-timer-dest-map  = Mapa de destino
+shuttle-timer-docked  = Ancorado
+shuttle-timer-bye  = Tchau!
+shuttle-timer-kill  = MATAR

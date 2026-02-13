@@ -1,0 +1,14 @@
+ent-WeaponMinigunMG100  = Metralhadora MG-100 Vindicator
+    .desc  = Uma metralhadora rotativa de seis tiros, o que há de mais moderno em poder de fogo portátil, capaz de disparar por tempo suficiente para perfurar uma ou duas paredes, certamente impressionará. Se você não matar todos os seus amigos com ele, poderá usar o sistema de estabilização Powerpack para atirar com precisão, mas você se moverá incrivelmente devagar.
+ent-PowerpackMinigunMG100  = unidade de potência (5,56 mm SP)
+    .desc  = { ent-BaseItem.desc }
+ent-PowerpackMinigunMG100Incendiary  = unidade de energia (incendiária de 5,56 mm)
+    .desc  = { ent-BaseItem.desc }
+ent-BasePowerpackMG100  = { ent-BaseItem }
+    .desc  = { ent-BaseItem.desc }
+ent-WeaponDL6902PowerPack  = Mochila de cartucho DL6902
+    .desc  = { ent-BaseItem.desc }
+ent-PowerpackDL6902  = Mochila de cartucho DL6902
+    .desc  = { ent-BasePowerpackMG100.desc }
+ent-WeaponRifleM41  = M-41
+    .desc  = A M-41 é uma metralhadora portátil de grande calibre que fornece fogo supressivo sustentado e preciso às custas de mobilidade e controlabilidade reduzidas. Frequentemente usado onde a tática preferida de um ataque rápido e móvel não é adequada.

@@ -1,0 +1,16 @@
+ent-ActionToggleNinjaGloves  = Trocar luvas ninja
+    .desc  = Inclui todos os recursos da luva. Quando clicado, o LMB pode: arrombar uma porta, absorver energia, atordoar um inimigo, hackear alguns dispositivos.
+ent-ActionCreateThrowingStar  = Criar shuriken
+    .desc  = Canaliza a energia do traje para criar uma shuriken que causa dano adicional à resistência.
+ent-ActionCreateSmokeGrenade  = Canaliza a energia do traje para criar uma granada de fumaça para fuga tática.
+    .desc  = Canaliza a energia do traje para criar uma granada de fumaça para fuga tática.
+ent-ActionCreateFlashbangGrenade  = Crie uma granada flashbang
+    .desc  = Canaliza a energia do traje para criar uma granada flashbang como uma distração tática.
+ent-ActionRecallKatana  = Teleporta a katana de energia anexada a este traje para seu dono, o custo depende da distância.
+    .desc  = Teleporta a katana de energia anexada a este traje para seu dono, o custo depende da distância.
+ent-ActionNinjaEmp  = Pulso eletromagnético
+    .desc  = Desativa eletrônicos próximos com um pulso eletromagnético.
+ent-ActionTogglePhaseCloak  = Cobertura de fase
+    .desc  = Alterna a invisibilidade do seu traje. Lembre-se que se você for atingido, todas as habilidades serão desativadas por 5 segundos, inclusive a cobertura!
+ent-ActionEnergyKatanaDash  = Ryvok cometeu um erro
+    .desc  = Teleporte-se para qualquer local que você possa ver enquanto sua Katana de Energia estiver em suas mãos.

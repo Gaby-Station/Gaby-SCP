@@ -1,0 +1,12 @@
+ent-GoldRing  = anel de ouro
+    .desc  = Anel precioso.
+ent-SilverRing  = Parece um pouco menos valioso que o ouro.
+    .desc  = anel de ouro com diamante
+ent-GoldRingDiamond  = anel de ouro com diamante
+    .desc  = Feito de diamantes espaciais de origem ética.
+ent-SilverRingDiamond  = anel de prata com diamante
+    .desc  = Feito de diamantes espaciais de origem ética.
+ent-GoldRingGem  = anel de ouro com pedra preciosa
+    .desc  = Brilhante e valioso!
+ent-SilverRingGem  = Brilhante e um pouco menos precioso!
+    .desc  = Brilhante e um pouco menos precioso!

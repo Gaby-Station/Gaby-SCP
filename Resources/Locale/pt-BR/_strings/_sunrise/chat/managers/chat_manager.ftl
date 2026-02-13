@@ -1,0 +1,17 @@
+chat-speech-verb-felinid-1  = "ronrona"
+chat-speech-verb-felinid-2  = "miaus"
+chat-speech-verb-felinid-3  = "miaus"
+chat-speech-verb-felinid-4  = "ronrona"
+chat-speech-verb-name-felinid  = "Miau"
+chat-speech-verb-vulpkanin-1  = "rosnados"
+chat-speech-verb-vulpkanin-2  = "latidos"
+chat-speech-verb-vulpkanin-3  = "rosnados"
+chat-speech-verb-vulpkanin-4  = "latidos"
+chat-speech-verb-vulpkanin-5  = "guinchos"
+chat-speech-verb-name-vulpkanin  = "grunhido"
+chat-speech-verb-name-swine  = "grunhido"
+chat-speech-verb-swine-1  = "gritos"
+chat-speech-verb-swine-2  = "grunhidos"
+chat-speech-verb-name-resomi  = Rezomi
+chat-speech-verb-resomi-1  = rangidos
+chat-speech-verb-resomi-2  = tuítes

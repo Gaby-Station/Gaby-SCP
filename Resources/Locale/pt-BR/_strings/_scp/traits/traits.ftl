@@ -1,0 +1,14 @@
+trait-category-fear  = [SCP] Medo
+trait-category-scp-traits  = [SCP] Falhas
+trait-hemophobia-name  = Hemofobia
+trait-hemophobia-desc  = Entorpecido de medo
+trait-stupor-name  = Entorpecido de medo
+trait-stupor-desc  = No momento crítico você congela. Às vezes isso ajuda. Na maioria das vezes.
+trait-fear-stuttering-name  = Voz quebrada
+trait-fear-stuttering-desc  = Cada palavra vem com dificuldade. Em momentos de perigo, sua fala fica quebrada – e as pessoas ao seu redor percebem isso.
+trait-fainting-name  = Às vezes o medo é tão forte que o cérebro decide que é mais fácil desligar. Você cai - e apenas silêncio.
+trait-fainting-desc  = Às vezes o medo é tão forte que o cérebro decide que é mais fácil desligar. Você cai - e apenas silêncio.
+trait-tunnel-vision-name  = Visão de túnel
+trait-tunnel-vision-desc  = Quando criança, sua mãe bateu na sua cabeça com uma frigideira e você caiu... Ao se levantar, percebeu que o mundo havia ficado mais estreito.
+trait-bad-shooter-name  = Problemas com a habilidade
+trait-bad-shooter-desc  = Você sempre teve problemas de precisão, especialmente ao atirar com armas. As balas parecem ter vida própria!

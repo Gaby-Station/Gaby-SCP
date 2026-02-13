@@ -1,0 +1,15 @@
+ent-RollerBed  = uma maca
+    .desc  = Usado para transportar pacientes sem causar danos.
+ent-RollerBedSpawnFolded  = { ent-RollerBed }
+    .suffix  = Dobrado
+    .desc  = { ent-RollerBed.desc }
+ent-CheapRollerBed  = Uma maca surrada. Usado para transportar pacientes.
+    .desc  = Uma maca surrada. Usado para transportar pacientes.
+ent-CheapRollerBedSpawnFolded  = { ent-CheapRollerBed }
+    .suffix  = Dobrado
+    .desc  = { ent-CheapRollerBed.desc }
+ent-EmergencyRollerBed  = Uma maca de aparência durável usada em situações de emergência.
+    .desc  = Uma maca de aparência durável usada em situações de emergência.
+ent-EmergencyRollerBedSpawnFolded  = { ent-EmergencyRollerBed }
+    .suffix  = Dobrado
+    .desc  = { ent-EmergencyRollerBed.desc }

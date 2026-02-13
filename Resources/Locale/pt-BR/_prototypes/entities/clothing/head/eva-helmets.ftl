@@ -1,0 +1,12 @@
+ent-ClothingHeadHelmetEVA  = Capacete EVA
+    .desc  = Capacete de união EVA
+ent-ClothingHeadHelmetEVALarge  = Capacete EVA
+    .desc  = Capacete de união EVA
+ent-ClothingHeadHelmetSyndicate  = Capacete de união EVA
+    .desc  = Capacete EVA simples e elegante. Projetado para o máximo em frescor de espaço discreto.
+ent-ClothingHeadHelmetCosmonaut  = capacete de astronauta
+    .desc  = Design antigo, produção moderna.
+ent-ClothingHeadHelmetAncient  = Capacete vazio NTSRA
+    .desc  = Um antigo capacete espacial, encomendado pela divisão Centcom da NTSRA, a agência de pesquisa espacial da Fundação.
+ent-ClothingHeadHelmetVoidParamed  = capacete vazio paramédico
+    .desc  = Um capacete vazio projetado para paramédicos.

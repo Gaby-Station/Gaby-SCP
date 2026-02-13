@@ -1,0 +1,9 @@
+ent-BaseSimpleMob  = { "" }
+    .suffix  = II
+    .desc  = { "" }
+ent-SimpleSpaceMobBase  = { ent-BaseSimpleMob }
+    .suffix  = II
+    .desc  = { ent-BaseSimpleMob.desc }
+ent-SimpleMobBase  = { ent-SimpleSpaceMobBase }
+    .suffix  = II
+    .desc  = { ent-SimpleSpaceMobBase.desc }

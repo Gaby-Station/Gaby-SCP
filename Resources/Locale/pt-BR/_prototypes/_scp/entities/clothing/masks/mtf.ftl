@@ -1,0 +1,12 @@
+ent-ClothingMaskMtf  = máscara
+    .desc  = máscara de gás tática
+    .suffix  = FTM
+ent-ClothingMaskMtfTacticalRed  = Máscara protetora tática com filtração hermética. A viseira cria a sensação de um olhar vazio e sem emoção.
+    .desc  = Máscara protetora tática com filtração hermética. A viseira cria a sensação de um olhar vazio e sem emoção.
+    .suffix  = FTM | Vermelho
+ent-ClothingMaskMtfTacticalWhite  = máscara de gás tática
+    .desc  = Máscara protetora tática com filtração hermética. A viseira cria a sensação de um olhar vazio e sem emoção.
+    .suffix  = FTM | Branco
+ent-ClothingMaskMtfMilitary  = máscara de gás de combate
+    .desc  = Máscara de gás de combate tático com filtragem densa. Este modelo é utilizado por tropas regulares.
+    .suffix  = FTM

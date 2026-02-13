@@ -1,0 +1,10 @@
+ent-CrateHydroponicsSeedsExotic  = caixa de sementes exóticas
+    .desc  = Um sonho para qualquer botânico praticante. Contém muitas sementes exóticas. Para abrir você precisa de um nível de acesso Hidroponia.
+ent-CrateHydroponicsSeedsMedicinal  = caixa de sementes medicinais
+    .desc  = O sonho de qualquer aspirante a químico. O poder da medicina está ao seu alcance! Para abrir você precisa de um nível de acesso Hidroponia.
+ent-CrateHydroponicsTools  = caixa de equipamento hidropônico
+    .desc  = Suprimentos para cultivar um ótimo jardim! Contém vários sprays químicos para plantas, uma machadinha, um ancinho, uma foice, vários pares de luvas de couro e um avental botânico.
+ent-CrateHydroponicsSeeds  = Grandes coisas começam pequenas. Contém 12 sementes diferentes.
+    .desc  = Grandes coisas começam pequenas. Contém 12 sementes diferentes.
+ent-CrateHydroponicsTray  = caixa de bandeja hidropônica
+    .desc  = Contém pacote plano de bandeja hidropônica.

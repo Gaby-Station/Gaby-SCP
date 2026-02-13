@@ -1,0 +1,9 @@
+ent-SpectralLocatorUnpowered  = localizador espectral
+    .desc  = Parece ser um localizador de anomalia modificado. Parece muito antigo.
+    .suffix  = Não é necessária energia
+ent-SpectralLocator  = { ent-SpectralLocatorUnpowered }
+    .suffix  = Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+    .desc  = { ent-SpectralLocatorUnpowered.desc }
+ent-SpectralLocatorEmpty  = { ent-SpectralLocator }
+    .suffix  = Vazio
+    .desc  = { ent-SpectralLocator.desc }

@@ -1,0 +1,9 @@
+ent-ClothingBackpackChameleon  = mochila
+    .desc  = tanque de água mochila
+    .suffix  = Camaleão
+ent-ClothingBackpackWaterTank  = Contém grande quantidade de líquido. Para pulverizar, segure os bicos nas mãos.
+    .desc  = Contém grande quantidade de líquido. Para pulverizar, segure os bicos nas mãos.
+ent-ClothingBagPet  = bolsa para animais de estimação
+    .desc  = Uma pequena bolsa projetada para uso por animais de estimação e pequenos animais.
+ent-ClothingBackpackHarmpack  = H.A.R.M.P.A.C.K.
+    .desc  = Agora você pode recarregar, bater e comer lanches - tudo ao mesmo tempo.

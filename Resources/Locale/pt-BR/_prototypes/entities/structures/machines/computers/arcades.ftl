@@ -1,0 +1,9 @@
+ent-ArcadeBase  = caça-níqueis
+    .desc  = Máquina caça-níqueis.
+ent-SpaceVillainArcade  = caça-níqueis "Vilão do Espaço"
+    .desc  = { ent-ArcadeBase.desc }
+ent-SpaceVillainArcadeFilled  = { ent-SpaceVillainArcade }
+    .suffix  = Preenchido
+    .desc  = { ent-SpaceVillainArcade.desc }
+ent-BlockGameArcade  = Uma slot machine com um jogo estranhamente familiar.
+    .desc  = Uma slot machine com um jogo estranhamente familiar.

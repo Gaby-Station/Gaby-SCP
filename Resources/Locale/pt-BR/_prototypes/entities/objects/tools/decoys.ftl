@@ -1,0 +1,12 @@
+ent-BaseDecoy  = { ent-BaseItem }
+    .desc  = { ent-BaseItem.desc }
+ent-BalloonOperative  = Após uma inspeção mais detalhada, descobre-se que este agente do Syndicate é na verdade um balão.
+    .desc  = agente inflável
+ent-BalloonAgent  = agente inflável
+    .desc  = operativo de elite inflável
+ent-BalloonElite  = operativo de elite inflável
+    .desc  = Após uma inspeção mais detalhada, foi revelado que este agente de elite do Sindicato é na verdade um balão.
+ent-BalloonJuggernaut  = rolo compressor inflável
+    .desc  = Após uma inspeção mais detalhada, foi revelado que este rolo compressor do Syndicate era na verdade um balão de ar quente.
+ent-BalloonCommander  = comandante inflável
+    .desc  = Após uma inspeção mais detalhada, foi revelado que o comandante do Sindicato era na verdade um balão.

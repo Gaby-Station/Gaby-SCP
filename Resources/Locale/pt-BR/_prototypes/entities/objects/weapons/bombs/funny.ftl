@@ -1,0 +1,10 @@
+ent-HotPotato  = batata quente
+    .desc  = Uma vez ativada, você não poderá lançar esta bomba-relógio - acerte outra pessoa com ela para se salvar! Não queime as mãos!
+ent-HotPotatoEffect  = { "" }
+    .desc  = { "" }
+ent-TrashBananaPeelExplosive  = casca de banana
+    .suffix  = Explosivos
+    .desc  = { ent-TrashBananaPeel.desc }
+ent-TrashBananaPeelExplosiveUnarmed  = banana
+    .desc  = Não ativado
+    .suffix  = Não ativado

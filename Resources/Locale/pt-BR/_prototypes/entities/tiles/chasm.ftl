@@ -1,0 +1,11 @@
+ent-FloorChasmEntity  = abismo
+    .desc  = Você nem consegue ver o fundo.
+ent-FloorChromiteChasm  = { ent-FloorChasmEntity }
+    .suffix  = Cromita
+    .desc  = { ent-FloorChasmEntity.desc }
+ent-FloorDesertChasm  = { ent-FloorChasmEntity }
+    .suffix  = Deserto
+    .desc  = { ent-FloorChasmEntity.desc }
+ent-FloorSnowChasm  = { ent-FloorChasmEntity }
+    .suffix  = Neve
+    .desc  = { ent-FloorChasmEntity.desc }

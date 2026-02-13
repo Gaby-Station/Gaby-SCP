@@ -1,0 +1,12 @@
+ent-Welder  = máquina de solda
+    .desc  = Derrete qualquer coisa desde que esteja cheio, não se esqueça da proteção para os olhos!
+ent-WelderIndustrial  = máquina de solda industrial
+    .desc  = Máquina de solda industrial com abastecimento de combustível mais que duplicado.
+ent-WelderIndustrialAdvanced  = máquina de solda industrial avançada
+    .desc  = Uma máquina de solda industrial avançada com mais que o dobro da capacidade de combustível e uma chama mais potente.
+ent-WelderExperimental  = máquina de solda experimental
+    .desc  = Uma máquina de solda experimental que pode produzir seu próprio combustível é menos prejudicial aos olhos.
+ent-WelderMini  = máquina de solda de emergência
+    .desc  = Uma máquina de solda em miniatura usada em emergências.
+ent-RefuelingWelder  = máquina de solda recarregável
+    .desc  = Um soldador lento que pode recarregar com o tempo.

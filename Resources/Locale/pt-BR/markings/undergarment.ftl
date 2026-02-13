@@ -1,0 +1,17 @@
+marking-UndergarmentTopTanktop  = Mãe
+marking-UndergarmentTopBinder  = Utiazhka
+marking-UndergarmentTopBra  = Sutiã clássico
+marking-UndergarmentTopSportsbra  = Sutiã esportivo
+marking-UndergarmentBottomBoxers  = Pugilistas
+marking-UndergarmentBottomBriefs  = Cuecas
+marking-UndergarmentBottomSatin  = Lingerie de cetim
+marking-UndergarmentTopTanktopVox  = Mãe
+marking-UndergarmentTopBinderVox  = Utiazhka
+marking-UndergarmentTopBraVox  = Sutiã clássico
+marking-UndergarmentTopSportsbraVox  = Sutiã esportivo
+marking-UndergarmentBottomBoxersVox  = Pugilistas
+marking-UndergarmentBottomBriefsVox  = Cuecas
+marking-UndergarmentBottomSatinVox  = Lingerie de cetim
+marking-UndergarmentBottomBoxersReptilian  = Pugilistas
+marking-UndergarmentBottomBriefsReptilian  = Cuecas
+marking-UndergarmentBottomSatinReptilian  = Lingerie de cetim

@@ -1,0 +1,9 @@
+ent-RadiationCollector  = coletor de radiação
+    .desc  = Um dispositivo que acumula radiação e a converte em energia. Deve ser preenchido com plasma gasoso para funcionar.
+    .suffix  = Cilindro vazio
+ent-RadiationCollectorNoTank  = { ent-RadiationCollector }
+    .suffix  = Sem cilindro
+    .desc  = { ent-RadiationCollector.desc }
+ent-RadiationCollectorFullTank  = { ent-RadiationCollector }
+    .suffix  = Cilindro cheio
+    .desc  = { ent-RadiationCollector.desc }

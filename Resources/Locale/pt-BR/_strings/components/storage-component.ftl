@@ -1,0 +1,12 @@
+comp-storage-no-item-size  = Não
+comp-storage-cant-insert  = Muito grande!
+comp-storage-too-big  = Muito grande!
+comp-storage-insufficient-capacity  = Capacidade insuficiente.
+comp-storage-invalid-container  = Isso não cabe aqui!
+comp-storage-anchored-failure  = Não foi possível colocar o item fixado.
+comp-storage-cant-drop  = Você não pode abandonar { $entity }!
+comp-storage-window-title  = Repositório de assuntos
+comp-storage-window-weight  = { $weight }/{ $maxWeight }, máx. tamanho: { $size }
+comp-storage-window-slots  = Slots: { $itemCount }/{ $maxCount }, máx. tamanho: { $size }
+comp-storage-verb-open-storage  = Cofre aberto
+comp-storage-verb-close-storage  = Fechar armazenamento

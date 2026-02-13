@@ -1,0 +1,12 @@
+ent-ClothingShoesBootsJackSecFilled  = { ent-ClothingShoesBootsJackSec }
+    .suffix  = Preenchido
+    .desc  = { ent-ClothingShoesBootsJackSec.desc }
+ent-ClothingBeltBlueShieldWebbingFilled  = { ent-ClothingBeltBlueShieldWebbing }
+    .suffix  = Preenchido
+    .desc  = { ent-ClothingBeltBlueShieldWebbing.desc }
+ent-ClothingShoesBootsBlueShieldFilled  = { ent-ClothingShoesBootsBlueShield }
+    .suffix  = Preenchido
+    .desc  = { ent-ClothingShoesBootsBlueShield.desc }
+ent-ClothingBeltSecurityFilledERT  = { ent-ClothingBeltMilitaryWebbingERT }
+    .suffix  = Preenchido, ERT
+    .desc  = { ent-ClothingBeltMilitaryWebbingERT.desc }

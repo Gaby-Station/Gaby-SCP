@@ -1,0 +1,9 @@
+ent-PlantBGoneSpray  = Planta-B-Gone
+    .desc  = Esta é uma mistura tóxica em forma de spray para matar pequenas ervas daninhas.
+    .suffix  = Preenchido
+ent-WeedSpray  = Esta é uma mistura tóxica em forma de spray para matar pequenas ervas daninhas.
+    .desc  = Esta é uma mistura tóxica em forma de spray para matar pequenas ervas daninhas.
+    .suffix  = Preenchido
+ent-PestSpray  = Este é um spray de controle de pragas! Não inspire!
+    .desc  = Este é um spray de controle de pragas! Não inspire!
+    .suffix  = Preenchido

@@ -1,0 +1,9 @@
+comp-gas-thermomachine-ui-title-freezer  = Aquecedor
+comp-gas-thermomachine-ui-title-heater  = Aquecedor
+comp-gas-thermomachine-ui-temperature  = Temperatura (K):
+comp-gas-thermomachine-ui-toggle  = Trocar
+comp-gas-thermomachine-ui-status-disabled  = Desligado
+comp-gas-thermomachine-ui-status-enabled  = incluindo
+gas-thermo-component-upgrade-heating  = temperatura mínima
+gas-thermo-component-upgrade-cooling  = capacidade térmica
+gas-thermo-component-upgrade-heat-capacity  = capacidade térmica

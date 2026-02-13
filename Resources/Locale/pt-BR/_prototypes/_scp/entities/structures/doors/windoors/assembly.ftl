@@ -1,0 +1,12 @@
+ent-ScpWindoorAssembly  = moldura de janela deslizante
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece forte.
+ent-ScpWindoorAssemblySecure  = Ele abre, fecha e você pode ver através dele! Parece durável.
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece forte.
+ent-ScpWindoorAssemblyPlasma  = moldura de janela deslizante de plasma
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece forte e roxo, não, rosa. Espere...
+ent-ScpWindoorAssemblySecurePlasma  = moldura de janela blindada deslizante de plasma
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece forte e roxo, não, rosa. Espere...
+ent-ScpWindoorAssemblyUranium  = moldura de janela deslizante de urânio
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece doentiamente verde...
+ent-ScpWindoorAssemblySecureUranium  = moldura de janela blindada deslizante de urânio
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece um verde limão forte e radioativo!

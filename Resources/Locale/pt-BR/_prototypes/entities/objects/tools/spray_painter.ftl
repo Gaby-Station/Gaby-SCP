@@ -1,0 +1,10 @@
+ent-SprayPainter  = pistola de pulverização
+    .desc  = Pistola para pintura de comportas e tubulações.
+ent-SprayPainterRecharging  = { ent-SprayPainter }
+    .suffix  = Administrador
+    .desc  = { ent-SprayPainter.desc }
+ent-SprayPainterEmpty  = { ent-SprayPainter }
+    .suffix  = Vazio
+    .desc  = { ent-SprayPainter.desc }
+ent-SprayPainterAmmo  = Um cartucho de tinta altamente comprimido comumente usado em pistolas pulverizadoras.
+    .desc  = Um cartucho de tinta altamente comprimido comumente usado em pistolas pulverizadoras.

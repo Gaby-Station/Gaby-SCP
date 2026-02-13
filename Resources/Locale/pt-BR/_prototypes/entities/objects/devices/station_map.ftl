@@ -1,0 +1,11 @@
+ent-BaseHandheldStationMap  = mapa complexo
+    .desc  = Exibe um diagrama do complexo atual.
+ent-HandheldStationMap  = { ent-BaseHandheldStationMap }
+    .desc  = { ent-BaseHandheldStationMap.desc }
+    .suffix  = Manual, Vazio
+ent-HandheldStationMapEmpty  = { ent-HandheldStationMap }
+    .suffix  = Manual, Vazio
+    .desc  = { ent-HandheldStationMap.desc }
+ent-HandheldStationMapUnpowered  = { ent-BaseHandheldStationMap }
+    .desc  = { ent-BaseHandheldStationMap.desc }
+    .suffix  = Manual, sem necessidade de energia

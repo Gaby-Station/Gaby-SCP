@@ -1,0 +1,10 @@
+advertisement-barber-1  = Você quer um novo estilo? Não tem problema, a máquina está funcionando!
+advertisement-barber-2  = Um leve golpe e você está na capa de uma revista.
+advertisement-barber-3  = Sem movimentos desnecessários – apenas estilo!
+advertisement-barber-4  = Sem movimentos desnecessários – apenas estilo!
+advertisement-barber-5  = Que penteado hoje? Escolha, estou pronto!
+advertisement-barber-6  = Corte de cabelo careca - sem cabelo, sem preocupações e você está sempre pronto para surpresas!
+advertisement-barber-7  = Seu penteado está em boas mãos.
+advertisement-barber-8  = Corte de cabelo careca: rápido, estiloso e sem problemas de styling!
+advertisement-barber-9  = Careca é a escolha dos homens de verdade e daqueles que perderam o pente!
+advertisement-barber-10  = Seu estilo é nossa prioridade.

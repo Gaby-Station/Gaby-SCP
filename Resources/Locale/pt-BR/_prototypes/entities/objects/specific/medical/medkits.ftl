@@ -1,0 +1,16 @@
+ent-Medkit  = kit de primeiros socorros
+    .desc  = Este é um kit de emergência para bo-bos sérios.
+ent-MedkitBurn  = kit de tratamento de lesões físicas
+    .desc  = Um kit de primeiros socorros especializado para o caso de o laboratório com toxinas *de repente* pegar fogo.
+ent-MedkitToxin  = kit de tratamento de toxinas
+    .desc  = Usado para tratar toxinas no sangue.
+ent-MedkitO2  = kit de tratamento de privação de oxigênio
+    .desc  = Uma caixa cheia de guloseimas de oxigênio.
+ent-MedkitBrute  = conjunto para o tratamento de lesões mecânicas
+    .desc  = Kit de primeiros socorros com caixa de ferramentas surrada.
+ent-MedkitAdvanced  = kit avançado de primeiros socorros
+    .desc  = Um conjunto avançado para o cuidado de feridas avançadas.
+ent-MedkitRadiation  = kit de remoção de radiação
+    .desc  = Se você pegasse seu Rad-X, não precisaria dele.
+ent-MedkitCombat  = Para os grandes amantes de armas entre nós.
+    .desc  = Para os grandes amantes de armas entre nós.

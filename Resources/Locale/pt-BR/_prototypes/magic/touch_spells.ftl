@@ -1,0 +1,12 @@
+ent-BaseEntitySpellAction  = { ent-BaseAction }
+    .desc  = { ent-BaseAction.desc }
+ent-BaseSmiteAction  = { ent-BaseEntitySpellAction }
+    .desc  = { ent-BaseEntitySpellAction.desc }
+ent-ActionSmite  = Preto
+    .desc  = Atinge instantaneamente o alvo.
+ent-ActionSmiteNoReq  = { ent-ActionSmite }
+    .desc  = { ent-ActionSmite.desc }
+ent-ActionCluwne  = Encosta escorregadia
+    .desc  = Encosta escorregadia
+ent-ActionSlippery  = Encosta escorregadia
+    .desc  = Deixe alguém escorregadio!

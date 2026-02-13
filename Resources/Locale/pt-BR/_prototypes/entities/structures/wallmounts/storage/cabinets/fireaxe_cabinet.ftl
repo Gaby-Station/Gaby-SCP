@@ -1,0 +1,11 @@
+ent-FireAxeCabinet  = armário de machado de fogo
+    .desc  = Uma pequena placa diz “Somente para uso de emergência” e contém instruções para usar o machado com segurança. Sim, claro.
+ent-FireAxeCabinetOpen  = { ent-FireAxeCabinet }
+    .suffix  = Abrir
+    .desc  = { ent-FireAxeCabinet.desc }
+ent-FireAxeCabinetFilled  = { ent-FireAxeCabinet }
+    .suffix  = Preenchido
+    .desc  = { ent-FireAxeCabinet.desc }
+ent-FireAxeCabinetFilledOpen  = { ent-FireAxeCabinetFilled }
+    .suffix  = Aberto, preenchido
+    .desc  = { ent-FireAxeCabinetFilled.desc }

@@ -1,0 +1,15 @@
+ent-FireStationUplink20  = mala com pertences pessoais
+    .desc  = Mala com pertences pessoais de funcionário. Protegido por senha. Eu me pergunto o que ele guarda dentro de si?
+    .suffix  = 20
+ent-FireStationUplink40  = { ent-FireStationUplink20 }
+    .desc  = { ent-FireStationUplink20.desc }
+    .suffix  = 40
+ent-FireStationUplink60  = { ent-FireStationUplink20 }
+    .desc  = { ent-FireStationUplink20.desc }
+    .suffix  = 80
+ent-FireStationUplink80  = { ent-FireStationUplink20 }
+    .desc  = { ent-FireStationUplink20.desc }
+    .suffix  = 80
+ent-FireStationUplink100  = { ent-FireStationUplink20 }
+    .desc  = { ent-FireStationUplink20.desc }
+    .suffix  = 100

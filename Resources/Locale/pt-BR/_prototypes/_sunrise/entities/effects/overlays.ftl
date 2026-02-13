@@ -1,0 +1,10 @@
+ent-EffectNightVision  = visão noturna
+    .desc  = { "" }
+ent-EffectNightVisionGreen  = visão noturna
+    .desc  = { "" }
+ent-EffectNightVisioSpecies  = visão noturna
+    .desc  = { "" }
+ent-EffectNightVisionHandcraft  = visão noturna
+    .desc  = { "" }
+ent-EffectNightVisionSyndie  = visão noturna
+    .desc  = { "" }

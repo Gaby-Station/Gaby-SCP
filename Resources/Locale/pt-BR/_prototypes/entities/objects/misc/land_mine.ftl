@@ -1,0 +1,14 @@
+ent-BaseLandMine  = { "" }
+    .desc  = { "" }
+ent-LandMineKickUnarmed  = estranho meu
+    .desc  = { ent-BaseLandMine.desc }
+ent-LandMineKick  = estranho meu
+    .desc  = { ent-BaseLandMine.desc }
+ent-LandMineModularUnarmed  = mina modular
+    .desc  = mina modular
+ent-LandMineModular  = mina modular
+    .desc  = Este bad boy pode esconder muitos perigos. Ou uma buzina de bicicleta.
+ent-LandMineExplosiveUnarmed  = mina explosiva
+    .desc  = { ent-BaseLandMine.desc }
+ent-LandMineExplosive  = mina explosiva
+    .desc  = { ent-BaseLandMine.desc }

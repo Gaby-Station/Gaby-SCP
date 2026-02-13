@@ -1,0 +1,15 @@
+ent-CartridgeSRifleBase  = cartucho (5,56 mm)
+    .desc  = { ent-BaseCartridge.desc }
+    .suffix  = { "" }
+ent-CartridgeSRifle  = cartucho (5,56 mm)
+    .desc  = { ent-CartridgeSRifleBase.desc }
+    .suffix  = { "" }
+ent-CartridgeSRifleFlash  = cartucho (atordoamento de 5,56 mm)
+    .desc  = { ent-CartridgeSRifleBase.desc }
+    .suffix  = { "" }
+ent-CartridgeSRifleHV  = cartucho (5,56 mm de alta velocidade)
+    .desc  = { ent-CartridgeSRifleBase.desc }
+    .suffix  = { "" }
+ent-CartridgeSRiflePractice  = cartucho (treinamento de 5,56 mm)
+    .desc  = { ent-CartridgeSRifleBase.desc }
+    .suffix  = { "" }

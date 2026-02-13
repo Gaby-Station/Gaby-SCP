@@ -1,0 +1,10 @@
+ent-Turnstile  = torniquete
+    .desc  = Uma porta mecânica que proporciona acesso unidirecional e exclui a possibilidade de passagem de pessoas não autorizadas.
+ent-TurnstileArrow  = { "" }
+    .desc  = { "" }
+ent-TurnstileGenpopEnter  = { ent-Turnstile }
+    .suffix  = Serviço de segurança, prisioneiro, entrada
+    .desc  = { ent-Turnstile.desc }
+ent-TurnstileGenpopLeave  = { ent-Turnstile }
+    .suffix  = Serviço de segurança, prisioneiro, saída
+    .desc  = { ent-Turnstile.desc }

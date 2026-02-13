@@ -1,0 +1,15 @@
+ent-SinkEmpty  = afundar
+    .desc  = As torneiras estavam tão apertadas quanto possível, mas aparentemente ainda pingavam.
+    .suffix  = Vazio
+ent-Sink  = pia larga
+    .desc  = { ent-SinkEmpty.desc }
+    .suffix  = Água
+ent-SinkWide  = pia larga
+    .desc  = { ent-Sink.desc }
+    .suffix  = Água
+ent-SinkStemless  = afundar
+    .desc  = { ent-SinkEmpty.desc }
+    .suffix  = Vazio
+ent-SinkStemlessWater  = afundar
+    .desc  = { ent-SinkStemless.desc }
+    .suffix  = Água

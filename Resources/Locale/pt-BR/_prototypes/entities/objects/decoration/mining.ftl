@@ -1,0 +1,12 @@
+ent-WoodenSign  = placa de madeira
+    .desc  = Ele está apontando para algum lugar.
+ent-WoodenSignRight  = { ent-WoodenSign }
+    .desc  = { ent-WoodenSign.desc }
+ent-WoodenSupport  = Aumenta a confiança de que uma pedra não cairá na sua cabeça.
+    .desc  = viga de suporte de madeira
+ent-WoodenSupportBeam  = viga de suporte de madeira
+    .desc  = { ent-WoodenSupport.desc }
+ent-WoodenSupportWall  = muro de contenção de madeira
+    .desc  = Parede velha e podre.
+ent-WoodenSupportWallBroken  = { ent-WoodenSupportWall }
+    .desc  = { ent-WoodenSupportWall.desc }

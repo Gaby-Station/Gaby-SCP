@@ -1,0 +1,15 @@
+ent-LootSpawnerMaterials  = gerador de materiais
+    .suffix  = Materiais de construção
+    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerMaterialsSupplementary  = Materiais adicionais
+    .suffix  = Materiais adicionais
+    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerMaterialsHighValueConstruction  = Materiais de construção
+    .suffix  = Materiais de construção
+    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerMaterialsHighValue  = gerador de materiais valiosos
+    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerMaterialsSurplus  = gerador de material excedente
+    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerCableCoil  = gerador de carretel de cabo
+    .desc  = { ent-MarkerBase.desc }

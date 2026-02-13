@@ -1,0 +1,12 @@
+ent-VehicleKeyJanicart  = chave varredora
+    .desc  = Projeto interessante.
+ent-VehicleKeySecway  = Chaves para o futuro.
+    .desc  = Chaves para o futuro.
+ent-VehicleKeyATV  = Chave ATV
+    .desc  = Qual é o formato de uma chave ATV? Claro que é quadrado!
+ent-VehicleKeySkeleton  = chave mestra de transporte
+    .desc  = Desbloqueia qualquer veículo.
+ent-VehicleKeySyndicateSegway  = O padrão é inspirado no icônico design emaga.
+    .desc  = O padrão é inspirado no icônico design emaga.
+ent-VehicleKeySkeletonMotorcycle  = chave esqueleto da motocicleta
+    .desc  = Um lindo molho de chaves decorado com uma caveira.

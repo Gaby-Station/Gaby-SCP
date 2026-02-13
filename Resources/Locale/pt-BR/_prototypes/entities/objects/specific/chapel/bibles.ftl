@@ -1,0 +1,16 @@
+ent-Bible  = Bíblia
+    .desc  = Nova versão interestelar 2340.
+ent-BibleNecronomicon  = necronômico
+    .desc  = Há uma nota: Klatuu, Verata, Nikto – Não se esqueça disso de novo!
+ent-ActionBibleSummon  = Convocar um familiar
+    .desc  = Convoque um familiar que irá ajudá-lo e ganhar inteligência semelhante à humana após incutir uma alma nele.
+ent-BibleTanakh  = cortar
+    .desc  = Para os membros da tripulação escolhidos por Deus
+ent-BibleDruid  = tabuinha druida
+    .desc  = Este é o segredo dos Druidas!
+ent-BibleCommunistManifesto  = manifesto comunista
+    .desc  = Rasgue a máscara da humanidade do Capital.
+ent-BibleSatanic  = bíblia satânica
+    .desc  = O que poderia dar errado aqui?
+ent-BibleNanoTrasen  = Códice NanoTrezimus
+    .desc  = Um livro familiar contendo Procedimentos Operacionais Sagrados.

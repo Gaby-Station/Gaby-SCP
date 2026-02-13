@@ -1,0 +1,15 @@
+ent-ClothingUniformRandom  = { ent-ClothingUniformBase }
+    .desc  = Gerado por uma rede neural baseada nas últimas tendências da moda.
+    .suffix  = Visualização aleatória
+ent-ClothingRandomSpawner  = terno colorido casual
+    .desc  = { ent-ClothingUniformRandom.desc }
+ent-ClothingUniformRandomArmless  = terno brilhante com colete sem mangas
+    .desc  = { ent-ClothingUniformRandom.desc }
+ent-ClothingUniformRandomStandard  = terno brilhante
+    .desc  = { ent-ClothingUniformRandom.desc }
+ent-ClothingUniformRandomBra  = terno brilhante com sutiã
+    .desc  = { ent-ClothingUniformRandom.desc }
+ent-ClothingUniformRandomShorts  = calças brilhantes
+    .desc  = { ent-ClothingUniformRandom.desc }
+ent-ClothingUniformRandomShirt  = terno brilhante
+    .desc  = { ent-ClothingUniformRandom.desc }

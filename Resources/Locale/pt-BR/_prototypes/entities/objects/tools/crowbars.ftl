@@ -1,0 +1,12 @@
+ent-BaseCrowbar  = Lixo inútil. Embora, talvez, alguns materiais possam ser obtidos a partir dele.
+    .desc  = { ent-BaseItem.desc }
+ent-Crowbar  = { ent-BaseCrowbar }
+    .desc  = Um pé-de-cabra de bolso projetado para arrombar portas e travas de fogo durante quedas de energia.
+ent-CrowbarRed  = Um pé-de-cabra de bolso projetado para arrombar portas e travas de fogo durante quedas de energia.
+    .desc  = Um pé-de-cabra de bolso projetado para arrombar portas e travas de fogo durante quedas de energia.
+ent-CrowbarGreen  = { ent-BaseCrowbar }
+    .desc  = Uma ferramenta multifuncional para arrombar portas e combater invasores interdimensionais, impressa em autolat.
+ent-CrowbarOrange  = { ent-BaseCrowbar }
+    .desc  = Pé-de-cabra de bolso projetado para arrombar portas e fechaduras corta-fogo durante quedas de energia, emitido pela engenharia.
+ent-CrowbarYellow  = { ent-BaseCrowbar }
+    .desc  = Pé-de-cabra de bolso projetado para arrombar portas e fechaduras corta-fogo durante quedas de energia, emitido pela engenharia.

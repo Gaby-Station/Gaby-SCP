@@ -1,0 +1,14 @@
+ent-StatusEffectSlowdown  = desacelerar
+    .desc  = { ent-MobStatusEffectDebuff.desc }
+ent-VomitingSlowdownStatusEffect  = Desaceleração do Taser
+    .desc  = { ent-StatusEffectSlowdown.desc }
+ent-TaserSlowdownStatusEffect  = Desaceleração do Taser
+    .desc  = { ent-StatusEffectSlowdown.desc }
+ent-FlashSlowdownStatusEffect  = desaceleração do flash
+    .desc  = { ent-StatusEffectSlowdown.desc }
+ent-StatusEffectStaminaLow  = baixa resistência
+    .desc  = { ent-StatusEffectSlowdown.desc }
+ent-StatusEffectFriction  = atrito
+    .desc  = { ent-MobStatusEffectDebuff.desc }
+ent-StatusEffectStunned  = atordoar
+    .desc  = { ent-MobStatusEffectDebuff.desc }

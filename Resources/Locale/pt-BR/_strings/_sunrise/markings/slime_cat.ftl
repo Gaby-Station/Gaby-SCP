@@ -1,0 +1,17 @@
+marking-SlimeCatEars  = Orelhas de gato viscoso
+marking-SlimeCatTail  = Cauda de gato slime
+marking-SlimeCatTail-slime_tail_cat_wag  = Cauda de gato slime
+marking-SlimeCatEars-ears_slime_cat_outer  = Ouvido externo
+marking-SlimeCatEars-ears_slime_cat_inner  = Ouvido interno
+marking-SlimeCatTailStripes  = Rabo de Gato Slime (Listrado)
+marking-SlimeCatTailStripes-slime_tail_cat_wag_stripes_prime  = Bandas primárias
+marking-SlimeCatTailStripes-slime_tail_cat_wag_stripes_second  = Listras secundárias
+marking-SlimeCatEarsStubby  = Orelhas de limo encaracoladas
+marking-SlimeCatEarsStubby-ears_slime_stubby_outer  = Ouvido externo
+marking-SlimeCatEarsStubby-ears_slime_stubby_inner  = Ouvido interno
+marking-SlimeCatEarsCurled  = Orelhas de limo encaracoladas
+marking-SlimeCatEarsCurled-ears_slime_curled_outer  = Ouvido externo
+marking-SlimeCatEarsCurled-ears_slime_curled_inner  = Ouvido interno
+marking-SlimeCatEarsTorn  = Orelhas dissecadas feitas de muco
+marking-SlimeCatEarsTorn-ears_slime_torn_outer  = Ouvido externo
+marking-SlimeCatEarsTorn-ears_slime_torn_inner  = Ouvido interno

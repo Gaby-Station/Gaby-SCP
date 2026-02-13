@@ -1,0 +1,12 @@
+ent-WildSlimeCube  = cubo de limo
+    .desc  = cubo de vaca
+ent-PigCube  = cubo de frango
+    .desc  = cubo de vaca
+ent-ChikenCube  = cubo de frango
+    .desc  = cubo de vaca
+ent-InferiorVulpkaninCube  = Cubo Vulcano Inferior
+    .desc  = cubo de vaca
+ent-FelinidCube  = cubo de macaco encharcado de rum
+    .desc  = cubo de vaca
+ent-PirateMonkeyCube  = cubo de macaco encharcado de rum
+    .desc  = cubo de vaca

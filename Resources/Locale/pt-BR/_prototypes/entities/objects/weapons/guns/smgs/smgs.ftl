@@ -1,0 +1,13 @@
+ent-BaseWeaponSubMachineGun  = PP padrão
+    .desc  = Ouse - ataque, mire e atire.
+ent-WeaponSubMachineGunAtreides  = Atreides
+    .desc  = Ple-ke-ke-ke-ke! Usa munição calibre .35 automático.
+    .suffix  = Pistola Metralhadora
+ent-WeaponSubMachineGunC20r  = C-20r
+    .desc  = Uma arma frequentemente usada por notórios agentes nucleares. Usa munição calibre .35 automático.
+    .suffix  = Pistola Metralhadora
+ent-WeaponSubMachineGunDrozd  = Tordo
+    .desc  = Uma submetralhadora moderna fabricada pela NanoTrasen Small Arms Division. Possui uma cadência de tiro excepcionalmente alta no modo burst, o que é útil para manter posições defensivas ou lutar a médio alcance. O característico acabamento plástico vermelho do corpo indica que a arma pertence ao arsenal do Serviço de Segurança. Usa revistas .35 PP.
+ent-WeaponSubMachineGunWt550  = WT550
+    .desc  = Uma excelente submetralhadora, produzida pela NanoTrasen Small Arms Division. Usa munição calibre .35 automático.
+    .suffix  = Pistola Metralhadora

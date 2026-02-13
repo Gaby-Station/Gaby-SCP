@@ -1,0 +1,10 @@
+ent-Cigar  = Um rolo marrom de tabaco e... bem, você não tem certeza.
+    .desc  = Um rolo marrom de tabaco e... bem, você não tem certeza.
+ent-CigarSpent  = { ent-Cigar }
+    .suffix  = Ponta de cigarro
+    .desc  = { ent-Cigar.desc }
+ent-CigarGold  = Um charuto destinado apenas aos melhores dos melhores.
+    .desc  = Um charuto destinado apenas aos melhores dos melhores.
+ent-CigarGoldSpent  = { ent-CigarGold }
+    .suffix  = Ponta de cigarro
+    .desc  = { ent-CigarGold.desc }

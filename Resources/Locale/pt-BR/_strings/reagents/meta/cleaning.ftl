@@ -1,0 +1,10 @@
+reagent-name-bleach  = água sanitária
+reagent-desc-bleach  = Na linguagem comum, alvejante. Um limpador superpoderoso que pode limpar pisos como o Space Cleaner e também descontaminar roupas. Extremamente tóxico se ingerido.
+reagent-name-space-cleaner  = purificador de espaço
+reagent-desc-space-cleaner  = lubrificante espacial
+reagent-name-soap  = sabão
+reagent-desc-soap  = lubrificante espacial
+reagent-name-space-lube  = lubrificante espacial
+reagent-desc-space-lube  = Space Grease é um lubrificante altamente eficaz destinado à manutenção de equipamentos mecânicos extremamente complexos (e certamente não é usado para pessoas que escorregam).
+reagent-name-space-glue  = cola espacial
+reagent-desc-space-glue  = Space Adhesive é um adesivo de alto desempenho destinado à manutenção de equipamentos mecânicos extremamente complexos (e certamente não utilizado para colar pessoas no chão).

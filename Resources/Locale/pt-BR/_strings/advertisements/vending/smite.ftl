@@ -1,0 +1,12 @@
+advertisement-smite-1  = Explosão mística de limão e lima!
+advertisement-smite-2  = Mais de um milhão de SMITEs já mataram a sede!
+advertisement-smite-3  = Mais de um milhão de SMITEs já mataram a sede!
+advertisement-smite-4  = ATAQUE! Role 2d8 para GOSTO.
+advertisement-smite-5  = ATAQUE! Hora de acabar com a papelada!
+advertisement-smite-6  = Até o zelador é louco por ele!
+advertisement-smite-7  = ATAQUE! Não vou te transformar em um martelo!
+advertisement-smite-8  = Boom de limão!
+thankyou-smite-1  = SMITE vai consertar tudo!
+thankyou-smite-2  = Você DEFINITIVAMENTE queria limão!
+thankyou-smite-3  = Elimine sua sede.
+thankyou-smite-4  = Elimine sua sede.

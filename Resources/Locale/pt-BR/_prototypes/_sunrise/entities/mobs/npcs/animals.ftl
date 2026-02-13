@@ -1,0 +1,15 @@
+ent-MobBaseInferiorVulpkanin  = vulcano inferior
+    .desc  = { ent-MobBaseAncestor.desc }
+ent-MobInferiorVulpkanin  = União de base
+    .desc  = { ent-MobBaseInferiorVulpkanin.desc }
+ent-MobBaseSyndicateInferiorVulpkanin  = { ent-MobBaseInferiorVulpkanin }
+    .suffix  = União de base
+    .desc  = { ent-MobBaseInferiorVulpkanin.desc }
+ent-MobInferiorVulpkaninSyndicateAgent  = { ent-MobBaseSyndicateInferiorVulpkanin }
+    .suffix  = Sindicato de agentes
+    .desc  = { ent-MobBaseSyndicateInferiorVulpkanin.desc }
+ent-MobInferiorVulpkaninSyndicateAgentNukeops  = { ent-MobBaseSyndicateInferiorVulpkanin }
+    .suffix  = Operativos nucleares
+    .desc  = { ent-MobBaseSyndicateInferiorVulpkanin.desc }
+ent-MobSaw  = Mãe.
+    .desc  = Mãe.

@@ -1,0 +1,16 @@
+ent-AdminObserver  = observador administrativo
+    .desc  = { ent-MobObserver.desc }
+ent-BaseAGhostAction  = { ent-BaseAction }
+    .desc  = { ent-BaseAction.desc }
+ent-ActionAGhostShowSolar  = Veja a interface de controle do painel solar.
+    .desc  = Veja a interface de controle do painel solar.
+ent-ActionAGhostShowCommunications  = Interface de comunicação
+    .desc  = Veja a interface de comunicação.
+ent-ActionAGhostShowRadar  = Interface do scanner de peso
+    .desc  = Veja a interface do scanner em massa.
+ent-ActionAGhostShowCargo  = Interface de pedido de produto
+    .desc  = Veja a interface para solicitar mercadorias.
+ent-ActionAGhostShowCrewMonitoring  = Interface de monitoramento da tripulação
+    .desc  = Veja a interface de monitoramento da tripulação.
+ent-ActionAGhostShowStationRecords  = Interface de registro de pessoal
+    .desc  = Visualizando a interface de registro de pessoal.

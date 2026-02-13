@@ -1,0 +1,10 @@
+ent-APCElectronics  = lascas de tinta
+    .desc  = Microcircuito utilizado na criação de pinturas.
+ent-WallmountSubstationElectronics  = chip de subestação de parede
+    .desc  = Um microcircuito usado na criação de uma subestação de parede.
+ent-WallmountGeneratorElectronics  = chip gerador de parede
+    .desc  = Chip usado na criação de um gerador de parede.
+ent-WallmountGeneratorAPUElectronics  = microcircuito APU montado na parede
+    .desc  = Microcircuito usado para criar uma APU montada na parede.
+ent-SolarTrackerElectronics  = Rastreia a posição do sol e gira automaticamente os painéis solares para segui-los, o que aumenta significativamente sua eficiência.
+    .desc  = Rastreia a posição do sol e gira automaticamente os painéis solares para segui-los, o que aumenta significativamente sua eficiência.

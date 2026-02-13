@@ -1,0 +1,17 @@
+loadout-group-common-misc-items  = Outros itens
+loadout-group-head  = Cocar
+loadout-group-eyes  = Olhos
+loadout-group-ears  = Ouvidos
+loadout-group-neck  = Pescoço
+loadout-group-jumpsuit  = Uniforme
+loadout-group-outer-clothing  = Casacos
+loadout-group-belt  = Cinto
+loadout-group-gloves  = Luvas
+loadout-group-shoes  = Botas
+loadout-group-id  = Acesso
+loadout-group-pda  = PDA
+loadout-group-back  = Mochila
+loadout-group-storage  = Com você
+loadout-group-weapon  = Arma de serviço
+loadout-group-weapon-secondary  = Armas Adicionais
+loadout-group-mask  = Uma máscara

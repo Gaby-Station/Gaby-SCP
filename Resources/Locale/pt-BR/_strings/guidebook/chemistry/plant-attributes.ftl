@@ -1,0 +1,10 @@
+plant-attribute-growth  = idade
+plant-attribute-water  = potência
+plant-attribute-potency  = potência
+plant-attribute-weeds  = nível de erva daninha
+plant-attribute-toxins  = nível de toxina
+plant-attribute-nutrition  = níveis de nutrientes
+plant-attribute-mutation-level  = taxa de mutação
+plant-attribute-pests  = nível de praga
+plant-attribute-mutation-mod  = modificador de mutação
+plant-attribute-health  = saúde

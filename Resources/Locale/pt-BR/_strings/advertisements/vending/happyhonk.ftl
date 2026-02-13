@@ -1,0 +1,14 @@
+advertisement-happyhonk-1  = Buzina! Buzina! Por que não pedir um almoço Happy Honk hoje?
+advertisement-happyhonk-2  = Os palhaços merecem um abraço, então se você ver um, não deixe de mostrar o seu agradecimento.
+advertisement-happyhonk-3  = Feliz almoço Honk, até o médico-chefe vai gostar. Quando vier à nossa festa, não esqueça de pegar um brinquedo.
+advertisement-happyhonk-4  = Feliz almoço Honk, até o médico-chefe vai gostar. Quando vier à nossa festa, não esqueça de pegar um brinquedo.
+advertisement-happyhonk-5  = O que é preto, branco e vermelho? Mime, e ela morreu devido a um traumatismo contundente na cabeça.
+advertisement-happyhonk-6  = Quantos agentes de segurança são necessários para prender você? Três: um para te espancar até a morte, um para te algemar e um para arrastar seu corpo para o túnel técnico.
+advertisement-happyhonk-7  = A Happy Honk não se responsabiliza pela qualidade dos alimentos colocados em nossas lancheiras Happy Honk.
+advertisement-happyhonk-8  = Por que não pedir nosso almoço Mim Happy Honk de edição limitada?
+advertisement-happyhonk-9  = Happy Honk é uma marca registrada da “Honk! co.”, e somos muito mais legais do que a “Robust Nukie Food corp.”
+advertisement-happyhonk-10  = Buzina, buzina!
+thankyou-happyhonk-1  = Buzina!
+thankyou-happyhonk-2  = Compartilhe a diversão! Buzina!
+thankyou-happyhonk-3  = Compartilhe a diversão! Buzina!
+thankyou-happyhonk-4  = Vá em frente e deslize alguém! Buzina!

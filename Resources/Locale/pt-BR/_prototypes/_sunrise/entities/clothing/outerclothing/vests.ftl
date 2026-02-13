@@ -1,0 +1,10 @@
+ent-ClothingOuterVestArmorSec  = armadura corporal
+    .desc  = Armadura corporal fina Tipo I que oferece proteção decente contra a maioria dos tipos de danos.
+ent-ClothingOuterVestArmorMedSec  = colete de brigada
+    .desc  = colete de brigada
+ent-ClothingOuterVestSecurityMedic  = Um colete leve usado pelos médicos da brigada.
+    .desc  = Um colete leve usado pelos médicos da brigada.
+ent-ClothingOuterVestWebSec  = colete tático SB
+    .desc  = Armadura tipo I de alta qualidade feita de material sintético durável. Apesar das pesadas placas de blindagem, permanece surpreendentemente flexível e leve. Equipado com bolsas adicionais para equipamentos.
+ent-ClothingOuterVestWebBlue  = colete tático OSCH
+    .desc  = { ent-ClothingOuterVestWebSec.desc }

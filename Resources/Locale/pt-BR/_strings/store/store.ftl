@@ -1,0 +1,16 @@
+store-ui-default-title  = Comprar
+store-ui-default-withdraw-text  = Desconto __PH0__ em __PH1__
+store-ui-balance-display  = { $currency }: { $amount }
+store-ui-price-display  = { $amount } { $currency }
+store-ui-discount-display-with-currency  = Desconto { $amount } em { $currency }
+store-ui-discount-display  = Direitos autorais © SCP-30643
+store-ui-traitor-flavor  = Direitos autorais © SCP-30643
+store-ui-traitor-warning  = Para evitar a detecção, os agentes devem bloquear seus uplinks após o uso.
+store-withdraw-button-ui  = Saída { $currency }
+store-ui-button-out-of-stock  = { "" } (esgotado)
+store-not-account-owner  = Este { $store } não está ligado a você!
+store-preset-name-uplink  = Ligação ascendente
+store-preset-name-spellbook  = Livro de Feitiços
+store-preset-name-ntuplink  = Um visionário
+store-preset-name-exchanger  = Permutador
+store-preset-name-blackmarket  = Mercado negro

@@ -1,0 +1,15 @@
+ent-BaseWeaponRifle  = Padrão automático
+    .desc  = Ouse - ataque, mire e atire.
+ent-WeaponRifleAk  = A arma icônica de todas as guerras. Utiliza munição calibre 7,62.
+    .desc  = Automático
+    .suffix  = М-90gl
+ent-WeaponRifleM90GrenadeLauncher  = М-90gl
+    .desc  = An old model carbine, made according to the bullpup design, with an under-barrel grenade launcher. Usa munição calibre .20 rifle.
+    .suffix  = М-90gl
+ent-WeaponRifleLecter  = Lecter
+    .desc  = Fuzil de assalto militar de primeira classe. Usa munição calibre .20 rifle.
+    .suffix  = М-90gl
+ent-WeaponRifleEstoc  = Rifle de atirador Estok
+    .desc  = Rifle de atirador, preferido para combates de médio e longo alcance. Usa munição de rifle calibre .20.
+ent-WeaponRifleFoam  = Espuma Energética Astro-Ac
+    .desc  = Rifle de espuma de primeira classe e da mais alta qualidade. Seu plástico é durável ao toque e seus mecanismos são confiáveis.

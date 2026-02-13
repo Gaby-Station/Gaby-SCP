@@ -1,0 +1,14 @@
+ent-BasePortal  = portal do espaço azul
+    .desc  = Parece uma aventura de 5 minutos!
+ent-PortalRed  = { ent-BasePortal }
+    .desc  = Este é mais como um portal redspace.
+ent-PortalBlue  = { ent-BasePortal }
+    .desc  = { ent-BasePortal.desc }
+ent-PortalArtifact  = { ent-BasePortal }
+    .desc  = { ent-BasePortal.desc }
+ent-PortalGatewayBlue  = { ent-BasePortal }
+    .desc  = { ent-BasePortal.desc }
+ent-PortalGatewayOrange  = { ent-BasePortal }
+    .desc  = { ent-BasePortal.desc }
+ent-ShadowPortal  = Parece instável.
+    .desc  = Parece instável.

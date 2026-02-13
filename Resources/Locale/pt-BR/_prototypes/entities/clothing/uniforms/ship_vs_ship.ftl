@@ -1,0 +1,16 @@
+ent-ClothingUniformJumpsuitRecruitNT  = macacão de recrutamento
+    .desc  = Macacão clássico cinza com elementos azuis. Ideal para um assistente digno.
+ent-ClothingUniformJumpsuitRecruitSyndie  = Macacão de recruta do sindicato
+    .desc  = Suspeito macacão cinza escuro. Como se os passageiros já não estivessem suficientemente desconfiados.
+ent-ClothingUniformJumpsuitRepairmanNT  = macacão de reparador
+    .desc  = Macacões que lembram uma determinada especialidade de trabalho no setor civil. Esperamos que você não tenha que fazer o mesmo trabalho que esses esquisitos.
+ent-ClothingUniformJumpsuitRepairmanSyndie  = Sindicato do reparador de macacão
+    .desc  = Funcional, elegante, legal. Os engenheiros da NanoTrasen sonham em ter uma aparência tão boa quanto você.
+ent-ClothingUniformJumpsuitParamedicNT  = macacões paramédicos
+    .desc  = Um macacão simples azul e branco projetado para paramédicos NanoTrasen que trabalham em setores de combate.
+ent-ClothingUniformJumpsuitParamedicSyndie  = macacão de paramédico sindicalizado
+    .desc  = Por alguma razão, usá-lo faz você se sentir muito próximo de violar a Convenção de Genebra.
+ent-ClothingUniformJumpsuitChiefEngineerNT  = macacão de engenheiro sênior
+    .desc  = Costuma-se brincar que a função de engenheiro de combate sênior é onde os verdadeiros engenheiros com mentalidade logística são promovidos. Boa sorte.
+ent-ClothingUniformJumpsuitChiefEngineerSyndie  = Macacão do Engenheiro Chefe do Sindicato
+    .desc  = Um macacão de aparência vilã com colete refletivo e camisa vermelha.

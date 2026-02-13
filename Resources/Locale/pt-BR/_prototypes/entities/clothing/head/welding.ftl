@@ -1,0 +1,12 @@
+ent-WeldingMaskBase  = máscara de soldagem
+    .desc  = { ent-ClothingHeadBase.desc }
+ent-ClothingHeadHatWelding  = máscara de soldagem
+    .desc  = Uma máscara facial montada na cabeça projetada para fornecer proteção completa aos olhos do usuário durante a soldagem.
+ent-ClothingHeadHatWeldingMaskFlame  = Um capacete de soldagem pintado com chamas.
+    .desc  = capacete de soldagem com chama azul
+ent-ClothingHeadHatWeldingMaskFlameBlue  = capacete de soldagem com chama azul
+    .desc  = Um capacete de soldagem pintado com chamas azuis.
+ent-ClothingHeadHatWeldingMaskPainted  = capacete de soldagem pintado
+    .desc  = Capacete de soldagem pintado de vermelho.
+ent-ActionToggleWeldingMask  = Ajuste o capacete de soldagem
+    .desc  = Cobre ou revela o rosto.

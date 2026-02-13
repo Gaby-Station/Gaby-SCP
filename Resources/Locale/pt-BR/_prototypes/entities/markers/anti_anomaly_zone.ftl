@@ -1,0 +1,9 @@
+ent-AntiAnomalyZone  = zona anti-anômala
+    .desc  = As anomalias não aparecerão num raio de 10 quarteirões deste ponto.
+    .suffix  = Raio 10
+ent-AntiAnomalyZone20  = { ent-AntiAnomalyZone }
+    .desc  = As anomalias não aparecerão num raio de 20 quarteirões deste ponto.
+    .suffix  = Raio 20
+ent-AntiAnomalyZone50  = { ent-AntiAnomalyZone }
+    .desc  = As anomalias não aparecerão num raio de 50 quarteirões deste ponto.
+    .suffix  = Raio 50

@@ -1,0 +1,16 @@
+inner-anomaly-start-message-pyro  = Relâmpagos vibram na ponta dos dedos! Você se tornou portador de uma anomalia elétrica.
+inner-anomaly-start-message-shock  = Escuridão impenetrável emana de você... Você se tornou o portador de uma anomalia sombria.
+inner-anomaly-start-message-shadow  = Um frio gelado arrepia seus ossos. Você se tornou o portador de uma anomalia de gelo.
+inner-anomaly-start-message-frost  = Folhas e flores rompem sua pele! Você se tornou portador de uma anomalia florística.
+inner-anomaly-start-message-flora  = Folhas e flores rompem sua pele! Você se tornou portador de uma anomalia florística.
+inner-anomaly-start-message-bluespace  = Seus pensamentos estão correndo como loucos! Você se tornou o portador de uma anomalia do espaço azul.
+inner-anomaly-start-message-flesh  = Seu corpo está crescendo rapidamente. Você se tornou um portador de carne anormal.
+inner-anomaly-start-message-grav  = Sua cabeça está zumbindo com um fluxo caótico de informações! Você se tornou o portador de uma anomalia tecnológica.
+inner-anomaly-start-message-tech  = Sua cabeça está zumbindo com um fluxo caótico de informações! Você se tornou o portador de uma anomalia tecnológica.
+inner-anomaly-start-message-rock  = Cristais crescem em seus ossos! Você se tornou o portador de uma anomalia de pedra.
+inner-anomaly-start-message-santa  = Você está ficando obcecado pelo espírito natalino! Você se tornou o anfitrião de uma anomalia de Natal.
+inner-anomaly-end-message  = A atividade anormal dentro de você desaparece sem deixar vestígios....
+inner-anomaly-severity-info-50  = Você sente que a anomalia está ocupando metade do seu corpo.
+inner-anomaly-severity-info-75  = Você sente que a anomalia tomou conta da maior parte do seu corpo.
+inner-anomaly-severity-info-90  = Você sente que a anomalia tomou conta quase completamente do seu corpo.
+inner-anomaly-severity-info-100  = A anomalia dentro de você cresce incontrolavelmente, causando uma dor enorme e destruindo você!

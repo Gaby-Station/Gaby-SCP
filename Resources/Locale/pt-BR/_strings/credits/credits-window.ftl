@@ -1,0 +1,11 @@
+credits-window-title  = O autor
+credits-window-patrons-tab  = Munição
+credits-window-ss14contributorslist-tab  = O autor
+credits-window-licenses-tab  = Torne-se um patrocinador
+credits-window-become-patron-button  = Torne-se um patrocinador
+credits-window-contributor-encouragement-label  = Quer estar nesta lista?
+credits-window-contribute-button  = Contribuir!
+credits-window-contributors-section-title  = Colaboradores da Estação Espacial 14
+credits-window-codebases-section-title  = Na Estação Espacial 13
+credits-window-original-remake-team-section-title  = A equipe por trás do remake da Estação Espacial 13 original
+credits-window-special-thanks-section-title  = Agradecimentos especiais

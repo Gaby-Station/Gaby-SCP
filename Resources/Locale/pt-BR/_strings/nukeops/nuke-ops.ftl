@@ -1,0 +1,2 @@
+nuke-ops-no-more-threat-announcement-shuttle-call  = De acordo com os nossos sensores de longo alcance, a ameaça nuclear foi eliminada. Chamaremos um ônibus de emergência, que chegará em breve. Hora estimada de chegada: { $time } { $units }. Você pode chamar o ônibus para estender seu turno.
+nuke-ops-no-more-threat-announcement  = De acordo com os nossos sensores de longo alcance, a ameaça nuclear foi eliminada. O ônibus já foi chamado.

@@ -1,0 +1,9 @@
+ent-SimpleXenoArtifactItem  = { ent-BaseXenoArtifactItem }
+    .suffix  = Média
+    .desc  = { ent-BaseXenoArtifactItem.desc }
+ent-MediumXenoArtifactItem  = { ent-BaseXenoArtifactItem }
+    .suffix  = Média
+    .desc  = { ent-BaseXenoArtifactItem.desc }
+ent-VariedXenoArtifactItem  = { ent-BaseXenoArtifactItem }
+    .suffix  = Diferente
+    .desc  = { ent-BaseXenoArtifactItem.desc }

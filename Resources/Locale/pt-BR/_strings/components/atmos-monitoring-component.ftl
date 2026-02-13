@@ -1,0 +1,14 @@
+atmos-monitoring-window-title  = Monitor de rede atmosférica
+atmos-monitoring-window-station-name  = Local desconhecido
+atmos-monitoring-window-unknown-location  = Local desconhecido
+atmos-monitoring-window-label-gas-opening  = Purificador de ar
+atmos-monitoring-window-label-gas-scrubber  = Regulador de fluxo
+atmos-monitoring-window-label-gas-flow-regulator  = Regulador de fluxo
+atmos-monitoring-window-label-thermoregulator  = Termostato
+atmos-monitoring-window-tab-networks  = Redes atmosféricas
+atmos-monitoring-window-toggle-overlays  = Alternar sobreposições de mapa
+atmos-monitoring-window-show-pipe-network  = Sensores de tubulação de gás
+atmos-monitoring-window-show-gas-pipe-sensors  = Sensores de tubulação de gás
+atmos-monitoring-window-label-gases  = Gases presentes
+atmos-monitoring-window-flavor-left  = Contate um técnico atmosférico para obter assistência.
+atmos-monitoring-window-flavor-right  = v1.1

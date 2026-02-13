@@ -1,0 +1,11 @@
+ent-ScpDoubleBlastDoor  = portão hermético
+    .desc  = Porta hermética pesada. Seria melhor para você não ficar entre eles enquanto trabalham.
+ent-ScpDoubleBlastDoorOpen  = { ent-ScpDoubleBlastDoor }
+    .suffix  = Abrir
+    .desc  = { ent-ScpDoubleBlastDoor.desc }
+ent-ScpDoubleBlastDoorNoSound  = { ent-ScpDoubleBlastDoor }
+    .suffix  = Abrir | Sem som
+    .desc  = { ent-ScpDoubleBlastDoor.desc }
+ent-ScpDoubleBlastDoorOpenNoSound  = { ent-ScpDoubleBlastDoor }
+    .suffix  = Abrir | Sem som
+    .desc  = { ent-ScpDoubleBlastDoor.desc }

@@ -1,0 +1,12 @@
+advertisement-cola-1  = Refrescante!
+advertisement-cola-2  = Espero que você esteja com sede!
+advertisement-cola-3  = Você está com sede? Por que não tomar uma cola?
+advertisement-cola-4  = Você está com sede? Por que não tomar uma cola?
+advertisement-cola-5  = Por favor, beba!
+advertisement-cola-6  = Vamos tomar uma bebida!
+advertisement-cola-7  = As melhores bebidas da galáxia!
+advertisement-cola-8  = Muito melhor que o Dr. Gibb!
+thankyou-cola-1  = Abra o pote e divirta-se!
+thankyou-cola-2  = Prisioneiro de guerra! Sede, pegue!
+thankyou-cola-3  = Esperamos que você goste do sabor!
+thankyou-cola-4  = Aproveite sua bebida adoçada com açúcar!

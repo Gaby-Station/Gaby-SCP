@@ -1,0 +1,12 @@
+ent-BaseFlag  = { ent-BaseSign }
+    .desc  = { ent-BaseSign.desc }
+ent-BlankFlag  = Um pedaço de tecido branco. Definitivamente não é a bandeira francesa.
+    .desc  = bandeira NanoTrasen
+ent-NTFlag  = bandeira NanoTrasen
+    .desc  = Parabéns ao NanoTrasen! Espere, eles realmente fizeram uma bandeira para uma empresa?
+ent-SyndieFlag  = bandeira da união
+    .desc  = Cheira a sangue. Morte ao NanoTrasen!
+ent-LGBTQFlag  = bandeira multicolorida
+    .desc  = Um pedaço de tecido multicolorido.
+ent-PirateFlag  = bandeira pirata
+    .desc  = Levantem o Jolly Roger, seus bastardos!

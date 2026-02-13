@@ -1,0 +1,12 @@
+ent-BaseConstruct  = { "" }
+    .desc  = { "" }
+ent-JuggernautConstruct  = Armadura revivida, segurando firmemente um martelo pesado. Eles claramente têm poder esmagador
+    .desc  = Artesão
+ent-ArtificerConstruct  = Artesão
+    .desc  = Um corpo escuro ao qual estão anexados todos os tipos de ferramentas de manipulação. No meio do corpo há um olho mágico vermelho
+ent-WraithConstruct  = Fantasma
+    .desc  = Uma abelha voadora crescida, do tamanho de um husky saudável. Ele tem mandíbulas assustadoras...
+ent-ReaperConstruct  = Ceifador
+    .desc  = Uma abelha voadora crescida, do tamanho de um husky saudável. Ele tem mandíbulas assustadoras...
+ent-ConstructShell  = construir casca
+    .desc  = Uma moldura usada por cultistas para criar construções especializadas.

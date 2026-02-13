@@ -1,0 +1,10 @@
+ent-BaseShowcaseRobot  = layout do robô de segurança
+    .desc  = layout do robô de segurança
+ent-ShowcaseRobot  = layout do robô de segurança
+    .desc  = Este é um modelo dimensional de um antigo robô de segurança.
+ent-ShowcaseRobotWhite  = maquete de robô branco
+    .desc  = Esta é uma maquete dimensional de um robô antigo.
+ent-ShowcaseRobotAntique  = maquete de carregador de robô
+    .desc  = Este é um modelo dimensional de massa de um antigo robô carregador.
+ent-ShowcaseRobotMarauder  = Layout do saqueador
+    .desc  = Este é um modelo dimensional do Marauder, pintado de verde.

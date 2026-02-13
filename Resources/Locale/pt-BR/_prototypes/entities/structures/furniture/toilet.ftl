@@ -1,0 +1,14 @@
+ent-BaseToilet  = banheiro
+    .desc  = HT-451, dispositivo de eliminação de resíduos de pequeno porte com torque rotativo. Este parece incrivelmente limpo.
+ent-ToiletEmpty  = banheiro
+    .desc  = HT-451, um pequeno dispositivo de remoção de resíduos baseado em torque. Este parece incrivelmente limpo.
+    .suffix  = Vazio
+ent-ToiletDirtyWater  = { ent-ToiletEmpty }
+    .desc  = { ent-ToiletEmpty.desc }
+    .suffix  = banheiro dourado
+ent-ToiletGoldenEmpty  = banheiro dourado
+    .desc  = HT-451G é a versão dourada do aparelho. A lateral afirma que é feito do mais puro ouro mercuriano e tem assento de couro verdadeiro.
+    .suffix  = Vazio
+ent-ToiletGoldenDirtyWater  = { ent-ToiletGoldenEmpty }
+    .suffix  = Água suja, alvo de roubo
+    .desc  = { ent-ToiletGoldenEmpty.desc }

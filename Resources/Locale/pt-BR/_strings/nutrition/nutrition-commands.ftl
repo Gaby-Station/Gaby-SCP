@@ -1,0 +1,10 @@
+cmd-nutrition-error-player  = Você não pode usar este comando sem uma entidade.
+cmd-nutrition-error-entity  = Você não pode usar este comando sem uma entidade.
+cmd-nutrition-error-component  = Sua entidade está faltando o componente { $comp }.
+cmd-hungry-desc  = causar fome
+cmd-hungry-help  = mudar saciedade e sede
+cmd-setnutrit-desc  = mudar saciedade e sede
+cmd-setnutrit-help  = define a fome ou a sede para um dos limites especificados
+cmd-setnutrit-error-invalid-threshold  = { $thresholdType } inválido `{ $thresholdString }`
+cmd-thirsty-desc  = te deixar com sede
+cmd-thirsty-help  = define o nível de sede para Seca

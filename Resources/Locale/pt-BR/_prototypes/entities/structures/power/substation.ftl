@@ -1,0 +1,17 @@
+ent-CoreSubstation  = { "" }
+    .desc  = { "" }
+ent-BaseSubstation  = Reduz a tensão da eletricidade fornecida a ele.
+    .desc  = subestação de parede
+ent-BaseSubstationWall  = subestação de parede
+    .desc  = Subestação projetada para ônibus e instalações compactas.
+ent-SubstationBasic  = { ent-BaseSubstation }
+    .suffix  = Básico, 2,5 MJ
+    .desc  = { ent-BaseSubstation.desc }
+ent-SubstationBasicEmpty  = { ent-SubstationBasic }
+    .suffix  = Vazio
+    .desc  = { ent-SubstationBasic.desc }
+ent-SubstationWallBasic  = { ent-BaseSubstationWall }
+    .suffix  = Básico, 2MJ
+    .desc  = { ent-BaseSubstationWall.desc }
+ent-BaseSubstationWallFrame  = quadro de subestação de parede
+    .desc  = Estrutura para construção de subestação.

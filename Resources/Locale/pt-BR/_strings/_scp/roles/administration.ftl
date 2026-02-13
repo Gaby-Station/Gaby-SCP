@@ -1,0 +1,16 @@
+job-name-director  = Diretor da instituição
+job-description-director  = Chefe do Site. Gerencia a instituição e é o funcionário de mais alto escalão. Responsável pela operação contínua e segura, contenção de anomalias e gerenciamento de projetos.
+job-name-scientific-service-director  = Pesquisador Chefe
+job-description-scientific-service-director  = As suas tarefas incluem o acompanhamento do trabalho eficaz, produtivo e seguro do serviço científico da instituição.
+job-name-security-commander  = Chefe de Segurança
+job-description-security-commander  = O Chefe de Segurança é o mais alto comandante do serviço. As suas tarefas incluem organizar operações e procedimentos para garantir a segurança da instituição, organizar patrulhas e autorizar a realização de experiências sujeitas a todas as condições de segurança.
+job-name-chief-technical-specialist  = Engenheiro Líder
+job-description-chief-technical-specialist  = Engenheiro líder com muitos anos de experiência. Responsável pela coordenação de todo o serviço.
+job-name-personnel-officer  = Gerente de RH
+job-description-personnel-officer  = Monitora o desempenho do departamento de serviço e também é responsável pelo acesso do pessoal e pelo arquivo.
+job-name-head-of-medical-sector  = Médico-chefe
+job-description-head-of-medical-sector  = O médico-chefe é responsável pela qualidade do trabalho do serviço médico, sendo também responsável pelas infrações cometidas durante as atividades médicas. O médico-chefe é o médico especialista mais competente da instituição, bem versado em todos os assuntos e com conhecimento de procedimentos e medicamentos.
+job-name-senior-logistics-officer  = Supervisor científico
+job-description-senior-logistics-officer  = Responsável por equipar a instituição com os materiais necessários.
+job-supervisors-O5-command  = Escritório do Supervisor O5
+job-supervisors-director  = diretor da instituição

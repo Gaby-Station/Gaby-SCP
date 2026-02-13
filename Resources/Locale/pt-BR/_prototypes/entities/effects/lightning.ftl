@@ -1,0 +1,16 @@
+ent-BaseLightning  = raio
+    .desc  = { "" }
+ent-Lightning  = raio
+    .desc  = { ent-BaseLightning.desc }
+ent-VampireLightning  = raio
+    .desc  = { ent-BaseLightning.desc }
+ent-LightningRevenant  = relâmpago assustador
+    .desc  = { ent-BaseLightning.desc }
+ent-ChargedLightning  = relâmpago carregado
+    .desc  = { ent-BaseLightning.desc }
+ent-Spark  = raio
+    .desc  = { ent-BaseLightning.desc }
+ent-SuperchargedLightning  = relâmpago sobrecarregado
+    .desc  = { ent-ChargedLightning.desc }
+ent-HyperchargedLightning  = relâmpago hipercarregado
+    .desc  = { ent-ChargedLightning.desc }

@@ -1,0 +1,10 @@
+ent-Joint  = articulação
+    .desc  = articulação
+ent-JointRainbow  = articulação
+    .desc  = Um cigarro enrolado feito de planta seca, embrulhado em papel fino. Parece que é muito colorido por dentro.
+    .suffix  = Cânhamo arco-íris
+ent-Blunt  = cego
+    .desc  = Um cigarro enrolado feito de uma planta seca enrolada em uma folha seca de tabaco.
+ent-BluntRainbow  = cego
+    .desc  = Um cigarro enrolado feito de uma planta seca enrolada em uma folha seca de tabaco. Parece que é muito colorido por dentro.
+    .suffix  = Cânhamo arco-íris

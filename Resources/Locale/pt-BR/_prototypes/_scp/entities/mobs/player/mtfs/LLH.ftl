@@ -1,0 +1,15 @@
+ent-RandomHumanoidSpawnerLLHLeader  = { ghost-role-information-mtf-leader-LLH-name }
+    .suffix  = MEU | Ômega-1
+    .desc  = { ghost-role-information-mtf-leader-description }
+ent-RandomHumanoidSpawnerLLHSpecialist  = { ghost-role-information-mtf-specialist-LLH-name }
+    .suffix  = MEU | Ômega-1
+    .desc  = { ghost-role-information-mtf-specialist-description }
+ent-SpawnerMTFSquadLLH  = { spawner-squad-name } MEU Ômega-1
+    .desc  = { ent-SpawnerMTFSquadHD.desc }
+    .suffix  = Ômega-1
+ent-SpawnerMTFSquadLLHSpawnOnTrigger  = { ent-SpawnerMTFSquadLLH }
+    .desc  = { ent-SpawnerMTFSquadLLH.desc }
+    .suffix  = { ent-SpawnerMTFSquadLLH.suffix }, { spawner-on-trigger-suffix }
+ent-RandomHumanoidSpawnerLLHCadet  = { ghost-role-information-mtf-cadet-LLH-name }
+    .suffix  = MEU | Ômega-1
+    .desc  = { ghost-role-information-mtf-cadet-description }

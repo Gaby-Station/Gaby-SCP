@@ -1,0 +1,11 @@
+positronic-brain-installed  = Nenhuma atividade neural foi detectada.
+positronic-brain-off  = O processo de decodificação neural sintética está em andamento...
+positronic-brain-still-searching  = O processo de decodificação neural sintética está em andamento...
+positronic-brain-searching  = O processo de decodificação neural sintética começa...
+positronic-brain-role-name  = Cérebro positrônico
+positronic-brain-role-description  = Sirva a tripulação do complexo.
+positronic-brain-wipe-device-verb-text  = Apague o cérebro
+positronic-brain-wiped-device  = A atividade neural foi interrompida.
+positronic-brain-stop-searching-verb-text  = Pare de pesquisar
+positronic-brain-stopped-searching  = A descodificação neural parou.
+positronic-brain-slot-component-slot-name-brain  = Cérebro

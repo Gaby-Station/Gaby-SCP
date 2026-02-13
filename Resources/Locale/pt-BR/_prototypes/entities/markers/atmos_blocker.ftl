@@ -1,0 +1,17 @@
+ent-AtmosFixBlockerMarker  = etiqueta de correção atmos
+    .desc  = Vácuo, 20°C
+ent-AtmosFixOxygenMarker  = etiqueta de correção atmos
+    .desc  = Oxigênio sob pressão do produtor de gás, 20°C
+ent-AtmosFixNitrogenMarker  = etiqueta de correção atmos
+    .desc  = Nitrogênio sob pressão do produtor de gás, 20°C
+ent-AtmosFixPlasmaMarker  = etiqueta de correção atmos
+    .desc  = Marca de Fogo de Plasma Instantânea
+ent-AtmosFixInstantPlasmaFireMarker  = Marca de Fogo de Plasma Instantânea
+    .desc  = FOGO DE PLASMA INSTANTÂNEO
+ent-AtmosFixFreezerMarker  = rótulo de atmosfera de freezer
+    .desc  = Altere a temperatura do ar para 235K, para o freezer com pequena margem para ajuste.
+ent-AtmosFixVoxMarker  = { ent-AtmosFixNitrogenMarker }
+    .desc  = Nitrogênio @ 101 kPa, 20°C
+    .suffix  = Atmosfera Vox
+ent-AtmosFixAirMarker  = Marcador de ar para reparo de atmosfera
+    .desc  = Oxigênio (21%) e nitrogênio (79%) sob pressão do produtor de gás, 20°C

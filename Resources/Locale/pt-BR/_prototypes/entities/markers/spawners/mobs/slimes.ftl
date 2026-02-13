@@ -1,0 +1,12 @@
+ent-SpawnMobAdultSlimesBlue  = lodo spawner azul
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesBlueAngry  = spawner lodo verde
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesGreen  = spawner lodo verde
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesGreenAngry  = spawner lodo verde mal
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesYellow  = lodo spawner amarelo
+    .desc  = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesYellowAngry  = spawner lodo amarelo mal
+    .desc  = { ent-MarkerBase.desc }

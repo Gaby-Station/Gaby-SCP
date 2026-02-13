@@ -1,0 +1,16 @@
+ent-BaseNightVisionDevice  = NVD
+    .desc  = { ent-BaseItem.desc }
+ent-ClothingEyesNVD  = PNV
+    .desc  = PNV Sábado
+ent-ClothingEyesNVDSec  = Dispositivo de visão noturna. Fornece melhor visibilidade em condições de pouca luz. possui segurança Hud integrada para detectar criminosos.
+    .desc  = Dispositivo de visão noturna. Fornece melhor visibilidade em condições de pouca luz. possui segurança Hud integrada para detectar criminosos.
+    .suffix  = Segurança
+ent-ClothingEyesNVDMedSec  = NVD Med-Okhranny
+    .desc  = Dispositivo de visão noturna. Fornece melhor visibilidade em condições de pouca luz. possui um Hud de segurança integrado e um analisador humanóide.
+    .suffix  = Med-Okhranny
+ent-ClothingEyesNVDSyndicate  = União PVN
+    .desc  = Este dispositivo de visão noturna de qualidade da Gorlax Security usa lentes vermelhas para melhorar a visibilidade em condições de pouca luz.
+    .suffix  = A união
+ent-ClothingEyesNVDHandcrafted  = OVN caseiro
+    .desc  = Dispositivo de visão noturna. Fornece melhor visibilidade em condições de pouca luz. Parece que obviamente não foi bem feito. Na lateral da viseira você pode ver a inscrição “Handmade”.
+    .suffix  = Artesanato

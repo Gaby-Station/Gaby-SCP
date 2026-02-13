@@ -1,0 +1,12 @@
+ent-Grille  = Estrutura frágil feita de hastes de metal.
+    .desc  = Estrutura frágil feita de hastes de metal.
+ent-ClockworkGrille  = grade sinuosa
+    .desc  = Uma estrutura frágil feita de hastes de metal, montada no estilo tradicional Ratwar.
+ent-GrilleBroken  = treliça
+    .desc  = Estrutura frágil feita de hastes de metal. Ele já viu tempos melhores.
+ent-ClockworkGrilleBroken  = grade sinuosa
+    .desc  = Uma estrutura frágil feita de hastes de metal, montada no estilo tradicional Ratwar. Ele já viu tempos melhores.
+ent-GrilleDiagonal  = grade diagonal
+    .desc  = { ent-Grille.desc }
+ent-ClockworkGrilleDiagonal  = grade sinuosa diagonal
+    .desc  = { ent-ClockworkGrille.desc }

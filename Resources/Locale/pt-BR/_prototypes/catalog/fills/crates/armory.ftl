@@ -1,0 +1,16 @@
+ent-CrateArmorySMG  = caixa de metralhadoras
+    .desc  = Contém duas metralhadoras poderosas e quatro carregadores. Para abrir, você precisa de acesso ao nível Armory.
+ent-CrateArmoryShotgun  = Quando for necessário encher o inimigo de chumbo. Contém duas espingardas Silovik e algumas munições de rifle normais. Para abrir, você precisa de acesso ao nível Armory.
+    .desc  = Quando for necessário encher o inimigo de chumbo. Contém duas espingardas Silovik e algumas munições de rifle normais. Para abrir, você precisa de acesso ao nível Armory.
+ent-CrateTrackingImplants  = Contém vários implantadores de rastreamento. Adequado para prisioneiros que você deseja libertar, mas deseja ficar de olho.
+    .desc  = Contém vários implantadores de rastreamento. Adequado para prisioneiros que você deseja libertar, mas deseja ficar de olho.
+ent-CrateTrainingBombs  = bombas de treinamento
+    .desc  = Contém três bombas de treinamento de baixo rendimento para treinar o pessoal de segurança no descarte e destruição segura de munições. O traje de proteção EOD não está incluído. Requer acesso ao arsenal para abrir.
+ent-CrateArmoryLaser  = caixa com rifles laser
+    .desc  = Contém três rifles laser padrão. Requer acesso ao arsenal para abrir.
+ent-CrateArmoryPistols  = caixa de pistolas
+    .desc  = Contém duas pistolas Foundation padrão com quatro carregadores. Requer acesso ao arsenal para abrir.
+ent-CrateSecurityRiot  = caixa de equipamento de controle de motim
+    .desc  = caixa de rifles
+ent-CrateArmoryRifle  = caixa de rifles
+    .desc  = Contém dois poderosos rifles de assalto com quatro carregadores. Requer acesso ao arsenal para abrir.

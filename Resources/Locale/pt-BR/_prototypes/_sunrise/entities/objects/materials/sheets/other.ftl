@@ -1,0 +1,11 @@
+ent-SheetOfficePaperBase  = { ent-BaseItem }
+    .desc  = papel de impressão
+ent-SheetOfficePaper  = papel de impressão
+    .suffix  = Completo
+    .desc  = { ent-SheetOfficePaperBase.desc }
+ent-SheetOfficePaper1  = papel de impressão
+    .suffix  = Um
+    .desc  = { ent-SheetOfficePaper.desc }
+ent-OfficePaper  = Pilha de papel impresso
+    .desc  = Pilha de papel impresso
+stack-office-paper  = Pilha de papel impresso

@@ -1,0 +1,14 @@
+ent-BaseGenericTabletopPiece  = { ent-BaseTabletopPiece }
+    .desc  = { ent-BaseTabletopPiece.desc }
+ent-RedTabletopPiece  = ficha vermelha
+    .desc  = { ent-BaseGenericTabletopPiece.desc }
+ent-GreenTabletopPiece  = ficha verde
+    .desc  = { ent-BaseGenericTabletopPiece.desc }
+ent-YellowTabletopPiece  = chip amarelo
+    .desc  = { ent-BaseGenericTabletopPiece.desc }
+ent-BlueTabletopPiece  = chip azul
+    .desc  = { ent-BaseGenericTabletopPiece.desc }
+ent-WhiteTabletopPiece  = chip branco
+    .desc  = { ent-BaseGenericTabletopPiece.desc }
+ent-BlackTabletopPiece  = chip preto
+    .desc  = { ent-BaseGenericTabletopPiece.desc }

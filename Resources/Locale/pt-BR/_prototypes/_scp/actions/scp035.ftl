@@ -1,0 +1,12 @@
+ent-ActionScp035RaiseArmy  = Convocar Manequim
+    .desc  = A máscara cria uma estranha criatura de antimatéria que se parece com um manequim comum.
+ent-ActionScp035OrderStay  = Ordem para parar
+    .desc  = A máscara ordena que o manequim fique de pé
+ent-ActionScp035OrderFollow  = Ordem a seguir
+    .desc  = A máscara ordena que o manequim siga
+ent-ActionScp035OrderKill  = Ordem para matar
+    .desc  = A máscara manda o manequim matar
+ent-ActionScp035OrderLoose  = O pedido é gratuito
+    .desc  = A máscara dá ordens ao manequim livremente
+ent-ActionScp035Stun  = Hipnose
+    .desc  = A máscara forçará a vítima a parar por um determinado período de tempo.

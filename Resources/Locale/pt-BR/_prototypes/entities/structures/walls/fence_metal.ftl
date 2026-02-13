@@ -1,0 +1,15 @@
+ent-BaseFenceMetal  = malha de arame
+    .desc  = Uma cerca de metal bloqueando algo que provavelmente é muito importante.
+ent-FenceMetalBroken  = Alguém ficou muito zangado com um objeto inanimado.
+    .desc  = Alguém ficou muito zangado com um objeto inanimado.
+ent-FenceMetalStraight  = { ent-BaseFenceMetal }
+    .suffix  = Direto
+    .desc  = { ent-BaseFenceMetal.desc }
+ent-FenceMetalCorner  = { ent-BaseFenceMetal }
+    .suffix  = Canto
+    .desc  = { ent-BaseFenceMetal.desc }
+ent-FenceMetalEnd  = { ent-BaseFenceMetal }
+    .suffix  = Fim
+    .desc  = { ent-BaseFenceMetal.desc }
+ent-FenceMetalGate  = portões de malha
+    .desc  = Você pode usar a porta em vez de passar por cima dela - se você for um COVARDE.

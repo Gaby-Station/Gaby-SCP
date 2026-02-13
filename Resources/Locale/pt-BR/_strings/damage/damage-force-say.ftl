@@ -1,0 +1,15 @@
+damage-force-say-message-wrap  = { $message }-{ $suffix }
+damage-force-say-message-wrap-no-suffix  = { $message }-
+damage-force-say-1  = GLURF!
+damage-force-say-2  = GLURF!
+damage-force-say-3  = UV!
+damage-force-say-4  = VAMOS!
+damage-force-say-5  = UAU!
+damage-force-say-6  = ECA!
+damage-force-say-7  = HRK!
+damage-force-say-sleep-1  = hrr...
+damage-force-say-numb-1  = Oh-
+damage-force-say-numb-2  = lua
+damage-force-say-numb-3  = UV-
+damage-force-say-numb-4  = irmão-
+damage-force-say-numb-5  = uh-

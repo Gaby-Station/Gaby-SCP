@@ -1,0 +1,65 @@
+# Traitor single items
+steal-target-groups-hypospray  = hipospray
+steal-target-groups-handheld-crew-monitor  = monitor de tripulação portátil
+steal-target-groups-clothing-outer-hardsuit-rd  = Carne de Ian
+steal-target-groups-hand-teleporter  = Carne de Ian
+steal-target-groups-clothing-shoes-boots-mag-adv  = botas magnéticas avançadas
+steal-target-groups-box-folder-qm-clipboard  = tablet de aplicação digital
+steal-target-groups-food-meat-corgi  = Carne de Ian
+steal-target-groups-captain-id-card  = Cartão de identificação do capitão
+steal-target-groups-jetpack-captain-filled  = disco de autenticação nuclear
+steal-target-groups-weapon-antique-laser  = pistola laser antiga
+steal-target-groups-nuke-disk  = disco de autenticação nuclear
+steal-target-groups-weapon-energy-shot-gun  = espingarda de energia
+steal-target-groups-multiphase  = Carabina de energia multifásica X-01
+steal-target-groups-plutonium  = núcleo de plutônio
+steal-target-groups-advanced-defibrillator  = desfibrilador avançado
+# Thief Collection
+steal-target-groups-figurines  = estatueta
+steal-target-groups-heads-cloaks  = capas de capítulo
+steal-target-groups-heads-bedsheets  = cabeças de cobertores
+steal-target-groups-mail  = carta
+steal-target-groups-stamps  = Selo
+steal-target-groups-door-remotes  = Controle remoto de gateway
+steal-target-groups-encryption-keys  = chave de criptografia
+steal-target-groups-technology-disks  = disco de tecnologia
+steal-target-groups-id-cards  = carteira de identidade
+steal-target-groups-lamps  = Lâmpada
+# Thief single item
+steal-target-groups-forensic-scanner  = scanner forense
+steal-target-groups-flippo-engraved-lighter  = isqueiro flippo de detetive gravado
+steal-target-groups-ammo-tech-fab-circuitboard  = Cartuchos TechFab (placa de máquina)
+steal-target-groups-clothing-head-hat-warden  = boné de zelador
+steal-target-groups-clothing-outer-hardsuit-void-paramed  = traje vazio paramédico
+steal-target-groups-medical-tech-fab-circuitboard  = TechFab médico (placa de máquina)
+steal-target-groups-clothing-headset-alt-medical  = fone de ouvido de tamanho normal
+steal-target-groups-research-and-development-server-machine-circuitboard  = Servidor RnD (placa da máquina)
+steal-target-groups-fire-axe  = Por que combater o fogo com um machado quando você pode lutar com um machado e fogo? Agora com uma alça emborrachada durável!
+steal-target-groups-ame-part-flatpack  = embalagem SENHORAS
+steal-target-groups-salvage-expeditions-computer-circuitboard  = console de expedição de reciclagem (placa de console)
+steal-target-groups-cargo-shuttle-console-circuitboard  = console de controle do ônibus de carga (placa do console)
+steal-target-groups-clothing-eyes-hud-beer  = copos de cerveja
+steal-target-groups-bible  = Bíblia
+steal-target-groups-wanted-list-cartridge  = cartucho de lista de procurados
+steal-target-groups-clothing-neck-goldmedal  = Medalha de Ouro de Excelência da Tripulação
+steal-target-groups-clothing-neck-clownmedal  = medalha de palhaço
+# Thief structures
+steal-target-groups-teg  = peça de gerador termoelétrico
+steal-target-groups-freezer-heater  = máquina térmica de resfriamento ou máquina térmica de aquecimento
+steal-target-groups-altar-nanotrasen  = altar NT (qualquer)
+steal-target-groups-nuclear-bomb  = ogiva nuclear
+steal-target-groups-fax-machine-captain  = Fax de longo alcance do capitão
+steal-target-groups-chem-dispenser  = Dispensador de produtos químicos de nível industrial com grande suprimento de reagentes.
+steal-target-groups-xeno-artifact  = artefato alienígena
+steal-target-groups-booze-dispenser  = Dispensador de álcool. Possui um slot para contêineres.
+steal-target-groups-plant-rd  = planta de casa científica
+steal-target-groups-toilet-golden-dirty-water  = banheiro dourado
+# Thief Animal
+steal-target-groups-animal-named-cat  = gato GV
+steal-target-groups-animal-ian  = Ian
+steal-target-groups-animal-mc-griff  = McGriff
+steal-target-groups-animal-walter  = Ala
+steal-target-groups-animal-morty  = Morty
+steal-target-groups-animal-renault  = Alice
+steal-target-groups-animal-shiva  = Shiva
+steal-target-groups-animal-tropico  = Trópico

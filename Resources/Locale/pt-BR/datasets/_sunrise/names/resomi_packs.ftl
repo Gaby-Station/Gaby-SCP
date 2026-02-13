@@ -1,0 +1,14 @@
+names-resomi-packs-dataset-1  = Conjunto aviador
+names-resomi-packs-dataset-2  = Conjunto de pica-paus selecionados
+names-resomi-packs-dataset-3  = Conjunto Defensor do Casco
+names-resomi-packs-dataset-4  = Conjunto de garras de ferro
+names-resomi-packs-dataset-5  = Conjunto de proteção de escotilha
+names-resomi-packs-dataset-6  = Conjunto velocista
+names-resomi-packs-dataset-7  = Conjunto de garras de plasma
+names-resomi-packs-dataset-8  = Conjunto de patas de ferro
+names-resomi-packs-dataset-9  = Conjunto de soquete de aço
+names-resomi-packs-dataset-10  = Conjunto de penas prateadas
+names-resomi-packs-dataset-11  = Conjunto de garras de mineiro
+names-resomi-packs-dataset-12  = Conjunto de Caçador
+names-resomi-packs-dataset-13  = Conjunto de penas escuras
+names-resomi-packs-dataset-14  = Kit de soquete de manutenção

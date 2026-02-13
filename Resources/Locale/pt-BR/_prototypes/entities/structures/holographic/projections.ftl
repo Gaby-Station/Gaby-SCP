@@ -1,0 +1,10 @@
+ent-HolosignWetFloor  = sinal de piso molhado
+    .desc  = barreira atmosférica
+ent-HoloFan  = Uma barreira de luz sólida que bloqueia o ar e nada mais.
+    .desc  = holocausto
+ent-HoloPeel  = Casca de banana feita de luz dura e escorregadia, cuidado!
+    .desc  = Casca de banana feita de luz dura e escorregadia, cuidado!
+ent-HolosignSecurity  = barreira holográfica
+    .desc  = Uma barreira de luz sólida que bloqueia o movimento, mas é bastante frágil.
+ent-HolosignForcefield  = campo de força holográfico
+    .desc  = Um poderoso campo de contenção temporário que não deixará passar nada, nem mesmo Tesla ou a singularidade.

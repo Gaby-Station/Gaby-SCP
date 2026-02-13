@@ -1,0 +1,67 @@
+health-examinable-carbon-none  = Não há lesões corporais visíveis.
+
+health-examinable-carbon-Slash-8  = [color=yellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } alguns pequenos cortes.[/color]
+health-examinable-carbon-Slash-15  = [color=yellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } cortes graves no corpo.[/color]
+health-examinable-carbon-Slash-30  = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } cortes profundos por todo o corpo![/color]
+health-examinable-carbon-Slash-50  = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } cortes profundos por todo o corpo![/color]
+health-examinable-carbon-Slash-75  = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } lacerações profundas percorrendo todo o corpo![/color]
+health-examinable-carbon-Slash-100  = [color=red]{ CAPITALIZE(POSS-ADJ($target)) } corpo parece ensanguentado e cortado![/color]
+health-examinable-carbon-Slash-200  = [color=crimson]{ CAPITALIZE(POSS-ADJ($target)) } corpo completamente cortado em pedaços![/color]
+
+health-examinable-carbon-Blunt-8  = [color=yellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } pequenos hematomas no corpo.[/color]
+health-examinable-carbon-Blunt-15  = [color=yellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } alguns hematomas.[/color]
+health-examinable-carbon-Blunt-30  = [color=orange]{ CAPITALIZE(SUBJECT($target)) } parece abatido.[/color]
+health-examinable-carbon-Blunt-50  = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } hematomas graves no corpo![/color]
+health-examinable-carbon-Blunt-75  = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } hematomas graves por todo o corpo![/color]
+health-examinable-carbon-Blunt-100  = [color=red]{ CAPITALIZE(POSS-ADJ($target)) } corpo está desfigurado e espancado![/color]
+health-examinable-carbon-Blunt-200  = [color=crimson]{ CAPITALIZE(POSS-ADJ($target)) } corpo espancado e irreconhecível![/color]
+
+health-examinable-carbon-Piercing-8  = [color=yellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } pequeno ferimento.[/color]
+health-examinable-carbon-Piercing-15  = [color=yellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } várias perfurações.[/color]
+health-examinable-carbon-Piercing-30  = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } muitas feridas profundas.[/color]
+health-examinable-carbon-Piercing-50  = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } grandes perfurações por todo o corpo![/color]
+health-examinable-carbon-Piercing-75  = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } feridas extensas e profundas cobrindo todo o corpo![/color]
+health-examinable-carbon-Piercing-100  = [color=red]{ CAPITALIZE(POSS-ADJ($target)) } corpo está desfigurado por muitos buracos enormes![/color]
+health-examinable-carbon-Piercing-200  = [color=crimson]{ CAPITALIZE(POSS-ADJ($target)) } corpo está desfigurado por muitos buracos enormes![/color]
+
+health-examinable-carbon-Asphyxiation-30  = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } lábios ficam azuis.[/color]
+health-examinable-carbon-Asphyxiation-75  = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } rosto fica azul![/color]
+
+health-examinable-carbon-Heat-8  = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } queimadura superficial.[/color]
+health-examinable-carbon-Heat-15  = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } várias queimaduras de primeiro grau.[/color]
+health-examinable-carbon-Heat-30  = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } várias queimaduras de segundo grau.[/color]
+health-examinable-carbon-Heat-50  = [color=orange]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } múltiplas queimaduras de segundo grau.[/color]
+health-examinable-carbon-Heat-75  = [color=red]{ CAPITALIZE(POSS-ADJ($target)) } corpo coberto com queimaduras graves de terceiro grau![/color]
+health-examinable-carbon-Heat-100  = [color=red]{ CAPITALIZE(POSS-ADJ($target)) } corpo queimado até ficar crocante![/color]
+health-examinable-carbon-Heat-200  = [color=crimson]{ CAPITALIZE(POSS-ADJ($target)) } corpo queimado até ficar crocante![/color]
+
+health-examinable-carbon-Shock-15  = [color=lightgoldenrodyellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } leve vermelhidão e inflamação da pele.[/color]
+health-examinable-carbon-Shock-30  = [color=lightgoldenrodyellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } grande inflamação no corpo.[/color]
+health-examinable-carbon-Shock-50  = [color=lightgoldenrodyellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } grande inflamação e carbonização no corpo.[/color]
+health-examinable-carbon-Shock-75  = [color=lightgoldenrodyellow]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } queimaduras enormes e carbonizadas por todo o corpo![/color]
+health-examinable-carbon-Shock-100  = [color=lightgoldenrodyellow]{ CAPITALIZE(POSS-ADJ($target)) } corpo está coberto de graves queimaduras elétricas![/color]
+health-examinable-carbon-Shock-200  = [color=lightgoldenrodyellow]{ CAPITALIZE(POSS-ADJ($target)) } corpo completamente carbonizado por queimaduras elétricas![/color]
+
+health-examinable-carbon-Cold-8  = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } leve congelamento nas pontas dos dedos.[/color]
+health-examinable-carbon-Cold-15  = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelamento de primeiro grau nas extremidades.[/color]
+health-examinable-carbon-Cold-30  = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelamento de segundo grau nas extremidades.[/color]
+health-examinable-carbon-Cold-50  = [color=lightblue]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } congelamento grave de terceiro grau nas extremidades.[/color]
+health-examinable-carbon-Cold-75  = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } membros estão escuros, frios e mortos![/color]
+health-examinable-carbon-Cold-100  = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } corpo está coberto por congelamento extenso de quarto grau![/color]
+health-examinable-carbon-Cold-200  = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } corpo está completamente congelado![/color]
+
+health-examinable-carbon-Caustic-8  = [color=yellowgreen]{ CAPITALIZE(POSS-ADJ($target)) } a pele parece ligeiramente descolorida.[/color]
+health-examinable-carbon-Caustic-15  = [color=yellowgreen]{ CAPITALIZE(POSS-ADJ($target)) } a pele parece irritada e descolorida.[/color]
+health-examinable-carbon-Caustic-30  = [color=yellowgreen]{ CAPITALIZE(POSS-ADJ($target)) } a pele está inflamada e começa a descascar.[/color]
+health-examinable-carbon-Caustic-50  = [color=yellowgreen]{ CAPITALIZE(POSS-ADJ($target)) } a pele está queimada e descasca em pedaços grandes.[/color]
+health-examinable-carbon-Caustic-75  = [color=yellowgreen]{ CAPITALIZE(POSS-ADJ($target)) } a pele está gravemente queimada e pingando do corpo![/color]
+health-examinable-carbon-Caustic-100  = [color=yellowgreen]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } queimaduras químicas graves em todo o corpo![/color]
+health-examinable-carbon-Caustic-200  = [color=yellowgreen]A maior parte do corpo de { POSS-ADJ($target) } derreteu completamente![/color]
+
+health-examinable-carbon-Radiation-50  = [color=orange]{ CAPITALIZE(POSS-ADJ($target)) } pele coberta com bolhas grandes.[/color]
+health-examinable-carbon-Radiation-100  = [color=orange]{ CAPITALIZE(POSS-ADJ($target)) } a pele fica coberta de erupções cutâneas e descama em pedaços![/color]
+
+health-examinable-carbon-Mangleness-15  = [color=gray]{ CAPITALIZE(SUBJECT($target)) } parece cansado.[/color]
+health-examinable-carbon-Mangleness-50  = [color=#505050]{ CAPITALIZE(SUBJECT($target)) } mal consegue mover as pernas devido à exaustão![/color]
+health-examinable-carbon-Mangleness-100  = [color=#505050]{ CAPITALIZE(SUBJECT($target)) } parece uma múmia dessecada![/color]
+

@@ -1,0 +1,31 @@
+ent-Lighter  = isqueiro simples
+    .desc  = Um simples isqueiro de plástico.
+ent-CheapLighter  = isqueiro barato
+    .desc  = flippo mais leve
+ent-FlippoLighter  = flippo mais leve
+    .desc  = Um isqueiro de metal confiável projetado para uma longa vida útil.
+ent-FlippoEngravedLighter  = flippo isqueiro gravado
+    .desc  = Um isqueiro de metal confiável projetado para uma longa vida útil. A gravação não oferece nenhuma vantagem tática.
+ent-NanotrasenFlippo  = Um luxuoso isqueiro azul escuro, oferecido a gerentes dedicados em vez de um bônus. Alimentado por plasma líquido.
+    .desc  = Um luxuoso isqueiro azul escuro, oferecido a gerentes dedicados em vez de um bônus. Alimentado por plasma líquido.
+ent-SyndicateFlippo  = flippo mais leve vermelho sangue
+    .desc  = A escolha 'certa' para isqueiros. Sem cobre.
+ent-DiscountDanLighter  = Desconto mais leve Dan
+    .desc  = O pior isqueiro já feito. As queimaduras são inevitáveis ​​– não reabasteça enquanto estiver queimando.
+ent-CybersunFlippo  = flippo isqueiro "Cybersun"
+    .desc  = Isqueiro preto magenta com o logotipo e símbolos da CyberSun Industries.
+ent-DonkcoLighter  = flippo isqueiro “Donk Co.”
+    .desc  = Um isqueiro para o traidor experiente da Donk Co., que pode ser comido mesmo aceso.
+ent-CentCommFlippo  = flippo isqueiro Centcom
+    .suffix  = NÃO MAPEE
+    .desc  = Isqueiro luxuoso com relevo em jade e banhado a ouro, com reagente bluespace. A fechadura só pode ser aberta por funcionários do Centcom. O isqueiro mais requintado.
+ent-HonkCoFlippo  = flippo isqueiro "Honk Co."
+    .desc  = Um isqueiro escorregadio da Honk Co., escondido dentro de uma casca de banana de verdade.
+ent-InterdyneFlippo  = flippo isqueiro "Interdyne"
+    .desc  = Um isqueiro azul profundo decorado com o logotipo das clínicas Gene-Clean da corporação Interdyne Pharmaceutics. Torne-se o mestre do seu cigarro.
+ent-SpiderclanFlippo  = Isqueiro flippo do Clã Aranha
+    .desc  = Isqueiro a jato para uso no espaço. Alimentado por uma bateria micronuclear em miniatura.
+ent-WaffleCoFlippo  = Isqueiro Waffle Co flippo.
+    .desc  = Isqueiro de massa robusto. Logotipo da Waffle Co. Gira a roda de ignição quando apanhada, para que mesmo os usuários mais desajeitados não se queimem.
+
+

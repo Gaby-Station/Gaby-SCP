@@ -1,0 +1,15 @@
+ent-LootSpawnerSecurityBasic  = spavner vagueia SB
+    .suffix  = Equipamento, Simples
+    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerSecurity  = Equipamento, Melhorado
+    .suffix  = Equipamento, Melhorado
+    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerArmory  = Armas, Armadura
+    .suffix  = Armas, Armadura
+    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerArmoryGunsOnly  = spavner sai do arsenal
+    .suffix  = Arma
+    .desc  = { ent-MarkerBase.desc }
+ent-LootSpawnerArmoryArmorOnly  = Armadura
+    .suffix  = Armadura
+    .desc  = { ent-MarkerBase.desc }

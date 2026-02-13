@@ -1,0 +1,12 @@
+ent-BaseDelivery  = entrega
+    .desc  = Pacote de entrega.
+ent-PackageDelivery  = pacote
+    .desc  = Pacote grande para entrega.
+ent-LetterDelivery  = carta
+    .desc  = Carta postal.
+ent-DeliveryModifierPriority  = { "" }
+    .desc  = Componentes adicionados quando a entrega é considerada prioritária.
+ent-DeliveryModifierFragile  = { "" }
+    .desc  = Componentes adicionados quando uma remessa é considerada frágil.
+ent-DeliveryModifierBomb  = { "" }
+    .desc  = Componentes adicionados quando a entrega é considerada uma bomba.

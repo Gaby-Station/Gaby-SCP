@@ -1,0 +1,16 @@
+ent-BaseScpMaterial  = { ent-BaseItem }
+    .desc  = { ent-BaseItem.desc }
+ent-BaseScpResearchMaterial  = { ent-BaseScpMaterial }
+    .desc  = { ent-BaseScpMaterial.desc }
+ent-Scp999Jelly  = Pequeno fragmento de pedra de cor laranja claro
+    .desc  = Pequeno fragmento de pedra de cor laranja claro
+ent-Scp173Shard  = pedaços de tinta
+    .desc  = pedaços de tinta
+ent-Scp173PaintChips  = Várias lascas de tinta arrancadas por um objeto áspero
+    .desc  = Várias lascas de tinta arrancadas por um objeto áspero
+ent-Scp173PaintBall  = bola pintada
+    .desc  = foto estranha
+ent-Scp096PhotoDeveloped  = foto estranha
+    .desc  = Uma pequena fotografia em formato 4:3. Suas bordas parecem enrugadas, parece que alguém o carregou antes... Você tenta decifrar a imagem...
+ent-Scp096Photo  = foto estranha
+    .desc  = Uma pequena fotografia cujo conteúdo é quase indistinguível.

@@ -1,0 +1,11 @@
+traitor-death-match-redemption-component-interact-using-main-message  = A máquina vibra e mostra: { $secondMessage }
+traitor-death-match-redemption-component-interact-using-no-mind-message  = "FALHA NA AUTENTICAÇÃO (0052)"
+traitor-death-match-redemption-component-interact-using-no-user-mind-message  = "FALHA NA AUTENTICAÇÃO (0052)"
+traitor-death-match-redemption-component-interact-using-no-pda-message  = ESTE PDA NÃO É UM PDA (0058)"
+traitor-death-match-redemption-component-interact-using-no-pda-owner-message  = "O USUÁRIO É PROPRIETÁRIO DESTE PDA (0070)"
+traitor-death-match-redemption-component-interact-using-pda-different-user-message  = "O USUÁRIO É PROPRIETÁRIO DESTE PDA (0070)"
+traitor-death-match-redemption-component-interact-using-no-pda-in-pocket-message  = "SEM PDA NO SLOT DO CARTÃO DE IDENTIFICAÇÃO (0083)"
+traitor-death-match-redemption-component-interact-using-tampering-detected  = "INTRUSÃO NÃO AUTORIZADA DETECTADA (0101)"
+traitor-death-match-redemption-component-interact-using-user-no-uplink-account-message  = "PDA DO USUÁRIO NÃO TEM CONTA APPLINK (0102)"
+traitor-death-match-redemption-component-interact-using-victim-no-uplink-account-message  = "PDA DO USUÁRIO NÃO TEM CONTA APPLINK (0108)"
+traitor-death-match-redemption-component-interact-using-success-message  = A máquina toca uma melodia alegre e exibe a mensagem: “SUCESSO: { $tcAmount } TK TRANSMITIDO”

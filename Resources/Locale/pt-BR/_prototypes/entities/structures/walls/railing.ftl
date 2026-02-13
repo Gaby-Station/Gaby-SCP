@@ -1,0 +1,10 @@
+ent-BaseRailing  = corrimão
+    .desc  = Uma grade simples projetada para proteger idiotas como você de cair.
+ent-Railing  = corrimão
+    .desc  = Uma grade simples projetada para proteger idiotas como você de cair.
+ent-RailingCorner  = corrimão
+    .desc  = Uma grade simples projetada para proteger idiotas como você de cair.
+ent-RailingCornerSmall  = corrimão
+    .desc  = Uma grade simples projetada para proteger idiotas como você de cair.
+ent-RailingRound  = corrimão
+    .desc  = Uma grade simples projetada para proteger idiotas como você de cair.

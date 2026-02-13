@@ -1,0 +1,16 @@
+ent-BaseArachnidOrgan  = { ent-BaseItem }
+    .desc  = { ent-BaseItem.desc }
+ent-OrganArachnidStomach  = estômago
+    .desc  = pulmões
+ent-OrganArachnidLungs  = pulmões
+    .desc  = Filtra o oxigênio da atmosfera... só que com mais avidez.
+ent-OrganArachnidHeart  = coração
+    .desc  = Uma bomba biológica em miniatura repugnantemente resistente projetada para aranhas.
+ent-OrganArachnidLiver  = fígado
+    .desc  = rins
+ent-OrganArachnidKidneys  = rins
+    .desc  = Remove toxinas do sistema circulatório.
+ent-OrganArachnidEyes  = olhos
+    .desc  = Dois já é demais.
+ent-OrganArachnidTongue  = linguagem
+    .desc  = Um músculo carnudo usado principalmente para enganar.

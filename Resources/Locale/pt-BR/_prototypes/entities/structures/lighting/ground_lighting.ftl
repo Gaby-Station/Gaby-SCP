@@ -1,0 +1,11 @@
+ent-LightPostSmall  = poste de iluminação
+    .desc  = Sempre ligado
+    .suffix  = Sempre ligado
+ent-PoweredLightPostSmallEmpty  = poste de iluminação
+    .desc  = Dispositivo de iluminação.
+    .suffix  = Vazio
+ent-PoweredLightPostSmall  = poste de iluminação
+    .desc  = Dispositivo de iluminação. Consome energia e emite luz se equipado com lâmpada tubular.
+ent-PoweredLEDLightPostSmall  = poste de iluminação
+    .desc  = Dispositivo de iluminação. Consome energia e emite luz se equipado com lâmpada tubular.
+    .suffix  = LIDERADO

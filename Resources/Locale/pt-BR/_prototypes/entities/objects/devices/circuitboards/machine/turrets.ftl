@@ -1,0 +1,9 @@
+ent-WeaponEnergyTurretStationMachineCircuitboardBase  = placa de circuito da máquina da torre de segurança
+    .desc  = Placa de circuito impresso de máquina para torre de segurança.
+ent-WeaponEnergyTurretAIMachineCircuitboard  = Placa de circuito da torre de segurança AI
+    .desc  = Placa de circuito para torre de segurança AI.
+ent-WeaponEnergyTurretSecurityMachineCircuitboard  = { ent-WeaponEnergyTurretStationMachineCircuitboardBase }
+    .suffix  = SB
+    .desc  = { ent-WeaponEnergyTurretStationMachineCircuitboardBase.desc }
+ent-WeaponEnergyTurretStationMachineCircuitboard  = Placa de circuito impresso para torre de segurança.
+    .desc  = Placa de circuito impresso para torre de segurança.

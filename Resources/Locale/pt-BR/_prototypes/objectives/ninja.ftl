@@ -1,0 +1,14 @@
+ent-BaseNinjaObjective  = { ent-BaseObjective }
+    .desc  = { ent-BaseObjective.desc }
+ent-DoorjackObjective  = { ent-BaseNinjaObjective }
+    .desc  = { ent-BaseNinjaObjective.desc }
+ent-StealResearchObjective  = { ent-BaseNinjaObjective }
+    .desc  = Suas luvas podem ser usadas para hackear o servidor RND e roubar sua tecnologia. Se a ciência estiver estagnada, você terá que trabalhar.
+ent-SpiderChargeObjective  = { ent-BaseNinjaObjective }
+    .desc  = Esta bomba pode ser detonada em um local específico. Observe que a bomba não explodirá em nenhum outro lugar!
+ent-NinjaSurviveObjective  = Sobreviver
+    .desc  = Você não será um bom ninja se morrer, não é?
+ent-TerrorObjective  = Use suas luvas no console de comunicações para trazer outra ameaça à estação.
+    .desc  = Use suas luvas no console de comunicações para trazer outra ameaça à estação.
+ent-MassArrestObjective  = Coloque todos na lista de procurados
+    .desc  = Use as luvas para hackear o console de registros criminais e colocar toda a estação na lista de procurados!

@@ -1,0 +1,15 @@
+advertisement-cigs-1  = Os cigarros cósmicos têm um gosto bom, assim como os cigarros deveriam.
+advertisement-cigs-2  = Dê uma tragada!
+advertisement-cigs-3  = Dê uma tragada!
+advertisement-cigs-4  = Não acredite na pesquisa – fume!
+advertisement-cigs-5  = Certamente não é prejudicial para você!
+advertisement-cigs-6  = Não confie nos cientistas!
+advertisement-cigs-7  = Saúde!
+advertisement-cigs-8  = Não pare de fumar, compre mais!
+advertisement-cigs-9  = Céu da nicotina.
+advertisement-cigs-10  = Os melhores cigarros desde 2150.
+advertisement-cigs-11  = Aqui você pode tirar sua mente do trabalho!
+advertisement-cigs-12  = Aqui você pode tirar sua mente do trabalho!
+thankyou-cigs-1  = Você fez o trabalho – fume com segurança!
+thankyou-cigs-2  = Muito provavelmente você não vai se arrepender!
+thankyou-cigs-3  = E antes que você possa piscar os olhos, você ficará viciado!

@@ -1,0 +1,126 @@
+### UI
+
+chat-manager-max-message-length  = O bate-papo OOC foi desativado.
+chat-manager-ooc-chat-enabled-message  = O bate-papo OOC foi ativado.
+chat-manager-ooc-chat-disabled-message  = O bate-papo LOOC foi desativado.
+chat-manager-looc-chat-enabled-message  = O bate-papo LOOC foi ativado.
+chat-manager-looc-chat-disabled-message  = O bate-papo LOOC foi desativado.
+chat-manager-dead-looc-chat-enabled-message  = Jogadores mortos não podem mais falar no LOOC.
+chat-manager-dead-looc-chat-disabled-message  = Jogadores em estado crítico agora podem falar em LOOC.
+chat-manager-crit-looc-chat-enabled-message  = Jogadores em estado crítico agora podem falar em LOOC.
+chat-manager-crit-looc-chat-disabled-message  = Jogadores em estado crítico não poderão mais falar no LOOC.
+chat-manager-admin-ooc-chat-enabled-message  = O bate-papo Admin OOC foi ativado.
+chat-manager-admin-ooc-chat-disabled-message  = O bate-papo Admin OOC foi desativado.
+chat-manager-max-message-length-exceeded-message  = O bate-papo OOC foi desativado.
+chat-manager-no-headset-on-message  = Você não tem fone de ouvido!
+chat-manager-no-radio-key  = Chave do canal não definida!
+chat-manager-no-such-channel  = Não existe nenhum canal com a chave '{ $key }'!
+chat-manager-whisper-headset-on-message  = Você não pode sussurrar no rádio!
+chat-manager-server-wrap-message  = [bold]{ $message }[/bold]
+chat-manager-sender-announcement  = Gestão regional
+chat-manager-sender-announcement-wrap-message  = [font size=14][bold]Anúncio { $sender }:[/font][font size=12]
+    { $message }[/bold][/font]
+chat-manager-entity-say-wrap-message  = [BubbleHeader][bold][Name]{ $entityName }[/Name][/bold][/BubbleHeader] { $verb }, [font={ $fontType } size={ $fontSize } ]"[BubbleContent]{ $message }[/BubbleContent]"[/font]
+chat-manager-entity-say-bold-wrap-message  = [BubbleHeader][bold][Name]{ $entityName }[/Name][/bold][/BubbleHeader] { $verb }, [font={ $fontType } size={ $fontSize }]"[BubbleContent][bold]{ $message }[/bold][/BubbleContent]"[/font]
+chat-manager-entity-whisper-wrap-message  = [font size=11][italic][BubbleHeader][Name]{ $entityName }[/Name][/BubbleHeader] sussurra,"[BubbleContent]{ $message }[/BubbleContent]"[/italic][/font]
+chat-manager-entity-whisper-unknown-wrap-message  = [font size=11][italic][BubbleHeader]Alguém[/BubbleHeader] sussurra: "[BubbleContent]{ $message }[/BubbleContent]"[/italic][/font]
+chat-manager-entity-me-wrap-message  = [italic]{ $entityName } { $message }[/italic]
+chat-manager-entity-looc-wrap-message  = LOOC: [bold]{ $entityName }:[/bold] { $message }
+chat-manager-send-ooc-wrap-message  = OOC: [bold]{ $playerName }:[/bold] { $message }
+chat-manager-send-dead-chat-wrap-message  = { $deadChannelName }: [bold][BubbleHeader]{ $playerName }[/BubbleHeader]:[/bold] [BubbleContent]{ $message }[/BubbleContent]
+# Sunrise-Sponsor-Start
+chat-manager-send-ooc-patron-wrap-message  = OOC: [bold][color={ $patronColor }]{ $patronTitle }{ $playerName }[/color]:[/bold] { $message }
+# Sunrise-Sponsor-End
+chat-manager-send-ooc-admin-wrap-message  = OOC: [bold]{ $patronTitle }{ $playerName }:[/bold] { $message }
+chat-manager-send-admin-dead-chat-wrap-message  = { $adminChannelName }: [bold]([BubbleHeader]{ $userName }[/BubbleHeader]):[/bold] [BubbleContent]{ $message }[/BubbleContent]
+chat-manager-send-admin-chat-wrap-message  = { $adminChannelName }: [bold]{ $playerName }:[/bold] { $message }
+chat-manager-send-admin-announcement-wrap-message  = [bold]{ $adminChannelName }: { $message }[/bold]
+chat-manager-send-hook-ooc-wrap-message  = OOC: [bold](D){ $senderName }:[/bold] { $message }
+chat-manager-dead-channel-name  = MORTO
+chat-manager-admin-channel-name  = ADMINISTRADOR
+chat-manager-rate-limited  = Você está enviando mensagens muito rapidamente!
+chat-manager-rate-limit-admin-announcement  = O jogador { $player } excedeu o limite de frequência do chat. Fique de olho nele se isso acontecer regularmente.
+chat-speech-verb-suffix-exclamation  = None
+chat-speech-verb-suffix-exclamation-strong  = None
+chat-speech-verb-suffix-question  = None
+chat-speech-verb-default  = fala
+chat-speech-verb-suffix-stutter  = None
+chat-speech-verb-suffix-mumble  = None
+chat-speech-verb-name-none  = Não
+chat-speech-verb-name-default  = O padrão
+chat-speech-verb-name-exclamation  = Exclamação
+chat-speech-verb-exclamation  = exclama
+chat-speech-verb-name-exclamation-strong  = Gritar
+chat-speech-verb-exclamation-strong  = gritos
+chat-speech-verb-name-question  = Pergunta
+chat-speech-verb-question  = pergunta
+chat-speech-verb-name-stutter  = Gagueira
+chat-speech-verb-stutter  = gagueja
+chat-speech-verb-name-mumble  = Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+chat-speech-verb-mumble  = Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+chat-speech-verb-name-arachnid  = Aracnídeo
+chat-speech-verb-insect-1  = chilrear
+chat-speech-verb-insect-2  = zumbidos
+chat-speech-verb-insect-3  = cliques
+chat-speech-verb-name-moth  = Nian
+chat-speech-verb-winged-1  = assobios
+chat-speech-verb-winged-2  = palmas
+chat-speech-verb-winged-3  = borbulhando
+chat-speech-verb-name-slime  = Homem Slime
+chat-speech-verb-slime-1  = tapa
+chat-speech-verb-slime-2  = ferve
+chat-speech-verb-slime-3  = borbulhando
+chat-speech-verb-name-plant  = Diona
+chat-speech-verb-plant-1  = farfalhar
+chat-speech-verb-plant-2  = farfalhar
+chat-speech-verb-plant-3  = rangidos
+chat-speech-verb-name-robotic  = Robô
+chat-speech-verb-robotic-1  = relatórios
+chat-speech-verb-robotic-2  = bipa
+chat-speech-verb-robotic-3  = informa
+chat-speech-verb-name-reptilian  = Unath
+chat-speech-verb-reptilian-1  = assobia
+chat-speech-verb-reptilian-2  = baforadas
+chat-speech-verb-reptilian-3  = baforadas
+chat-speech-verb-name-skeleton  = Esqueleto
+chat-speech-verb-skeleton-1  = trovões
+chat-speech-verb-skeleton-2  = ele salta
+chat-speech-verb-skeleton-3  = mói
+chat-speech-verb-name-canine  = Cachorro
+chat-speech-verb-canine-1  = late
+chat-speech-verb-canine-2  = late
+chat-speech-verb-canine-3  = uivos
+chat-speech-verb-name-goat  = Cabra
+chat-speech-verb-goat-1  = b-e-e-e
+chat-speech-verb-goat-2  = grunhidos
+chat-speech-verb-goat-3  = gritos
+chat-speech-verb-name-vox  = Vox
+chat-speech-verb-vox-1  = rangidos
+chat-speech-verb-vox-2  = guinchos
+chat-speech-verb-vox-3  = coaxar
+chat-speech-verb-name-small-mob  = Rato
+chat-speech-verb-small-mob-1  = rangidos
+chat-speech-verb-small-mob-2  = bipa
+chat-speech-verb-name-large-mob  = Carpa
+chat-speech-verb-large-mob-1  = rugido
+chat-speech-verb-large-mob-2  = rosna
+chat-speech-verb-name-monkey  = Macaco
+chat-speech-verb-monkey-1  = brincando
+chat-speech-verb-monkey-2  = guinchos
+chat-speech-verb-name-parrot  = Papagaio
+chat-speech-verb-parrot-1  = gritos
+chat-speech-verb-parrot-2  = tuítes
+chat-speech-verb-parrot-3  = chilrear
+chat-speech-verb-name-ghost  = Fantasma
+chat-speech-verb-ghost-1  = reclama
+chat-speech-verb-ghost-2  = respira
+chat-speech-verb-ghost-3  = uivos
+chat-speech-verb-ghost-4  = murmura
+chat-speech-verb-name-cluwne  = Bico
+chat-speech-verb-cluwne-1  = risos
+chat-speech-verb-cluwne-2  = hehekaet
+chat-speech-verb-cluwne-3  = ri
+chat-speech-verb-name-electricity  = Eletricidade
+chat-speech-verb-electricity-1  = estalos
+chat-speech-verb-electricity-2  = zumbido
+chat-speech-verb-electricity-3  = rangidos

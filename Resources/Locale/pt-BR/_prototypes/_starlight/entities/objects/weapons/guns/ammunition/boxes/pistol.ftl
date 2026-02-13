@@ -1,0 +1,10 @@
+ent-BaseMagazineBoxPistol40  = caixa de cartuchos (0,40)
+    .desc  = { ent-BaseItem.desc }
+ent-MagazineBoxPistol40SP  = caixa de cartuchos (0,40 HP)
+    .desc  = { ent-BaseMagazineBoxPistol40.desc }
+ent-MagazineBoxPistol40HP  = caixa de cartuchos (0,40 FMJ)
+    .desc  = { ent-BaseMagazineBoxPistol40.desc }
+ent-MagazineBoxPistol40FMJ  = caixa de cartuchos (0,40 FMJ)
+    .desc  = { ent-BaseMagazineBoxPistol40.desc }
+ent-MagazineBoxPistol40AP  = caixa de munição (0,40 AP)
+    .desc  = { ent-BaseMagazineBoxPistol40.desc }

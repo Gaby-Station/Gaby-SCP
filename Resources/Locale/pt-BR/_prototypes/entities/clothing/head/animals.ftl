@@ -1,0 +1,10 @@
+ent-ClothingHeadHatAnimalCat  = Um gato cinza fofo e fofo é a sua escolha.
+    .desc  = Um gato cinza fofo e fofo é a sua escolha.
+ent-ClothingHeadHatAnimalCatBrown  = chapéu de gato marrom
+    .desc  = Um gato marrom fofo e fofo é a sua escolha.
+ent-ClothingHeadHatAnimalCatBlack  = Um gato preto fofo e fofo é a sua escolha.
+    .desc  = Um gato preto fofo e fofo é a sua escolha.
+ent-ClothingHeadHatAnimalHeadslime  = chapéu de lesma
+    .desc  = Uma gosma verde e pegajosa que você coloca na cabeça.
+ent-ClothingHeadHatAnimalMonkey  = chapéu de macaco
+    .desc  = Esta é a cabeça de um macaco. Ela tem um buraco na boca para comer bananas.

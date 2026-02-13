@@ -1,0 +1,9 @@
+ent-EnergyDomeGeneratorBackpackSyndieBiocode  = { ent-EnergyDomeGeneratorBackpackSyndie }
+    .desc  = { ent-EnergyDomeGeneratorBackpackSyndie.desc }
+    .suffix  = BIOCÓDIGO
+ent-EnergyDomeGeneratorPersonalSyndieBiocode  = { ent-EnergyDomeGeneratorPersonalSyndie }
+    .desc  = { ent-EnergyDomeGeneratorPersonalSyndie.desc }
+    .suffix  = BIOCÓDIGO
+ent-EnergyShieldBiocode  = { ent-EnergyShield }
+    .suffix  = BIOCÓDIGO
+    .desc  = { ent-EnergyShield.desc }

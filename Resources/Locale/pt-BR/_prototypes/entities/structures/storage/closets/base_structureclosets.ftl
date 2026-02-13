@@ -1,0 +1,10 @@
+ent-ClosetBase  = armário vazio traje espacial da SKI Foundation
+    .desc  = armário de parede
+ent-ClosetSteelBase  = { ent-ClosetBase }
+    .desc  = { ent-ClosetBase.desc }
+ent-BaseWallCloset  = Arrumação standard, agora na parede.
+    .desc  = armazenamento de traje espacial
+ent-BaseWallLocker  = { ent-BaseWallCloset }
+    .desc  = { ent-BaseWallCloset.desc }
+ent-SuitStorageBase  = Uma instalação de armazenamento incomum de alta tecnologia projetada para armazenar trajes espaciais.
+    .desc  = Uma instalação de armazenamento incomum de alta tecnologia projetada para armazenar trajes espaciais.

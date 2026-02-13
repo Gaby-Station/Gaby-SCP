@@ -1,0 +1,12 @@
+ent-FleshClaw  = Pode abrir portas e pessoas.
+    .desc  = Pode abrir portas e pessoas.
+    .suffix  = Culto à carne
+ent-FleshFist  = Fisting custa trezentos dólares
+    .desc  = Fisting custa trezentos dólares
+    .suffix  = Culto à carne
+ent-FleshBlade  = Quase como um genestealer, só que melhor.
+    .desc  = Quase como um genestealer, só que melhor.
+    .suffix  = Culto à carne
+ent-FleshSpikeHandGun  = arma de pico
+    .suffix  = Culto à carne
+    .desc  = { ent-BaseItem.desc }

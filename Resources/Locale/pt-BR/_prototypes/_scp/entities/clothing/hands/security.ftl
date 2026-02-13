@@ -1,0 +1,9 @@
+ent-ClothingHandsGlovesSecurity  = luvas de segurança pretas
+    .desc  = Luvas pretas normais não evitarão que você fique frito.
+    .suffix  = luvas de segurança de inverno
+ent-ClothingHandsGlovesWinterSecurity  = luvas de segurança de inverno
+    .desc  = Luvas pretas de inverno que não evitam que você fique frito.
+    .suffix  = Proteção SCP
+ent-ClothingHandsGlovesColorBlackAlt  = { ent-ClothingHandsGlovesColorBlack }
+    .desc  = { ent-ClothingHandsGlovesColorBlack.desc }
+    .suffix  = Proteção SCP

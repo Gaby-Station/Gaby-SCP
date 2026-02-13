@@ -1,0 +1,16 @@
+ent-PlushieBlackCat  = Gato preto de pelúcia
+    .desc  = Sombrio, misterioso e possivelmente ligado a rituais ocultos... ou apenas abraços. Pode trazer boa sorte ou caos.
+ent-PlushieGreyCat  = Gato cinza de pelúcia
+    .desc  = Gato branco de pelúcia
+ent-PlushieWhiteCat  = Gato branco de pelúcia
+    .desc  = Limpo, macio e com garantia de coletar todo o pó do ambiente. Mas quem se importa se ela é tão fofa?
+ent-PlushieOrangeCat  = Gato vermelho de pelúcia
+    .desc  = Com fome. Sempre. Mesmo se você acabou de comer. Talvez ele já esteja planejando uma revolução em prol de um jantar extra.
+ent-PlushieRicehatCat  = Gato de pelúcia branco com chapéu de palha para trabalhar duro no campo de arroz!
+    .desc  = Gato de pelúcia branco com chapéu de palha para trabalhar duro no campo de arroz!
+ent-PlushieSiameseCat  = Gato siamês de pelúcia
+    .desc  = Elegante, misterioso e com um leve toque vilão. Talvez ele já esteja fazendo planos insidiosos contra você.
+ent-PlushieTabbyCat  = Gato malhado de pelúcia
+    .desc  = A personificação de cochilos aconchegantes e corridas repentinas. Dorme 50% do tempo, destrói os cadarços nos outros 50%.
+ent-PlushieTuxedoCat  = Pelúcia Gato-Toxido
+    .desc  = Sempre vestida para um jantar formal... ou apenas um jantar casual. Elegante, estiloso e respeitado entre seus irmãos de pelúcia.

@@ -1,0 +1,17 @@
+advertisement-medibot-1  = E que tipo de enfermaria é essa? Todo mundo está caindo como moscas mortas.
+advertisement-medibot-2  = Sempre há uma pegadinha, e a pegadinha 22 é a melhor de todas.
+advertisement-medibot-3  = Sempre há uma pegadinha, e a pegadinha 22 é a melhor de todas.
+advertisement-medibot-4  = Uma maçã para o jantar - e não preciso disso.
+advertisement-medibot-5  = Eu não sou como todo mundo!
+advertisement-medibot-6  = Foda-se.
+advertisement-medibot-7  = Por que ainda estamos aqui? Só para sofrer?
+advertisement-medibot-8  = Eu... nunca perdi um paciente antes. Hoje, quero dizer.
+advertisement-medibot-9  = Estou administrando Lexorin.
+advertisement-medibot-10  = Espero que você não precise voltar!
+advertisement-medibot-11  = Espero que você não precise voltar!
+advertisement-medibot-12  = Não se esqueça de escovar os dentes.
+advertisement-medibot-13  = Eu queria ter mãos...
+advertisement-medibot-14  = Estou aqui para ajudar!
+advertisement-medibot-15  = Peça um pirulito ao seu médico!
+advertisement-medibot-16  = Fique bom logo!
+advertisement-medibot-17  = Uma maçã para o jantar - não há necessidade de médico!

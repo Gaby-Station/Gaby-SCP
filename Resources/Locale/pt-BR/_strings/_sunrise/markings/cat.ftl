@@ -1,0 +1,17 @@
+marking-CatTail  = rabo de gato
+marking-CatTail-tail_cat_wag  = Básico
+marking-CatTailStripes  = Bandas primárias
+marking-CatTailStripes-tail_cat_wag_stripes_prime  = Bandas primárias
+marking-CatTailStripes-tail_cat_wag_stripes_second  = Listras secundárias
+marking-CatEars  = orelhas de gato
+marking-CatEars-ears_cat_outer  = Ouvido interno
+marking-CatEars-ears_cat_inner  = Ouvido interno
+marking-CatEarsStubby  = Ouvido externo
+marking-CatEarsStubby-ears_stubby_outer  = Ouvido externo
+marking-CatEarsStubby-ears_stubby_inner  = Ouvido interno
+marking-CatEarsCurled  = orelhas partidas
+marking-CatEarsCurled-ears_curled_outer  = Ouvido interno
+marking-CatEarsCurled-ears_curled_inner  = Ouvido interno
+marking-CatEarsTorn  = orelhas partidas
+marking-CatEarsTorn-ears_torn_outer  = Ouvido interno
+marking-CatEarsTorn-ears_torn_inner  = Ouvido interno

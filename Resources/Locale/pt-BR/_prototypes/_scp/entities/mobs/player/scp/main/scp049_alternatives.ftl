@@ -1,0 +1,9 @@
+ent-Scp049AlternativeCanon  = None
+    .desc  = SCP-049 "Canônico" - Admems
+    .suffix  = SCP-049 "Canônico" - Admems
+ent-Scp049AlternativeRobotic  = None
+    .desc  = SCP-049 "Robótico" - Admems
+    .suffix  = SCP-049 "Robótico" - Admems
+ent-Scp049AlternativeOldFashioned  = None
+    .desc  = SCP-049 "Antiquado" - Admems
+    .suffix  = SCP-049 "Antiquado" - Admems

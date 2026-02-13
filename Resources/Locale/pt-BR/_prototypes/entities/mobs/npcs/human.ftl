@@ -1,0 +1,17 @@
+ent-MobCivilian  = civil
+    .desc  = Um monte patético de segredos.
+ent-MobSalvager  = reciclador
+    .desc  = { ent-BaseMobHuman.desc }
+ent-MobSpirate  = soldado de infantaria O Sindicato
+    .desc  = soldado de infantaria O Sindicato
+ent-MobSyndicateFootsoldier  = soldado de infantaria O Sindicato
+    .desc  = { ent-BaseMobHuman.desc }
+ent-MobSyndicateFootsoldierPilot  = piloto de ônibus espacial Syndicate
+    .desc  = { ent-MobSyndicateFootsoldier.desc }
+ent-MobNanoTrasenFootsoldier  = cadáver não identificado
+    .desc  = { ent-BaseMobHuman.desc }
+ent-SalvageHumanCorpse  = cadáver não identificado
+    .desc  = Eu acho que está morto.
+    .suffix  = Morto
+ent-MobCluwne  = criatura
+    .desc  = Infortúnio polimorfo.

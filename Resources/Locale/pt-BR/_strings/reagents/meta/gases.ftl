@@ -1,0 +1,14 @@
+reagent-name-oxygen  = oxigênio
+reagent-desc-oxygen  = Gás oxidante e incolor.
+reagent-name-plasma  = plasma
+reagent-desc-plasma  = o terceiro
+reagent-name-tritium  = Pó de fada de magia cósmica radioativa.
+reagent-desc-tritium  = dióxido de carbono
+reagent-name-carbon-dioxide  = dióxido de carbono
+reagent-desc-carbon-dioxide  = Também conhecido como dióxido de carbono. Você não tem absolutamente nenhuma ideia do que seja.
+reagent-name-nitrogen  = azoto
+reagent-desc-nitrogen  = É nitrogênio. Um gás incolor, inodoro e não reativo. Muito estável.
+reagent-name-nitrous-oxide  = óxido nítrico
+reagent-desc-nitrous-oxide  = Você sabe como tudo parece mais engraçado quando você está cansado? Então...
+reagent-name-frezon  = Freson
+reagent-desc-frezon  = Um refrigerante altamente eficaz... e um alucinógeno.

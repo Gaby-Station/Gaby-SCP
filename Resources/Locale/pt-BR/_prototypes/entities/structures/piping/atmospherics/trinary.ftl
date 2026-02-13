@@ -1,0 +1,14 @@
+ent-GasTrinaryBase  = { ent-GasPipeBase }
+    .desc  = { ent-GasPipeBase.desc }
+ent-GasFilter  = Muito útil para filtrar gases.
+    .desc  = filtro de gás
+ent-GasFilterFlipped  = filtro de gás
+    .suffix  = Invertido
+    .desc  = { ent-GasFilter.desc }
+ent-GasMixer  = Muito útil para misturar gases.
+    .desc  = Muito útil para misturar gases.
+ent-GasMixerFlipped  = misturador de gás
+    .suffix  = Invertido
+    .desc  = { ent-GasMixer.desc }
+ent-PressureControlledValve  = válvula pneumática
+    .desc  = Válvula regulada por pressão.

@@ -1,0 +1,17 @@
+ent-BaseSpeedLoaderShotgun  = Carregador rápido de calibre 12
+    .desc  = { ent-BaseItem.desc }
+ent-SpeedLoaderShotgunEmpty  = Carregador de tiro calibre 12
+    .suffix  = Vazio
+    .desc  = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShellShotgun  = speedloader traumático calibre 12
+    .desc  = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunBeanbag  = speedloader traumático calibre 12
+    .desc  = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunSlug  = Speedloader bala calibre 12
+    .desc  = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunUranium  = Speedloader de urânio de calibre 12
+    .desc  = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunIncendiary  = Speedloader incendiário de calibre 12
+    .desc  = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunFlechette  = Speedloader Flechette calibre 12
+    .desc  = { ent-BaseSpeedLoaderShotgun.desc }

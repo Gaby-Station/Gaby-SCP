@@ -1,0 +1,16 @@
+ent-BaseMobFleshCult  = essência da carne
+    .desc  = Uma massa cambaleante de carne animada por energia anômala.
+ent-MobFleshSpider  = tarântula de carne
+    .desc  = Muito parecido com uma aranha, só que virado do avesso
+ent-MobFleshPudge  = homem gordo de carne
+    .desc  = Garotão
+ent-MobFleshBall  = bola de carne
+    .desc  = É melhor não jogar futebol com ele
+ent-MobFleshBat  = rato voador feito de carne
+    .desc  = Ela não é amiga do padre
+ent-MobFleshHugger  = abraço facial de carne
+    .desc  = Ele quer sentar na sua cara
+ent-MobFleshWorm  = verme de carne
+    .desc  = Isto é o que acontecerá dentro de você se você comer muitos doces
+ent-MobSmallFleshWorm  = pequeno verme de carne
+    .desc  = { ent-MobFleshWorm.desc }

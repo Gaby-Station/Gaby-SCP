@@ -1,0 +1,15 @@
+ent-BaseWeaponPistol  = Pistola padrão
+    .desc  = Ouse - ataque, mire e atire.
+ent-WeaponPistolViper  = Uma pistola pequena, facilmente escondida, mas de baixo poder. Equipado com um receptor totalmente automático. Usa munição calibre .35 automático.
+    .desc  = Uma pistola pequena, facilmente escondida, mas de baixo poder. Equipado com um receptor totalmente automático. Usa munição calibre .35 automático.
+    .suffix  = Uma arma
+ent-WeaponPistolEchis  = Viper para ciborgues. Cria munição calibre .35 dinamicamente a partir do fabricante de munição de carregamento automático integrado.
+    .desc  = Viper para ciborgues. Cria munição calibre .35 dinamicamente a partir do fabricante de munição de carregamento automático integrado.
+ent-WeaponPistolCobra  = Cobra
+    .desc  = Uma pistola de agentes duros e robustos, com silenciador integrado. Usa munição sem caixa calibre .25.
+    .suffix  = Uma arma
+ent-WeaponPistolMk58  = Marco 58
+    .desc  = Uma pistola barata e comum produzida por uma subsidiária da NanoTrasen. Usa munição calibre .35 automático.
+    .suffix  = Uma arma
+ent-WeaponPistolN1984  = N1984
+    .desc  = A arma reserva de qualquer oficial que se preze. Disponível em .45 magnum, o calibre mais piedoso.

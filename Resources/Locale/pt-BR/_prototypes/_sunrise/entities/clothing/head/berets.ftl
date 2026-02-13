@@ -1,0 +1,10 @@
+ent-ClothingHeadHatBeretCE  = contrata um engenheiro sênior
+    .desc  = Ele contrata a pessoa que traça uma meta para você a cada turno.
+ent-ClothingHeadHatBeretParamedic  = boina paramédico
+    .desc  = Parece um paramédico.
+ent-ClothingHeadHatBeretChemistry  = leva um químico
+    .desc  = Parece um químico.
+ent-ClothingHeadHatBeretPatologoanatom  = leva o patologista
+    .desc  = Leva para o patologista.
+ent-ClothingHeadHatBeretAtmos  = leva técnico atmosférico
+    .desc  = Ele leva aquele que definitivamente não deixará plasma entrar na distro.

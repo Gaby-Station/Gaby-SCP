@@ -1,0 +1,10 @@
+scp049-kill-action-already-dead  = A criatura já está morta.
+scp049-kill-action-cant-kill  = A criatura não pode morrer.
+scp049-touch-action-success  = { $performer } toca em { $target }.
+scp049-self-heal  = { $performer } Cura suas feridas
+scp049-heal-minion  = Cura feridas { $target }
+scp049-ghost-role-name  = Paciente Zumbificado SCP-049
+scp049-ghost-role-description  = Você é uma vítima ressuscitada de SCP-049, conhecido como o "Médico da Peste". Agora você é seu fiel servo, movido por um desejo irresistível de ajudar seu mestre em seu “tratamento”.
+scp049-ghost-role-rules  = Siga as instruções de SCP-049. Não ataque outros escravos ou SCP-049. Seu principal objetivo é ajudar o "Plague Doctor" em sua missão. Você não se lembra de sua vida passada.
+scp049-missing-surgery-tool  = Para a operação preciso de { $instrument }.
+scp049-cannot-zombify-entity  = O corpo { $name } resiste e não pode ser tratado

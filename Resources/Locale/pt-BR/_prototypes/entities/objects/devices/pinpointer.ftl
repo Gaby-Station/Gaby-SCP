@@ -1,0 +1,14 @@
+ent-PinpointerBase  = apontador
+    .desc  = Dispositivo de rastreamento portátil. Embora normalmente tenha muito mais capacidades, este dispositivo está configurado para detectar sinais específicos. Segure verticalmente para manter a precisão.
+ent-PinpointerNuclear  = apontador
+    .desc  = { ent-PinpointerBase.desc }
+ent-PinpointerSyndicateNuclear  = Feito especificamente para missões operacionais nucleares. Confortável para usar ao redor do pescoço.
+    .desc  = Feito especificamente para missões operacionais nucleares. Confortável para usar ao redor do pescoço.
+ent-PinpointerUniversal  = apontador universal
+    .desc  = Um dispositivo de rastreamento portátil capaz de rastrear qualquer objeto físico quando desligado. Segure verticalmente para manter a precisão.
+ent-PinpointerStation  = estação de identificação
+    .desc  = Um dispositivo de rastreamento portátil capaz de rastrear qualquer estação próxima.
+    .suffix  = Estação
+ent-PinpointerMothership  = localizador de nave-mãe
+    .desc  = Um dispositivo de rastreamento portátil que aponta na direção do núcleo da nave-mãe.
+    .suffix  = Nave mãe

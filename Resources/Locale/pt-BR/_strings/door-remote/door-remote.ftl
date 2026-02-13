@@ -1,0 +1,10 @@
+door-remote-switch-state-open-close  = Você configura o controle remoto para abrir e fechar portas
+door-remote-open-close-text  = Abrindo e fechando os portões
+door-remote-toggle-bolt-text  = Parafusos de comutação
+door-remote-emergency-access-text  = Alternando o acesso de emergência
+door-remote-invalid-text  = Erro
+door-remote-mode-label  = Você configura o controle remoto para trocar os parafusos
+door-remote-switch-state-toggle-bolts  = Você configura o controle remoto para trocar os parafusos
+door-remote-switch-state-toggle-emergency-access  = Você configura o controle remoto para alternar o acesso de emergência
+door-remote-no-power  = A porta está desenergizada
+door-remote-denied  = Acesso negado

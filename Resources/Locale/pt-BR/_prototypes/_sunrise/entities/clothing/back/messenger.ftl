@@ -1,0 +1,16 @@
+ent-ClothingBackpackMessengerPassenger  = bolsa mensageiro de passageiro
+    .desc  = Bolsa mensageiro moderna em tons agradáveis.
+ent-ClothingBackpackMessengerPilot  = Bolsa mensageiro durável para peças de transporte.
+    .desc  = Bolsa mensageiro durável para peças de transporte.
+ent-ClothingBackpackMessengerMercenary  = bolsa mensageiro mercenária
+    .desc  = Bolsa mensageiro durável para crimes de guerra.
+ent-ClothingBackpackMessengerPrivateSecurity  = bolsa mensageiro de segurança privada
+    .desc  = Bolsa mensageiro durável para cometer crimes de guerra na folha de pagamento.
+ent-ClothingBackpackMessengerSyndicate  = união de bolsa mensageiro
+    .desc  = Uma bolsa mensageiro durável para travar a guerra contra os opressores.
+ent-ClothingBackpackMessengerBloodCult  = Uma bolsa mensageiro à prova d'água para os seguidores leais de Nar'Sie.
+    .desc  = Uma bolsa mensageiro à prova d'água para os seguidores leais de Nar'Sie.
+ent-ClothingBackpackMessengerArcadia  = Bolsa mensageiro Arcádia
+    .desc  = { ent-ClothingBackpackMessengerPassenger.desc }
+ent-ClothingBackpackMessengerPirate  = bolsa mensageiro pirata
+    .desc  = Bolsa mensageiro durável para crimes de guerra. Yarrr.

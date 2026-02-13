@@ -1,0 +1,16 @@
+ent-FoodPlate  = prato grande
+    .desc  = prato quebrado
+ent-FoodPlateTrash  = prato quebrado
+    .desc  = Um prato grande, quebrado e inútil.
+ent-FoodPlateSmall  = Prato pequeno. Frágil.
+    .desc  = Prato pequeno. Frágil.
+ent-FoodPlateSmallTrash  = prato quebrado
+    .desc  = Placa quebrada. Inútil.
+ent-FoodPlatePlastic  = placa de plástico
+    .desc  = Prato grande de plástico azul, ótimo para bolo de aniversário.
+ent-FoodPlateSmallPlastic  = placa de plástico
+    .desc  = Prato de plástico azul, ótimo para fatias de bolo de aniversário.
+ent-FoodPlateTin  = forma de torta
+    .desc  = Forma de torta de papel alumínio barata.
+ent-FoodPlateMuffinTin  = forma de muffin
+    .desc  = Lata de muffin barata.

@@ -1,0 +1,16 @@
+ent-BaseExosuitParts  = componente padrão
+    .desc  = { ent-BaseItem.desc }
+ent-DurandArmorPlate  = Placas de armadura Durand
+    .desc  = Placas de armadura Plasteel para o exosuit Durand.
+ent-GygaxArmorPlate  = Placas de armadura Gygax
+    .desc  = Placas de armadura de aço para o exosuit Gygax.
+ent-PhazonArmorPlate  = Placas de armadura Phazon
+    .desc  = Placas de armadura de aço para o exosuit Phazon.
+ent-RipleyUpgradeKit  = kit de atualização de exosuit
+    .desc  = Este kit permite montar o Exosuit MK-II da Ripley.
+ent-MechAirTank  = tanque de ar exosuit
+    .desc  = acelerador de exosuit
+ent-MechThruster  = acelerador de exosuit
+    .desc  = Um acelerador que permite que o exosuit se mova com segurança na ausência de gravidade.
+ent-MechPhasicScanningModule  = módulo de varredura de fase
+    .desc  = Um módulo de digitalização de alta tecnologia que permite romper o espaço e passar por objetos sólidos.

@@ -1,0 +1,11 @@
+ent-PortableScrubber  = purificador portátil
+    .desc  = termostato
+ent-SpaceHeater  = termostato
+    .desc  = Bluespace é um dispositivo tecnológico que altera a temperatura local. Geralmente é chamado de "termostato".
+    .suffix  = Solto
+ent-SpaceHeaterAnchored  = { ent-SpaceHeater }
+    .suffix  = Fixado
+    .desc  = { ent-SpaceHeater.desc }
+ent-SpaceHeaterEnabled  = { ent-SpaceHeaterAnchored }
+    .suffix  = Fixado, ativado
+    .desc  = { ent-SpaceHeaterAnchored.desc }

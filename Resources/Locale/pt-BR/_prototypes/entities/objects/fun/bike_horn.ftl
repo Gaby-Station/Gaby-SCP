@@ -1,0 +1,11 @@
+ent-BikeHorn  = buzina de bicicleta
+    .desc  = Buzina com a bicicleta. Buzina!
+ent-CluwneHorn  = buzina de bicicleta quebrada
+    .desc  = Buzina quebrada removida de uma bicicleta.
+ent-GoldenBikeHorn  = chifre de ouro
+    .desc  = Surpresa de Happy Honk, ore aos deuses por sua recompensa.
+    .suffix  = NÃO MAPEE
+ent-BananiumHorn  = Buzina de Banânio
+    .desc  = Buzina feita de bananaium.
+ent-PushHorn  = buzina manual
+    .desc  = Esta poderosa buzina de bicicleta certamente dissipará todas as carrancas.

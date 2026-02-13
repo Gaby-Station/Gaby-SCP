@@ -1,0 +1,16 @@
+ent-CopyMachineMachineCircuitboard  = Placa de circuito impresso de máquina para copiadora. Permite imprimir documentos NanoTrasen enquanto durarem o papel e a tinta.
+    .desc  = salário gerador de pacifismo
+ent-PacificatorCircuitboard  = salário gerador de pacifismo
+    .desc  = Torna todos os seres sencientes dentro do alcance pacifistas.
+ent-ReflectorMachineCircuitboard  = placa refletora
+    .desc  = { ent-BaseMachineCircuitboard.desc }
+ent-ExosuitFabricatorHyperConvectionMachineCircuitboard  = fabricante de exosuit de hiperconvecção (placa de máquina)
+    .desc  = { ent-BaseMachineCircuitboard.desc }
+ent-MedicalAssemblerMachineCircuitboard  = Med-O-Mat (placa de máquina)
+    .desc  = { ent-BaseMachineCircuitboard.desc }
+ent-AutolathePrisonMetusMachineCircuitboard  = prisão autolat (placa de máquina)
+    .desc  = Manchado, com fechos quebrados e rachaduras finas, em locais ainda quentes devido aos raros impulsos de força.
+ent-SewingPrinterPrisonMachineCircuitboard  = impressora de costura de prisão (placa de máquina)
+    .desc  = Ele está repleto de vestígios de solda com contatos azedos e vestígios de queimaduras e, ocasionalmente, diodos fracos piscam.
+ent-PirateTechFabCircuitboard  = placa de fabricante pirata
+    .desc  = { ent-BaseMachineCircuitboard.desc }

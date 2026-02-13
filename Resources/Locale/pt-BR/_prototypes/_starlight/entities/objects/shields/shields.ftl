@@ -1,0 +1,10 @@
+ent-PaladinShield  = escudo de paladino
+    .desc  = grande escudo de paladino
+ent-PaladinShieldGreat  = grande escudo de paladino
+    .desc  = broquel forjado
+ent-ForgedShieldBuckler  = broquel forjado
+    .desc  = Feito com o melhor plasteel que os Tidesmiths tinham a oferecer. Um versátil decente, mas o fato de ser feito de metal sólido faz com que aqueça rapidamente.
+ent-ForgedShieldTower  = escudo de torre forjado
+    .desc  = Alto e ameaçador. Porém, um pouco pesado.
+ent-ImprovisedShield  = escudo improvisado
+    .desc  = Aço soldado por sobreposição para melhor suportar diferentes tipos de impactos. No entanto, não espere que ele tenha um bom desempenho nos pênaltis.

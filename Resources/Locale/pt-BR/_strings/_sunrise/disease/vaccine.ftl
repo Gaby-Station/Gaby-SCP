@@ -1,0 +1,12 @@
+reagent-name-disease-blood  = sangue turvo
+reagent-description-disease-bad-physical-desc  = vil
+reagent-description-disease-strange-physical-desc  = vacinador
+mixing-verb-vaccinator  = vacinador
+reagent-description-disease-blood  = líquido muito estranho. Me lembra de sangue
+reagent-name-disease-blood-reagent  = fluido contaminado
+reagent-name-notready-vaccine  = vírus
+reagent-description-notready-vaccine  = Este líquido vil não só não irá curá-lo, mas também irá infectá-lo. Muito perigoso.
+reagent-name-vaccine  = antivírus
+reagent-description-vaccine  = pode facilmente libertá-lo das algemas do vírus! Não se liga ao sistema imunológico.
+reagent-name-vaccine-plus  = antivírus Plus
+reagent-description-vaccine-plus  = lhe dará imunidade contra o vírus!

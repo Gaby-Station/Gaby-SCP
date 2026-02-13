@@ -1,0 +1,10 @@
+advertisement-honkers-1  = Você precisa de granadas para assustar, não para explodir? Eu tenho uma solução para você...POOF!
+advertisement-honkers-2  = Operativo nuclear? Sim, claro... Bem, quase. Confira nas pessoas!
+advertisement-honkers-3  = Procurando por anomalias? Tenho alguns falsos, mas convincentes - até os cientistas vão coçar a cabeça!
+advertisement-honkers-4  = Por que granadas de verdade quando você tem essas? Muito barulho, mas nenhum dano! Seguro e divertido!
+advertisement-honkers-5  = Fato de agente falso - para quem quer parecer perigoso, mas na realidade... um palhaço!
+advertisement-honkers-6  = Fato de agente falso - para quem quer parecer perigoso, mas na realidade... um palhaço!
+advertisement-honkers-7  = Não há holoparasitas reais, apenas uma ilusão de alta qualidade! E daí, é um adereço?
+advertisement-honkers-8  = As anomalias são tão falsas que você mesmo começará a acreditar nelas! Decepção ao mais alto nível!
+advertisement-honkers-9  = Ei palhaço! Essas coisas só vão explodir suas piadas, não seus amigos!
+advertisement-honkers-10  = A fantasia de um agente é para que eles não apenas tenham medo de você, mas também riam de você. Um verdadeiro hit da temporada!

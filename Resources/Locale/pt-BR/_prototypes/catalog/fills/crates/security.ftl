@@ -1,0 +1,16 @@
+ent-CrateSecurityArmor  = caixa de armadura
+    .desc  = Três armaduras universais com boa proteção. Para abrir, você precisa do nível de acesso do Security Service.
+ent-CrateSecurityHelmet  = caixa de capacete
+    .desc  = Contém três baldes cerebrais padrão. Para abrir, você precisa do nível de acesso do Security Service.
+ent-CrateSecurityNonlethal  = caixa de equipamento não letal
+    .desc  = Armas não letais. Para abrir, você precisa do nível de acesso do Security Service.
+ent-CrateSecuritySupplies  = Caixa de suprimentos SB
+    .desc  = Contém vários suprimentos para segurança da estação. Para abrir, você precisa do nível de acesso do Security Service.
+ent-CrateRestraints  = caixa de algemas
+    .desc  = Contém duas caixas de algemas e braçadeiras. Para abrir, você precisa do nível de acesso do Security Service.
+ent-CrateSecurityBiosuit  = Contém 2 trajes de proteção biológica para que nenhuma infecção o distraia do cumprimento do seu dever. Para abrir, você precisa do nível de acesso do Security Service.
+    .desc  = Contém 2 trajes de proteção biológica para que nenhuma infecção o distraia do cumprimento do seu dever. Para abrir, você precisa do nível de acesso do Security Service.
+ent-CrateSecurityTrackingMindshieldImplants  = caixa do implantador
+    .desc  = { ent-CrateSecgear.desc }
+ent-CrateSecNonlethalThrowables  = caixa com armas de arremesso não letais
+    .desc  = Contém uma caixa de granadas de atordoamento, granadas de gás lacrimogêneo e quatro bolas. Requer acesso de segurança para abrir.

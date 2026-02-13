@@ -1,0 +1,15 @@
+admin-explosion-eui-title  = Criando Explosões
+admin-explosion-eui-label-type  = carteira de identidade
+admin-explosion-eui-label-mapid  = carteira de identidade
+admin-explosion-eui-label-xmap  = X (Mapas)
+admin-explosion-eui-label-ymap  = Y (Mapas)
+admin-explosion-eui-label-current  = Posição atual
+admin-explosion-eui-label-preview  = Visualização
+admin-explosion-eui-label-total  = Intensidade geral
+admin-explosion-eui-label-slope  = Inclinação de intensidade
+admin-explosion-eui-label-max  = Distância
+admin-explosion-eui-label-directional  = Dirigido
+admin-explosion-eui-label-angle  = Canto
+admin-explosion-eui-label-spread  = Matar
+admin-explosion-eui-label-distance  = Distância
+admin-explosion-eui-label-spawn  = Avó!

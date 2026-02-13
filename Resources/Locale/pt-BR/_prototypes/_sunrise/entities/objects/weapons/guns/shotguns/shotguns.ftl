@@ -1,0 +1,12 @@
+ent-WeaponShotgunSPAS12  = LEI-12
+    .desc  = Espingarda semiautomática da polícia. Pode usar uma ampla gama de munições de rifle calibre .50.
+ent-WeaponShotgunSPAS12Rubber  = { ent-WeaponShotgunSPAS12 }
+    .suffix  = Espingarda, Traumática
+    .desc  = { ent-WeaponShotgunSPAS12.desc }
+ent-WeaponShotgunTrenchgun4034  = Trincheira serrada L-4034
+    .desc  = Trincheira serrada L-4034
+ent-WeaponShotgunTrenchgun4034Sawn  = Trincheira serrada L-4034
+    .desc  = Espingarda barata de seis tiros. pelo menos ele estava. Agora é uma espingarda compacta ao custo da capacidade de munição. Usa munição calibre 12.
+ent-WeaponShotgunTrenchgun4034SawnEmpty  = Trincheira serrada L-4034
+    .desc  = { ent-WeaponShotgunTrenchgun4034Sawn.desc }
+    .suffix  = Vazio

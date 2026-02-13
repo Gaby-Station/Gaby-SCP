@@ -1,0 +1,12 @@
+ent-ToyFigurineBlueshield  = estatueta de oficial com escudo azul
+    .desc  = Uma estatueta representando um oficial com escudo azul, pronto para proteger o estado-maior de comando a qualquer custo.
+ent-ToyFigurineEnforcementofficer  = Estatueta de oficial ISN
+    .desc  = estatueta brigmedica
+ent-ToyFigurineBrigmedic  = estatueta brigmedica
+    .desc  = Uma estatueta representando um médico da brigada. Parece que é melhor morrer do que explicar a ele de onde vêm seus ferimentos.
+ent-ToyFigurineCburn  = Estatueta de lutador RHBZZ
+    .desc  = Uma estatueta representando os defensores da estação contra... vírus?
+ent-ToyFigurineDeathsquad  = Estatueta do Esquadrão da Morte
+    .desc  = Uma estatueta representando... Quem é?
+ent-ToyFigurineErt  = Estatueta de líder OBR
+    .desc  = Uma estatueta representando os defensores da estação de... não sei, só para garantir?

@@ -1,0 +1,14 @@
+ent-RandomRockSpawner  = Gerador de rocha
+    .desc  = { ent-MarkerBase.desc }
+ent-MineWallRockSpawner  = Gera rocha e decoração.
+    .desc  = Gera rocha e decoração.
+ent-MineWallRockMobCrabSpawner  = Gerador de Mina de Pedra [Рудокраб 15%]
+    .desc  = Gerador de Mina de Pedra __PH0__
+ent-MineWallRockMobCarpSpawner  = Gerador de Mina de Pedra [Карп 10%]
+    .desc  = Gera rocha (sem plasma e com pedras), quando extraída, uma Carpa aleatória pode aparecer.
+ent-MineWallRockMobSpaceSpawner  = Gerador de Mina de Pedra [Космомоб 10%]
+    .desc  = Gera rocha (sem minério e vigas, mais cristais e barricadas), quando extraída, uma multidão espacial aleatória pode aparecer.
+ent-MineWallRockMobAsteroidSpawner  = Gerador de Mina de Pedra [Астероид-моб 10%]
+    .desc  = Gera rocha (+cosmo-fungo), cuja extração pode gerar um mob de asteróide aleatório.
+ent-MineWallRockMobXenoSpawner  = Gerador de Mina de Pedra [Ксеноморф 10%]
+    .desc  = Gera rocha, quando extraída, um Xenomorfo aleatório pode aparecer.

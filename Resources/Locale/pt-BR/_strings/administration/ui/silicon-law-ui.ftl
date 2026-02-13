@@ -1,0 +1,11 @@
+silicon-law-ui-verb  = Gerenciar leis
+silicon-law-ui-title  = Leis dos Borg
+silicon-law-ui-new-law  = Nova lei
+silicon-law-ui-save  = Salvar alterações
+silicon-law-ui-plus-one  = +1
+silicon-law-ui-minus-one  = -1
+silicon-law-ui-delete  = Excluir
+silicon-law-ui-check-corrupted  = Lei corrupta
+silicon-law-ui-check-corrupted-tooltip  = Se o ID da lei for definido como "contaminado", os caracteres serão embaralhados.
+silicon-law-ui-placeholder  = Digite o texto aqui para alterar a lei...
+silicon-laws-updated  = Leis atualizadas

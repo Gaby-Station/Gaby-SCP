@@ -1,0 +1,9 @@
+defusable-popup-begun  = { CAPITALIZE($name) } emite um sinal sonoro e o indicador acende!
+defusable-popup-defuse  = { CAPITALIZE($name) } dá o último sinal e o indicador apaga para sempre.
+defusable-popup-boom  = { CAPITALIZE($name) } ruge quando a bomba interna explode!
+defusable-popup-fried  = { CAPITALIZE($name) } acende, mas não faz contagem regressiva.
+defusable-popup-cant-anchor  = { CAPITALIZE($name) } parece estar aparafusado ao chão!
+defusable-popup-wire-bolt-pulse  = Os parafusos giram no lugar por um momento.
+defusable-popup-wire-proceed-pulse  = { CAPITALIZE($name) } emite um sinal sonoro ameaçador!
+defusable-popup-wire-proceed-cut  = O display digital em { $name } é desligado.
+defusable-popup-wire-chirp  = { CAPITALIZE($name) } está estalando.

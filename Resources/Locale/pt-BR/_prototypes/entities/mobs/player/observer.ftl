@@ -1,0 +1,16 @@
+ent-Incorporeal  = { "" }
+    .desc  = Mobs sem corpos físicos
+ent-MobObserverBase  = É como se ele estivesse olhando através de você.
+    .desc  = Atirar!
+ent-MobObserver  = É como se ele estivesse olhando através de você.
+    .desc  = Atirar!
+ent-ActionGhostBoo  = É isso!
+    .desc  = Assuste os membros da sua equipe e deixe-os ficar entediados!
+ent-ActionToggleLighting  = Mudar iluminação
+    .desc  = Ative ou desative a renderização de luz para facilitar a visualização das áreas sombreadas.
+ent-ActionToggleFov  = Alternar campo de visão
+    .desc  = Mude o campo de visão para ver o mesmo que os jogadores.
+ent-ActionToggleGhosts  = Alternar visibilidade fantasma
+    .desc  = Alternar a visibilidade de outros fantasmas.
+ent-ActionToggleGhostHearing  = Alternar audibilidade do fantasma
+    .desc  = Alterne entre ouvir todas as mensagens e ouvir rádio e mensagens próximas.

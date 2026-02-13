@@ -1,0 +1,15 @@
+ent-Pouch  = { ent-BaseClothingBeltSounds }
+    .desc  = { ent-BaseClothingBeltSounds.desc }
+ent-PouchExplosive  = bolsa para granadas
+    .desc  = Cheio de granadas
+ent-PouchExplosiveFilled  = Cheio de granadas
+    .suffix  = Cheio de granadas
+    .desc  = { ent-PouchExplosive.desc }
+ent-PouchAmmo  = Projetado para armazenar diversos carregadores e caixas de munições.
+    .desc  = Projetado para armazenar diversos carregadores e caixas de munições.
+ent-PouchAmmoFilledSMG  = bolsa de revista
+    .suffix  = PP preenchido
+    .desc  = { ent-PouchAmmo.desc }
+ent-PouchAmmoFilledPistol40  = bolsa de revista
+    .suffix  = Pistola .40 cheia
+    .desc  = { ent-PouchAmmo.desc }

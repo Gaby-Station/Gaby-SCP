@@ -1,0 +1,16 @@
+ent-BaseDice  = { ent-BaseItem }
+    .desc  = { ent-BaseItem.desc }
+ent-PercentileDie  = d20
+    .desc  = d20
+ent-d20Dice  = d20
+    .desc  = Dados com 20 lados. Dado preferido para rolar para o Mestre do Jogo.
+ent-d12Dice  = d12
+    .desc  = Dados com 12 lados. Há uma aura de desdém ao seu redor.
+ent-d10Dice  = d10
+    .desc  = Dados com 8 lados. Parece... sorte.
+ent-d8Dice  = d8
+    .desc  = Dados com 8 lados. Parece... sorte.
+ent-d6Dice  = d6
+    .desc  = Dados com 6 lados. Padrão e utilizável.
+ent-d4Dice  = d4
+    .desc  = Osso com 4 lados. Recreação para nerds.

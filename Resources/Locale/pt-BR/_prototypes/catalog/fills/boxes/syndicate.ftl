@@ -1,0 +1,11 @@
+ent-ElectricalDisruptionKit  = conjunto de apagão
+    .suffix  = Preenchido
+    .desc  = { ent-BoxCardboard.desc }
+ent-ChemicalSynthesisKit  = Kit inicial para aspirantes a químico, incluindo Toxina e Vestina para todas as suas necessidades criminais!
+    .desc  = conjunto de faca de arremesso
+ent-ThrowingKnivesKit  = conjunto de faca de arremesso
+    .desc  = Um conjunto de 4 facas de arremesso exclusivas do Syndicate, ideais para mergulhar no corpo da vítima.
+ent-BoxDeathRattleImplants  = caixa de implantadores Chocalho da morte
+    .desc  = Seis implantes Deathrattle para todo o esquadrão.
+ent-CombatBakeryKit  = Kit de Batalha de Baker
+    .desc  = Um conjunto de armas secretas para cozinhar.

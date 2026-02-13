@@ -1,0 +1,15 @@
+ent-Window  = janela
+    .desc  = Tenha cuidado para não bagunçar.
+ent-TintedWindow  = janela colorida
+    .desc  = { ent-Window.desc }
+ent-WindowRCDResistant  = { ent-Window }
+    .desc  = { ent-Window.desc }
+ent-WindowDirectional  = janela direcional
+    .desc  = Tenha cuidado para não bagunçar.
+ent-WindowDirectionalRCDResistant  = { ent-WindowDirectional }
+    .desc  = { ent-WindowDirectional.desc }
+ent-WindowFrostedDirectional  = janela fosca direcional
+    .desc  = Tenha cuidado para não bagunçar.
+ent-WindowDiagonal  = { ent-Window }
+    .suffix  = Diagonal
+    .desc  = { ent-Window.desc }

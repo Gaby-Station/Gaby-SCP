@@ -1,0 +1,16 @@
+ent-BaseWeaponSniper  = Rifle Padrão
+    .desc  = Ouse - ataque, mire e atire.
+ent-WeaponSniperMosin  = Kardashev-Mosin
+    .desc  = Armas de caça ou guerra de trincheiras sem fim. Utiliza cartuchos de calibre de rifle 7,62x54R.
+    .suffix  = Rifle
+ent-WeaponSniperHristov  = de Cristo
+    .desc  = Rifle de precisão portátil de grande calibre. Dispara poderosos projéteis antimateriais perfurantes de armadura de 15 mm.
+    .suffix  = Rifle
+ent-Musket  = mosquete
+    .desc  = Isto deveria estar num museu muito antes de você nascer. Usa munição antimaterial de 15 mm.
+    .suffix  = Rifle
+ent-WeaponPistolFlintlock  = pistola de pederneira
+    .desc  = Companheiro do pirata. Yarr! Usa munição .45 magnum.
+ent-WeaponPistolFlintlockEmpty  = { ent-WeaponPistolFlintlock }
+    .suffix  = Vazio
+    .desc  = { ent-WeaponPistolFlintlock.desc }

@@ -1,0 +1,11 @@
+action-speech-spell-forcewall  = FEIRA AULIE OXIN
+action-speech-spell-knock  = NÃO NATH!
+action-speech-spell-smite  = AIE KHUSE UE
+action-speech-spell-summon-magicarp  = AIE KHUSE UE
+action-speech-spell-fireball  = ONI'SOMA!
+action-speech-spell-summon-guns  = SEUS NAVIOS
+action-speech-spell-summon-magic  = VERDADE DE RYGOIN FEMA
+action-speech-spell-mind-swap  = GIN'YU CAPAN!
+action-speech-spell-cluwne  = !KNOH
+action-speech-spell-slip  = VEJA BARRY!
+action-speech-spell-charge  = NÃO CEL!

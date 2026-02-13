@@ -1,0 +1,10 @@
+ent-CigCartonGreen  = um bloco de cigarros Spessman's Smokes
+    .desc  = Caixa de papelão contendo 6 embalagens de Spessman's Smokes.
+ent-CigCartonRed  = bloco de cigarros DromedaryCo
+    .desc  = Caixa de papelão contendo 6 maços de cigarros Dromedarycos.
+ent-CigCartonBlue  = Bloco de cigarros AcmeCo
+    .desc  = Caixa de papelão contendo 6 maços de cigarros AcmeCo.
+ent-CigCartonBlack  = Bloco de cigarros nômades
+    .desc  = Caixa de papelão contendo 6 maços de cigarros Nomads.
+ent-CigCartonMixed  = um maço de cigarros encharcados de Dan
+    .desc  = Uma caixa de papelão contendo 3 maços de cigarros encharcados de Dan.

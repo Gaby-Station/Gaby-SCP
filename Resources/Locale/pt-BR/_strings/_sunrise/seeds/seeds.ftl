@@ -1,0 +1,16 @@
+seeds-plaststeelcap-name  = plásticoaçochapéu
+seeds-plaststeelcap-display-name  = chapéu de vidro
+seeds-glasscap-name  = chapéu de vidro
+seeds-glasscap-display-name  = canábis vita
+seeds-cannabis-vita-name  = canábis vita
+seeds-cannabis-vita-display-name  = canábis vita
+seeds-barrelmelon-name  = melão barril
+seeds-barrelmelon-display-name  = melão barril
+seeds-lanternfruit-name  = fruta lanterna
+seeds-lanternfruit-display-name  = fruta lanterna
+seeds-redrose-name  = rosa vermelha
+seeds-redrose-display-name  = rosa vermelha
+seeds-whiterose-name  = rosa branca
+seeds-whiterose-display-name  = rosa branca
+seeds-sunflower-name  = girassol
+seeds-sunflower-display-name  = girassol

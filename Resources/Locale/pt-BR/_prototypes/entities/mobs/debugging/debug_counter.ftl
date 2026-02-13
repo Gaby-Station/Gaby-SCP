@@ -1,0 +1,9 @@
+ent-MobDebugCounter  = contador de depuração
+    .desc  = Ele pode contar
+    .suffix  = SIM, DEBAGUE
+ent-MobDebugRandomCounter  = depurar contador aleatório
+    .desc  = Pode gerar números aleatórios
+    .suffix  = SIM, DEBAGUE
+ent-MobDebugRandomLess  = depurar redutor aleatório
+    .desc  = Ele pode reduzir números aleatórios
+    .suffix  = SIM, DEBAGUE

@@ -1,0 +1,13 @@
+ent-ShadowBasaltOne  = pedra das sombras
+    .desc  = Rachaduras brilhantes na realidade. Isso é normal, provavelmente.
+ent-ShadowBasaltTwo  = { ent-ShadowBasaltOne }
+    .desc  = { ent-ShadowBasaltOne.desc }
+ent-ShadowBasaltThree  = { ent-ShadowBasaltOne }
+    .desc  = { ent-ShadowBasaltOne.desc }
+ent-ShadowBasaltFour  = { ent-ShadowBasaltOne }
+    .desc  = { ent-ShadowBasaltOne.desc }
+ent-ShadowBasaltFive  = { ent-ShadowBasaltOne }
+    .desc  = { ent-ShadowBasaltOne.desc }
+ent-ShadowBasaltRandom  = { ent-ShadowBasaltOne }
+    .suffix  = máquina de venda automática de roupas aleatórias spawner
+    .desc  = { ent-ShadowBasaltOne.desc }

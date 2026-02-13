@@ -1,0 +1,10 @@
+ent-FireExtinguisher  = extintor de incêndio
+    .desc  = jetpack manobrável
+ent-BorgFireExtinguisher  = jetpack manobrável
+    .desc  = Baseado na tecnologia de extintores de incêndio, o jetpack manobrável é... sim, é apenas um extintor de incêndio maior.
+ent-ExtinguisherSpray  = jato extintor de incêndio
+    .desc  = { ent-Vapor.desc }
+ent-FireExtinguisherMini  = Modelo leve e compacto de extintor de incêndio em caixa de fibra de vidro. Retém menos água que seu irmão mais velho.
+    .desc  = Modelo leve e compacto de extintor de incêndio em caixa de fibra de vidro. Retém menos água que seu irmão mais velho.
+ent-SelfRechargingFireExtinguisher  = extintor de incêndio auto-carregável
+    .desc  = Apaga incêndios. Enche lentamente de água.

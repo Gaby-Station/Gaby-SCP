@@ -1,0 +1,12 @@
+ent-CrateAmmunitionSmall  = caixa de madeira antiga
+    .desc  = Pequena caixa de madeira com pintura desbotada e emblema da URSS.
+ent-CrateAmmunitionSmallLightRifle  = caixa de cartucho antiga
+    .suffix  = Preenchido
+    .desc  = caixa com kardashev-mosin
+ent-CrateShelfMosin  = caixa com kardashev-mosin
+    .suffix  = Preenchido
+    .desc  = Uma grande caixa de madeira com pintura desbotada e o emblema da URSS. Dentro da tampa, as instruções antigas são pouco visíveis: por que a baioneta é necessária e onde segurar o rifle. A julgar pela poeira, ele está esperando há centenas de anos. Aviso: as instruções podem estar desatualizadas há séculos.
+ent-WrappedMosin  = preservado Kardashev-Mosin
+    .desc  = Um antigo rifle Kardashev-Mosin, hermeticamente embalado em papel e generosamente lubrificado com graxa cósmica. Esquecido em antecipação a uma guerra que nunca começou. Não há cartuchos incluídos, mas você tem uma baioneta!
+ent-CrateAmmunitionSmallDragunov  = caixa de madeira antiga
+    .desc  = Um antigo rifle Marksman, conhecido por sua precisão e tiro de longo alcance. Um conjunto de cinco carregadores com diferentes tipos de munições. Usa munição de rifle 7,62x54R.

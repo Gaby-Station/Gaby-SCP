@@ -1,0 +1,14 @@
+ent-WindoorAssembly  = moldura de janela deslizante
+    .desc  = Ele abre, fecha e você pode ver através dele!
+ent-WindoorAssemblySecure  = Ele abre, fecha e você pode ver através dele! Parece durável.
+    .desc  = moldura de janela deslizante
+ent-WindoorAssemblyClockwork  = moldura de janela deslizante
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece durável.
+ent-WindoorAssemblyPlasma  = moldura de janela deslizante de plasma
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece roxo, não, rosa. Espere...
+ent-WindoorAssemblySecurePlasma  = moldura de janela blindada deslizante de plasma
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece durável e violeta, não, roxo. Espere...
+ent-WindoorAssemblyUranium  = moldura de janela deslizante de urânio
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece um verde doentio...
+ent-WindoorAssemblySecureUranium  = moldura de janela blindada deslizante de urânio
+    .desc  = Ele abre, fecha e você pode ver através dele! Parece verde esmeralda durável e radioativo!

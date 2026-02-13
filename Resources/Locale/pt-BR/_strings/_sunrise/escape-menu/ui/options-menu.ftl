@@ -1,0 +1,37 @@
+ui-options-lobby-opacity  = Transparência do lobby
+ui-options-lobby-background-type  = Tipo de plano de fundo do lobby
+ui-options-lobby-art  = Lobby de arte
+ui-options-lobby-animation  = Animação do lobby
+ui-options-lobby-parallax  = Lobby paralaxe
+ui-options-lobby-unload-resources  = Descarregar recursos do lobby da memória de vídeo
+ui-options-damage-overlay-enable  = Sobreposição de danos
+ui-options-damage-overlay-structures  = Mostrar danos por estruturas
+ui-options-damage-overlay-self  = Mostre danos a si mesmo
+ui-options-sunrise-general-audio  = Áudio
+ui-options-sunrise-general-graphics  = Gerenciamento
+ui-options-sunrise-general-lobby  = Salão
+ui-options-sunrise-general-combat  = Alunos com alto-falantes (é necessário reiniciar a rodada)
+ui-options-tab-extra  = Extra
+ui-options-tape-player-enabled  = Alunos com alto-falantes (é necessário reiniciar a rodada)
+ui-options-jump-sound-disable  = Desativar som de salto
+ui-options-vote-music-disable  = Desativar música de votação
+ui-options-mute-new-ghost-roles  = Silenciar novas funções de convidados
+ui-options-function-toggle-standing  = Deite-se/Levante-se
+ui-options-function-cock-gun  = Armar/Descarregar arma
+ui-options-function-melee-gun-attack  = Golpear com coronha/baioneta
+ui-options-function-jump  = Quicar
+ui-options-function-reloading  = Próxima descoberta
+ui-options-function-interact  = Abrir painel de interações
+ui-options-function-look-up  = Dê uma olhada / mire mais de perto
+ui-options-function-auto-get-up  = Levante-se automaticamente se você cair
+ui-options-function-hold-look-up  = Segure a tecla para mirar
+ui-options-chat-icons-enable  = Use ícones de profissão no chat
+ui-options-chat-pointing-visuals-enable  = Mostrar apontar com ícones no chat
+ui-options-play-heartbeat-sound  = Reproduzir som de batimento cardíaco
+ui-options-trace  = Mostrar trajetória da bala
+ui-options-trace-tooltip =
+    Если у вас задержки при стрельбе, снимите эту галочку,
+    и хитскан не будет отображать текстуру дыма за летящей пулей.
+ui-options-tts-enabled  = Integração TTS
+ui-options-tts-queue  = Usar fila para rádio TTS?
+ui-options-tts-radio-ghost-enabled  = Walkie-talkie TTS em fantasma

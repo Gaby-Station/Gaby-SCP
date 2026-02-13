@@ -1,0 +1,16 @@
+ent-BorgChassisSecurity  = { ent-PlayerBorgSecurityBattery }
+    .desc  = { ent-PlayerBorgSecurityBattery.desc }
+ent-BorgChassisPeace  = { ent-PlayerBorgPeaceBattery }
+    .desc  = { ent-PlayerBorgPeaceBattery.desc }
+ent-BorgChassisClown  = { ent-PlayerBorgClownBattery }
+    .desc  = { ent-PlayerBorgClownBattery.desc }
+ent-BorgChassisSyndicateReaper  = { ent-PlayerBorgSyndicateReaperBattery }
+    .desc  = { ent-PlayerBorgSyndicateReaperBattery.desc }
+ent-BorgChassisERT  = ciborgue de combate pesado do Sindicato
+    .desc  = Uma versão atualizada do ciborgue de combate do Sindicato, equipado com armas pesadas e um corpo forte.
+ent-BorgChassisSyndicateHeavy  = sabotador ciborgue The Syndicate
+    .desc  = O pequeno robô Syndicate, projetado para o Esquadrão de Sabotagem, está equipado com tudo o que é necessário para grandes sabotagens.
+ent-BorgChassisSyndicateSpider  = O pequeno robô Syndicate, projetado para o Esquadrão de Sabotagem, está equipado com tudo o que é necessário para grandes sabotagens.
+    .desc  = O pequeno robô Syndicate, projetado para o Esquadrão de Sabotagem, está equipado com tudo o que é necessário para grandes sabotagens.
+ent-BorgChassisSecurityCombat  = { ent-PlayerBorgSecurityCombatBattery }
+    .desc  = { ent-PlayerBorgSecurityCombatBattery.desc }

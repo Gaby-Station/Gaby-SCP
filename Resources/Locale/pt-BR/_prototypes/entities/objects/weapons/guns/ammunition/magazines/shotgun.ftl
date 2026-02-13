@@ -1,0 +1,13 @@
+ent-BaseMagazineShotgun  = Tambor calibre 12
+    .desc  = { ent-BaseItem.desc }
+ent-MagazineShotgunEmpty  = Tambor calibre 12
+    .suffix  = Vazio
+    .desc  = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgun  = tambor de tiro calibre 12
+    .desc  = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgunBeanbag  = tambor traumático calibre 12
+    .desc  = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgunSlug  = Tambor de bala calibre 12
+    .desc  = { ent-BaseMagazineShotgun.desc }
+ent-MagazineShotgunIncendiary  = Tambor incendiário calibre 12
+    .desc  = { ent-BaseMagazineShotgun.desc }

@@ -1,0 +1,11 @@
+ent-ExosuitFabricatorHyperConvection  = Um fabricante experimental de exosuit que usa tecnologia de calor extremo para criar itens em um ritmo mais lento, mas muito mais econômico.
+    .desc  = Um fabricante experimental de exosuit que usa tecnologia de calor extremo para criar itens em um ritmo mais lento, mas muito mais econômico.
+ent-AutolathePrisonMetus  = Produz produtos básicos de metal e vidro de acordo com o padrão prisional.
+    .desc  = Produz produtos básicos de metal e vidro de acordo com o padrão prisional.
+ent-PirateTechFab  = fabricante pirata
+    .desc  = Produz armas, munições e equipamentos para pessoas marginalizadas. A versão “otimizada para consumo” sacrifica velocidade e alcance para economizar recursos.
+ent-AmmoLathe  = munição-o-lat
+    .suffix  = batalha espacial
+    .desc  = impressora de costura de prisão
+ent-SewingPrinterPrison  = impressora de costura de prisão
+    .desc  = Projetado para costurar tecidos, mantendo a ordem e a identificação no interior da prisão.

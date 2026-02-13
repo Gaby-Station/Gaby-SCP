@@ -1,0 +1,15 @@
+humanoid-profile-editor-body-type-label  = Físico:
+body-normal  = Padrão
+body-slim-f  = Deus
+body-slim-m  = Deus
+body-fat-f  = Completo
+body-fat-m  = Completo
+body-giga-f  = Muscular
+body-giga-m  = Muscular
+body-distrofik-f  = Esgotado
+body-distrofik-m  = Esgotado
+body-curved-small-muzzle  = Pernas curvas (focinho pequeno)
+body-straight-small-muzzle  = Pernas retas (focinho pequeno)
+body-curved-big-muzzle  = Pernas curvas (focinho grande)
+body-straight-big-muzzle  = Pernas retas (focinho grande)
+body-curved  = Pernas curvas

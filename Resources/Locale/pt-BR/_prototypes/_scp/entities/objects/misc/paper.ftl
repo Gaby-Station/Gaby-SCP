@@ -1,0 +1,17 @@
+ent-BoxFolderClipboardWhite  = comprimido branco
+    .desc  = Armas nas mãos dos combatentes da linha de frente da Fundação SCP.
+ent-BoxFolderScpBase  = { ent-BoxBase }
+    .suffix  = SCP
+    .desc  = { ent-BoxBase.desc }
+ent-BoxFolderSafe  = pasta "Euclides"
+    .desc  = pasta "Euclides"
+ent-BoxFolderEuclid  = pasta "Euclides"
+    .desc  = Uma pasta contendo informações sobre um objeto da classe Euclides.
+ent-BoxFolderKeter  = pasta "Sair"
+    .desc  = Uma pasta contendo informações sobre um objeto da classe Keter.
+ent-BoxFolderBlueScp  = pasta azul
+    .desc  = Pasta azul normal.
+ent-BoxFolderScp  = Pasta SCP
+    .desc  = Pasta com o emblema da Fundação SCP.
+ent-BoxFolderWhiteBlack  = pasta preto e branco
+    .desc  = Pasta elegante com contorno preto.

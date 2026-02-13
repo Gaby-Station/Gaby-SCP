@@ -1,0 +1,9 @@
+animations-flip  = Cambalhota
+animations-jump  = Quicar
+animations-dance  = Deite-se/Levante-se
+animations-lay  = Deite-se/Levante-se
+animations-fall-on-neck  = dá uma cambalhota
+animations-msg-flip  = dá uma cambalhota
+animations-msg-jump  = salta
+animations-msg-dance  = dança
+animations-msg-fall-on-neck  = cai no pescoço

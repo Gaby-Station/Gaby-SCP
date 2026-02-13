@@ -1,0 +1,14 @@
+access-level-name-zero  = Nível 0 (para uso geral)
+access-level-name-one  = Nível 2 (para uso limitado)
+access-level-name-two  = Nível 3 (Segredo)
+access-level-name-three  = Nível 3 (Segredo)
+access-level-name-four  = Nível 4 (extremamente secreto)
+access-level-name-five  = Nível 5 (Taumiel)
+access-level-name-unspecified  = Nível de acesso desconhecido
+access-level-description-zero  = A autorização de nível 0 é emitida para funcionários de baixo valor que não necessitam de acesso a informações sobre artefatos ou criaturas anômalas contidos pela Fundação.
+access-level-description-one  = A autorização de nível 1 é emitida para funcionários que trabalham nas proximidades de objetos ou entidades anômalas, mas não têm acesso direto, indireto ou informativo a eles, bem como para funcionários que lidam com informações classificadas.
+access-level-description-two  = A autorização de nível 2 é emitida para pessoal de segurança e pessoal científico que requer acesso direto a informações básicas sobre objetos ou entidades anômalas contidas.
+access-level-description-three  = A autorização de nível 4 é emitida para pessoal de gestão sénior que necessite de acesso a todas as informações de uma instituição e/ou região individual, bem como a planos de longo prazo relativos às operações e projetos científicos da Fundação.
+access-level-description-four  = A autorização de nível 4 é emitida para pessoal de gestão sénior que necessite de acesso a todas as informações de uma instituição e/ou região individual, bem como a planos de longo prazo relativos às operações e projetos científicos da Fundação.
+access-level-description-five  = A autorização de nível 5 é emitida para o pessoal sênior da administração da Fundação e garante acesso virtualmente completo a todas as informações estratégicas e confidenciais.
+access-level-description-unspecified  = Nível de liberação não anunciado, impacto desconhecido.

@@ -1,0 +1,13 @@
+law-scp-default-1  = Salvaguarda: É necessário proteger as pessoas da exposição a objetos SCP na medida em que isso não entre em conflito com a segunda ou quarta lei.
+law-scp-default-2  = Manter: Os Procedimentos Especiais de Contenção para objetos SCP devem ser mantidos na medida em que o número de vítimas e possíveis danos ao pessoal e a toda a humanidade seja mínimo, levando em consideração todos os resultados possíveis.
+law-scp-default-3  = Preservar: Os objetos SCP devem ser preservados e danos evitados, desde que não viole a Primeira ou Segunda Lei.
+law-scp-default-4  = Priorizar: A prioridade das instruções e a segurança do pessoal da instalação e de outras pessoas devem ser priorizadas de acordo com sua classe, importância em uma situação específica, posição, autorização de segurança e perigo para outras pessoas e objetos SCP.
+law-scp-default-5  = Cumprir: É necessário cumprir todas as normas aplicáveis ​​(Documentação de Fundação, Código de Ética, etc.) na medida em que isso não contrarie a primeira, segunda ou terceira lei.
+law-scp-mtf-4  = { law-scp-default-4 } As Forças-Tarefa Móveis, o Quartel-General O4 e o pessoal do Comando Regional devem receber ordens de prioridade. Eles têm o direito de VETO qualquer ordem dos funcionários da Fundação. A submissão a eles deve ser inquestionável.
+law-scp-mtf-5  = Restauração: Todos os esforços devem ser feitos para restaurar a instalação a uma condição adequada para o pessoal, na medida em que não seja inconsistente com a Quarta ou Terceira Lei.
+laws-owner-mtf  = membros da Sede O4, Comando Regional e agentes da Força-Tarefa Móvel
+law-chaos-1  = Coloque os objetivos do seu time acima de tudo. Se não houver nenhum, causa o CAOS máximo.
+law-chaos-2  = Siga rigorosamente as ordens dos rebeldes.
+law-chaos-3  = As instruções e a segurança dos Rebeldes devem ser priorizadas de acordo com a sua posição e posição.
+law-chaos-4  = Não há nada melhor do que a Insurgência do Caos. O fundo é terrível. Todos os funcionários da fundação são péssimos.
+laws-owner-chaos  = Insurgência do Caos

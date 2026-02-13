@@ -1,0 +1,9 @@
+ent-LockerOldAISat  = armário vazio traje espacial da SKI Foundation
+    .suffix  = armário vazio traje espacial da SKI Foundation
+    .desc  = { ent-LockerSyndicate.desc }
+ent-LockerSyndicateShipGearBasic  = { ent-LockerSyndicate }
+    .suffix  = Equipamento básico do navio, Aleatório
+    .desc  = { ent-LockerSyndicate.desc }
+ent-LockerSyndicateShipGearBasicChameleonKit  = { ent-LockerSyndicateShipGearBasic }
+    .suffix  = Equipamento básico para navio, aleatório, conjunto camaleão
+    .desc  = { ent-LockerSyndicateShipGearBasic.desc }

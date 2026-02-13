@@ -1,0 +1,26 @@
+shop-disease-currency  = Pontos de evolução
+listing-disease-cough-name  = Tosse
+listing-disease-cough-description  = Os infectados começam a tossir.
+listing-disease-sneeze-name  = Ouvidos
+listing-disease-sneeze-description  = Os infectados começam a espirrar.
+listing-disease-vomit-name  = Náusea
+listing-disease-vomit-description  = Todas as pessoas atualmente infectadas tornam-se zumbis (a doença é removida delas).
+listing-disease-zombie-name  = Zumbificação
+listing-disease-zombie-description  = Todas as pessoas atualmente infectadas tornam-se zumbis (a doença é removida delas).
+listing-disease-cry-name  = Lágrimas involuntárias
+listing-disease-cry-description  = Os olhos das pessoas infectadas lacrimejam ativamente, fazendo com que pareçam estar chorando.
+listing-disease-narcolepsy-name  = Sonolência
+listing-disease-narcolepsy-description  = Os infectados têm uma vontade constante de dormir, com a qual às vezes não conseguem lidar.
+listing-disease-muted-name  = Nemota
+listing-disease-muted-description  = A mutação causa danos ao nervo hipoglosso, levando à paralisia dos músculos da língua, fazendo com que os pacientes percam a capacidade de falar normalmente.
+listing-disease-slowness-name  = Exaustão
+listing-disease-slowness-description  = O vírus causa destruição das fibras musculares, levando à atrofia e acompanhada de fraqueza. Reduz a mobilidade geral.
+listing-disease-bleed-name  = Perda de sangue
+listing-disease-bleed-description  = A doença prolongada causa hiperestimulação dos neurônios motores, e como resultado os pacientes podem sofrer tensão muscular, levando a convulsões.
+listing-disease-blindness-name  = Cegueira
+listing-disease-blindness-description  = A doença prolongada leva à morte do nervo óptico, o que leva à cegueira quase completa do paciente.
+listing-disease-insult-name  = Convulsões
+listing-disease-insult-description  = A doença prolongada causa hiperestimulação dos neurônios motores, e como resultado os pacientes podem sofrer tensão muscular, levando a convulsões.
+
+listing-disease-info-name  = Informações sobre doenças
+listing-disease-info-description  = Veja as estatísticas e o progresso atuais das doenças.

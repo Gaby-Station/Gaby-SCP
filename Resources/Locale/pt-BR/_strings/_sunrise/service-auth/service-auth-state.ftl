@@ -1,0 +1,13 @@
+service-auth-discord-title  = Discordância de autorização
+service-auth-telegram-title  = Telegrama de Autorização
+service-auth-github-title  = Autorização GitHub
+service-auth-select-service-title  = Selecionando um serviço de autorização
+service-auth-select-service  = Para acessar o servidor, você precisa vincular sua conta SS14 a um dos serviços.
+service-auth-warn1  = Aconselhamos você a vincular sua conta principal.
+service-auth-warn2  = Tenha cuidado ao escolher uma conta.
+service-auth-browser-btn  = Abrir no navegador
+service-auth-quit-btn  = Sair
+service-auth-qrcode  = QRCode para escanear no seu celular.
+service-auth-check-btn  = Verificar
+service-auth-check-btn-wait  = Esperar: { TOSTRING($time, "G3") }
+service-auth-switch-link-service  = Escolha outro serviço

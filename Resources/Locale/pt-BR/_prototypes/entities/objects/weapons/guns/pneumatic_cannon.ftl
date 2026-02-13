@@ -1,0 +1,14 @@
+ent-WeaponImprovisedPneumaticCannon  = pistola de ar improvisada
+    .desc  = Feito de tubo, abraçadeiras e uma pistola de ar comprimido. Não aceita botijões sem gás suficiente.
+ent-LauncherCreamPie  = lança-piro
+    .desc  = Para melhores resultados, carregue com tortas de creme.
+ent-BorgLauncherCreamPie  = piro-lançador experimental
+    .desc  = Entrega uma porção generosa de creme diretamente para a tripulação! Assa tortas automaticamente ao longo do tempo.
+ent-LauncherSyringe  = arma de seringa
+    .desc  = Carregue-se com seringas venenosas para diversão máxima.
+ent-WeaponImprovisedPneumaticCannonGun  = { ent-WeaponImprovisedPneumaticCannon }
+    .suffix  = Arma
+    .desc  = { ent-WeaponImprovisedPneumaticCannon.desc }
+ent-WeaponImprovisedPneumaticCannonAdmeme  = { ent-WeaponImprovisedPneumaticCannonGun }
+    .suffix  = Admemes
+    .desc  = { ent-WeaponImprovisedPneumaticCannonGun.desc }

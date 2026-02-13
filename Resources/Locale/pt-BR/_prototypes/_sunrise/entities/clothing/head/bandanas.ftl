@@ -1,0 +1,10 @@
+ent-ClothingHeadBandOrange  = bandana laranja
+    .desc  = { ent-ClothingHeadBandBase.desc }
+ent-ClothingHeadBandYellow  = bandana azul
+    .desc  = { ent-ClothingHeadBandBase.desc }
+ent-ClothingHeadBandCyan  = bandana azul
+    .desc  = { ent-ClothingHeadBandBase.desc }
+ent-ClothingHeadBandWhite  = bandana roxa
+    .desc  = { ent-ClothingHeadBandBase.desc }
+ent-ClothingHeadBandPurple  = bandana roxa
+    .desc  = { ent-ClothingHeadBandBase.desc }

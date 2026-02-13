@@ -1,0 +1,9 @@
+advertisement-nanomed-1  = Vá e salve algumas vidas!
+advertisement-nanomed-2  = O melhor equipamento para o seu departamento médico.
+advertisement-nanomed-3  = Apenas as melhores ferramentas.
+advertisement-nanomed-4  = Produtos químicos naturais!
+advertisement-nanomed-5  = Essas coisas salvam vidas.
+advertisement-nanomed-6  = Talvez você mesmo possa aceitar isso?
+advertisement-nanomed-7  = Pingue!
+advertisement-nanomed-8  = Não exagere!
+advertisement-nanomed-9  = É hora de overdose!

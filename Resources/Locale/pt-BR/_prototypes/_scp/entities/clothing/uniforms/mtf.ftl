@@ -1,0 +1,15 @@
+ent-ClothingUniformNTF  = uniforme da força-tarefa móvel
+    .desc  = O uniforme tático padrão é azul escuro com inserções de armadura e insígnias de unidade.
+    .suffix  = FTM
+ent-ClothingUniformRRH  = O uniforme é de tom escarlate profundo, feito de tecido grosso e reforçado com elementos de proteção.
+    .desc  = O uniforme é de tom escarlate profundo, feito de tecido grosso e reforçado com elementos de proteção.
+    .suffix  = FTM
+ent-ClothingUniformLLH  = O uniforme é estritamente preto, complementado pelos símbolos da Comissão de Ética e pelas insígnias do serviço de segurança.
+    .desc  = O uniforme é estritamente preto, complementado pelos símbolos da Comissão de Ética e pelas insígnias do serviço de segurança.
+    .suffix  = FTM
+ent-ClothingUniformMH  = uniforme da força-tarefa móvel
+    .desc  = O uniforme é de cor verde-acinzentada protetora, com vestígios de tratamento permanente com compostos químicos.
+    .suffix  = FTM
+ent-ClothingUniformHD  = Uniforme pesado de camuflagem urbana com armadura reforçada e insígnia de esquadrão.
+    .desc  = Uniforme pesado de camuflagem urbana com armadura reforçada e insígnia de esquadrão.
+    .suffix  = FTM

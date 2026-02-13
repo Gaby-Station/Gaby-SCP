@@ -1,0 +1,12 @@
+cargo-account-cargo-name  = Orçamento de abastecimento da estação
+cargo-account-cargo-code  = CARRO
+cargo-account-engineering-name  = Economia em manutenção
+cargo-account-engineering-code  = Eng.
+cargo-account-medical-name  = Financiamento para o desenvolvimento interestelar
+cargo-account-medical-code  = MEL
+cargo-account-science-name  = Reservas de defesa da estação
+cargo-account-science-code  = RND
+cargo-account-security-name  = Reservas de defesa da estação
+cargo-account-security-code  = Ativos de serviço coletivo
+cargo-account-service-name  = Ativos de serviço coletivo
+cargo-account-service-code  = SERVIR

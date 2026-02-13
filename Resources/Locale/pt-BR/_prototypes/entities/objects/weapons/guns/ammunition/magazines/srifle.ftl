@@ -1,0 +1,15 @@
+ent-MagazineSRifleBase  = revista (rifle .20)
+    .desc  = { ent-BaseItem.desc }
+    .suffix  = { "" }
+ent-MagazineSRifle  = revista (rifle .20)
+    .desc  = { ent-MagazineSRifleBase.desc }
+    .suffix  = { "" }
+ent-MagazineSRifleFlash  = revista (rifle .20, cegante)
+    .desc  = { ent-MagazineSRifleBase.desc }
+    .suffix  = { "" }
+ent-MagazineSRifleHV  = revista (rifle .20, treinamento)
+    .desc  = { ent-MagazineSRifleBase.desc }
+    .suffix  = { "" }
+ent-MagazineSRiflePractice  = revista (rifle .20, treinamento)
+    .desc  = { ent-MagazineSRifleBase.desc }
+    .suffix  = { "" }

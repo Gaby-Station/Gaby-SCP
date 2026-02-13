@@ -1,0 +1,10 @@
+species-name-felinid  = Felinídeo
+species-name-swine  = Preparar
+species-name-tajaran  = Preparar
+species-name-predator  = Yautja
+species-name-xeno  = Arcano
+species-name-demon  = Arcano
+species-name-resomi  = Rezomi
+species-name-abductor  = Agente Abdutor
+species-name-milira  = Milira
+species-name-vulpkanin  = Vulpcanina

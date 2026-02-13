@@ -1,0 +1,16 @@
+ent-BaseRecharger  = { ent-BaseMachinePowered }
+    .desc  = { ent-BaseMachinePowered.desc }
+ent-BaseItemRecharger  = { ent-BaseRecharger }
+    .desc  = { ent-BaseRecharger.desc }
+ent-PowerCellRecharger  = carregador de célula de energia
+    .desc  = { ent-BaseItemRecharger.desc }
+ent-PowerCageRecharger  = turbocompressor
+    .desc  = { ent-BaseItemRecharger.desc }
+ent-WeaponCapacitorRecharger  = turbocompressor
+    .desc  = { ent-BaseItemRecharger.desc }
+ent-TurboItemRecharger  = carregador de parede para armas de energia
+    .desc  = carregador de parede para armas de energia
+ent-WallWeaponCapacitorRecharger  = carregador de parede para armas de energia
+    .desc  = { ent-BaseItemRecharger.desc }
+ent-BorgCharger  = estação de carregamento ciborgue
+    .desc  = Um dispositivo estacionário para carregar vários robôs e ciborgues. Surpreendentemente espaçoso.

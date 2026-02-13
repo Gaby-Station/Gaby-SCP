@@ -1,0 +1,17 @@
+ent-ClothingHeadSoftsuitCBURN  = Capacete CBURN
+    .desc  = Capacete pesado à prova de fogo usado por unidades de operações especiais.
+ent-ClothingHeadHelmetPirate  = Capacete EVA simples e estiloso. Criado para explorações espaciais modestas e missões de embarque. Tem algumas rachaduras graves, mas não se preocupe - a fita adesiva vai consertar tudo.
+    .desc  = Capacete EVA simples e estiloso. Criado para explorações espaciais modestas e missões de embarque. Tem algumas rachaduras graves, mas não se preocupe - a fita adesiva vai consertar tudo.
+    .suffix  = Pirata
+ent-ClothingHeadHelmetPirateAlt  = Capacete de embarque em EVA
+    .desc  = Um capacete EVA simples e elegante com uma caveira pintada - para embarcar com estilo.
+    .suffix  = Pirata
+ent-ClothingHeadHelmetPirateOld  = Capacete EVA
+    .desc  = Um capacete para um traje espacial para embarcar em todos.
+    .suffix  = Pirata
+ent-ClothingHeadHelmetPirateAlt2  = Capacete de embarque em EVA
+    .desc  = Capacete EVA simples e estiloso. Criado para explorações espaciais modestas e missões de embarque.
+    .suffix  = Pirata
+ent-ClothingHeadHelmetHardsuitScaf  = Capacete de traje EVA
+    .desc  = Capacete resistente. Por dentro, cheirava à raiva do proprietário anterior.
+    .suffix  = Pirata

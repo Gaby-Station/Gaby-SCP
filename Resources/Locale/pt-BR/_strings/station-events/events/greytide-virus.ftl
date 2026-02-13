@@ -1,0 +1,1 @@
+station-event-greytide-virus-start-announcement  = Foi detectada falha no funcionamento das rotinas de criptografia da chave de acesso criptográfico. Nível de perigo { $severity }. Recomenda-se intervenção de engenharia.

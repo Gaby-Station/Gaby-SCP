@@ -1,0 +1,14 @@
+ent-BaseCargoPallet  = palete de carga
+    .desc  = Um elemento comum de logística e transporte de carga. Um lembrete sutil de onde colocar as caixas durante o transporte para evitar hematomas nas canelas.
+ent-CargoPallet  = palete de carga
+    .desc  = Um elemento comum de logística e transporte de carga. Um lembrete sutil de onde colocar as caixas durante o transporte para evitar hematomas nas canelas.
+ent-CargoPalletSell  = palete de vendas de carga
+    .desc  = Define itens elegíveis para venda.
+ent-CargoPalletBuy  = palete para compra de mercadorias
+    .desc  = Determina onde os itens encomendados aparecerão após a compra.
+ent-ContrabandPalletSell  = palete para venda de contrabando
+    .desc  = Define itens de contrabando aceitáveis ​​para venda.
+    .suffix  = Finanças, Serviço de Segurança
+ent-SecurityPalletBuy  = Destinado à aquisição de pequenos itens de contrabando relacionados com a segurança.
+    .desc  = Destinado à aquisição de pequenos itens de contrabando relacionados com a segurança.
+    .suffix  = Finanças, Serviço de Segurança

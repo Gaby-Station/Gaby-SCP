@@ -1,0 +1,12 @@
+metabolizer-type-animal  = Animal
+metabolizer-type-bloodsucker  = Sugador de sangue
+metabolizer-type-dragon  = Dragão
+metabolizer-type-human  = Humano
+metabolizer-type-slime  = Homem Slime
+metabolizer-type-vox  = Vox
+metabolizer-type-rat  = Anão
+metabolizer-type-plant  = Anão
+metabolizer-type-dwarf  = Anão
+metabolizer-type-moth  = Nian
+metabolizer-type-arachnid  = Aracnídeo
+metabolizer-type-vampire  = Vampiro

@@ -1,0 +1,10 @@
+ent-BulletMagnum  = bala (0,45 magnum)
+    .desc  = { ent-BaseBullet.desc }
+ent-BulletMagnumPractice  = bala (0,45 magnum incendiária)
+    .desc  = { ent-BaseBulletPractice.desc }
+ent-BulletMagnumIncendiary  = bala (0,45 magnum perfurante de armadura)
+    .desc  = { ent-BaseBulletIncendiary.desc }
+ent-BulletMagnumAP  = bala (0,45 magnum perfurante de armadura)
+    .desc  = { ent-BaseBulletAP.desc }
+ent-BulletMagnumUranium  = bala (urânio magnum 0,45)
+    .desc  = { ent-BaseBulletUranium.desc }

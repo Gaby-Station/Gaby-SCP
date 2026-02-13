@@ -1,0 +1,17 @@
+ent-ClothingHeadHatDirector  = chapéu de diretor complexo
+    .desc  = Chapéu em estilo preto e branco. Fez luz para as trevas
+ent-ClothingHeadHatCapDirector  = boné de diretor complexo
+    .desc  = Boné de diretor grande e elegante
+ent-ClothingUniformJumpsuitDirector  = Terno para ocasiões especiais
+    .desc  = Terno para ocasiões especiais
+ent-ClothingUniformJumpsuitBlueDirectorFormal  = terno formal de diretor azul
+    .desc  = Adequado para cenários excepcionais
+ent-ClothingOuterCoatDirectorTrench  = discurso complexo do diretor
+    .desc  = Uma capa de liga especial que oferece proteção e estilo extras para homens poderosos
+ent-ClothingHandsGlovesDirectorSpecial  = luvas duras do diretor complexo
+    .desc  = Ideal para trabalhar com papéis e resolver questões burocráticas.
+ent-ClothingHandsGlovesDirector  = luvas de diretor complexo
+    .desc  = bolsa diretora de couro
+ent-ClothingBackpackSatchelLeatherDirectorFilled  = bolsa diretora de couro
+    .desc  = Esta é uma bolsa especial feita exclusivamente para o trabalho
+    .suffix  = Concluído

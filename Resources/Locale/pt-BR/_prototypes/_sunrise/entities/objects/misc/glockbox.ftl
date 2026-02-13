@@ -1,0 +1,10 @@
+ent-GlockBox  = caixa com glock
+    .desc  = Contém Glock22 e seu magazine. Você queria algo diferente?
+ent-ACP14Box  = caixa com ACP14
+    .desc  = Contém ACP14 e seu magazine. Você queria algo diferente?
+ent-MK58Box  = caixa com MK58
+    .desc  = Contém MK58 e magazine de borracha para ele. Você queria algo diferente?
+ent-MK58GoldBox  = caixa com ouro MK58
+    .desc  = Contém um MK58 dourado e um magazine de borracha. Viva a Segurança!
+ent-SnubRevolverBox  = Dentro está um revólver com cano encurtado e um speedloader de borracha. Velha escola, pronta para ir.
+    .desc  = Dentro está um revólver com cano encurtado e um speedloader de borracha. Velha escola, pronta para ir.

@@ -1,0 +1,11 @@
+ent-Stunbaton  = choque de bastão
+    .desc  = Bastão de choque elétrico para imobilizar pessoas. É considerado falta de educação tentar muito causar danos com este item.
+ent-Truncheon  = bastão
+    .desc  = Um taco duro com núcleo de aço projetado para infligir dor.
+ent-Flash  = clarão
+    .desc  = Uma lâmpada extremamente brilhante com botão liga / desliga causa dormência e perda de visão em curto prazo. Inútil quando queima.
+ent-SciFlash  = clarão
+    .desc  = { ent-Flash.desc }
+    .suffix  = 2 cobranças
+ent-PortableFlasher  = flash portátil
+    .desc  = Lâmpada super brilhante com disparo remoto, útil para criação de zonas, apenas SB.

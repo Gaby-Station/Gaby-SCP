@@ -1,0 +1,14 @@
+advertisement-lawdrobe-1  = Assedie os guardas até que eles sigam suas próprias regras!
+advertisement-lawdrobe-2  = Assedie os guardas até que eles sigam suas próprias regras!
+advertisement-lawdrobe-3  = Acabou de receber um novo caso? Vá e tire-os da prisão!
+advertisement-lawdrobe-4  = Coma um donut no jantar e você não precisará do Departamento de Segurança!
+advertisement-lawdrobe-5  = Ninguém está acima da lei!
+advertisement-lawdrobe-6  = Não, oficial, não concordo com uma busca!
+advertisement-lawdrobe-7  = Uma injeção com drogas espaciais não deixa evidências!
+advertisement-lawdrobe-8  = Você ou um ente querido foi prejudicado pela Fundação? Que pena!
+advertisement-lawdrobe-9  = Caso encerrado! O réu está vestido com muito estilo!
+thankyou-lawdrobe-1  = Com esse processo você pode vencer qualquer caso!
+thankyou-lawdrobe-2  = Compre um para o seu cliente também!
+thankyou-lawdrobe-3  = Ganhe ou perca, você será pago de qualquer maneira!
+thankyou-lawdrobe-4  = Lembre-se: só é ilegal se você for pego!
+thankyou-lawdrobe-5  = PROTESTO! Esse terno é legal demais para o tribunal!

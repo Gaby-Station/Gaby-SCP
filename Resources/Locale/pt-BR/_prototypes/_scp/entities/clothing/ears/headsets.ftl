@@ -1,0 +1,16 @@
+ent-ClothingHeadsetHeavyContainmentSecurityService  = { ent-ClothingHeadset } serviços de segurança
+    .desc  = { ent-ClothingHeadset.desc }
+ent-ClothingHeadsetFieldMedicalSpecialist  = { ent-ClothingHeadset } anestesista
+    .desc  = { ent-ClothingHeadset.desc }
+ent-ClothingHeadsetExternalAdministrativeZoneSecurityService  = { ent-ClothingHeadsetHeavyContainmentSecurityService }
+    .desc  = { ent-ClothingHeadset.desc }
+ent-ClothingHeadsetScientificService  = { ent-ClothingHeadset } serviço médico
+    .desc  = { ent-ClothingHeadset.desc }
+ent-ClothingHeadsetMedicalService  = { ent-ClothingHeadset } serviço médico
+    .desc  = { ent-ClothingHeadset.desc }
+ent-ClothingHeadsetEngineeringTechnicalService  = { ent-ClothingHeadset } serviço de logística
+    .desc  = { ent-ClothingHeadset.desc }
+ent-ClothingHeadsetLogistics  = { ent-ClothingHeadset } serviço de logística
+    .desc  = { ent-ClothingHeadset.desc }
+ent-ClothingHeadsetFoodAndSanitation  = { ent-ClothingHeadset } departamento de serviço
+    .desc  = { ent-ClothingHeadset.desc }

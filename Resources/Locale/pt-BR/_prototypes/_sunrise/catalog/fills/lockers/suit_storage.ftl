@@ -1,0 +1,15 @@
+ent-SuitStorageBlueShield  = { ent-SuitStorageBase }
+    .suffix  = Serviço de segurança, nascer do sol
+    .desc  = { ent-SuitStorageBase.desc }
+ent-SuitStorageSecSunrise  = { ent-SuitStorageBase }
+    .suffix  = Serviço de segurança, nascer do sol
+    .desc  = { ent-SuitStorageBase.desc }
+ent-SuitStorageEVAPirateSun  = { ent-SuitStorageBase }
+    .suffix  = Piratas EVE, nascer do sol
+    .desc  = { ent-SuitStorageBase.desc }
+ent-SuitStoragePirateSun  = { ent-SuitStorageBase }
+    .suffix  = Piratas, nascer do sol
+    .desc  = { ent-SuitStorageBase.desc }
+ent-SuitStoragePirateCapSun  = { ent-SuitStorageBase }
+    .suffix  = Capitão pirata, nascer do sol
+    .desc  = { ent-SuitStorageBase.desc }

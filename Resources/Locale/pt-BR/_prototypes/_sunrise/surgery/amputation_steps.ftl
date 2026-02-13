@@ -1,0 +1,12 @@
+ent-SurgeryAmputationStep  = Vi através de um membro
+    .desc  = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepExposeSkull  = Ligar os vasos
+    .desc  = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepLigateVessels  = Ligar os vasos
+    .desc  = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepSawSkull  = Serrar o crânio
+    .desc  = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepInciseCartilage  = Faça uma incisão na cartilagem
+    .desc  = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepHeadFinalizeSeparation  = Separação completa
+    .desc  = { ent-SurgeryStepSawSkull.desc }

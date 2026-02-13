@@ -1,0 +1,10 @@
+ent-BlankHandyFlag  = caixa de seleção de mão vazia
+    .desc  = Um pedaço de pano branco enrolado em um pedaço de pau.
+ent-NTHandyFlag  = mão segurando a bandeira do fundo
+    .desc  = Glória à Fundação! Espere, eles realmente fizeram uma bandeira manual para uma empresa?
+ent-SyndieHandyFlag  = Bandeira de mão do sindicato
+    .desc  = Para verdadeiros patriotas rebeldes. Morte à Fundação!
+ent-LGBTQHandyFlag  = bandeira de mão multicolorida
+    .desc  = Um pedaço de tecido multicolorido enrolado em um palito.
+ent-PirateHandyFlag  = bandeira de mão pirata
+    .desc  = Pegue-o em suas mãos e mostre a essas carpas que você está falando sério.

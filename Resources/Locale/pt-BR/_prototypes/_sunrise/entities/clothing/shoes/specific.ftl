@@ -1,0 +1,14 @@
+ent-ClothingShoesGreenLizardskin  = sapatos de pele de lagarto verde
+    .desc  = Podem ter perdido um pouco do brilho ao longo dos anos, mas estes sapatos verdes de pele de lagarto são perfeitos para si.
+ent-ClothingShoesAerostatic  = Botas confortáveis ​​e limpas para longas horas de trabalho intenso.
+    .desc  = Botas confortáveis ​​e limpas para longas horas de trabalho intenso.
+ent-ClothingShoesCentcomBlack  = sapatos de oficial de operações especiais
+    .desc  = Sapatos de couro, pretos, de alta qualidade, dificilmente encontrados no mercado negro...
+ent-ClothingShoesSchoolBlack  = sapatos escolares pretos
+    .desc  = Sapatos escolares elegantes e confortáveis ​​em tom escuro com meias.
+ent-ClothingShoesSchoolWhite  = sapatos escolares brancos
+    .desc  = Sapatos escolares elegantes e confortáveis ​​de cor clara com meias.
+ent-ClothingWraps  = Envoltórios de tecido durável, frequentemente usados ​​para proteção ou suporte em ambientes agressivos.
+    .desc  = Envoltórios de tecido durável, frequentemente usados ​​para proteção ou suporte em ambientes agressivos.
+ent-ClothingWrapsHigh  = enrolamentos longos
+    .desc  = Envoltórios de tecido longo e durável, frequentemente usados ​​para proteção ou suporte em ambientes agressivos.

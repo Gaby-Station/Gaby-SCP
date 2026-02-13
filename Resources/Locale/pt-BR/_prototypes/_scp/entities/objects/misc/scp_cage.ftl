@@ -1,0 +1,10 @@
+ent-BaseCrateScpCage  = { ent-BaseStructureDynamic }
+    .desc  = { ent-BaseStructureDynamic.desc }
+ent-CrateScpCageFolded  = Complicado
+    .desc  = { ent-CrateScpCage.desc }
+    .suffix  = Hangar "Pandora"
+ent-CrateScpCage  = Um contêiner de transporte SCP multifuncional, dobrável e com chave que combina portabilidade com proteção máxima contra influências anômalas. Pode ser enrolado e desdobrado com uma chave de fenda
+    .desc  = Um contêiner de transporte SCP multifuncional, dobrável e com chave que combina portabilidade com proteção máxima contra influências anômalas. Pode ser enrolado e desdobrado com uma chave de fenda
+ent-CrateScpCageScp173  = { ent-CrateScpCage }
+    .desc  = { ent-CrateScpCage.desc }
+    .suffix  = SCP-173

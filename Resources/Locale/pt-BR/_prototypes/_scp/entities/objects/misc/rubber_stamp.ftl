@@ -1,0 +1,16 @@
+ent-RubberStampDirector  = selo do diretor do complexo
+    .desc  = { ent-RubberStampBase.desc }
+ent-RubberStampMentalControlOfficer  = Selo de Oficial de Controle Mental
+    .desc  = { ent-RubberStampBase.desc }
+ent-RubberStampChiefTechnicalSpecialist  = selo do chefe do setor médico
+    .desc  = { ent-RubberStampBase.desc }
+ent-RubberStampHeadOfMedicalSector  = selo de oficial de carreira
+    .desc  = { ent-RubberStampBase.desc }
+ent-RubberStampPersonnelOfficer  = selo de oficial de carreira
+    .desc  = { ent-RubberStampBase.desc }
+ent-RubberStampSecurityCommander  = selo do chefe de segurança
+    .desc  = { ent-RubberStampBase.desc }
+ent-RubberStampSeniorLogisticsOfficer  = selo de oficial sênior de logística
+    .desc  = { ent-RubberStampBase.desc }
+ent-RubberStampScientificServiceDirector  = selo do diretor do serviço científico
+    .desc  = { ent-RubberStampBase.desc }

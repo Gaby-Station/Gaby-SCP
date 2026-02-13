@@ -1,0 +1,9 @@
+ent-ClothingHeadsetAltMTF  = Decore
+    .desc  = Dispositivo de comunicação compacto com canal de comunicação criptografado. Possui módulos adicionais cuja origem não está indicada na documentação.
+    .suffix  = FTM
+ent-ClothingHeadsetAltMTFRRH  = Decore
+    .desc  = Dispositivo de comunicação compacto com canal de comunicação criptografado. Possui módulos adicionais cuja origem não está indicada na documentação.
+    .suffix  = FTM
+ent-ClothingHeadsetAltMTFLLH  = Decore
+    .desc  = Dispositivo de comunicação compacto com canal de comunicação criptografado. O case é decorado com moderação, mas o design contém elementos visíveis que indicam o status especial do usuário.
+    .suffix  = FTM

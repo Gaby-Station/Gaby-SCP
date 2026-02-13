@@ -1,0 +1,16 @@
+ent-ActionRevertPolymorph  = Retornar
+    .desc  = Retorne à sua forma original.
+ent-BaseActionPolymorph  = { ent-BaseAction }
+    .desc  = { ent-BaseAction.desc }
+ent-ActionPolymorphWizardSpider  = Forma de varinha
+    .desc  = SOM!
+ent-ActionPolymorphWizardRod  = Forma de varinha
+    .desc  = SOM!
+ent-ActionPolymorphJaunt  = Caminhada etérea
+    .desc  = Dissolva-se no Plano Etéreo para uma fuga rápida!
+ent-ActionPolymorphJauntII  = Caminhada Etérea II
+    .desc  = Dissolva-se no Plano Etéreo para escapar ainda mais rápido!
+ent-ActionPolymorphJauntIII  = Caminhada Etérea III
+    .desc  = Você é tangível?
+ent-ActionPolymorph  = { "" }
+    .desc  = { "" }

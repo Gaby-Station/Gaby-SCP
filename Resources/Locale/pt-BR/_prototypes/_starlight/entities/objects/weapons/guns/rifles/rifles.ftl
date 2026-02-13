@@ -1,0 +1,10 @@
+ent-WeaponGunLaserCarbineSemi  = carabina laser IR-30
+    .desc  = A carabina semiautomática a laser usa baterias como fonte de energia.
+ent-WeaponGunLaserCarbineAutomatic  = carabina laser IR-60
+    .desc  = Uma carabina laser que dispara em rajadas e usa baterias como fonte de energia.
+ent-WeaponRifleLeikha  = Fuzil de assalto militar de primeira classe. Este exemplo foi atualizado com a substituição do receptor e a instalação de uma mira. Usa cartuchos de 5,56 mm.
+    .desc  = Fuzil de assalto militar de primeira classe. Este exemplo foi atualizado com a substituição do receptor e a instalação de uma mira. Usa cartuchos de 5,56 mm.
+ent-WeaponRifleARG  = ARG
+    .desc  = Um antigo rifle de assalto padrão galáctico usado por vários grupos paramilitares e ex-milícias até hoje. Usa munição de rifle calibre .30.
+ent-WeaponRifleM52  = Arsenal Aussec M-52
+    .desc  = Um dos rifles de assalto pesados ​​menos populares. Tem um poder de fogo impressionante.
