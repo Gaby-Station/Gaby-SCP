@@ -1,0 +1,15 @@
+ent-ScatteringGrenadeBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-ClusterBang = clusterbang
+    .desc = Só pode ser usado com flashbangs. Explode várias vezes.
+ent-ClusterBangFull = Cluster Bang
+    .desc = Lança três flashbangs após o tempo acabar.
+    .suffix = Completo
+ent-ClusterGrenade = granada de fragmentação
+    .desc = Por que usar uma granada quando você pode usar três de uma vez!
+ent-ClusterBananaPeel = casca de banana cacho
+    .desc = Divide-se em 6 cascas de banana explosivas após o lançamento, diversão garantida!
+ent-SlipocalypseClusterSoap = sabonete cluster slipocalypse
+    .desc = Espalha pequenos pedaços de sabonete sindicalizado sobre uma área ao pousar no chão.
+ent-GrenadeFoamDart = granada de dardo de espuma
+    .desc = Libera um jato incômodo de dardos de espuma que causam queimaduras severas.

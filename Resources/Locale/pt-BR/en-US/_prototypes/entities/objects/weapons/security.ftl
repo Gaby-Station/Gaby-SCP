@@ -1,0 +1,11 @@
+ent-Stunbaton = bastão de choque
+    .desc = Um bastão de choque para incapacitar pessoas. Prejudicar ativamente com isso é considerado mau tom.
+ent-Truncheon = cassetete
+    .desc = Um bastão rígido, cravejado de aço, destinado a prejudicar.
+ent-Flash = clarão
+    .desc = Uma lâmpada ultrabrilhante com gatilho, que faz com que a vítima fique atordoada e perca a visão por um momento. Inútil quando queimado.
+ent-SciFlash = clarão
+    .suffix = 2 cobranças
+    .desc = { ent-Flash.desc }
+ent-PortableFlasher = pisca-pisca portátil
+    .desc = Uma lâmpada ultrabrilhante com gatilho de proximidade, útil para tornar uma área apenas de segurança.

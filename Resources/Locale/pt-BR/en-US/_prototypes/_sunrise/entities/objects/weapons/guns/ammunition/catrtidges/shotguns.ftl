@@ -1,0 +1,14 @@
+ent-ShellShotgunImprovisedEmpty = concha improvisada vazia
+    .desc = Um cartucho oco de espingarda caseiro que pode ser preenchido com uma variedade mortal de projéteis improvisados.
+ent-ShellShotgunImprovised = cartucho de espingarda improvisado
+    .desc = Um cartucho de espingarda caseiro que atira dolorosos estilhaços de vidro. A propagação é tão ampla que não poderia atingir a lateral larga de um celeiro.
+ent-ShellShotgunImprovisedIncendiary = projétil improvisado (incendiário)
+    .desc = Um cartucho de espingarda caseiro que atira estilhaços de vidro em chamas. A propagação é tão ampla que não poderia atingir a lateral larga de um celeiro.
+ent-ShellShotgunImprovisedUranium = concha improvisada (vidro de urânio)
+    .desc = Um cartucho de espingarda caseiro que atira dolorosos estilhaços de vidro de urânio. A propagação é tão ampla que não poderia atingir a lateral larga de um celeiro.
+ent-ShellShotgunCoin = concha improvisada (lesma de moeda)
+    .desc = Uma bala de espingarda caseira que atira um cilindro de moedas. A pilha tende a se quebrar na explosão, limitando seu alcance efetivo.
+ent-ShellShotgunBooze = concha (0,50 pufe)
+    .desc = { ent-BaseShellHitscanShotgun.desc }
+ent-ShellShotgunHoly = concha (0,50 sagrada)
+    .desc = { ent-BaseShellShotgun.desc }

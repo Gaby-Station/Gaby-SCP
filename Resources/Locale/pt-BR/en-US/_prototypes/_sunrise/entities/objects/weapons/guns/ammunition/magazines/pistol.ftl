@@ -1,0 +1,16 @@
+ent-MagazineP90 = Revista P90
+    .desc = { ent-BaseItem.desc }
+ent-MagazineMP7 = Revista MP7
+    .desc = { ent-BaseItem.desc }
+ent-MagazineMP5 = Revista MP5
+    .desc = { ent-BaseItem.desc }
+ent-MagazinePistolSubMachineGunPPSHExtended = Revista de bateria PPSH
+    .desc = { ent-BaseItem.desc }
+ent-MagazineMP5Extended = { ent-MagazineMP5 }
+    .desc = { ent-MagazineMP5.desc }
+ent-MagazineMP7Extended = { ent-MagazineMP7 }
+    .desc = { ent-MagazineMP7.desc }
+ent-MagazineGlock22 = Revista Glock22
+    .desc = { ent-BaseItem.desc }
+ent-MagazineP90Extended = { ent-MagazineP90 }
+    .desc = { ent-MagazineP90.desc }

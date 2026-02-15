@@ -1,0 +1,14 @@
+ent-BasePercussionInstrument = { ent-BaseHandheldInstrument }
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-GlockenspielInstrument = glockenspiel
+    .desc = { ent-BasePercussionInstrument.desc }
+ent-MusicBoxInstrument = caixa de música
+    .desc = Jogar isso faz você se sentir seguro contra animatrônicos assustadores.
+ent-XylophoneInstrument = xilofone
+    .desc = Glockenspiel na cor arco-íris.
+ent-MicrophoneInstrument = microfone
+    .desc = Perfeito para cantar com todo o coração.
+ent-WoodblockInstrument = xilogravura
+    .desc = Se você ouvir isso o suficiente, isso começará a surgir em sua mente.
+ent-ReverseCymbalsInstrument = pratos reversos
+    .desc = Eu acho que você entendeu errado?

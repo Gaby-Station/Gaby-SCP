@@ -1,0 +1,16 @@
+ent-CrateEmergencyExplosive = caixa de terno bomba
+    .desc = A ciência enlouqueceu? Apitando atrás da câmara de descompressão? Compre agora e seja o herói da estação de... quero dizer, precisa! (tempo não incluído)
+ent-CrateEmergencyFire = caixa de combate a incêndio
+    .desc = Só você pode evitar incêndios nas estações. Junte-se a dois trajes de bombeiro, máscaras de gás, lanternas, grandes tanques de oxigênio, extintores e capacetes de segurança!
+ent-CrateEmergencyInternals = caixa interna
+    .desc = Domine sua energia vital e controle sua respiração com 3 máscaras respiratórias, trajes de emergência e grandes tanques de ar.
+ent-CrateEmergencyInternalsLarge = caixa interna (grande)
+    .desc = Domine sua energia vital e controle sua respiração com 6 máscaras respiratórias, trajes de emergência e grandes tanques de ar.
+ent-CrateNitrogenInternals = caixa interna (nitrogênio)
+    .desc = Contém quatro máscaras respiratórias e quatro grandes tanques de nitrogênio. Destinado a Slimepeople e Vox.
+ent-CrateEmergencyRadiation = caixa de proteção contra radiação
+    .desc = Sobreviva ao Apocalipse Nuclear e ao Motor de Supermatéria com dois conjuntos de trajes de radiação. Cada conjunto contém um capacete, traje e contador Geiger. Vamos até colocar uma garrafa de vodca e alguns copos também, considerando a expectativa de vida de quem pede isso.
+ent-CrateEmergencyInflatablewall = caixa de parede inflável
+    .desc = Três pilhas de paredes infláveis ​​para quando as paredes metálicas das estações não quiserem mais reter atmosfera.
+ent-CrateGenericBiosuit = caixa de traje biológico de emergência
+    .desc = Contém 2 trajes de risco biológico para garantir que nenhuma doença irá distraí-lo do que você está fazendo lá.

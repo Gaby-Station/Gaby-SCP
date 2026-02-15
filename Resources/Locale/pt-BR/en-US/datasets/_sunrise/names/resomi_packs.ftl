@@ -1,0 +1,14 @@
+names-resomi-packs-dataset-1 = Pacote Aviador
+names-resomi-packs-dataset-2 = Pacote de pica-paus
+names-resomi-packs-dataset-3 = Pacote Hullguard
+names-resomi-packs-dataset-4 = Pacote Irontalon
+names-resomi-packs-dataset-5 = Pacote Hatchguard
+names-resomi-packs-dataset-6 = Pacote Sprinter
+names-resomi-packs-dataset-7 = Pacote Plasmatalon
+names-resomi-packs-dataset-8 = Pacote Garra de Ferro
+names-resomi-packs-dataset-9 = Pacote Steelnest
+names-resomi-packs-dataset-10 = Pacote Pena Prateada
+names-resomi-packs-dataset-11 = Pacote Minegarra
+names-resomi-packs-dataset-12 = Pacote Caçador
+names-resomi-packs-dataset-13 = Pacote Penas Negras
+names-resomi-packs-dataset-14 = Pacote Maintsnest

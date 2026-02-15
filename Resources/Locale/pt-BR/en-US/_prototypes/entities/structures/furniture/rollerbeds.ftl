@@ -1,0 +1,15 @@
+ent-RollerBed = cama de rolos
+    .desc = Usado para transportar pacientes sem danificá-los.
+ent-RollerBedSpawnFolded = { ent-RollerBed }
+    .suffix = dobrado
+    .desc = { ent-RollerBed.desc }
+ent-CheapRollerBed = cama de rolos
+    .desc = Uma cama de rolos degradada. Usado para transportar pacientes.
+ent-CheapRollerBedSpawnFolded = { ent-CheapRollerBed }
+    .suffix = dobrado
+    .desc = { ent-CheapRollerBed.desc }
+ent-EmergencyRollerBed = cama de rolos
+    .desc = Uma cama de rolos robusta usada para emergências.
+ent-EmergencyRollerBedSpawnFolded = { ent-EmergencyRollerBed }
+    .suffix = dobrado
+    .desc = { ent-EmergencyRollerBed.desc }

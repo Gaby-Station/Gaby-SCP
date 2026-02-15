@@ -1,0 +1,12 @@
+ent-BaseWeaponPistol = Pistola Base
+    .desc = Uma ponta enraizada e atirada.
+ent-WeaponPistolViper = víbora
+    .desc = Uma arma comum modificada ilegalmente pelo Sindicato. O Viper possui um seletor entre semi-automático e ‘rock and roll’. A arma padrão para qualquer soldado que luta sob as três serpentes. Alimenta-se de revistas de pistola .35.
+ent-WeaponPistolEchis = echis
+    .desc = Um sistema de armas montado em ciborgue baseado na pistola Viper. Cria munição dinamicamente a partir de um fabricante interno, que se autocarrega lentamente.
+ent-WeaponPistolCobra = cobra
+    .desc = Pistola semiautomática totalmente suprimida usada pelo Syndicate, disparando tiros subsônicos sem caixa. Favorecido por qualquer agente que gosta de manter as coisas em segredo e não deixar evidências. Alimenta-se de revistas de pistola .25.
+ent-WeaponPistolMk58 = Marcos 58
+    .desc = Projetada pela Divisão de Armas Leves da Nanotrasen, a Mk58 é uma pistola semiautomática convencional com ação simples operada por recuo e excelente confiabilidade. A arma padrão das equipes de segurança e resposta a emergências da estação Nanotrasen. Alimenta-se de revistas de pistola .35.
+ent-WeaponPistolN1984 = N1984
+    .desc = Um ‘canhão de mão’ excepcionalmente poderoso projetado como parte da iniciativa BFG da Nanotrasen. Armado em .45, o calibre do senhor, é geralmente considerado muito pesado para uso padrão, mas tornou-se uma espécie de símbolo de status entre os funcionários da Nanotrasen. Alimenta-se de revistas de pistola .45.

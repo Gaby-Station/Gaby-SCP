@@ -1,0 +1,16 @@
+new-life-gui-window-title = Nova жизнь
+new-life-gui-button-disable = Nova pessoa [СПОНСОР]
+new-life-gui-button = Nova жизнь
+new-life-gui-station-selector = Estancia:
+new-life-gui-character-selector = Pessoa:
+new-life-gui-role-selector = Função:
+new-life-gui-available-via = Configuração completa:
+new-life-gui-new-life = Nova жизнь
+new-life-gui-available = Pronto.
+new-life-gui-character-not-available = Персонаж не доступен.
+new-life-gui-role-not-available = Não há necessidade.
+new-life-gui-character-used = { $name } [Недоступен]
+new-life-gui-character-rules_title = Palavra
+new-life-gui-character-rule1 = 1. Você não pode usar o produto corretamente.
+new-life-gui-character-rule2 = 2. Cada pessoa deve ser unificada.
+new-life-gui-character-rule3 = 3. Você não pode obter um status de antagonismo antes de usá-lo.

@@ -1,0 +1,15 @@
+ent-ClickTestBase = { "" }
+    .suffix = DEPURAR
+    .desc = { "" }
+ent-ClickTestRotatingCornerVisible = ClickTestRotatingCornerVisível
+    .desc = { ent-ClickTestBase.desc }
+ent-ClickTestRotatingCornerVisibleNoRot = ClickTestRotatingCornerVisibleNoRot
+    .desc = { ent-ClickTestRotatingCornerVisible.desc }
+ent-ClickTestRotatingCornerInvisible = ClickTestRotatingCornerInvisível
+    .desc = { ent-ClickTestBase.desc }
+ent-ClickTestRotatingCornerInvisibleNoRot = ClickTestRotatingCornerInvisibleNoRot
+    .desc = { ent-ClickTestRotatingCornerInvisible.desc }
+ent-ClickTestFixedCornerVisible = ClickTestFixedCornerVisível
+    .desc = { ent-ClickTestBase.desc }
+ent-ClickTestFixedCornerInvisible = ClickTestFixedCornerInvisível
+    .desc = { ent-ClickTestBase.desc }

@@ -1,0 +1,12 @@
+ent-WeaponEnergyTurretStationBase = torre de sentinela
+    .desc = Um sistema de armas autônomo de alta tecnologia projetado para manter pessoal não autorizado fora de áreas sensíveis.
+ent-WeaponEnergyTurretAI = Torre de sentinela AI
+    .desc = Um sistema de armas autônomo de alta tecnologia sob o controle direto de uma inteligência artificial local.
+ent-WeaponEnergyTurretSecurity = { ent-WeaponEnergyTurretStationBase }
+    .suffix = Segurança
+    .desc = { ent-WeaponEnergyTurretStationBase.desc }
+ent-WeaponEnergyTurretCommand = { ent-WeaponEnergyTurretStationBase }
+    .suffix = Comando
+    .desc = { ent-WeaponEnergyTurretStationBase.desc }
+ent-WeaponEnergyTurretStation = torre de sentinela
+    .desc = Um sistema de armas autônomo de alta tecnologia projetado para manter pessoal não autorizado fora de áreas sensíveis.

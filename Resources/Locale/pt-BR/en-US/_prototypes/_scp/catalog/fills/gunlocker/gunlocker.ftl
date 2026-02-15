@@ -1,0 +1,25 @@
+ent-GunLockerFilledSPAS12 = cofre de armas SPAS12
+    .suffix = Arsenal, SPAS12
+    .desc = { ent-GunLocker5x2.desc }
+ent-GunLockerFilledShotgunRiot = cofre de armas shotgun motim
+    .suffix = Arsenal, motim de espingarda
+    .desc = { ent-GunLocker5x1.desc }
+ent-GunLockerFilledP90 = cofre de armas P90
+    .suffix = Arsenal, P90
+    .desc = { ent-GunLocker4x3.desc }
+ent-GunLockerFilledMP5 = cofre de armas MP5
+    .suffix = Arsenal, MP5
+    .desc = { ent-GunLocker4x3.desc }
+ent-GunLockerFilledMP7 = cofre de armas MP7
+    .suffix = Arsenal, MP7
+    .desc = { ent-GunLocker3x3.desc }
+ent-GunLockerFilledM16A4 = cofre de armas M16A4
+    .suffix = Arsenal, M16A4
+    .desc = { ent-GunLocker6x3.desc }
+ent-GunLockerFilledG36 = cofre de armas G36
+    .suffix = Arsenal, G36
+    .desc = { ent-GunLocker6x3.desc }
+ent-GunLockerFilledAR18 = cofre de armas AR18
+    .suffix = Arsenal, AR18
+    .desc = { ent-GunLocker5x3.desc }
+

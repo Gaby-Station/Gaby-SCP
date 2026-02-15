@@ -1,0 +1,12 @@
+ent-BaseAutoMender = automender
+    .desc = Um dispositivo usado para curar pacientes com ferimentos graves, queimaduras ou ambos os tipos de danos.
+ent-AutoMenderBrute = automender bruto
+    .desc = Um dispositivo usado para curar pacientes com ferimentos graves, queimaduras ou ambos os tipos de danos. Usa bicaridina para funcionar.
+ent-AutoMenderBruteFilled = { ent-AutoMenderBrute }
+    .suffix = Preenchido
+    .desc = { ent-AutoMenderBrute.desc }
+ent-AutoMenderBurn = queimar automender
+    .desc = Um dispositivo usado para curar pacientes com ferimentos graves, queimaduras ou ambos os tipos de danos. Usa dermalin para funcionar.
+ent-AutoMenderBurnFilled = { ent-AutoMenderBurn }
+    .suffix = Preenchido
+    .desc = { ent-AutoMenderBurn.desc }

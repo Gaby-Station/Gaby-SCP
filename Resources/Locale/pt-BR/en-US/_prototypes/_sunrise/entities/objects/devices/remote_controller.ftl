@@ -1,0 +1,15 @@
+ent-RemoteShuttleControllerBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-RemoteAssaultOpsShuttleController = Controlador de transporte remoto (unidade diversionária)
+    .desc = Agora você não precisa de piloto, porque o piloto é você!
+ent-RemoteNukeOpShuttleController = Controlador de controle de ônibus remoto (operadores nucleares)
+    .desc = Agora você não precisa de piloto, porque o piloto é você!
+ent-RemoteSecurityShuttleController = Controlador de gerenciamento de transporte remoto (transporte de segurança)
+    .desc = Agora você não precisa de piloto, porque o piloto é você!
+ent-RemoteCargoShuttleController = Controlador de gerenciamento remoto de ônibus (Shuttle Cargo)
+    .desc = Agora você não precisa de piloto, porque o piloto é você!
+ent-RemotePrisonShuttleController = Controlador de transporte remoto (transporte de prisão)
+    .desc = Agora você não precisa de piloto, porque o piloto é você!
+ent-DoorRemoteOmni = Controle remoto da porta Omni
+    .suffix = Centrocomm
+    .desc = { ent-DoorRemoteDefault.desc }

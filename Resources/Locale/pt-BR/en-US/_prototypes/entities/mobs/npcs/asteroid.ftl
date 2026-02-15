@@ -1,0 +1,24 @@
+ent-BaseMobAsteroid = { ent-BaseMob }
+    .desc = { ent-BaseMob.desc }
+ent-MobGoliath = Golias
+    .desc = Uma fera enorme que usa longos tentáculos para capturar suas presas, não é aconselhável ameaçá-las sob nenhuma condição.
+ent-ActionGoliathTentacle = [color=red]Golpe do Tentáculo[/color]
+    .desc = Use seus tentáculos para agarrar e atordoar um jogador alvo!
+ent-GoliathTentacle = tentáculo
+    .desc = { "" }
+ent-BaseEffectGoliathTentacleSpawn = tentáculo
+    .desc = { "" }
+ent-EffectGoliathTentacleSpawn = tentáculo
+    .desc = { ent-BaseEffectGoliathTentacleSpawn.desc }
+ent-EffectGoliathTentacleRetract = { ent-BaseEffectGoliathTentacleSpawn }
+    .desc = { ent-BaseEffectGoliathTentacleSpawn.desc }
+ent-MobHivelord = senhor da colmeia
+    .desc = Uma criatura verdadeiramente alienígena, é uma massa de material orgânico desconhecido, em constante flutuação. Ao atacar, pedaços dele se separam e atacam em conjunto com o original.
+ent-MobHivelordBrood = ninhada do senhor da colmeia
+    .desc = Um fragmento do senhor da colmeia original, apoiando seu original. Um não é uma grande ameaça, mas...
+ent-FoodHivelordRemains = senhor da colmeia permanece
+    .desc = Tudo o que resta de um senhor da colméia parece ser o que lhe permite quebrar pedaços de si mesmo sem se machucar... suas propriedades curativas logo se tornarão inertes se não forem usadas rapidamente. Tente não pensar no que você está comendo.
+ent-FoodHivelordRemainsInert = senhor da colmeia inerte permanece
+    .desc = Tudo o que resta de um senhor da colmeia... Agora tudo está verdadeiramente perdido.
+ent-MobBasilisk = basilisco
+    .desc = Uma fera territorial, coberta por uma carapaça grossa que absorve energia. Seu olhar faz com que as vítimas congelem por dentro.

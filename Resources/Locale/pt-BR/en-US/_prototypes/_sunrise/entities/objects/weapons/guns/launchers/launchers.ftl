@@ -1,0 +1,11 @@
+ent-WeaponLauncherRL5 = RL-5
+    .desc = { ent-BaseWeaponLauncher.desc }
+ent-WeaponGrenadeLauncherGL70 = GL-70
+    .desc = { ent-BaseWeaponLauncher.desc }
+ent-WeaponGrenadeLauncherGL70Flash = GL-70
+    .suffix = GranadaFlash
+    .desc = { ent-WeaponGrenadeLauncherGL70.desc }
+ent-WeaponGrenadeLauncherSecurity = lançador de granadas de segurança
+    .desc = Uma modificação de pistola sinalizadora de segurança que permite o lançamento seguro de qualquer granada de mão em longas distâncias. "Aviso" Não é recomendado atirar de perto ou diretamente contra obstáculos - risco de ricochete da granada.
+ent-WeaponLauncherM79 = lançador de granadas m79
+    .desc = Um lançador de granadas de ação única e de disparo único. É uma arma poderosa que pode disparar uma variedade de granadas e granadas de mão.

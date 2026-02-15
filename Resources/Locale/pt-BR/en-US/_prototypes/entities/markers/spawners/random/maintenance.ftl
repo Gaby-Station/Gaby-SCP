@@ -1,0 +1,15 @@
+ent-MaintenanceFluffSpawner = Manter Gerador de Loot
+    .suffix = Fofo + Roupas
+    .desc = { ent-MarkerBase.desc }
+ent-MaintenanceToolSpawner = Manter Gerador de Loot
+    .suffix = Ferramentas + Células + Tapetes
+    .desc = { ent-MarkerBase.desc }
+ent-MaintenanceWeaponSpawner = Manter Gerador de Loot
+    .suffix = Sucata + Armas
+    .desc = { ent-MarkerBase.desc }
+ent-MaintenancePlantSpawner = Manter Gerador de Loot
+    .suffix = Plantas
+    .desc = { ent-MarkerBase.desc }
+ent-MaintenanceInsulsSpawner = Manter Gerador de Loot
+    .suffix = Insulas, seguras
+    .desc = { ent-MarkerBase.desc }

@@ -1,0 +1,12 @@
+ent-UnfinishedForgedShotgun = espingarda forjada montada
+    .desc = Só precisa de solda para manter tudo no lugar.
+ent-UnfinishedPistolForged = peças de pistola forjadas
+    .desc = Alguma montagem pode ser necessária. Precisa de soldagem.
+ent-UnfinishedRevolverForged = peças forjadas de revólver
+    .desc = Alguma montagem pode ser necessária. Precisa de soldagem.
+ent-UnfinishedSubMachineGunForged = peças forjadas SMG
+    .desc = Alguma montagem pode ser necessária. Precisa de soldagem.
+ent-UnfinishedSniperForged = peças forjadas de atirador
+    .desc = Alguma montagem pode ser necessária. Precisa de soldagem.
+ent-ModularBarrel = barril modular
+    .desc = Um componente vital na fabricação de armas.

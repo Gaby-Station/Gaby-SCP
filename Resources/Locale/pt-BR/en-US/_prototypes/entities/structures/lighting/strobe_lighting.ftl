@@ -1,0 +1,15 @@
+ent-AlwaysPoweredStrobeLight = estroboscópio
+    .desc = UH?! Desculpe, tudo que consigo ouvir é WEE-OOO-WEE-OOO!
+    .suffix = Sempre ligado
+ent-PoweredStrobeLightEmpty = estroboscópio
+    .desc = UH?! Desculpe, tudo que consigo ouvir é WEE-OOO-WEE-OOO!
+    .suffix = Vazio
+ent-PoweredStrobeLightPolice = { ent-PoweredStrobeLightEmpty }
+    .suffix = Vazio, polícia
+    .desc = { ent-PoweredStrobeLightEmpty.desc }
+ent-PoweredStrobeLightSiren = { ent-PoweredStrobeLightEmpty }
+    .suffix = Vazio, sirene
+    .desc = { ent-PoweredStrobeLightEmpty.desc }
+ent-PoweredStrobeLightEpsilon = { ent-PoweredStrobeLightEmpty }
+    .suffix = Vazio, épsilon
+    .desc = { ent-PoweredStrobeLightEmpty.desc }

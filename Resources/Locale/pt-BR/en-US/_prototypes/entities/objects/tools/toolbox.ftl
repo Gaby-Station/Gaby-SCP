@@ -1,0 +1,17 @@
+ent-ToolboxBase = { ent-BaseStorageItem }
+    .desc = { ent-BaseStorageItem.desc }
+ent-ToolboxEmergency = caixa de ferramentas de emergência
+    .desc = Uma caixa de ferramentas vermelha brilhante, repleta de ferramentas de emergência.
+ent-ToolboxMechanical = caixa de ferramentas mecânica
+    .desc = Uma caixa azul, repleta de ferramentas mecânicas.
+ent-ToolboxElectrical = caixa de ferramentas elétrica
+    .desc = Uma caixa de ferramentas normalmente abastecida com equipamentos elétricos.
+ent-ToolboxElectricalTurret = caixa de ferramentas elétrica
+    .desc = Uma caixa de ferramentas normalmente abastecida com equipamentos elétricos.
+    .suffix = Sindicato, Torreta
+ent-ToolboxArtistic = caixa de ferramentas artística
+    .desc = Uma caixa de ferramentas normalmente repleta de materiais artísticos.
+ent-ToolboxSyndicate = caixa de ferramentas suspeita
+    .desc = Uma caixa de ferramentas de aparência sinistra repleta de ferramentas de sindicato de elite.
+ent-ToolboxGolden = caixa de ferramentas dourada
+    .desc = Uma caixa de ferramentas de ouro maciço. Um rapper mataria por isso.

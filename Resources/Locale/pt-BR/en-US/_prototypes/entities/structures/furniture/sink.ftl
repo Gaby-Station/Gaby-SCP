@@ -1,0 +1,13 @@
+ent-SinkEmpty = afundar
+    .desc = As torneiras foram apertadas com o torque máximo possível, mas ainda gotejam.
+    .suffix = Vazio
+ent-Sink = afundar
+    .suffix = Água
+    .desc = { ent-SinkEmpty.desc }
+ent-SinkWide = pia larga
+    .desc = { ent-Sink.desc }
+ent-SinkStemless = afundar
+    .desc = { ent-SinkEmpty.desc }
+ent-SinkStemlessWater = afundar
+    .suffix = Água
+    .desc = { ent-SinkStemless.desc }

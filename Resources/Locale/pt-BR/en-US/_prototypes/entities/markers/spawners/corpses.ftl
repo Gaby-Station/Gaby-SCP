@@ -1,0 +1,16 @@
+ent-SalvageHumanCorpseSpawner = Gerador de Cadáveres Humanos
+    .desc = { ent-MarkerBase.desc }
+ent-RandomServiceCorpseSpawner = Gerador de cadáveres de serviço aleatório
+    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+ent-RandomEngineerCorpseSpawner = Gerador de cadáver de engenheiro aleatório
+    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+ent-RandomCargoCorpseSpawner = Gerador de cadáver de carga aleatório
+    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+ent-RandomMedicCorpseSpawner = Gerador de cadáver de médico aleatório
+    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+ent-RandomScienceCorpseSpawner = Gerador de cadáveres científicos aleatórios
+    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+ent-RandomSecurityCorpseSpawner = Gerador de cadáver de segurança aleatório
+    .desc = { ent-SalvageHumanCorpseSpawner.desc }
+ent-RandomCommandCorpseSpawner = Gerador de cadáveres de comando aleatório
+    .desc = { ent-SalvageHumanCorpseSpawner.desc }

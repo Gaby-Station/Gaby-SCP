@@ -1,0 +1,11 @@
+ent-ExosuitFabricatorHyperConvection = fabricante de exosuit de hiperconvecção
+    .desc = Um Exosuit Fabricator altamente experimental que aproveita o poder do calor extremo para criar objetos lentamente de maneira mais econômica.
+ent-AutolathePrisonMetus = torno automático de prisão
+    .desc = Produz itens básicos de metal e vidro de padrão prisional.
+ent-PirateTechFab = fabricação pirata
+    .desc = Imprime armas básicas, munições e equipamentos para gangues rebeldes. O modelo com custo otimizado sacrifica velocidade e variedade em prol de menor uso de recursos.
+ent-AmmoLathe = torno de munição
+    .suffix = ShuttleBatalha
+    .desc = Imprime munição e peças de reparo para a tripulação do ônibus espacial. O "modelo com custo otimizado" reduziu a velocidade de fabricação e limitou a seleção.
+ent-SewingPrinterPrison = impressora de costura de prisão
+    .desc = Destinado à produção de artigos têxteis, mantendo a ordem e a identificação dentro do presídio.

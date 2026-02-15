@@ -1,0 +1,16 @@
+ent-FoodPlate = prato grande
+    .desc = Um prato grande, excelente para pão.
+ent-FoodPlateTrash = prato quebrado
+    .desc = Um prato quebrado. Inútil.
+ent-FoodPlateSmall = prato pequeno
+    .desc = Um pequeno prato. Delicado.
+ent-FoodPlateSmallTrash = { ent-FoodPlateTrash }
+    .desc = { ent-FoodPlateTrash.desc }
+ent-FoodPlatePlastic = placa de plástico
+    .desc = Um grande prato de plástico azul, excelente para um bolo de aniversário.
+ent-FoodPlateSmallPlastic = placa de plástico
+    .desc = Prato de plástico azul, excelente para fatias de bolo de aniversário.
+ent-FoodPlateTin = forma de torta
+    .desc = Uma lata barata para tortas.
+ent-FoodPlateMuffinTin = forma de muffin
+    .desc = Uma lata barata para muffins.

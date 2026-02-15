@@ -1,0 +1,16 @@
+ent-ClothingHeadHatHardhatBase = { ent-ClothingHeadBase }
+    .desc = { ent-ClothingHeadBase.desc }
+ent-ClothingHeadHatHardhatBlue = capacete azul
+    .desc = Capacete, pintado de azul, usado em condições de trabalho perigosas para proteger a cabeça. Vem com uma lanterna embutida.
+ent-ClothingHeadHatHardhatOrange = capacete laranja
+    .desc = Capacete pintado de laranja, usado em condições de trabalho perigosas para proteger a cabeça. Vem com uma lanterna embutida.
+ent-ClothingHeadHatHardhatRed = capacete vermelho
+    .desc = Capacete pintado de vermelho, usado em condições de trabalho perigosas para proteger a cabeça. Vem com uma lanterna embutida.
+ent-ClothingHeadHatHardhatWhite = capacete branco
+    .desc = Capacete, pintado de branco, usado em condições de trabalho perigosas para proteger a cabeça. Vem com uma lanterna embutida.
+ent-ClothingHeadHatHardhatYellow = capacete amarelo
+    .desc = Capacete pintado de amarelo, usado em condições de trabalho perigosas para proteger a cabeça. Vem com uma lanterna embutida.
+ent-ClothingHeadHatHardhatYellowDark = capacete amarelo escuro
+    .desc = Capacete pintado de amarelo escuro, usado em condições de trabalho perigosas para proteger a cabeça. Vem com uma lanterna embutida.
+ent-ClothingHeadHatHardhatArmored = capacete blindado
+    .desc = Um capacete blindado. Oferece o melhor dos dois mundos em proteção e utilidade - perfeito para o engenheiro na linha de frente.

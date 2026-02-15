@@ -1,0 +1,12 @@
+ent-CEPen = caneta-CE-nome
+    .desc = caneta-CE-descrição
+ent-CmoPen = caneta-Cmo-nome
+    .desc = caneta-Cmo-descrição
+ent-HosPen = caneta-Hos-nome
+    .desc = caneta-Hos-descrição
+ent-QmPen = caneta-Qm-nome
+    .desc = caneta-Qm-descrição
+ent-RdPen = caneta-Rd-nome
+    .desc = caneta-Rd-descrição
+ent-UEGPen = caneta-nome-UEG
+    .desc = caneta-UEG-descrição

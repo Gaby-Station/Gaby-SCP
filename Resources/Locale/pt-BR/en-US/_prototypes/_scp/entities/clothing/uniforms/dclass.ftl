@@ -1,0 +1,3 @@
+ent-ClothingUniformClassD = Uniforme Classe D
+    .desc = Cheira a merda... a merda de outra pessoa...
+    .suffix = SCP

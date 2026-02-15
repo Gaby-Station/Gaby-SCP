@@ -1,0 +1,16 @@
+ent-ClothingNeckMantleCap = manto de capitão
+    .desc = Um manto confortável e chique, digno apenas do capitão mais experiente.
+ent-ClothingNeckMantleCE = manto de engenheiro-chefe
+    .desc = Alta visibilidade, confira. Sistema RIG, verifique. Célula de alta capacidade, confira. Tudo o que um engenheiro-chefe precisa em um manto elegante.
+ent-ClothingNeckMantleCMO = manto do diretor médico
+    .desc = Para um CMO que já esteve em áreas médicas suficientes para saber que mais EPI significa menos visitas de lavagem a seco do comando central quando o turno termina.
+ent-ClothingNeckMantleHOP = manto de chefe de pessoal
+    .desc = Um bom HOP sabe que empurrar papel é apenas metade do trabalho... acariciar seu cachorro e parecer elegante é a outra metade.
+ent-ClothingNeckMantleHOS = chefe do manto de segurança
+    .desc = Os tiroteios com agentes do sindicato são apenas mais uma terça-feira para este HoS. Este manto é um símbolo de compromisso com a emissora.
+ent-ClothingNeckMantleRD = manto de diretor de pesquisa
+    .desc = Para quando os longos dias no escritório consistem em explosivos, gás venenoso, robôs assassinos e uma pizza fresca da carga ; this mantle will keep you comfy.
+ent-ClothingNeckMantleQM = manto de intendente
+    .desc = Para o mestre de bens e materiais governar o departamento, um manto adequado para mostrar superioridade!
+ent-ClothingNeckMantle = manto
+    .desc = Um manto macio, confeccionado com as mesmas peles 'sintéticas' de animais do icônico casaco de inverno.

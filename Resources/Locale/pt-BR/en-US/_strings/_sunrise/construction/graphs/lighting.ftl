@@ -1,0 +1,37 @@
+recipe-ColorLight-description = Minha lâmpada, внутри которой находится маленький цветной cristal.
+recipe-CrystalLightTube = lâmpada cristalina
+recipe-CrystalLightBlub = lâmpada de cristal
+
+recipe-CyanLightBulb-name = { recipe-CrystalLightBlub }
+recipe-CyanLightBulb-description = { recipe-ColorLight-description }
+recipe-CyanLight-name = { recipe-CrystalLightTube }
+recipe-CyanLight-description = { recipe-ColorLight-description }
+recipe-BlueLightBulb-name = { recipe-CrystalLightBlub }
+recipe-BlueLightBulb-description = { recipe-ColorLight-description }
+recipe-BlueLight-name = { recipe-CrystalLightTube }
+recipe-BlueLight-description = { recipe-ColorLight-description }
+recipe-PinkLightBulb-name = розовая { recipe-CrystalLightBlub }
+recipe-PinkLightBulb-description = { recipe-ColorLight-description }
+recipe-PinkLight-name = розовая { recipe-CrystalLightTube }
+recipe-PinkLight-description = { recipe-ColorLight-description }
+recipe-OrangeLightBulb-name = organizado { recipe-CrystalLightBlub }
+recipe-OrangeLightBulb-description = { recipe-ColorLight-description }
+recipe-OrangeLight-name = organizado { recipe-CrystalLightTube }
+recipe-OrangeLight-description = { recipe-ColorLight-description }
+recipe-RedLightBulb-name = { recipe-CrystalLightBlub }
+recipe-RedLightBulb-description = { recipe-ColorLight-description }
+recipe-RedLight-name = { recipe-CrystalLightTube }
+recipe-RedLight-description = { recipe-ColorLight-description }
+recipe-GreenLightBulb-name = { recipe-CrystalLightBlub }
+recipe-GreenLightBulb-description = { recipe-ColorLight-description }
+recipe-GreenLight-name = nome { recipe-CrystalLightTube }
+recipe-GreenLight-description = { recipe-ColorLight-description }
+recipe-BlackLightBulb-name = { recipe-CrystalLightBlub }
+recipe-BlackLightBulb-description = { recipe-ColorLight-description }
+recipe-BlackLight-name = { recipe-CrystalLightTube }
+recipe-BlackLight-description = { recipe-ColorLight-description }
+recipe-YellowLightBulb-name = { recipe-CrystalLightBlub }
+recipe-YellowLightBulb-description = { recipe-ColorLight-description }
+recipe-YellowLight-name = { recipe-CrystalLightTube }
+recipe-YellowLight-description = { recipe-ColorLight-description }
+

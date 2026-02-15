@@ -1,0 +1,16 @@
+ent-CrateArmorySMG = Caixa SMG
+    .desc = Contém dois rifles semiautomáticos de alta potência com quatro carregadores. Requer acesso ao Arsenal para abrir.
+ent-CrateArmoryShotgun = caixa de espingarda
+    .desc = Para quando o inimigo precisar absolutamente ser substituído por chumbo. Contém duas espingardas Enforcer Combat e alguns cartuchos de espingarda padrão. Requer acesso ao Arsenal para abrir.
+ent-CrateTrackingImplants = rastreamento de implantes
+    .desc = Contém vários implantadores de rastreamento. Bom para prisioneiros que você gostaria de libertar, mas ainda acompanha.
+ent-CrateTrainingBombs = bombas de treinamento
+    .desc = Contém três bombas de treinamento de baixo rendimento para segurança aprender a desarmar e descartar munições seguras, traje EOD não incluído. Requer acesso ao Arsenal para abrir.
+ent-CrateArmoryLaser = caixa de lasers
+    .desc = Contém três rifles laser padrão. Requer acesso ao Arsenal para abrir.
+ent-CrateArmoryPistols = caixa de pistolas
+    .desc = Contém duas pistolas NT padrão com quatro carregadores. Requer acesso ao Arsenal para abrir.
+ent-CrateSecurityRiot = caixa de golpe
+    .desc = Contém dois conjuntos de armaduras anti-motim, capacetes, escudos e executores carregados com pufes. Munição extra está incluída. Requer acesso ao Arsenal para abrir.
+ent-CrateArmoryRifle = caixa de rifle
+    .desc = Contém dois rifles de assalto de alta potência com quatro carregadores. Requer acesso ao Arsenal para abrir.

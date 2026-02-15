@@ -1,0 +1,9 @@
+ent-SpawnVendingMachineRestockFoodDrink = Reabastecimento de máquinas de venda automática
+    .suffix = comida ou bebida
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnVendingMachineRestockFood = Reabastecimento de máquinas de venda automática
+    .suffix = comida
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnVendingMachineRestockDrink = Reabastecimento de máquinas de venda automática
+    .suffix = bebida
+    .desc = { ent-MarkerBase.desc }

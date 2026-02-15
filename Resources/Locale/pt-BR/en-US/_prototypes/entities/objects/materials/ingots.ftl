@@ -1,0 +1,14 @@
+ent-IngotBase = { ent-BaseItem }
+    .desc = Um lingote de metal pesado estampado com o logotipo da Nanotrasen.
+ent-IngotGold = barra de ouro
+    .suffix = Completo
+    .desc = { ent-IngotBase.desc }
+ent-IngotGold1 = barra de ouro
+    .suffix = Solteiro
+    .desc = { ent-IngotGold.desc }
+ent-IngotSilver = barra de prata
+    .suffix = Completo
+    .desc = { ent-IngotBase.desc }
+ent-IngotSilver1 = barra de prata
+    .suffix = Solteiro
+    .desc = { ent-IngotSilver.desc }

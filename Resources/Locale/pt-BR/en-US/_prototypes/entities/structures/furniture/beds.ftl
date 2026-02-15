@@ -1,0 +1,12 @@
+ent-Bed = cama
+    .desc = Isso é usado para deitar, dormir ou amarrar. Descansar aqui proporciona uma cura extremamente lenta.
+ent-MedicalBed = cama médica
+    .desc = Uma cama de hospital para os pacientes se recuperarem. Descansar aqui proporciona uma cura bastante lenta.
+ent-DogBed = cama de cachorro
+    .desc = Uma cama de cachorro de aparência confortável. Você pode até amarrar seu animal de estimação, caso a gravidade seja desligada.
+ent-Mattress = colchão
+    .desc = Melhor dormir assim do que no chão, eu acho.
+ent-WebBed = cama de teia
+    .desc = Você foi apanhado.
+ent-PsychBed = cama de psicólogo
+    .desc = Cama estofada para atendimento psicológico de pacientes.

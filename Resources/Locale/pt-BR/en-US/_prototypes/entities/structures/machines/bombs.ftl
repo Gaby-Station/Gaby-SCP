@@ -1,0 +1,12 @@
+ent-BaseHardBomb = bomba dura
+    .desc = Continue falando e ninguém explodirá.
+ent-TrainingBomb = bomba de treinamento
+    .desc = Uma bomba para manequins, manual não incluído.
+ent-SyndicateBomb = bomba do sindicato
+    .desc = Uma bomba para agentes e agentes do Sindicato. O verdadeiro negócio, chega de treinamento, vá em frente!
+ent-SyndicateBombFake = { ent-SyndicateBomb }
+    .suffix = falso
+    .desc = { ent-SyndicateBomb.desc }
+ent-DebugHardBomb = bomba de depuração
+    .desc = Puta merda, isso vai explodir.
+    .suffix = DEPURAR

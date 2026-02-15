@@ -1,0 +1,10 @@
+ent-BaseBulletStarlight = BaseBullet
+    .desc = Se você consegue ver isso, provavelmente está morto!
+ent-BulletAdvTaser = parafuso de choque
+    .desc = { ent-BaseBulletStarlight.desc }
+ent-BaseBulletRubber = { ent-BaseBulletStarlight }
+    .desc = { ent-BaseBulletStarlight.desc }
+ent-BulletEnergyCrossbow = { ent-BaseBullet }
+    .desc = { ent-BaseBullet.desc }
+ent-BulletMiniEnergyCrossbow = { ent-BulletEnergyCrossbow }
+    .desc = { ent-BulletEnergyCrossbow.desc }

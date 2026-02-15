@@ -1,0 +1,10 @@
+ent-RandomWoodenSupport = spawner de suporte de madeira
+    .desc = { ent-MarkerBase.desc }
+ent-RandomWoodenWall = spawner de parede de madeira
+    .desc = { ent-MarkerBase.desc }
+ent-RandomStalagmiteOrCrystal = estalagmite ou gerador de cristal
+    .desc = { ent-MarkerBase.desc }
+ent-RandomBrownStalagmite = criador de estalagmite marrom
+    .desc = { ent-MarkerBase.desc }
+ent-RandomGreyStalagmite = gerador de estalagmite cinza
+    .desc = { ent-MarkerBase.desc }

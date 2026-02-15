@@ -1,0 +1,11 @@
+job-name-senior-medical-specialist = Especialista Médico Sênior
+job-description-senior-medical-specialist = Treina estagiários e delega autoridade ao Chefe do Setor Médico. CLASSE C
+job-name-pharmaceutical-specialist = Especialista Farmacêutico
+job-description-pharmaceutical-specialist = Lida com atividades farmacêuticas. Prepara medicamentos e faz experiências com produtos químicos. CLASSE C
+job-name-psychotherapist = Psicoterapeuta
+job-description-psychotherapist = Fornece assistência psicológica aos funcionários e trabalha com objetos SCP conforme necessário. CLASSE C
+job-name-medical-specialist = Médico Especialista
+job-description-medical-specialist = Médico padrão. CLASSE C
+job-name-hospital-intern = Estagiário
+job-description-hospital-intern = Estagiário médico. CLASSE C
+job-supervisors-head-of-medical-sector = Chefe do Setor Médico

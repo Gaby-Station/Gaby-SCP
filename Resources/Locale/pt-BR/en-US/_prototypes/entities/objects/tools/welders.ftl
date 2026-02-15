@@ -1,0 +1,12 @@
+ent-Welder = ferramenta de soldagem
+    .desc = Derrete qualquer coisa desde que esteja abastecido, não se esqueça da proteção para os olhos!
+ent-WelderIndustrial = ferramenta de soldagem industrial
+    .desc = Um soldador industrial com mais do dobro da capacidade de combustível.
+ent-WelderIndustrialAdvanced = ferramenta avançada de soldagem industrial
+    .desc = Um soldador industrial avançado com mais do dobro da capacidade de combustível e chama mais quente.
+ent-WelderExperimental = ferramenta de soldagem experimental
+    .desc = Um soldador experimental capaz de gerar autocombustível e menos prejudicial aos olhos.
+ent-WelderMini = ferramenta de soldagem de emergência
+    .desc = Um soldador em miniatura usado em emergências.
+ent-RefuelingWelder = reabastecendo ferramenta de soldagem
+    .desc = Um soldador lento que pode se reabastecer com o tempo.

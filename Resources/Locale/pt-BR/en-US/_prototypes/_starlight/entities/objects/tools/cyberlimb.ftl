@@ -1,0 +1,10 @@
+ent-WrenchCyber = chave inglesa
+    .desc = Uma ferramenta comum para montagem e desmontagem. Lembre-se: esquerda trava, direita remove.
+ent-ScrewdriverCyber = chave de fenda
+    .desc = Torque de nível industrial em um pequeno pacote de aparafusamento.
+ent-CrowbarCyber = pé de cabra
+    .desc = { ent-BaseItem.desc }
+ent-WirecutterCyber = cortador de fio
+    .desc = Isso mata o fio.
+ent-WelderCyber = ferramenta de soldagem
+    .desc = Derrete qualquer coisa desde que esteja abastecido, não se esqueça da proteção para os olhos!

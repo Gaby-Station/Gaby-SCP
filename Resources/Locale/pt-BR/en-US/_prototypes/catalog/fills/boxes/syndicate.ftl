@@ -1,0 +1,11 @@
+ent-ElectricalDisruptionKit = kit de interrupção elétrica
+    .suffix = Preenchido
+    .desc = { ent-BoxCardboard.desc }
+ent-ChemicalSynthesisKit = kit de síntese química
+    .desc = Um kit inicial para o aspirante a químico, inclui dois frascos de vestine para todas as suas necessidades criminais!
+ent-ThrowingKnivesKit = kit de facas de arremesso
+    .desc = Um conjunto de 4 facas de arremesso da marca Sindicato, perfeitas para serem embutidas no corpo de suas vítimas.
+ent-BoxDeathRattleImplants = caixa de implante deathrattle
+    .desc = Seis implantes de suspiro mortal para todo o esquadrão.
+ent-CombatBakeryKit = kit de padaria de combate
+    .desc = Um kit de armas clandestinas cozidas.

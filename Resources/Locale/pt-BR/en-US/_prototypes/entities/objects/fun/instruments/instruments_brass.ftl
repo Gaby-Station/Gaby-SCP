@@ -1,0 +1,10 @@
+ent-BaseBrassInstrument = { ent-BaseHandheldInstrument }
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-TrumpetInstrument = trombeta
+    .desc = O instrumento favorito de músicos de jazz e alunos egoístas do ensino médio.
+ent-TromboneInstrument = trombone
+    .desc = O instrumento de metal deslizante favorito de todos.
+ent-FrenchHornInstrument = trompa francesa
+    .desc = O fato de segurá-lo envolver usar a mão para abafá-lo pode sugerir algo sobre seu som.
+ent-EuphoniumInstrument = eufônio
+    .desc = Uma tuba de bebê? Um barítono? Seja o que for, é uma bagunça de canos muito legal.

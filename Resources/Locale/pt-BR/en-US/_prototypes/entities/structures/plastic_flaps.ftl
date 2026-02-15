@@ -1,0 +1,14 @@
+ent-PlasticFlapsBase = { ent-BaseStructureDynamic }
+    .desc = { ent-BaseStructureDynamic.desc }
+ent-PlasticFlapsClear = abas de plástico
+    .desc = Retalhos de plástico resistentes. Definitivamente não consigo superar isso. Sem chance.
+    .suffix = Claro
+ent-PlasticFlapsOpaque = abas de plástico
+    .desc = Retalhos de plástico resistentes. Definitivamente não consigo superar isso. Sem chance.
+    .suffix = Opaco
+ent-PlasticFlapsAirtightClear = abas de plástico herméticas
+    .desc = Abas de plástico herméticas, ligeiramente mais fortes e resistentes. Definitivamente não consigo superar isso. Sem chance.
+    .suffix = Hermético, claro
+ent-PlasticFlapsAirtightOpaque = abas de plástico herméticas
+    .desc = Abas de plástico herméticas, ligeiramente mais fortes e resistentes. Definitivamente não consigo superar isso. Sem chance.
+    .suffix = Hermético, opaco

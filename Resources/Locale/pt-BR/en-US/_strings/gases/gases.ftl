@@ -1,0 +1,9 @@
+gases-oxygen = Oxigênio
+gases-nitrogen = Azoto
+gases-co2 = Dióxido de Carbono
+gases-plasma = Plasma
+gases-tritium = Trítio
+gases-water-vapor = Vapor de água
+gases-ammonia = Amônia
+gases-n2o = Óxido Nitroso
+gases-frezon = Frezon

@@ -1,0 +1,15 @@
+ent-Window = janela
+    .desc = Não manche o vidro ali embaixo.
+ent-TintedWindow = janela colorida
+    .desc = { ent-Window.desc }
+ent-WindowRCDResistant = { ent-Window }
+    .desc = { ent-Window.desc }
+ent-WindowDirectional = janela direcional
+    .desc = Não manche o vidro ali embaixo.
+ent-WindowDirectionalRCDResistant = { ent-WindowDirectional }
+    .desc = { ent-WindowDirectional.desc }
+ent-WindowFrostedDirectional = janela fosca direcional
+    .desc = Não manche o vidro ali embaixo.
+ent-WindowDiagonal = { ent-Window }
+    .suffix = diagonal
+    .desc = { ent-Window.desc }

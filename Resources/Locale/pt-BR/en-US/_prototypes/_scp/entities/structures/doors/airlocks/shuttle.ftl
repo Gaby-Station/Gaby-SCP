@@ -1,0 +1,9 @@
+ent-ScpAirlockShuttle = { ent-ScpAirlockRCDResistant }
+    .suffix = Ancoragem SCP
+    .desc = { ent-ScpAirlockRCDResistant.desc }
+ent-ScpAirlockGlassShuttle = câmara de ar externa
+    .suffix = Vidro SCP, Encaixe
+    .desc = { ent-ScpAirlockShuttle.desc }
+ent-ScpAirlockShuttleAssembly = { ent-ScpAirlockAssembly }
+    .suffix = Ancoragem SCP
+    .desc = { ent-ScpAirlockAssembly.desc }

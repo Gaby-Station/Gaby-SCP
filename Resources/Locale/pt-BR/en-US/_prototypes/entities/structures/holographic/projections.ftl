@@ -1,0 +1,10 @@
+ent-HolosignWetFloor = sinal de piso molhado
+    .desc = As palavras tremeluzem como se não significassem nada.
+ent-HoloFan = holofano
+    .desc = Uma barreira de luz forte que bloqueia o ar, mas nada mais.
+ent-HoloPeel = holopeel
+    .desc = Uma casca de banana feita de luz dura e escorregadia, cuidado onde pisa!
+ent-HolosignSecurity = barreira holográfica
+    .desc = Uma barreira de luz forte que bloqueia o movimento, mas bastante fraca.
+ent-HolosignForcefield = campo de força holográfico
+    .desc = Um poderoso campo de contenção temporal que não deixa passar nada, nem mesmo um tesla ou singularidade.

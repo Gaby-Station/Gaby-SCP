@@ -1,0 +1,17 @@
+ent-CableBase = { "" }
+    .desc = { "" }
+ent-CableHV = Cabo de alimentação de alta tensão
+    .desc = Um cabo de alimentação laranja de alta tensão.
+ent-CableHVUncuttable = { ent-CableHV }
+    .suffix = incortável
+    .desc = { ent-CableHV.desc }
+ent-CableMV = Cabo de alimentação MT
+    .desc = Um cabo de alimentação de média tensão.
+ent-CableMVUncuttable = { ent-CableMV }
+    .suffix = incortável
+    .desc = { ent-CableMV.desc }
+ent-CableApcExtension = Cabo de alimentação de baixa tensão
+    .desc = Um cabo usado para conectar máquinas a um APC.
+ent-CableApcExtensionUncuttable = { ent-CableApcExtension }
+    .suffix = incortável
+    .desc = { ent-CableApcExtension.desc }

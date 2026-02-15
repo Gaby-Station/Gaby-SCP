@@ -1,0 +1,12 @@
+ent-ScpWindoorAssembly = montagem de janela
+    .desc = Ele abre, fecha e você pode ver através dele!
+ent-ScpWindoorAssemblySecure = montagem de janela segura
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece difícil.
+ent-ScpWindoorAssemblyPlasma = montagem de janela de plasma
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece roxo, não, rosa. Espere...
+ent-ScpWindoorAssemblySecurePlasma = montagem segura de janela de plasma
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece forte e, não, roxo. Aguentar...
+ent-ScpWindoorAssemblyUranium = montagem de janela de urânio
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece um verde doentio...
+ent-ScpWindoorAssemblySecureUranium = montagem segura de janela de urânio
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece forte e verde-limão radioativo!

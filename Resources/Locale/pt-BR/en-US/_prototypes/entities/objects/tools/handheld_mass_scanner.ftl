@@ -1,0 +1,11 @@
+ent-HandHeldMassScanner = scanner de massa portátil
+    .desc = Um scanner de massa portátil.
+ent-HandHeldMassScannerEmpty = { ent-HandHeldMassScanner }
+    .suffix = Vazio
+    .desc = { ent-HandHeldMassScanner.desc }
+ent-HandHeldMassScannerBorg = { ent-HandHeldMassScanner }
+    .suffix = Borg
+    .desc = { ent-HandHeldMassScanner.desc }
+ent-HandHeldMassScannerUnpowered = scanner de massa portátil
+    .desc = Um scanner de massa portátil que não requer energia.
+    .suffix = Portátil, sempre ligado

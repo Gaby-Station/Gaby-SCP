@@ -1,0 +1,12 @@
+ent-VendingMachineBoxingDrobe = Drobe de boxe
+    .desc = Sempre com estoque curto.
+ent-VendingMachineMailDrobe = MailDrobe
+    .desc = Nem as explosões solares, nem os meteoros, nem o fogo de plasma, nem o vazio do espaço impedem estes mensageiros de completar rapidamente as suas rondas designadas.
+ent-VendingMachineMNKDrobe = MNK Drobe
+    .desc = Roupas de qualidade fornecidas pela MoNoKrome.
+ent-PaintVend = PaintVend
+    .desc = PaintVend — seu parceiro em crimes coloridos contra o tédio.
+ent-VendingMachineAbductorDispenser = dispensador alienígena
+    .desc = Dispensa algo estranho.
+ent-VendingMachineWeaponDev = estação de libertação
+    .desc = Uma quantidade esmagadora de patriotismo antigo toma conta de você apenas olhando para a máquina.

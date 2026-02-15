@@ -1,0 +1,10 @@
+ent-VendingMachineRestockSeedsScpClassD = Caixa de reabastecimento de sementes
+    .desc = Um rótulo diz que são sementes herdadas, transmitidas por nossos ancestrais. Coloque-o no Seed Servitor!
+ent-VendingMachineRestockNutriMaxScpClassD = Caixa de reabastecimento NutriMax
+    .desc = Deixaremos seus polegares verdes com nossas ferramentas. Vamos à colheita! Carregue em uma máquina de venda automática NutriMax.
+ent-VendingMachineRestockChefvendScpClassD = Caixa de reabastecimento ChefVend
+    .desc = Reabasteça o ChefVend. Só não quebre mais nenhum ovo.
+ent-VendingMachineRestockDinnerwareScpClassD = Caixa de reabastecimento do Plasteel Chef
+    .desc = Nunca fica cru nesta cozinha! Entre no slot de reabastecimento do Plasteel Chef para começar.
+ent-VendingMachineRestockBoozeScpClassD = Caixa de reabastecimento Booze-O-Mat
+    .desc = Entre no seu Booze-O-Mat! Não está à venda.

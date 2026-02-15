@@ -1,0 +1,10 @@
+ent-PaladinShield = escudo de paladino
+    .desc = Um escudo para um verdadeiro paladino! Bom em desviar golpes de espadas e absorver o impacto de morcegos, mas não muito mais.
+ent-PaladinShieldGreat = escudo grande do paladino
+    .desc = Você está contra a parede e eu! SOU! O! PORRA! PAREDE!
+ent-ForgedShieldBuckler = escudo de broquel forjado
+    .desc = Feito com o melhor plasteel que os ferreiros poderiam oferecer. Decente, versátil, mas sendo feito de metal sólido faz com que ele aqueça muito rápido.
+ent-ForgedShieldTower = escudo de torre forjado
+    .desc = Alto e ameaçador. Um pouco pesado, no entanto.
+ent-ImprovisedShield = escudo improvisado
+    .desc = Aço soldado em um padrão interligado para resistir melhor a vários tipos de golpes. Não espere que ele se saia bem em um tiroteio, entretanto.

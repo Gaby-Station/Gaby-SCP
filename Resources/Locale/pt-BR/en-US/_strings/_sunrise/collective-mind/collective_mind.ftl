@@ -1,0 +1,12 @@
+collective-mind-chat-wrap-message = [bold]{ $channel }: { $message }[/bold]
+collective-mind-chat-wrap-message-with-author = [bold]{ $channel } ({ $source }): { $message }[/bold]
+collective-mind-chat-wrap-message-admin = { $source } ({ $channel }): { $message }
+collective-mind-flesh-cult = Enredo
+collective-mind-xeno = Cena
+collective-mind-blob = Blob
+collective-mind-dioneas = Dionéia
+collective-mind-arachnids = Araхниды
+collective-mind-carp = Carpos
+collective-mind-zombie = Zumbi
+collective-mind-changeling = Генокрад
+collective-mind-blood-cult = Culto Crovi

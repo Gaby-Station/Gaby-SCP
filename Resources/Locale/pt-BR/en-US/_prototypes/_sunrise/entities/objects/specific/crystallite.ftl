@@ -1,0 +1,12 @@
+ent-Crystallite = cristalite
+    .desc = Parece brilhar com uma energia atraente.
+    .suffix = 100ºC
+ent-Crystallite1 = cristalite
+    .desc = Parece brilhar com uma energia atraente.
+    .suffix = 1 C
+ent-Crystallite25 = cristalite
+    .desc = Parece brilhar com uma energia atraente.
+    .suffix = 25ºC
+ent-Crystallite50 = cristalite
+    .desc = Parece brilhar com uma energia atraente.
+    .suffix = 50ºC

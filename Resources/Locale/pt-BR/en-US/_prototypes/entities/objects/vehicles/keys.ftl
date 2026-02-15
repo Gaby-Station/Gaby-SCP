@@ -1,0 +1,12 @@
+ent-VehicleKeyJanicart = chaves janicart
+    .desc = Projeto interessante.
+ent-VehicleKeySecway = chaves secundárias
+    .desc = As chaves para o futuro.
+ent-VehicleKeyATV = Chaves de quadriciclo
+    .desc = Acha que isso parece apenas uma chave? Chaves ATV significam "na verdade, duas chaves do veículo".
+ent-VehicleKeySkeleton = chaves de esqueleto do veículo
+    .desc = Desbloqueie qualquer veículo.
+ent-VehicleKeySyndicateSegway = distribuir chaves segway
+    .desc = Modelado após o design icônico EMAG.
+ent-VehicleKeySkeletonMotorcycle = chaves de esqueleto de motocicleta
+    .desc = Um lindo molho de chaves adornado com uma caveira.

@@ -1,0 +1,15 @@
+ent-ParticleAcceleratorEmitterPort = Emissor de contenção de porta PA
+    .desc = Isso lança as partículas Alfa, talvez você não queira ficar perto deste fim.
+ent-ParticleAcceleratorEmitterFore = Emissor de contenção frontal PA
+    .desc = Isso lança as partículas Alfa, talvez você não queira ficar perto deste fim.
+ent-ParticleAcceleratorEmitterStarboard = Emissor de contenção PA estibordo
+    .desc = Isso lança as partículas Alfa, talvez você não queira ficar perto deste fim.
+ent-ParticleAcceleratorEmitterPortUnfinished = Emissor de contenção de porta PA
+    .desc = Isso lança as partículas Alfa, talvez você não queira ficar perto deste fim. Parece inacabado.
+    .suffix = Inacabado, Porto
+ent-ParticleAcceleratorEmitterForeUnfinished = Emissor de contenção frontal PA
+    .desc = Isso lança as partículas Alfa, talvez você não queira ficar perto deste fim. Parece inacabado.
+    .suffix = Inacabado, Fore
+ent-ParticleAcceleratorEmitterStarboardUnfinished = Emissor de contenção PA estibordo
+    .desc = Isso lança as partículas Alfa, talvez você não queira ficar perto deste fim. Parece inacabado.
+    .suffix = Inacabado, estibordo

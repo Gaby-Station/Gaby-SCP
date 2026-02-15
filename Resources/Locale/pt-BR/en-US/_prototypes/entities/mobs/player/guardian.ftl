@@ -1,0 +1,10 @@
+ent-MobGuardianBase = Base do Guardião
+    .desc = guardião
+ent-MobHoloparasiteGuardian = Holoparasita
+    .desc = Um redemoinho hipnotizante de padrões de luz forte tece um rosto maravilhoso, mas estranhamente familiar. Ele fica orgulhoso, sintonizando-se com a vida de seu dono para se sustentar.
+ent-MobIfritGuardian = Ifrit
+    .desc = Um gênio corrompido, arrancado de fitra para servir às necessidades mesquinhas do mago. Ele permanece perverso, sintonizando-se com a vida de seu dono para se sustentar.
+ent-MobHoloClownGuardian = HoloPalhaço
+    .desc = Um redemoinho hipnotizante de padrões de luz forte tece um palhaço azul de origem duvidosa.
+ent-ActionToggleGuardian = Alternar Guardião
+    .desc = Manifesta o guardião ou o traz de volta ao seu corpo

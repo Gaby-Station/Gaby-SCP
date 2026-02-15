@@ -1,0 +1,26 @@
+shop-disease-currency = Pontos de Evolução
+listing-disease-cough-name = Tosse
+listing-disease-cough-description = Infectado começa a tossir.
+listing-disease-sneeze-name = Espirrar
+listing-disease-sneeze-description = Infectado começa a espirrar.
+listing-disease-vomit-name = Náusea
+listing-disease-vomit-description = Os infectados sentem náuseas, causando vômitos.
+listing-disease-zombie-name = Zumbificação
+listing-disease-zombie-description = Todos os infectados atuais tornam-se zumbis. Eles também param de ser infectados.
+listing-disease-cry-name = Lágrimas Involuntárias
+listing-disease-cry-description = Os olhos infectados lacrimejam ativamente, fazendo parecer que estão chorando.
+listing-disease-narcolepsy-name = Sonolência
+listing-disease-narcolepsy-description = Os infectados desenvolvem um desejo constante de dormir, que às vezes não conseguem superar.
+listing-disease-muted-name = Mudez
+listing-disease-muted-description = A mutação causa danos ao nervo hipoglosso, levando à paralisia dos músculos da língua, fazendo com que os pacientes percam a capacidade de falar normalmente.
+listing-disease-slowness-name = Exaustão
+listing-disease-slowness-description = O vírus causa destruição das fibras musculares, levando à atrofia e acompanhada de fraqueza. Reduz a mobilidade geral.
+listing-disease-bleed-name = Perda de sangue
+listing-disease-bleed-description = O vírus causa a desnaturação da hemoglobina do sangue, fazendo com que todos os portadores desenvolvam anemia grave.
+listing-disease-blindness-name = Cegueira
+listing-disease-blindness-description = A doença prolongada leva à morte do nervo óptico, levando à cegueira quase completa do paciente.
+listing-disease-insult-name = Convulsões
+listing-disease-insult-description = A doença prolongada causa hiperestimulação dos neurônios motores, e como resultado os pacientes podem sofrer tensão muscular excessiva, levando a convulsões.
+
+listing-disease-info-name = Informações sobre doenças
+listing-disease-info-description = Veja as estatísticas e o progresso atuais da sua doença.

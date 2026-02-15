@@ -1,0 +1,11 @@
+ent-RCDAdvancedSunrise = RCD avançado
+    .suffix = CE
+    .desc = { ent-RCD.desc }
+ent-WirecutterAbductor = cortador de fio do sequestrador
+    .desc = { ent-BaseItem.desc }
+ent-ScrewdriverAbductor = chave de fenda do sequestrador
+    .desc = { ent-BaseItem.desc }
+ent-WrenchAbductor = chave do sequestrador
+    .desc = { ent-Wrench.desc }
+ent-MultitoolAbductor = multiferramenta do sequestrador
+    .desc = { ent-Multitool.desc }

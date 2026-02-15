@@ -1,0 +1,16 @@
+ent-BaseSpeedLoaderShotgun = carregador de velocidade (0,50)
+    .desc = { ent-BaseItem.desc }
+ent-SpeedLoaderShotgunEmpty = carregador de velocidade (0,50 qualquer)
+    .desc = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShellShotgun = carregador de velocidade (0,50 pelota)
+    .desc = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunBeanbag = carregador de velocidade (0,50 beanbag)
+    .desc = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunSlug = carregador de velocidade (0,50 slug)
+    .desc = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunFlechette = carregador de velocidade (0,50 flechette)
+    .desc = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunUranium = carregador de velocidade (urânio 0,50)
+    .desc = { ent-BaseSpeedLoaderShotgun.desc }
+ent-SpeedLoaderShotgunIncendiary = carregador de velocidade (0,50 incendiário)
+    .desc = { ent-BaseSpeedLoaderShotgun.desc }

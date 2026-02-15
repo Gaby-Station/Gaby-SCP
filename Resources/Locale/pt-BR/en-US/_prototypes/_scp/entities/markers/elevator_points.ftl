@@ -1,0 +1,12 @@
+ent-ElevatorPoint = Ponto de elevador
+    .suffix = Vazio
+    .desc = { ent-MarkerBase.desc }
+ent-ElevatorPointComplex = Ponto de elevador
+    .suffix = Complexo
+    .desc = { ent-ElevatorPoint.desc }
+ent-ElevatorPointIntermediate = Ponto de elevador
+    .suffix = Intermediário
+    .desc = { ent-ElevatorPoint.desc }
+ent-ElevatorPointSurface = Ponto de elevador
+    .suffix = Superfície
+    .desc = { ent-ElevatorPoint.desc }

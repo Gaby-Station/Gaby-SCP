@@ -1,0 +1,16 @@
+ent-BaseChemistryEmptyVial = frasco
+    .desc = Um pequeno frasco.
+ent-VestineChemistryVial = { ent-BaseChemistryEmptyVial }
+    .suffix = vestino
+    .desc = { ent-BaseChemistryEmptyVial.desc }
+ent-RadiumChemistryVial = { ent-BaseChemistryEmptyVial }
+    .suffix = rádio
+    .desc = { ent-BaseChemistryEmptyVial.desc }
+ent-ChlorineChemistryVial = { ent-BaseChemistryEmptyVial }
+    .suffix = cloro
+    .desc = { ent-BaseChemistryEmptyVial.desc }
+ent-PlasmaChemistryVial = { ent-BaseChemistryEmptyVial }
+    .suffix = plasma
+    .desc = { ent-BaseChemistryEmptyVial.desc }
+ent-BorgVial = frasco integrado
+    .desc = Um compartimento interno instalado em um ciborgue. Avaliado para 30 unidades de qualquer líquido.

@@ -1,0 +1,10 @@
+ent-ClothingHeadHatBeretCE = engenheiro chefe de boina
+    .desc = Ele leva a pessoa que constrói uma meta para você a cada turno.
+ent-ClothingHeadHatBeretParamedic = boina paramédico
+    .desc = Uma boina, para paramédico.
+ent-ClothingHeadHatBeretChemistry = boina de químico
+    .desc = Uma boina, para químico.
+ent-ClothingHeadHatBeretPatologoanatom = boina de patologista
+    .desc = Uma boina, para patologoanatom.
+ent-ClothingHeadHatBeretAtmos = boina atmos
+    .desc = Uma boina, para atmosfera.

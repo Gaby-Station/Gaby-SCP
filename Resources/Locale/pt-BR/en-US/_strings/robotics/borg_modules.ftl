@@ -1,0 +1,17 @@
+borg-slot-cables-empty = Cabos
+borg-slot-construction-empty = Materiais de construção
+borg-slot-circuitboards-empty = Placas de circuito
+borg-slot-flatpacks-empty = Pacotes planos
+borg-slot-tiles-empty = Ladrilhos
+borg-slot-topicals-empty = Tópicos
+borg-slot-small-containers-empty = Pequenos recipientes
+borg-slot-chemical-containers-empty = Recipientes químicos
+borg-slot-documents-empty = Livros e papéis
+borg-slot-soap-empty = Sabão
+borg-slot-instruments-empty = Instrumentos
+borg-slot-beakers-empty = Béqueres
+borg-slot-brains-empty = Cérebros e MMIs
+borg-slot-modules-empty = Módulos
+borg-slot-powercell-empty = Células de energia
+borg-slot-inflatable-door-empty = Porta inflável
+borg-slot-inflatable-wall-empty = Parede inflável

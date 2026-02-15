@@ -1,0 +1,16 @@
+ent-BaseScpMaterial = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-BaseScpResearchMaterial = { ent-BaseScpMaterial }
+    .desc = { ent-BaseScpMaterial.desc }
+ent-Scp999Jelly = geleia de limo
+    .desc = Uma gota de gelatina pegajosa e espalhada.
+ent-Scp173Shard = fragmento de pedra
+    .desc = Um pequeno fragmento de pedra de cor laranja claro.
+ent-Scp173PaintChips = lascas de tinta
+    .desc = Vários pedaços de tinta arrancados por um objeto áspero.
+ent-Scp173PaintBall = bola pintada
+    .desc = Vários pedaços de tinta grudados formando uma bola. Por que eu fiz isso?
+ent-Scp096PhotoDeveloped = { ent-Scp096Photo }
+    .desc = Uma pequena fotografia representando uma criatura humanóide de estatura anormalmente grande com braços desproporcionalmente longos. Você olha em seu rosto... oh Deus...
+ent-Scp096Photo = fotografia estranha
+    .desc = Uma pequena fotografia cujo conteúdo é quase indistinguível. Você mal consegue reconhecer o contorno de uma silhueta humanóide.

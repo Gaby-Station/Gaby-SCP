@@ -1,0 +1,12 @@
+ent-SpawnMobAdultSlimesBlue = Gerador de Slimes Azul
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesBlueAngry = Slimes Spawner Azul Irritado
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesGreen = Gerador de Slimes Verde
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesGreenAngry = Slimes Spawner Verde Irritado
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesYellow = Gerador de Slimes Amarelo
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobAdultSlimesYellowAngry = Slimes Spawner Amarelo Irritado
+    .desc = { ent-MarkerBase.desc }

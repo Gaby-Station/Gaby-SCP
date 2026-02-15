@@ -1,0 +1,12 @@
+ent-Pouch = { ent-BaseClothingBeltSounds }
+    .desc = { ent-BaseClothingBeltSounds.desc }
+ent-PouchExplosive = bolsa explosiva
+    .desc = Pode transportar granadas, explosivos plásticos, caixas de minas e outros explosivos.
+ent-PouchExplosiveFilled = bolsa explosiva
+    .suffix = Granada Cheia
+    .desc = { ent-PouchExplosive.desc }
+ent-PouchAmmo = bolsa de munição
+    .desc = Pode carregar caixas de munição e revistas.
+ent-PouchAmmoFilledSMG = bolsa de munição
+    .suffix = Submetralhadora Preenchida
+    .desc = { ent-PouchAmmo.desc }

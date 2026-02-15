@@ -1,0 +1,12 @@
+ent-SpawnVehicleSecway = Gerador de Secway
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnVehicleJanicart = Gerador de Janicart
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnVehicleATV = Gerador de quadriciclo
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnVehicleMotobike = Gerador de Motobike
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnVehicleWheelchair = Gerador de cadeira de rodas
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnVehicleWheelchairFolded = Cadeira de rodas [Folded] Gerador
+    .desc = { ent-MarkerBase.desc }

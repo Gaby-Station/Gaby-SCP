@@ -1,0 +1,17 @@
+elevator-manage-floors-desc = Gerencia andares do elevador especificado: adicionar, remover, mover ou listar.
+elevator-manage-floors-help = Uso: { $command } <elevator_id> <action> [floor_name] [direction]\nAções: adicionar <floor_name>, remover <floor_name>, mover <floor_name> <direction>, listar\nInstruções para mover: para cima, para baixo ou número de índice
+elevator-manage-floors-not-found = Elevador com ID '{ $elevatorId }' não encontrado.
+elevator-manage-floors-floor-exists = O piso '{ $floorName }' já existe no elevador '{ $elevatorId }'.
+elevator-manage-floors-added = Adicionado andar '{ $floorName }' ao elevador '{ $elevatorId }'. Pisos atuais: { $floors }
+elevator-manage-floors-floor-not-exists = O piso '{ $floorName }' não existe no elevador '{ $elevatorId }'.
+elevator-manage-floors-cannot-remove-current = Não é possível remover o andar atual '{ $floorName }' do elevador '{ $elevatorId }'.
+elevator-manage-floors-removed = Piso '{ $floorName }' removido do elevador '{ $elevatorId }'. Pisos atuais: { $floors }
+elevator-manage-floors-list = Pisos para elevador '{ $elevatorId }': { $floors }\nAndar atual: { $currentFloor }
+elevator-manage-floors-move-help = Para a ação 'mover', forneça o nome do andar e a direção: { $command } <elevator_id> movimento <floor_name> <direction>\nDireções: para cima, para baixo ou número de índice (baseado em 0)
+elevator-manage-floors-already-top = O piso '{ $floorName }' já está no topo.
+elevator-manage-floors-already-bottom = O piso '{ $floorName }' já está na parte inferior.
+elevator-manage-floors-invalid-index = Índice inválido '{ $index }'. Deve estar entre 0 e { $maxIndex }.
+elevator-manage-floors-unknown-direction = Direção desconhecida '{ $direction }'. Use 'up', 'down' ou um número de índice válido.
+elevator-manage-floors-moved = Piso '{ $floorName }' movido para a posição { $newIndex }. Pisos atuais: { $floors }
+elevator-manage-floors-unknown-action = Ação desconhecida '{ $action }'. Ações válidas: adicionar, remover, mover, listar.
+elevator-manage-floors-args-error = Esperados pelo menos 2 argumentos: lift_id e action.

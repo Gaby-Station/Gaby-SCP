@@ -1,0 +1,12 @@
+ent-BaseEntityEyeImplant = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-EyeImplantWelding = Implante de soldagem
+    .desc = Protege os olhos dos flashes de soldagem.
+ent-EyeImplantMedical = Implante Médico
+    .desc = Permite que você veja informações sobre humanóides sem óculos médicos.
+ent-EyeImplantSecurity = Implante de segurança
+    .desc = Permite que você veja informações sobre a tripulação da estação sem óculos de segurança.
+ent-EyeImplantSyndie = Implante Syndie
+    .desc = Permite que você veja informações sobre a tripulação da estação, humanóides e sindicatos sem óculos.
+ent-EyeImplantChemical = Implante HUD Químico
+    .desc = Permite que você veja informações sobre produtos químicos sem óculos químicos.

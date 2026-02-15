@@ -1,0 +1,16 @@
+ent-ActionToggleNinjaGloves = Alternar luvas ninja
+    .desc = Alterna todas as ações da luva ao clicar com o botão esquerdo. Inclui seu doorjack, drenando energia, atordoando inimigos e hackeando certos computadores.
+ent-ActionCreateThrowingStar = Crie uma estrela ninja
+    .desc = Os canais adaptam o poder para criar uma estrela ninja que causa dano extra à resistência.
+ent-ActionCreateSmokeGrenade = Crie uma granada de fumaça
+    .desc = Os canais adequam o poder para criar uma granada de fumaça para fuga tática.
+ent-ActionCreateFlashbangGrenade = Crie uma granada flashbang
+    .desc = Os canais adequam o poder para criar uma granada flashbang para distração tática.
+ent-ActionRecallKatana = Lembre-se da katana
+    .desc = Teletransporta a Katana de Energia vinculada a este traje para seu usuário, com custo baseado na distância.
+ent-ActionNinjaEmp = Explosão EM
+    .desc = Desative qualquer tecnologia próxima com pulso eletromagnético.
+ent-ActionTogglePhaseCloak = Capa de fase
+    .desc = Alterna a capa de fase do seu traje. Cuidado, pois se você for atingido, todas as habilidades serão desativadas por 5 segundos, incluindo sua capa!
+ent-ActionEnergyKatanaDash = Katana traço
+    .desc = Teleporte-se para qualquer lugar que você possa ver, se sua Katana de Energia estiver em suas mãos.

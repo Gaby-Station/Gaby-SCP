@@ -1,0 +1,16 @@
+ent-ClothingNeckMantleERTLeader = Manto de líder da ERT
+    .desc = Cortina decorativa extraordinária sobre os ombros.
+ent-ClothingNeckMantleAdjutant = manto de ajudante
+    .desc = Movimento leve, aveludado, desinibido, sobre um ombro, como se falasse da sua precária posição de comando.
+ent-ClothingHoSMantleCoat = Manto de HoS
+    .desc = Sim.
+ent-ClothingBSMantle = manto de escudo azul
+    .desc = Manto para guarda-costas de comando.
+ent-ClothingNeckMantleCaptainWhite = manto de capitão branco
+    .desc = Manto leve em tecido de aramida com acabamento em cerâmica branca e revestimento resistente a manchas. Comum nas estações 3025: fácil de limpar, difícil de perder, impossível de manter impecável.
+ent-ClothingNeckMantleCaptainBlack = manto de capitão negro
+    .desc = Manto leve em tecido de aramida tingido de preto fosco, com forro antiestático para evitar que grude no equipamento de EVA. Prático para capitães de turnos tardios que preferem menos reflexões e menos perguntas.
+ent-ClothingNeckMantleCaptainWhiteShoulder = manto de ombro de capitão branco
+    .desc = Um manto de um ombro preso com fecho magnético, cortado para assentar sobre arneses e comunicações. Revestimento branco, tecido padrão da estação e calor suficiente para corredores frios.
+ent-ClothingNeckMantleCaptainBlackShoulder = manto de ombro de capitão preto
+    .desc = Manto de um ombro só com acabamento em preto fosco e costuras reforçadas. Construído para uso diário em 3025: durável, pouco ofuscante e improvável de prender no batente de uma porta... normalmente.

@@ -1,0 +1,16 @@
+ent-ClothingNeckBronzeheart = medalha de coração de bronze
+    .desc = Concedido aos companheiros de tripulação por bravura exemplar diante do perigo.
+ent-ClothingNeckGoldmedal = medalha de ouro da tripulação
+    .desc = Dado a tripulantes que demonstram excelente habilidade de tripulação.
+ent-ClothingNeckCargomedal = medalha de carga
+    .desc = Concedido pelo melhor trabalho no departamento de cargas.
+ent-ClothingNeckEngineermedal = medalha de engenheiro
+    .desc = Concedido pelo melhor trabalho no departamento de engenharia.
+ent-ClothingNeckMedicalmedal = medalha médica
+    .desc = Concedido pelo melhor trabalho no departamento médico.
+ent-ClothingNeckSciencemedal = medalha de ciência
+    .desc = Concedido pelo melhor trabalho no departamento de ciências.
+ent-ClothingNeckSecuritymedal = medalha de segurança
+    .desc = Concedido pelo melhor trabalho no departamento de segurança.
+ent-ClothingNeckClownmedal = medalha de palhaço
+    .desc = Dado como a melhor piada do universo. HONK!

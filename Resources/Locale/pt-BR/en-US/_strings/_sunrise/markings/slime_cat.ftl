@@ -1,0 +1,17 @@
+marking-SlimeCatEars = Кошачьи ушки из слизи
+marking-SlimeCatTail = Кошачий хвост из слизи
+marking-SlimeCatTail-slime_tail_cat_wag = Кошачий хвост из слизи
+marking-SlimeCatEars-ears_slime_cat_outer = Você está feliz
+marking-SlimeCatEars-ears_slime_cat_inner = Você está feliz
+marking-SlimeCatTailStripes = Кошачий хвост из слизи (Полосатый)
+marking-SlimeCatTailStripes-slime_tail_cat_wag_stripes_prime = Políticas de segurança
+marking-SlimeCatTailStripes-slime_tail_cat_wag_stripes_second = Вторичные полосы
+marking-SlimeCatEarsStubby = Короткие ушки из слизи
+marking-SlimeCatEarsStubby-ears_slime_stubby_outer = Você está feliz
+marking-SlimeCatEarsStubby-ears_slime_stubby_inner = Você está feliz
+marking-SlimeCatEarsCurled = Como usar as fatias
+marking-SlimeCatEarsCurled-ears_slime_curled_outer = Você está feliz
+marking-SlimeCatEarsCurled-ears_slime_curled_inner = Você está feliz
+marking-SlimeCatEarsTorn = Рассечённые ушки из слизи
+marking-SlimeCatEarsTorn-ears_slime_torn_outer = Você está feliz
+marking-SlimeCatEarsTorn-ears_slime_torn_inner = Você está feliz
