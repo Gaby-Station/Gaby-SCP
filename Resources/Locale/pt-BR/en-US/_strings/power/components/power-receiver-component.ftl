@@ -1,0 +1,3 @@
+power-receiver-component-on-examine-main = Parece ser {$stateText}.
+power-receiver-component-on-examine-powered = [color=darkgreen]alimentado[/color]
+power-receiver-component-on-examine-unpowered =  [color=darkred]sem alimentação[/color]

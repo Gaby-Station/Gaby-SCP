@@ -1,0 +1,10 @@
+ent-TechnologyDiskBlueprint = disco de tecnologia
+    .desc = Um disco para o servidor de P&D contendo tecnologia de pesquisa.
+ent-BlueprintMagAsh12Slug = projeto da revista ash-12 (lesma de 12g)
+    .desc = Uma planta com o esquema de um carregador Ash-12 com balas. Pode ser inserido em um torno automático e fabricante de segurança.
+ent-BlueprintMagAsh12Beanbag = projeto do pufe da revista ash-12
+    .desc = Uma planta com o esquema de uma revista Ash-12 com pufe. Pode ser inserido em um torno automático e fabricante de segurança.
+ent-BlueprintMagAsh12Flare = projeto de alargamento da revista ash-12
+    .desc = Uma planta com o esquema de uma revista Ash-12 com flare. Pode ser inserido em um torno automático e fabricante de segurança.
+ent-BlueprintImplanterExtractor = { ent-TechnologyDiskBlueprint }
+    .desc = { ent-TechnologyDiskBlueprint.desc }

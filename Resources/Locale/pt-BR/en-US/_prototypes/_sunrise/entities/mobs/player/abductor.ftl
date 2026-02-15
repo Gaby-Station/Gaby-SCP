@@ -1,0 +1,14 @@
+ent-MobAbductor = abdutor
+    .desc = { ent-BaseMobAbductor.desc }
+ent-MobAbductorScientist = cientista sequestrador
+    .desc = { ent-MobAbductor.desc }
+ent-MobAbductorAgent = agente sequestrador
+    .desc = { ent-MobAbductor.desc }
+ent-SpawnPointAbductorAgent = gerador de agente sequestrador
+    .desc = { ent-MarkerBase.desc }
+ent-AbductorAgentSpawner = { ent-BaseAntagSpawner }
+    .desc = { ent-BaseAntagSpawner.desc }
+ent-SpawnPointAbductorScientist = criador de cientista sequestrador
+    .desc = { ent-MarkerBase.desc }
+ent-AbductorScientistSpawner = { ent-BaseAntagSpawner }
+    .desc = { ent-BaseAntagSpawner.desc }

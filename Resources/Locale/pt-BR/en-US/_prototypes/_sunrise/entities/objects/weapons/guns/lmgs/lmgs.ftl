@@ -1,0 +1,10 @@
+ent-WeaponLightMachineGunMG60 = MG-60
+    .desc = { ent-BaseWeaponLightMachineGun.desc }
+ent-WeaponLightMachineGunRPD = RPD
+    .desc = { ent-BaseWeaponLightMachineGun.desc }
+ent-WeaponMachineGunMG42 = MG-42
+    .desc = { ent-BaseWeaponLightMachineGun.desc }
+ent-WeaponDL6902 = Metralhadora DL6902
+    .desc = Metralhadora pesada Cybersun.
+ent-WeaponLightMachineGunPirateCannon = canhão de máquina pirata
+    .desc = Canhão pirata portátil com balas de canhão alimentadas por cinto. Direto das aventuras mais loucas da Ilha do Tesouro. Uma mistura de magia pirata e engenhosidade. Não tente, em hipótese alguma, descobrir como isso realmente funciona…

@@ -1,0 +1,10 @@
+ent-WeaponMinigunMG100 = Metralhadora MG-100 Vindicator
+    .desc = { ent-BaseItem.desc }
+ent-PowerpackMinigunMG100 = { ent-BasePowerpackMG100 }
+    .desc = { ent-BasePowerpackMG100.desc }
+ent-BasePowerpackMG100 = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-WeaponDL6902PowerPack = Metralhadora DL6902
+    .desc = { ent-BaseItem.desc }
+ent-PowerpackDL6902 = Pacote de energia DL6902
+    .desc = { ent-BasePowerpackMG100.desc }

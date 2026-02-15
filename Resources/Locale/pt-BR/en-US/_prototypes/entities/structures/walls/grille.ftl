@@ -1,0 +1,12 @@
+ent-Grille = grade
+    .desc = Uma estrutura frágil de barras de ferro.
+ent-ClockworkGrille = grade mecânica
+    .desc = Uma estrutura frágil de barras de ferro montadas no estilo tradicional Ratvariano.
+ent-GrilleBroken = grade
+    .desc = Uma estrutura frágil de barras de ferro. Já viu dias melhores.
+ent-ClockworkGrilleBroken = grade mecânica
+    .desc = Uma estrutura frágil de barras de ferro montadas no estilo tradicional Ratvariano. Já viu dias melhores.
+ent-GrilleDiagonal = grade diagonal
+    .desc = { ent-Grille.desc }
+ent-ClockworkGrilleDiagonal = grade diagonal
+    .desc = { ent-ClockworkGrille.desc }

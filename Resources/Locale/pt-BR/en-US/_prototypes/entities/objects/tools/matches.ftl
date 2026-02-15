@@ -1,0 +1,13 @@
+ent-SmallboxItem = { ent-BaseStorageItem }
+    .desc = { ent-BaseStorageItem.desc }
+ent-Matchstick = palito de fósforo
+    .desc = Um simples palito de fósforo, usado para acender cigarros finos para fumar.
+ent-MatchstickSpent = { ent-Matchstick }
+    .suffix = gasto
+    .desc = { ent-Matchstick.desc }
+ent-Matchbox = caixa de fósforos
+    .desc = Uma pequena caixa de fósforos Quase, mas não exatamente de Plasma Premium.
+ent-GorlexMatchbox = Caixa de fósforos Gorlex
+    .desc = Uma caixa de fósforos pneumática inspirada no equipamento dos Gorlex Marauders. Contém 24 partidas.
+ent-GorlexMatchstick = palito de fósforo
+    .desc = Um palito de fósforo de nível militar, usado para acender cigarros finos e não-combatentes.

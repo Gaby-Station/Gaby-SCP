@@ -1,0 +1,16 @@
+ent-CauteryAbductor = cautério do sequestrador
+    .desc = { ent-Cautery.desc }
+ent-DrillAbductor = broca do abdutor
+    .desc = { ent-Drill.desc }
+ent-ScalpelAbductor = bisturi do sequestrador
+    .desc = { ent-Scalpel.desc }
+ent-RetractorAbductor = afastador do sequestrador
+    .desc = Uma ferramenta cirúrgica usada para manter incisões abertas.
+ent-HemostatAbductor = pinça hemostática do sequestrador
+    .desc = Uma ferramenta cirúrgica usada para comprimir vasos sanguíneos para prevenir sangramento.
+ent-BoneSetterAbductor = fixador de osso do abdutor
+    .desc = Uma ferramenta cirúrgica usada para fixar ossos. Também os quebra muito bem.
+ent-SawAbductor = serra circular do sequestrador
+    .desc = Você acha que pode cortar qualquer coisa com isso.
+ent-BoneGelAbductor = frasco de gel ósseo do sequestrador
+    .desc = { ent-BoneGel.desc }

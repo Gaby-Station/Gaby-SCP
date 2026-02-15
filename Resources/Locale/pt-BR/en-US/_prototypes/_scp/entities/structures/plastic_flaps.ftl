@@ -1,0 +1,14 @@
+ent-ScpPlasticFlapsBase = { ent-PlasticFlapsBase }
+    .desc = { ent-PlasticFlapsBase.desc }
+ent-ScpPlasticFlapsClear = abas de plástico
+    .desc = Retalhos de plástico resistentes. Definitivamente não consigo superar isso. Sem chance.
+    .suffix = Claro
+ent-ScpPlasticFlapsOpaque = abas de plástico
+    .desc = Retalhos de plástico resistentes. Definitivamente não consigo superar isso. Sem chance.
+    .suffix = Opaco
+ent-ScpPlasticFlapsAirtightClear = abas de plástico herméticas
+    .desc = Abas de plástico herméticas, ligeiramente mais fortes e resistentes. Definitivamente não consigo superar isso. Sem chance.
+    .suffix = Hermético, claro
+ent-ScpPlasticFlapsAirtightOpaque = abas de plástico herméticas
+    .desc = Abas de plástico herméticas, ligeiramente mais fortes e resistentes. Definitivamente não consigo superar isso. Sem chance.
+    .suffix = Hermético, opaco

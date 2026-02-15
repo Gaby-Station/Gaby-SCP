@@ -1,0 +1,11 @@
+job-name-heavy-containment-zone-commandant = Comandante da Zona de Contenção Pesada
+job-description-heavy-containment-zone-commandant = Chefe de segurança da HCZ, garantindo a observância dos procedimentos de contenção e a ausência de atividade não autorizada dos objetos da HCZ. Coordena o trabalho da segurança do HCZ, considerando os pedidos de entrada no território do HCZ. CLASSE C
+job-name-senior-heavy-containment-zone-officer = Oficial Sênior de Zona de Contenção Pesada
+job-description-senior-heavy-containment-zone-officer = Um especialista de elite, um pau para toda obra. Possui armamento especializado e poderes ampliados, sendo o braço direito do Comandante. CLASSE C
+job-name-field-medical-specialist = Especialista Médico de Campo
+job-description-field-medical-specialist = Uma unidade de combate focada em fornecer assistência médica ao pessoal de segurança. CLASSE C
+job-name-heavy-containment-zone-officer = Oficial de Zona de Contenção Pesada
+job-description-heavy-containment-zone-officer = Funcionário responsável pela segurança da ZHC e impedindo a entrada de pessoas sem acesso a esta zona. CLASSE C
+job-name-junior-heavy-containment-zone-officer = Oficial Júnior de Zona de Contenção Pesada
+job-description-junior-heavy-containment-zone-officer = Um especialista júnior em segurança em treinamento. CLASSE C
+job-supervisors-heavy-containment-zone-commandant = Comandante da Zona de Contenção Pesada

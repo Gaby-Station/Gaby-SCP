@@ -1,0 +1,14 @@
+ent-MechArmorThin = armadura mecânica (fina)
+    .desc = Revestimento mínimo que reduz ligeiramente os danos.
+ent-MechArmorLight = armadura mecânica (leve)
+    .desc = Armadura mecânica leve: reduz modestamente os danos físicos e térmicos.
+ent-MechArmorMediumNT = armadura mecânica (NT médio)
+    .desc = Armadura mecânica Nanotrasen média: proteção sólida contra fogo de armas pequenas, menor resistência ao calor.
+ent-MechArmorHeavyNT = armadura mecânica (NT pesado)
+    .desc = Armadura mecânica pesada de Nanotrasen: forte resistência física, resistência mediana ao calor.
+ent-MechArmorMediumSyndi = armadura mecânica (sindi médio)
+    .desc = Armadura de sindicato média: proteção decente, com resistência física aprimorada.
+ent-MechArmorHeavySyndi = armadura mecânica (sindi pesado)
+    .desc = Armadura pesada do sindicato: forte contra danos físicos, modesta contra calor.
+ent-BorgArmorSilicon = blindagem borg
+    .desc = Blindagem Borg padrão.

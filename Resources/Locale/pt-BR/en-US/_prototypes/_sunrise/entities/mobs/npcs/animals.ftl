@@ -1,0 +1,13 @@
+ent-MobBaseInferiorVulpkanin = vulpcanina inferior
+    .desc = { ent-MobBaseAncestor.desc }
+ent-MobInferiorVulpkanin = vulpcanina inferior
+    .desc = { ent-MobBaseInferiorVulpkanin.desc }
+ent-MobBaseSyndicateInferiorVulpkanin = { ent-MobBaseInferiorVulpkanin }
+    .suffix = base sindical
+    .desc = { ent-MobBaseInferiorVulpkanin.desc }
+ent-MobInferiorVulpkaninSyndicateAgent = { ent-MobBaseSyndicateInferiorVulpkanin }
+    .suffix = agente do sindicato
+    .desc = { ent-MobBaseSyndicateInferiorVulpkanin.desc }
+ent-MobInferiorVulpkaninSyndicateAgentNukeops = { ent-MobBaseSyndicateInferiorVulpkanin }
+    .suffix = Operações Nuke
+    .desc = { ent-MobBaseSyndicateInferiorVulpkanin.desc }

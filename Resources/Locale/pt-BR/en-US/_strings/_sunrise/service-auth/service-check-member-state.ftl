@@ -1,0 +1,11 @@
+service-check-member-discord-title = Provendo членства no Discord
+service-check-member-telegram-title = Provérbios no Telegram
+service-check-member-discord-info = Para entrar no servidor, você provavelmente não precisará usar seu servidor Discord.
+service-check-member-telegram-info = Para entrar no servidor, você não precisa usar seu canal Telegram.
+service-check-member-warn = Use esta conta no servidor novamente para obter uma conta no seu computador.
+service-check-member-username = Sua conta pode ser:
+service-check-member-browser-btn = Abrir no Braузере
+service-check-member-quit-btn = Vamos
+service-check-member-qrcode = QrCode para verificação de telefone.
+service-check-member-check-btn = Provérbio
+service-check-member-check-btn-wait = Fonte: { TOSTRING($time, "G3") }

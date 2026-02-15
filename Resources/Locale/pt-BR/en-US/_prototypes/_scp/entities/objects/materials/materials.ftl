@@ -1,0 +1,9 @@
+ent-MaterialConcrete = concreto
+    .suffix = Completo
+    .desc = { ent-MaterialBase.desc }
+ent-MaterialConcrete10 = { ent-MaterialConcrete }
+    .suffix = 10
+    .desc = { ent-MaterialConcrete.desc }
+ent-MaterialConcrete1 = { ent-MaterialConcrete }
+    .suffix = Solteiro
+    .desc = { ent-MaterialConcrete.desc }

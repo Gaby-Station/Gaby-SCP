@@ -1,0 +1,12 @@
+ent-ClothingHeadHelmetEVA = Capacete EVA
+    .desc = Um capacete antigo, mas dourado, projetado para atividades extraveiculares. Infame por deixar os agentes de segurança paranóicos.
+ent-ClothingHeadHelmetEVALarge = Capacete EVA
+    .desc = Um capacete antigo, mas dourado, projetado para atividades extraveiculares.
+ent-ClothingHeadHelmetSyndicate = capacete EVA sindicato
+    .desc = Um capacete EVA simples e elegante. Projetado para o máximo de espaço humilde.
+ent-ClothingHeadHelmetCosmonaut = capacete cosmonauta
+    .desc = Design antigo, mas fabricação avançada.
+ent-ClothingHeadHelmetAncient = Capacete vazio NTSRA
+    .desc = Um antigo capacete espacial, projetado pela filial NTSRA do CentComm.
+ent-ClothingHeadHelmetVoidParamed = capacete vazio paramédico
+    .desc = Um capacete vazio feito para paramédicos.

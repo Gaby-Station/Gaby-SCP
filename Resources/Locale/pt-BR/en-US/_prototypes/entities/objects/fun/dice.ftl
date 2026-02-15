@@ -1,0 +1,16 @@
+ent-BaseDice = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-PercentileDie = dado percentil
+    .desc = Um dado com dez lados. Funciona melhor para rolos d100 do que para uma bola de golfe.
+ent-d20Dice = d20
+    .desc = Um dado com vinte lados. O dado preferido para jogar no GM.
+ent-d12Dice = d12
+    .desc = Um dado com doze lados. Há um ar de negligência nisso.
+ent-d10Dice = d10
+    .desc = Um dado com dez lados. Útil para porcentagens.
+ent-d8Dice = d8
+    .desc = Um dado com oito lados. Parece... sorte.
+ent-d6Dice = d6
+    .desc = Um dado com seis lados. Básico e útil.
+ent-d4Dice = d4
+    .desc = Um dado com quatro lados. O caltrop do nerd.

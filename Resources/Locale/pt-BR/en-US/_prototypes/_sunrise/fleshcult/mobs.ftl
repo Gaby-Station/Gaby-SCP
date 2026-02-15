@@ -1,0 +1,16 @@
+ent-BaseMobFleshCult = multidão de carne
+    .desc = Uma massa de carne cambaleante, animada por energia anômala.
+ent-MobFleshSpider = { ent-BaseMobFleshCult }
+    .desc = { ent-BaseMobFleshCult.desc }
+ent-MobFleshPudge = { ent-BaseMobFleshCult }
+    .desc = { ent-BaseMobFleshCult.desc }
+ent-MobFleshBall = { ent-BaseMobFleshCult }
+    .desc = { ent-BaseMobFleshCult.desc }
+ent-MobFleshBat = { ent-BaseMobFleshCult }
+    .desc = { ent-BaseMobFleshCult.desc }
+ent-MobFleshHugger = { ent-BaseMobFleshCult }
+    .desc = { ent-BaseMobFleshCult.desc }
+ent-MobFleshWorm = { ent-BaseMobFleshCult }
+    .desc = { ent-BaseMobFleshCult.desc }
+ent-MobSmallFleshWorm = { ent-MobFleshWorm }
+    .desc = { ent-MobFleshWorm.desc }

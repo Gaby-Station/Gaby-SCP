@@ -1,0 +1,9 @@
+job-name-lead-technical-specialist = Especialista Técnico Líder
+job-description-lead-technical-specialist = Instrutor-técnico, técnico mais importante. CLASSE C
+job-name-electrical-technical-specialist = Especialista Técnico em Elétrica
+job-description-electrical-technical-specialist = Engenheiro eletricista responsável pela geração de energia, equipamentos elétricos e sistema de distribuição de ar do Complexo. CLASSE C
+job-name-general-technical-specialist = Especialista Técnico Geral
+job-description-general-technical-specialist = Funcionário especializado responsável pela reparação de câmaras de contenção de objetos. CLASSE C
+job-name-technical-trainee = Estagiário Técnico
+job-description-technical-trainee = Estagiário de serviços de TI.
+job-supervisors-chief-technical-specialist = Especialista Técnico Chefe

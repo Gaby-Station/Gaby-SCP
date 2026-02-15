@@ -1,0 +1,10 @@
+ent-OffsetCane = cana offset padrão
+    .desc = Uma bengala standard, essencial para se deslocar quando as pernas não estão à altura da tarefa. Pode ou não conceder-lhe a sabedoria dos idosos.
+ent-OffsetCaneClown = bengala offset arco-íris
+    .desc = Uma bengala em arco-íris, perfeita para palhaços e para quem gosta de um toque de cor em suas vidas.
+ent-OffsetCaneMime = cana offset listrada
+    .desc = Uma bengala listrada em preto e branco, perfeita para apresentações silenciosas.
+ent-OffsetCaneNT = cana offset nanotrasen
+    .desc = Uma bengala offset padrão nanotrasen com o logotipo do NT, preferida por quem prefere um visual mais corporativo.
+ent-OffsetCaneWood = cana offset de madeira
+    .desc = Uma bengala de madeira compensada, uma escolha clássica para quem aprecia materiais naturais e uma pegada robusta.

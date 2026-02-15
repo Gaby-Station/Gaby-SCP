@@ -1,0 +1,16 @@
+ent-PlushieBlackCat = Pelúcia Gato Preto
+    .desc = Sombrio, misterioso e possivelmente envolvido em rituais ocultos... ou apenas em aconchegos. Pode trazer sorte ou caos.
+ent-PlushieGreyCat = Peluche de gato cinza
+    .desc = Um gato com energia do tipo “Eu existo, mas não demonstro emoções”. Perfeito para reflexões filosóficas e agressões passivas.
+ent-PlushieWhiteCat = Peluche de gato branco
+    .desc = Puro, macio e com garantia de coletar toda a poeira do ambiente. Mas quem se importa quando é tão adorável?
+ent-PlushieOrangeCat = Pelúcia Gato Laranja
+    .desc = Com fome. Sempre. Mesmo que apenas alimentado. Possivelmente planejando uma revolução para o jantar extra.
+ent-PlushieRicehatCat = Pelúcia de Gato com Chapéu de Arroz
+    .desc = Pelúcia de gato branco com chapéu de palha para trabalho duro no campo de arroz!.
+ent-PlushieSiameseCat = Peluche de gato siamês
+    .desc = Elegante, misterioso e tem uma vibração um pouco vil. Já pode estar conspirando contra você.
+ent-PlushieTabbyCat = Peluche de gato malhado
+    .desc = A personificação de cochilos aconchegantes e zoomies repentinos. Dorme 50% do tempo, destrói os cadarços nos outros 50%.
+ent-PlushieTuxedoCat = Pelúcia Gato Smoking
+    .desc = Sempre vestido para um jantar de gala... ou pelo menos para um jantar. Suave, elegante e altamente respeitado entre os peluches.

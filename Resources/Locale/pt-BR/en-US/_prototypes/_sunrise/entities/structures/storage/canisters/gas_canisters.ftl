@@ -1,0 +1,12 @@
+ent-BZCanister = Vasilha BZ
+    .desc = Um recipiente que pode conter qualquer tipo de gás. Este provavelmente contém BZ. Pode ser conectado a uma porta de conector usando uma chave inglesa.
+ent-HealiumCanister = Vasilha de Healium
+    .desc = Um recipiente que pode conter qualquer tipo de gás. Este provavelmente contém Healium. Pode ser conectado a uma porta de conector usando uma chave inglesa.
+ent-NitriumCanister = Vasilha de Nítrio
+    .desc = Um recipiente que pode conter qualquer tipo de gás. Este supostamente contém Nitrium. Pode ser conectado a uma porta com uma chave inglesa.
+ent-BZCanisterBroken = { ent-GasCanisterBrokenBase }
+    .desc = { ent-GasCanisterBrokenBase.desc }
+ent-HealiumCanisterBroken = { ent-GasCanisterBrokenBase }
+    .desc = { ent-GasCanisterBrokenBase.desc }
+ent-NitriumCanisterBroken = { ent-GasCanisterBrokenBase }
+    .desc = { ent-GasCanisterBrokenBase.desc }

@@ -1,0 +1,10 @@
+ent-MobHellspawnBoss = { ent-MobHellspawn }
+    .suffix = Chefe
+    .desc = { ent-MobHellspawn.desc }
+ent-ComputerBossTravel = altar de batalha do chefe
+    .desc = { ent-AltarFangs.desc }
+ent-HellSpawnCultist = { ent-MobHuman }
+    .desc = { ent-MobHuman.desc }
+ent-BulletSkyFlare = brilho do céu
+    .suffix = Chefe
+    .desc = { ent-BaseBulletIncendiary.desc }

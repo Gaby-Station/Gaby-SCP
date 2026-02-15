@@ -1,0 +1,16 @@
+ent-ActionToggleBorgMagboots = { "" }
+    .desc = { "" }
+ent-BorgCuffed = { "" }
+    .desc = { "" }
+ent-FabricateLollipop = { "" }
+    .desc = { "" }
+ent-FabricateGumball = { "" }
+    .desc = { "" }
+ent-FabricateCookie = { "" }
+    .desc = { "" }
+ent-FabricateSoap = { "" }
+    .desc = { "" }
+ent-PieThrow = { "" }
+    .desc = { "" }
+ent-ActionViewCrewManifest = Ver Manifesto da Tripulação
+    .desc = Veja a estação de manifesto da tripulação.

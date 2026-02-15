@@ -1,0 +1,11 @@
+ent-ClothingHeadSoftsuitCBURN = Capacete CBURN
+    .desc = Um capacete pesado e à prova de fogo usado por unidades especiais de limpeza.
+ent-ClothingHeadHelmetPirate = capacete pirata EVA
+    .desc = Um capacete para um hardsuit. Tem algumas rachaduras graves, mas não se preocupe – a fita adesiva conserta tudo.
+ent-ClothingHeadHelmetPirateAlt = capacete pirata EVA
+    .desc = Um capacete hardsuit com caveira pintada – para embarcar com estilo.
+ent-ClothingHeadHelmetPirateOld = capacete de pirata
+    .desc = Um capacete especial, feito para Scooner.
+    .suffix = Pirata, nascer do sol
+ent-ClothingHeadHelmetPirateAlt2 = capacete pirata EVA
+    .desc = Um capacete para um hardsuit.

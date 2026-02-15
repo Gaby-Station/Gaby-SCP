@@ -1,0 +1,9 @@
+ent-WarpPoint = ponto de dobra
+    .desc = { ent-MarkerBase.desc }
+ent-WarpPointBeacon = ponto de dobra (farol)
+    .desc = { ent-WarpPoint.desc }
+ent-GhostWarpPoint = ponto de dobra apenas fantasma
+    .desc = { ent-MarkerBase.desc }
+ent-WarpPointBombing = ponto de dobra
+    .suffix = alvo de bombardeio ninja
+    .desc = { ent-WarpPoint.desc }

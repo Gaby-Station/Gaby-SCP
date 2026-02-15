@@ -1,0 +1,9 @@
+ent-RadiationCollector = coletor de radiação
+    .desc = Uma máquina que coleta radiação e a transforma em energia. Requer gás plasma para funcionar.
+    .suffix = Tanque vazio
+ent-RadiationCollectorNoTank = { ent-RadiationCollector }
+    .suffix = Sem tanque
+    .desc = { ent-RadiationCollector.desc }
+ent-RadiationCollectorFullTank = { ent-RadiationCollector }
+    .suffix = Tanque cheio
+    .desc = { ent-RadiationCollector.desc }

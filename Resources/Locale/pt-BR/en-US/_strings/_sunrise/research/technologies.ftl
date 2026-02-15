@@ -1,0 +1,22 @@
+research-discipline-biochemical = Bioquímico
+research-technology-medical-assembler = Montagem Médica
+research-technology-basic-surgery = Cirurgia básica
+research-technology-basic-cyberlimbs = Cibermembros básicos
+research-technology-bluespace-ammo = Munição de seringa Bluespace
+research-technology-implant-extractor-safety = Extrator de implante de segurança
+research-technology-implant-extractor = Extrator de implante
+research-technology-advanced-surgery = Cirurgia avançada
+research-technology-dna-injector = Injetor de DNA
+research-technology-mechanized-medical-treatment = Tratamento Médico Mecanizado
+research-technology-basic-eye-implants = Implantes oculares básicos
+research-technology-functional-cyberlimbs = Cibermembros Funcionais
+research-technology-science-cyberlimbs = Cibermembros da Ciência
+research-technology-secmelee-cyberlimbs = Corpo a corpo de segurança Cybermembros
+research-technology-secrange-cyberlimbs = Gama de segurança Cyberlimbs
+research-technology-nightvision-eyes = Implantes oculares de visão noturna
+research-technology-thermalvision-eyes = Implantes oculares Thermalvision
+
+research-technology-handcraft-nvd = Кустарные ПНВ
+research-technology-basic-nvd = Продвинутое ПНВ
+research-technology-basic-thermals = Scanners térmicos
+research-technology-cloning = Sistemas de clonagem

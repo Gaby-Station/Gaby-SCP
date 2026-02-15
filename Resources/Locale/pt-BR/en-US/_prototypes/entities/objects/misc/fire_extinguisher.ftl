@@ -1,0 +1,10 @@
+ent-FireExtinguisher = extintor de incêndio
+    .desc = Extingue incêndios.
+ent-BorgFireExtinguisher = jato de manobra
+    .desc = Baseado na tecnologia de extintores de incêndio, o jato de manobra é... bem, sim, é apenas um extintor de incêndio maior.
+ent-ExtinguisherSpray = spray extintor
+    .desc = { ent-Vapor.desc }
+ent-FireExtinguisherMini = extintor de bolso
+    .desc = Um extintor de incêndio modelo leve e compacto com estrutura de fibra de vidro. Ele retém menos água que seu irmão maior.
+ent-SelfRechargingFireExtinguisher = extintor de incêndio auto-recarregável
+    .desc = Extingue incêndios. lentamente se enche de água.

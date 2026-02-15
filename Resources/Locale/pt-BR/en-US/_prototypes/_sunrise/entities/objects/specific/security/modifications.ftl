@@ -1,0 +1,14 @@
+ent-BaseSecurityUpgrade = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-FlareGunSecurityUpgrade = kit de atualização (pistola sinalizadora de segurança)
+    .desc = Um kit de modificação de pistola sinalizadora de segurança. Inclui uma substituição de cano com calibre maior e ajustes de mira para lançar com segurança qualquer granada de mão em longas distâncias.
+ent-ModularReceiverAuto = receptor modular automático
+    .desc = Uma parte vital utilizada na criação de armas de fogo automáticas.
+ent-DrozdUpgrade = Kit de atualização (Drozd)
+    .desc = Um kit de modificação para a submetralhadora Drozd. Substitui a empunhadura e a coronha padrão por versões mais leves e adiciona um sistema automático de liberação do carregador.
+ent-LecterUpgrade = Kit de atualização (Lecter)
+    .desc = Um kit de modificação para o Security Lecter. Substitui o protetor de mão padrão e a coronha por outros feitos de materiais mais leves e adiciona um sistema automático de liberação do carregador.
+ent-VestSecUpgrade = Kit de atualização (colete de segurança)
+    .desc = Um kit de modificação para o colete de segurança padrão. Substitui a fibra protetora barata por um material sintético de alta qualidade, transformando-a em uma versão durável e de alta qualidade. Também adiciona algumas bolsas que não restringem os movimentos.
+ent-GauntletGORILLAUpgradeKit = GORILA. chip de atualização de manopla
+    .desc = Um kit de atualização experimental para o G.O.R.I.L.L.A.

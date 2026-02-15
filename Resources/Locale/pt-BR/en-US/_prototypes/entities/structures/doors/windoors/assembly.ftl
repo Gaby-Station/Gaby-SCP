@@ -1,0 +1,14 @@
+ent-WindoorAssembly = montagem de janela
+    .desc = Ele abre, fecha e você pode ver através dele!
+ent-WindoorAssemblySecure = montagem de janela segura
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece difícil.
+ent-WindoorAssemblyClockwork = montagem de janela mecânica
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece difícil.
+ent-WindoorAssemblyPlasma = montagem de janela de plasma
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece roxo, não, rosa. Espere...
+ent-WindoorAssemblySecurePlasma = montagem segura de janela de plasma
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece forte e, não, roxo. Aguentar...
+ent-WindoorAssemblyUranium = montagem de janela de urânio
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece um verde doentio...
+ent-WindoorAssemblySecureUranium = montagem segura de janela de urânio
+    .desc = Ele abre, fecha e você pode ver através dele! Este parece forte e verde-limão radioativo!

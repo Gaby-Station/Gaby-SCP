@@ -1,0 +1,16 @@
+descriptions-atv-dataset-1 = Veículo todo em azulejo.
+descriptions-atv-dataset-2 = Veículo anti-formigas.
+descriptions-atv-dataset-3 = Vegetal a qualquer hora.
+descriptions-atv-dataset-4 = Na verdade, dois veículos.
+descriptions-atv-dataset-5 = Variável de qualquer tipo.
+descriptions-atv-dataset-6 = Veículo de Trauma Assistido.
+descriptions-atv-dataset-7 = Vírus transmitidos por algoritmo.
+descriptions-atv-dataset-8 = Vaga para Alcoolatra-Criança.
+descriptions-atv-dataset-9 = Vulcão Destruidor de Idiotas.
+descriptions-atv-dataset-10 = A-Tele Visão.
+descriptions-atv-dataset-11 = Vagabundo desajeitado.
+descriptions-atv-dataset-12 = Voluntário de Arte-Tragédia.
+descriptions-atv-dataset-13 = Vaga Taco Automático.
+descriptions-atv-dataset-14 = Outra vista fantástica.
+descriptions-atv-dataset-15 = Todas as Virgens.
+descriptions-atv-dataset-16 = Um veículo superficial.

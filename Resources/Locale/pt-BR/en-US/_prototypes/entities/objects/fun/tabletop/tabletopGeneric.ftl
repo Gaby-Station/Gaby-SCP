@@ -1,0 +1,14 @@
+ent-BaseGenericTabletopPiece = { ent-BaseTabletopPiece }
+    .desc = { ent-BaseTabletopPiece.desc }
+ent-RedTabletopPiece = peça vermelha
+    .desc = { ent-BaseGenericTabletopPiece.desc }
+ent-GreenTabletopPiece = peça verde
+    .desc = { ent-BaseGenericTabletopPiece.desc }
+ent-YellowTabletopPiece = peça amarela
+    .desc = { ent-BaseGenericTabletopPiece.desc }
+ent-BlueTabletopPiece = peça azul
+    .desc = { ent-BaseGenericTabletopPiece.desc }
+ent-WhiteTabletopPiece = peça branca
+    .desc = { ent-BaseGenericTabletopPiece.desc }
+ent-BlackTabletopPiece = peça preta
+    .desc = { ent-BaseGenericTabletopPiece.desc }

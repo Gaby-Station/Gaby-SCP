@@ -1,0 +1,10 @@
+ent-BaseShowcaseRobot = vitrine de robôs de segurança
+    .desc = Uma réplica não funcional de um antigo robô de segurança.
+ent-ShowcaseRobot = vitrine de robôs de segurança
+    .desc = Uma réplica não funcional de um antigo robô de segurança.
+ent-ShowcaseRobotWhite = vitrine de robô branco
+    .desc = Uma réplica não funcional de um robô antigo.
+ent-ShowcaseRobotAntique = vitrine de robô de carga
+    .desc = Uma réplica não funcional de um antigo robô de carga.
+ent-ShowcaseRobotMarauder = vitrine do saqueador
+    .desc = Uma réplica não funcional de um saqueador, pintada de verde.

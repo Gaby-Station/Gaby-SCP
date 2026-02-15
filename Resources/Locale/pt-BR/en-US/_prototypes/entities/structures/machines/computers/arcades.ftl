@@ -1,0 +1,9 @@
+ent-ArcadeBase = arcada
+    .desc = Um gabinete de fliperama.
+ent-SpaceVillainArcade = arcade de vilões espaciais
+    .desc = { ent-ArcadeBase.desc }
+ent-SpaceVillainArcadeFilled = { ent-SpaceVillainArcade }
+    .suffix = Preenchido
+    .desc = { ent-SpaceVillainArcade.desc }
+ent-BlockGameArcade = Jogo de blocos NT
+    .desc = Um gabinete de fliperama com um jogo estranhamente familiar.

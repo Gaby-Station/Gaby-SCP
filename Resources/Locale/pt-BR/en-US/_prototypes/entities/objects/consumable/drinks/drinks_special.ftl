@@ -1,0 +1,16 @@
+ent-DrinkShaker = agitador
+    .desc = O fiel companheiro de mixagem do barman.
+ent-DrinkShotGlass = copo
+    .desc = Perfeito para bater na mesa com raiva.
+ent-DrinkJar = jarra
+    .desc = A xícara do hipster.
+ent-DrinkJarWhat = pote de alguma coisa
+    .desc = Você realmente não pode dizer o que é isso.
+ent-BartenderMixer = { "" }
+    .desc = { "" }
+ent-DrinkJigger = coqueteleira
+    .desc = Como um shaker, mas menor. Usado para controlar a quantidade de ingredientes.
+ent-DrinkIceBucket = balde de gelo
+    .desc = Um balde especial de gelo refrescante. Uso proibido para desafio com o mesmo nome!
+ent-Pitcher = jarro de metal
+    .desc = Um jarro isolado em aço inoxidável. O melhor amigo de todos pela manhã.

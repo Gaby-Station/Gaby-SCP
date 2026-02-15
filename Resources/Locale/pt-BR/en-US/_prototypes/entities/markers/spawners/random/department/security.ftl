@@ -1,0 +1,15 @@
+ent-LootSpawnerSecurityBasic = gerador de saque de segurança
+    .suffix = Engrenagem, Simples
+    .desc = { ent-MarkerBase.desc }
+ent-LootSpawnerSecurity = gerador de saque de segurança
+    .suffix = Equipamento, melhor
+    .desc = { ent-MarkerBase.desc }
+ent-LootSpawnerArmory = gerador de saque de arsenal
+    .suffix = Armas, armadura
+    .desc = { ent-MarkerBase.desc }
+ent-LootSpawnerArmoryGunsOnly = gerador de saque de arsenal
+    .suffix = Armas
+    .desc = { ent-MarkerBase.desc }
+ent-LootSpawnerArmoryArmorOnly = gerador de saque de arsenal
+    .suffix = Armadura
+    .desc = { ent-MarkerBase.desc }

@@ -1,0 +1,15 @@
+damage-type-asphyxiation = Asfixia
+damage-type-bloodloss = Perda de sangue
+damage-type-blunt = Cego
+damage-type-cellular = Celular
+damage-type-caustic = Cáustico
+damage-type-cold = Frio
+damage-type-heat = Aquecer
+damage-type-piercing = Perfuração
+damage-type-poison = Tóxico
+damage-type-radiation = Radiação
+damage-type-shock = Choque
+damage-type-slash = Barra
+damage-type-structural = Estrutural
+damage-type-holy = Sagrado
+damage-type-mangleness = Mangleness

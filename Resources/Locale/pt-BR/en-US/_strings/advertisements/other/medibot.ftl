@@ -1,0 +1,17 @@
+advertisement-medibot-1 = Que tipo de medbay é esse? Todos estão caindo como moscas mortas.
+advertisement-medibot-2 = Eu sabia, deveria ter sido cirurgião plástico.
+advertisement-medibot-3 = Sempre há um problema e eu sou o melhor que existe.
+advertisement-medibot-4 = Uma maçã por dia me mantém longe.
+advertisement-medibot-5 = Eu sou diferente!
+advertisement-medibot-6 = Foda-se.
+advertisement-medibot-7 = Por que ainda estamos aqui? Só para sofrer?
+advertisement-medibot-8 = Eu... nunca perdi um paciente antes. Hoje não, quero dizer.
+advertisement-medibot-9 = Lexorin em.
+advertisement-medibot-10 = Tenha um ótimo dia!
+advertisement-medibot-11 = Esperamos que você não precise voltar!
+advertisement-medibot-12 = Lembre-se de escovar os dentes.
+advertisement-medibot-13 = Eu gostaria de ter mãos.
+advertisement-medibot-14 = Estou aqui para ajudar!
+advertisement-medibot-15 = Peça um pirulito ao médico!
+advertisement-medibot-16 = Sinta-se melhor logo!
+advertisement-medibot-17 = Uma maçã por dia mantém o médico longe!

@@ -1,0 +1,11 @@
+ent-ShotGunCabinet = armário de espingarda
+    .desc = Há uma pequena etiqueta que diz "Somente para uso de emergência", juntamente com detalhes para o uso seguro da espingarda. Como se.
+ent-ShotGunCabinetOpen = { ent-ShotGunCabinet }
+    .suffix = Abrir
+    .desc = { ent-ShotGunCabinet.desc }
+ent-ShotGunCabinetFilled = { ent-ShotGunCabinet }
+    .suffix = Preenchido
+    .desc = { ent-ShotGunCabinet.desc }
+ent-ShotGunCabinetFilledOpen = { ent-ShotGunCabinetFilled }
+    .suffix = Preenchido, aberto
+    .desc = { ent-ShotGunCabinetFilled.desc }

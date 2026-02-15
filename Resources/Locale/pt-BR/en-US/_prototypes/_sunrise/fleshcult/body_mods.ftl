@@ -1,0 +1,12 @@
+ent-ClothingFleshSpiderLegs = Pernas de aranha de carne
+    .desc = Pernas de aranha de carne.
+    .suffix = Culto da Carne
+ent-ClothingOuterArmorFlesh = armadura de carne
+    .desc = armadura de carne
+    .suffix = Culto da Carne
+ent-ClothingOuterHeavyArmorFlesh = armadura de carne pesada
+    .desc = armadura de carne pesada
+    .suffix = Culto da Carne
+ent-ClothingHeadHelmetHeavyArmorFlesh = capacete de carne pesada
+    .desc = capacete de carne pesada
+    .suffix = Culto da Carne

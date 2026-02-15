@@ -1,0 +1,9 @@
+ent-TribunalOfficerPDA = Oficial do Tribunal PDA
+    .desc = O melhor amigo da Documentação da Fundação.
+ent-TribunalOfficerIDCard = Carteira de identidade do oficial do tribunal
+    .desc = { ent-IDCardStandard.desc }
+ent-RubberStampTribunalOfficer = { ent-RubberStampBase }
+    .desc = { ent-RubberStampBase.desc }
+ent-BriefcaseTribunalOfficerFilled = { ent-BriefcaseBrown }
+    .suffix = Oficial do Tribunal
+    .desc = { ent-BriefcaseBrown.desc }

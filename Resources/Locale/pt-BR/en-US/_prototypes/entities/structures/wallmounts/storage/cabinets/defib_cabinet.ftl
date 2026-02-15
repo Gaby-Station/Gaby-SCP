@@ -1,0 +1,11 @@
+ent-DefibrillatorCabinet = gabinete de desfibrilador
+    .desc = Um pequeno gabinete montado na parede projetado para acomodar um desfibrilador.
+ent-DefibrillatorCabinetOpen = { ent-DefibrillatorCabinet }
+    .suffix = Abrir
+    .desc = { ent-DefibrillatorCabinet.desc }
+ent-DefibrillatorCabinetFilled = { ent-DefibrillatorCabinet }
+    .suffix = Preenchido
+    .desc = { ent-DefibrillatorCabinet.desc }
+ent-DefibrillatorCabinetFilledOpen = { ent-DefibrillatorCabinetFilled }
+    .suffix = Preenchido, aberto
+    .desc = { ent-DefibrillatorCabinetFilled.desc }

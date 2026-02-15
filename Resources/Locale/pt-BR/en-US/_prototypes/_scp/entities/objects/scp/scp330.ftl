@@ -1,0 +1,16 @@
+ent-BaseScp330Candy = doce misterioso
+    .desc = Uma pequena delícia em uma embalagem brilhante. Certamente, não vai doer.
+    .suffix = SCP-330
+ent-Scp330CandyBlue = doce misterioso azul
+    .desc = { ent-BaseScp330Candy.desc }
+ent-Scp330CandyRed = doce misterioso vermelho
+    .desc = { ent-BaseScp330Candy.desc }
+ent-Scp330CandyGreen = doce misterioso verde
+    .desc = { ent-BaseScp330Candy.desc }
+ent-Scp330CandyYellow = doce misterioso amarelo
+    .desc = { ent-BaseScp330Candy.desc }
+ent-Scp330CandyPink = doce misterioso rosa
+    .desc = { ent-BaseScp330Candy.desc }
+ent-Scp330Bowl = tigela de doces
+    .desc = Uma nota está anexada à tigela que diz: 'Não leve mais do que dois, por favor!'
+    .suffix = SCP-330

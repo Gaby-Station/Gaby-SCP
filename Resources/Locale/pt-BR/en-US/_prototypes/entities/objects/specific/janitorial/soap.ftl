@@ -1,0 +1,16 @@
+ent-Soap = sabão
+    .desc = Uma barra de sabão barata. Não cheira.
+ent-SoapNT = sabão
+    .desc = Uma barra de sabonete da marca Nanotrasen. Cheira a plasma.
+ent-SoapDeluxe = sabão
+    .desc = Uma barra de sabonete de luxo da marca Waffle Co. Cheira a morangos.
+ent-SoapSyndie = sabão
+    .desc = Uma barra de sabão não confiável. Cheira a medo.
+ent-SoapletSyndie = sabonete
+    .desc = Um pedacinho de sabonete sindicalizado.
+ent-SoapHomemade = sabão
+    .desc = Uma barra de sabonete caseiro. Cheira a... bem...
+ent-SoapOmega = sabonete ômega
+    .desc = O sabonete mais avançado conhecido pela humanidade. Cheira a espaço azul.
+ent-SoapBorg = sabão
+    .desc = Uma barra de sabonete da marca Nanotrasen. Cheiro de plasma e máquinas.

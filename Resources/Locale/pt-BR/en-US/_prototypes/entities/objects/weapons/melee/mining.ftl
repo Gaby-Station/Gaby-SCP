@@ -1,0 +1,14 @@
+ent-Pickaxe = picareta
+    .desc = Entalhado com perfeição, para enfiá-lo nas rochas.
+ent-MiningDrill = broca de mineração
+    .desc = Ferramenta poderosa usada para perfurar rochas rapidamente.
+ent-MiningDrillDiamond = broca de mineração com ponta de diamante
+    .desc = Uma broca de mineração significativamente mais eficiente com ponta de diamante.
+ent-BaseWeaponCrusher = triturador
+    .desc = Um projeto inicial do acelerador protocinético.
+ent-WeaponCrusher = { ent-BaseWeaponCrusher }
+    .desc = { ent-BaseWeaponCrusher.desc }
+ent-WeaponCrusherDagger = punhal triturador
+    .desc = Uma versão reduzida de um triturador protocinético. Usa energia cinética para vibrar a lâmina em altas velocidades.
+ent-WeaponCrusherGlaive = glaive triturador
+    .desc = Um projeto inicial do acelerador protocinético, em forma de glaive.

@@ -1,0 +1,9 @@
+ent-RandomHumanoidPlanetPrisonHeadOfPrison = papel de fantasma de chefe da prisão
+ent-RandomHumanoidPlanetPrisonInspector = papel de fantasma de inspetor de prisão
+ent-RandomHumanoidPlanetPrisonWorker = papel de fantasma de trabalhador prisional
+ent-RandomHumanoidPlanetPrisonEngineer = papel de fantasma de engenheiro de prisão
+ent-RandomHumanoidPlanetPrisonScientist = papel de fantasma de cientista da prisão
+ent-RandomHumanoidPlanetPrisonDoctor = papel de fantasma de médico de prisão
+ent-RandomHumanoidPlanetPrisonChef = papel de fantasma de chef de prisão
+ent-RandomHumanoidPlanetPrisonPrisoner = papel de fantasma de prisioneiro de planeta
+ent-RandomHumanoidPlanetPrisonTrainee = papel de fantasma de estagiário na prisão

@@ -1,0 +1,9 @@
+ui-lobby-title = Lobby: {$serverName}
+ui-lobby-ahelp-button = Ajuda
+ui-lobby-options-button = Opções
+ui-lobby-leave-button = Deixar
+ui-lobby-replays-button = Repetições
+ui-lobby-observe-button = Observar
+ui-lobby-ready-up-button = Pronto
+ui-lobby-online-players-block = Jogadores on-line
+ui-lobby-server-info-block = Informações do servidor

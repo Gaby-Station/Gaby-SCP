@@ -1,0 +1,10 @@
+ent-Turnstile = catraca
+    .desc = Uma porta mecânica que permite o acesso unilateral e evita a utilização não autorizada.
+ent-TurnstileArrow = { "" }
+    .desc = { "" }
+ent-TurnstileGenpopEnter = { ent-Turnstile }
+    .suffix = Genpop Entrar
+    .desc = { ent-Turnstile.desc }
+ent-TurnstileGenpopLeave = { ent-Turnstile }
+    .suffix = Licença Genpop
+    .desc = { ent-Turnstile.desc }

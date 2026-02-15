@@ -1,0 +1,16 @@
+ent-ActionRevertPolymorph = Reverter
+    .desc = Reverta para sua forma original.
+ent-BaseActionPolymorph = { ent-BaseAction }
+    .desc = { ent-BaseAction.desc }
+ent-ActionPolymorphWizardSpider = Polimorfo Aranha
+    .desc = Polimorfos você em uma aranha.
+ent-ActionPolymorphWizardRod = Forma de haste
+    .desc = CLANG!
+ent-ActionPolymorphJaunt = Passeio Etéreo
+    .desc = Entre no Plano Etéreo para uma fuga rápida!
+ent-ActionPolymorphJauntII = Passeio Etéreo II
+    .desc = Entre no Plano Etéreo para uma fuga ainda mais rápida!
+ent-ActionPolymorphJauntIII = Passeio Etéreo III
+    .desc = Você ainda é tangível?
+ent-ActionPolymorph = { "" }
+    .desc = { "" }

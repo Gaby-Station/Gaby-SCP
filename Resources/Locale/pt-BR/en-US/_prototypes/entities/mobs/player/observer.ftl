@@ -1,0 +1,16 @@
+ent-Incorporeal = { "" }
+    .desc = Mobs sem corpos físicos
+ent-MobObserverBase = observador
+    .desc = Vaia!
+ent-MobObserver = { ent-MobObserverBase }
+    .desc = { ent-MobObserverBase.desc }
+ent-ActionGhostBoo = Vaia!
+    .desc = Assuste os membros da sua tripulação por causa do tédio!
+ent-ActionToggleLighting = Alternar iluminação
+    .desc = Alterne a renderização de luz para observar melhor as áreas escuras.
+ent-ActionToggleFov = Alternar FoV
+    .desc = Alterna o campo de visão para ver o que os jogadores veem.
+ent-ActionToggleGhosts = Alternar fantasmas
+    .desc = Alterne a visibilidade de outros fantasmas.
+ent-ActionToggleGhostHearing = Alternar audição fantasma
+    .desc = Alterne entre ouvir todas as mensagens e ouvir apenas mensagens de rádio e próximas.

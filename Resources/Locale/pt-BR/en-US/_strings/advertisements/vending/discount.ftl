@@ -1,0 +1,17 @@
+﻿advertisement-discount-1 = Desconto Dan, ele é o cara!
+advertisement-discount-2 = Não há nada melhor neste mundo do que um pouco de mistério.
+advertisement-discount-3 = Não dê ouvidos a essas outras máquinas, compre meu produto!
+advertisement-discount-4 = Quantidade acima da qualidade!
+advertisement-discount-5 = Não dê ouvidos aos idiotas do CDC, compre agora!
+advertisement-discount-6 = Desconto Dan's: Somos bons para você! Não, não poderia dizer isso com uma cara séria.
+advertisement-discount-7 = Desconto Dan's: apenas produtos da melhor qualidade-*BZZT
+advertisement-discount-8 = Discount Dan(tm) não se responsabiliza por quaisquer danos causados ​​pelo uso indevido de seu produto.
+advertisement-discount-9 = Oferecemos uma grande variedade de lanches baratos!
+thankyou-discount-1 = Obrigado por usar-*BZZT
+thankyou-discount-2 = Lembre-se: não há reembolso!
+thankyou-discount-3 = O problema é seu agora!
+thankyou-discount-4 = Somos legalmente obrigados a lembrá-lo de não comer isso.
+thankyou-discount-5 = Por favor, não nos processe!
+thankyou-discount-6 = Juramos que era assim quando o estocamos!
+thankyou-discount-7 = Sim, boa sorte com isso.
+thankyou-discount-8 = Aproveite o seu, uh... "lanche".

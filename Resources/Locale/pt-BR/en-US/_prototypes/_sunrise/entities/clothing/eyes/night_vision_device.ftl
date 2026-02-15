@@ -1,0 +1,16 @@
+ent-BaseNightVisionDevice = NVD
+    .desc = { ent-BaseItem.desc }
+ent-ClothingEyesNVD = NVD
+    .desc = Dispositivo de visão noturna. Fornece uma imagem do terreno em condições de pouca luz.
+ent-ClothingEyesNVDSec = Segurança NVD
+    .desc = Dispositivo de visão noturna. Fornece uma imagem do terreno em condições de pouca luz.
+    .suffix = segurança
+ent-ClothingEyesNVDMedSec = NVD de segurança médica
+    .desc = Dispositivo de visão noturna. Fornece uma imagem do terreno em condições de pouca luz.
+    .suffix = segurança médica
+ent-ClothingEyesNVDSyndicate = { ent-ClothingEyesNVD }
+    .suffix = sindicato
+    .desc = { ent-ClothingEyesNVD.desc }
+ent-ClothingEyesNVDHandcrafted = { ent-ClothingEyesNVD }
+    .suffix = feito à mão
+    .desc = { ent-ClothingEyesNVD.desc }

@@ -1,0 +1,16 @@
+ent-PersonalAI = dispositivo de IA pessoal
+    .desc = Seu amigo eletrônico com quem é divertido estar!
+ent-SyndicatePersonalAI = distribuir dispositivo pessoal de IA
+    .desc = Seu amigo do Syndicate com quem é divertido estar!
+ent-GoldenPersonalAI = dispositivo pessoal de IA dourado
+    .desc = Seu amigo eletrônico com quem é divertido estar! Edição especial de ouro!
+ent-PotatoAI = inteligência artificial de batata
+    .desc = É uma batata. Você o forçou a ser senciente, seu monstro.
+ent-ActionPAIOpenShop = Catálogo de software
+    .desc = Instale um novo software para ajudar seu proprietário.
+ent-ActionPAIMassScanner = Scanner de massa
+    .desc = Veja uma interface de scanner em massa.
+ent-ActionPAIPlayMidi = Tocar MIDI
+    .desc = Abra sua interface MIDI portátil para acalmar seu proprietário.
+ent-ActionPAIOpenMap = Abrir mapa
+    .desc = Abra a interface do seu mapa e oriente seu proprietário.

@@ -1,0 +1,12 @@
+ent-WeaponShotgunSPAS12 = Spas-12
+    .desc = { ent-BaseWeaponShotgun.desc }
+ent-WeaponShotgunSPAS12Rubber = { ent-WeaponShotgunSPAS12 }
+    .suffix = Não letal
+    .desc = { ent-WeaponShotgunSPAS12.desc }
+ent-WeaponShotgunTrenchgun4034 = Trincheira L-4034
+    .desc = { ent-BaseWeaponShotgun.desc }
+ent-WeaponShotgunTrenchgun4034Sawn = Trincheira Serrada L-4034
+    .desc = { ent-WeaponShotgunTrenchgun4034.desc }
+ent-WeaponShotgunTrenchgun4034SawnEmpty = Trincheira Serrada L-4034
+    .suffix = Vazio
+    .desc = { ent-WeaponShotgunTrenchgun4034Sawn.desc }

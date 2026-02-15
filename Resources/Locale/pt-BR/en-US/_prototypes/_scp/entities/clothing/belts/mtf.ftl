@@ -1,0 +1,14 @@
+ent-ClothingBeltMtfSparePouch = cinto tático
+    .desc = Uma bolsa pequena e leve para fornecer armazenamento adicional. O modelo G8-A mais recente, embora desconfortável, também pode ser preso na cintura.
+ent-ClothingBeltMtfConstruction = cinto de construção
+    .desc = O M277 é um equipamento comum usado por Técnicos de Combate para transportar materiais e outros suprimentos. Consiste num cinto modular com vários clipes. Esta versão sacrifica espaço de armazenamento para clipes de carregamento de material especializado.
+ent-ClothingBeltMtfUtility = cinto de ferramentas
+    .desc = O M276 é o equipamento de suporte de carga padrão. Consiste num cinto modular com vários clipes. Esta versão não possui nenhuma funcionalidade de combate e é comumente usada por engenheiros para transportar ferramentas importantes.
+ent-ClothingBeltMtfMedical = cinto médico
+    .desc = O M276 é o equipamento de suporte de carga padrão. Consiste num cinto modular com vários clipes. Esta versão é uma configuração menos comum, projetada para transportar suprimentos médicos mais volumosos.
+ent-ClothingBeltMtfSecurity = cinto de segurança
+    .desc = O M276 é o equipamento de suporte de carga padrão. Consiste num cinto modular com vários clipes. Essa configuração é comumente vista entre Policiais Militares e forças de manutenção da paz, embora possa conter algumas munições leves.
+ent-ClothingBeltMtfAmmo = cinto de munição
+    .desc = O M276 é o equipamento de suporte de carga padrão. Consiste num cinto modular com vários clipes. Esta é a variante padrão, projetada para operações de transporte de munição a granel.
+ent-ClothingBeltMtfGrenade = cinto de granadas
+    .desc = O M276 é o equipamento de suporte de carga padrão. Consiste num cinto modular com vários clipes. Esta versão foi projetada para transportar até 10 granadas.

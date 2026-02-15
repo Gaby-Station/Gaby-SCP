@@ -1,0 +1,12 @@
+ent-EncryptionKeyLaw = chave de criptografia legal
+    .desc = Uma chave de criptografia usada pela pessoa mais meticulosa.
+ent-EncryptionKeyBlueShield = chave de criptografia escudo azul
+    .desc = { ent-EncryptionKey.desc }
+ent-EncryptionKeyUSSP = Chave de criptografia USSP
+    .desc = Uma chave de criptografia desgastada pelo tempo. Seria melhor você não saber do que eles estão falando.
+ent-EncryptionKeyUSSPSec = Chave de criptografia dos oficiais do USSP
+    .desc = Uma chave de criptografia desgastada pelo tempo. Seria melhor você não saber do que eles estão falando.
+ent-EncryptionKeyUSSPCom = comando chave de criptografia USSP
+    .desc = Uma chave de criptografia desgastada pelo tempo. Seria melhor você não saber do que eles estão falando.
+ent-EncryptionKeySyndieMaster = chave mestra de criptografia vermelho-sangue
+    .desc = Distribua a chave de criptografia para coordenar com aliados e acessar outros canais ; intel is a weapon.

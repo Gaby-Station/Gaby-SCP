@@ -1,0 +1,10 @@
+ent-BaseXenoArtifactItem = artefato
+    .desc = Um estranho artefato de época desconhecida. Parece um bom momento. Cabe perfeitamente na mão.
+ent-ComplexXenoArtifactItem = { ent-BaseXenoArtifactItem }
+    .suffix = Tamanho manual
+    .desc = { ent-BaseXenoArtifactItem.desc }
+ent-ArtifactFragment = fragmento de artefato
+    .desc = Um pedaço quebrado de um artefato. Você provavelmente poderia consertá-lo se tivesse mais.
+ent-ArtifactFragment1 = { ent-ArtifactFragment }
+    .suffix = Solteiro
+    .desc = { ent-ArtifactFragment.desc }

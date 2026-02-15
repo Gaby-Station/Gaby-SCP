@@ -1,0 +1,16 @@
+ent-BaseSword = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-Cutlass = cutelo
+    .desc = Uma lâmina curvada, frequentemente vista nas mãos de piratas espaciais.
+ent-Machete = facão
+    .desc = Uma lâmina grande e de aparência cruel.
+ent-CaptainSabre = sabre do capitão
+    .desc = Uma arma cerimonial pertencente ao capitão da estação.
+ent-Katana = Katana
+    .desc = Artesanato antigo feito com plasteel não tão antigo.
+ent-EnergyKatana = katana de energia
+    .desc = Uma katana infundida com forte energia.
+ent-Claymore = Claymore
+    .desc = Uma antiga lâmina de guerra.
+ent-Throngler = estrangulador
+    .desc = Se a Segurança ousar tirar isso de você, apenas lembre-os de que eles são realmente mortais.

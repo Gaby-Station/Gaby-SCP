@@ -1,0 +1,16 @@
+ent-CarvedPumpkin = abóbora esculpida
+    .desc = Uma decoração tradicional assustadora.
+ent-PumpkinLantern = lanterna
+    .desc = Uma abóbora esculpida, emitindo um brilho misterioso.
+ent-CarvedPumpkinSmall = { ent-CarvedPumpkin }
+    .suffix = Pequeno
+    .desc = { ent-CarvedPumpkin.desc }
+ent-CarvedPumpkinLarge = { ent-CarvedPumpkin }
+    .suffix = Grande
+    .desc = { ent-CarvedPumpkin.desc }
+ent-PumpkinLanternSmall = { ent-PumpkinLantern }
+    .suffix = Pequeno
+    .desc = { ent-PumpkinLantern.desc }
+ent-PumpkinLanternLarge = { ent-PumpkinLantern }
+    .suffix = Grande
+    .desc = { ent-PumpkinLantern.desc }

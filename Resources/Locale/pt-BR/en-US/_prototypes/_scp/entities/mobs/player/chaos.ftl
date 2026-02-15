@@ -1,0 +1,9 @@
+ent-MobHumanChaosLeader = Líder Rebelde do Caos
+    .suffix = CAOS | ANTAG
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanChaosMedic = Médico Rebelde do Caos
+    .suffix = CAOS | ANTAG
+    .desc = { ent-MobHuman.desc }
+ent-MobHumanChaos = Rebelde do Caos
+    .suffix = CAOS | ANTAG
+    .desc = { ent-MobHuman.desc }

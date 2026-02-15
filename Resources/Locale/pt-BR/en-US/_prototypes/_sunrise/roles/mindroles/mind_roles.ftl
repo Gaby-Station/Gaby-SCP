@@ -1,0 +1,12 @@
+ent-MindRoleTerminator = Papel do Exterminador do Futuro
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRoleFugitive = Papel Fugitivo
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRolePlanetPrisoner = Papel do Prisioneiro do Planeta
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRoleVampire = Papel de Vampiro
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-MindRoleLoneAbductor = Papel de Abdutor Solitário
+    .desc = { ent-BaseMindRoleAntag.desc }
+ent-AbductorVictimRole = Vítima sequestradora
+    .desc = { ent-BaseMindRoleAntag.desc }

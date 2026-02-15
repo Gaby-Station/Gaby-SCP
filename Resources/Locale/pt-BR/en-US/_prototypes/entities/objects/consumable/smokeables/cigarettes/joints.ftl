@@ -1,0 +1,10 @@
+ent-Joint = articulação
+    .desc = Um rolo de matéria vegetal seca embrulhado em papel fino.
+ent-JointRainbow = articulação
+    .desc = Um rolo de matéria vegetal seca embrulhado em papel fino. Parece ser colorido por dentro.
+    .suffix = Arco-íris
+ent-Blunt = cego
+    .desc = Um rolo de matéria vegetal seca embrulhado em uma folha seca de tabaco.
+ent-BluntRainbow = cego
+    .desc = Um rolo de matéria vegetal seca embrulhado em uma folha seca de tabaco. Parece ser colorido por dentro.
+    .suffix = Arco-íris

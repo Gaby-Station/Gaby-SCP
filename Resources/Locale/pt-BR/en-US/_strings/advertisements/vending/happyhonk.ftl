@@ -1,0 +1,14 @@
+﻿advertisement-happyhonk-1 = Buzina! Buzina! Por que não pedir um Happy Honk Meal hoje?
+advertisement-happyhonk-2 = Palhaços merecem um abraço, se você vir um não deixe de demonstrar seu agradecimento.
+advertisement-happyhonk-3 = Se você encontrar o Golden Honker, então ore aos deuses, você é uma pessoa de sorte.
+advertisement-happyhonk-4 = Happy Honk: é uma refeição, é um acordo, tem um brinquedo de plástico que vai te fazer gritar.
+advertisement-happyhonk-5 = O que há de preto, branco e vermelho? O mímico e ela morreram devido a um traumatismo cranioencefálico.
+advertisement-happyhonk-6 = Quantos agentes de segurança são necessários para prender você? Três, um para espancá-lo até a morte, um para algemá-lo e um para despejar seu corpo em manutenção.
+advertisement-happyhonk-7 = A Happy Honk não se responsabiliza pela qualidade dos alimentos colocados nas nossas caixas de refeição Happy Honk.
+advertisement-happyhonk-8 = Por que não pedir a nossa edição limitada Mime Happy Honk Meal?
+advertisement-happyhonk-9 = Happy Honk é uma marca registrada da Honk! co. e é muito superior à Robust Nukie Food corp.
+advertisement-happyhonk-10 = Nossas refeições Happy Honk certamente oferecerão uma grande surpresa!
+thankyou-happyhonk-1 = Buzina!
+thankyou-happyhonk-2 = Buzina, buzina!
+thankyou-happyhonk-3 = Vá compartilhar a diversão! Buzina!
+thankyou-happyhonk-4 = Vá escorregar pessoal! Buzina!

@@ -1,0 +1,13 @@
+ent-BaseNuclearBomb = explosivo de fissão nuclear
+    .desc = { ent-BaseStructure.desc }
+ent-NuclearBomb = { ent-BaseNuclearBomb }
+    .desc = Você provavelmente não deveria ficar por aqui para ver se isso está armado.
+ent-NuclearBombUnanchored = { ent-NuclearBomb }
+    .suffix = não ancorado
+    .desc = { ent-NuclearBomb.desc }
+ent-NuclearBombDisarmed = { ent-BaseNuclearBomb }
+    .desc = Você pode ver claramente que este país não pode ser armado, dada a falta de material nuclear.
+    .suffix = Desarmado
+ent-NuclearBombKeg = explosivo de fissão nuclear
+    .desc = Você provavelmente não deveria ficar por aqui para ver se isso está armado. Possui torneira lateral.
+    .suffix = barril

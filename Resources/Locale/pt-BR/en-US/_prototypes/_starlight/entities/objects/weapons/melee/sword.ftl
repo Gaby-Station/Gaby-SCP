@@ -1,0 +1,10 @@
+ent-SwordMakeshift = espada improvisada
+    .desc = Algum aço afiado afixado a uma haste de metal, dificilmente pode ser chamado de espada.
+ent-SwordImprovised = espada improvisada
+    .desc = Não é muito afiado, mas faz o trabalho perfeitamente.
+ent-SwordForged = espada forjada
+    .desc = Feito com plasteel, um único toque da lâmina é suficiente para tirar sangue.
+ent-SwordFlaming = amanhecer
+    .desc = Como você aperfeiçoa a perfeição? Ora, use fogo, é claro! Seja a luz brilhante através das manutenções e lute valentemente!
+ent-ClaymoreForged = quebra-marés
+    .desc = A arma perfeita para um aspirante a cavaleiro maints!

@@ -1,0 +1,12 @@
+ent-Spear = lança
+    .desc = Definição de um clássico. Mantendo o assassinato acessível desde 200.000 aC.
+ent-SpearReinforced = lança reforçada
+    .desc = Uma lança com um caco de vidro reforçado como ponta.
+ent-SpearPlasma = lança de plasma
+    .desc = Uma lança com um fragmento de plasma como ponta.
+ent-SpearUranium = lança de urânio
+    .desc = Uma lança com um fragmento de urânio na ponta.
+ent-SpearBone = lança de osso
+    .desc = Uma lança feita de ossos.
+ent-SpearSharkMinnow = lança de dente de tubarão
+    .desc = Uma lança com um dente de tubarão como ponta.

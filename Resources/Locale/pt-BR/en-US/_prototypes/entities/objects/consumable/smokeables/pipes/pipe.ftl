@@ -1,0 +1,11 @@
+ent-SmokingPipe = cano
+    .desc = Assim como o vovô costumava fumar.
+ent-SmokingPipeFilledTobacco = cano
+    .desc = Assim como o vovô costumava fumar.
+    .suffix = Tabaco
+ent-SmokingPipeFilledCannabis = cano
+    .desc = Assim como o vovô costumava fumar.
+    .suffix = Cannabis
+ent-SmokingPipeFilledCannabisRainbow = cano
+    .desc = Assim como o vovô costumava fumar.
+    .suffix = Cannabis arco-íris
