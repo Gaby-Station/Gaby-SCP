@@ -71808,84 +71808,84 @@ entities:
       pos: 23.5,164.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 096
+      text: Câmara 096
   - uid: 11398
     components:
     - type: Transform
       pos: 83.5,205.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 457
+      text: Câmara 457
   - uid: 11399
     components:
     - type: Transform
       pos: 24.5,188.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 082
+      text: Câmara 082
   - uid: 11400
     components:
     - type: Transform
       pos: 50.5,189.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 049
+      text: Câmara 049
   - uid: 11401
     components:
     - type: Transform
       pos: 57.5,158.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 035
+      text: Câmara 035
   - uid: 11402
     components:
     - type: Transform
       pos: 109.5,102.5
       parent: 2
     - type: NavMapBeacon
-      text: Тестовая камера
+      text: Câmara de Teste
   - uid: 11403
     components:
     - type: Transform
       pos: 92.5,101.5
       parent: 2
     - type: NavMapBeacon
-      text: Блок хранения корманных SCP
+      text: Bloco de Armazenamento de SCP de Bolso
   - uid: 11404
     components:
     - type: Transform
       pos: 83.5,131.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 173
+      text: Câmara 173
   - uid: 11405
     components:
     - type: Transform
       pos: -6.5,170.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 939
+      text: Câmara 939
   - uid: 11406
     components:
     - type: Transform
       pos: 49.5,157.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 079
+      text: Câmara 079
   - uid: 11407
     components:
     - type: Transform
       pos: 16.5,224.5
       parent: 2
     - type: NavMapBeacon
-      text: Камера 106
+      text: Câmara 106
   - uid: 11408
     components:
     - type: Transform
       pos: 37.5,221.5
       parent: 2
     - type: NavMapBeacon
-      text: Свободная камера для гуманоидов
+      text: Câmara Livre para Humanóides
 - proto: DefaultStationBeaconAI
   entities:
   - uid: 11409
@@ -71925,7 +71925,7 @@ entities:
       pos: -11.5,132.5
       parent: 2
     - type: NavMapBeacon
-      text: Д блок
+      text: Bloco D
 - proto: DefaultStationBeaconArrivals
   entities:
   - uid: 11415
@@ -72018,36 +72018,14 @@ entities:
       parent: 2
 - proto: DefaultStationBeaconEscapePod
   entities:
-  - uid: 11429
-    components:
-    - type: Transform
-      pos: -0.5,181.5
-      parent: 2
     - type: NavMapBeacon
-      text: Убежище
-  - uid: 11430
-    components:
-    - type: Transform
-      pos: 77.5,191.5
-      parent: 2
+      text: Abrigo
     - type: NavMapBeacon
-      text: Убежище
-  - uid: 11431
-    components:
-    - type: MetaData
-      name: Убежище
-    - type: Transform
-      pos: 68.5,92.5
-      parent: 2
+      text: Abrigo
     - type: NavMapBeacon
-      text: Убежище
-  - uid: 11432
-    components:
-    - type: Transform
-      pos: 18.5,90.5
-      parent: 2
+      text: Abrigo
     - type: NavMapBeacon
-      text: Убежище
+      text: Abrigo
   - uid: 11433
     components:
     - type: Transform
@@ -151622,25 +151600,25 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-131
+        Objeto Nº: SCP-131
 
 
-        Класс объекта: Безопасный
+        Classe do Objeto: Seguro
 
 
-        Особые условия содержания: Никаких особых действий в отношении SCP-131-A и SCP-131-B предпринимать не требуется. Им позволено свободно перемещаться по Зоне 19, но запрещено входить в режимные помещения или пытаться покинуть Зону. Общение с субъектами разрешено, но рекомендуется сводить его к минимуму, чтобы у субъектов не выработалось привязанности к сотрудникам. Следует ежечасно отслеживать местонахождение субъектов, несоблюдение этого условия влечёт за собой карантинную ситуацию первого уровня. Все случаи грубого обращения с субъектами будут расследованы, виновные понесут суровое наказание.
+        Condições Especiais de Contenção: Nenhuma ação especial em relação ao SCP-131-A e SCP-131-B é necessária. É permitido que se desloquem livremente pela Zona 19, mas é proibido entrar em salas especiais ou tentar deixar a Zona. A comunicação com os sujeitos é permitida, mas é recomendado mantê-la ao mínimo para evitar que os sujeitos desenvolvam apego aos funcionários. O paradeiro dos sujeitos deve ser monitorado a cada hora; o não cumprimento desta condição resulta em uma situação de quarentena de nível um. Todos os casos de maus-tratos aos sujeitos serão investigados e os culpados receberão punição severa.
 
 
-        Описание: SCP-131-A и SCP-131-B (сотрудники любовно прозвали их "каплеглазики") - два создания с каплевидной формой тела, примерно 30 сантиметров в высоту. В середине тела расположен один голубой глаз. SCP-131-A имеет охровый окрас, SCP-131-B - горчично-жёлтый. В основании тела обоих есть образование, напоминающее колесо, что наталкивает на мысль о биомеханической природе созданий. Субъекты могут двигаться удивительно быстро, проходя 60 метров за несколько секунд. Стоит отметить, что у субъектов нет тормозной системы, что не раз приводило к небезынтересным, а то и вовсе забавным, происшествиям. Также субъекты проявили способность карабкаться по отвесным поверхностям и не раз терялись в вентиляционной системе.
+        Descrição: SCP-131-A e SCP-131-B (os funcionários carinhosamente os chamam de "olhos-gota") são duas criaturas com forma de corpo em forma de gota, aproximadamente 30 centímetros de altura. No meio do corpo está localizado um olho azul. SCP-131-A tem coloração ocre, SCP-131-B tem coloração amarelo-mostarda. Na base do corpo de ambas existe uma formação semelhante a uma roda, sugerindo a natureza biomecânica das criaturas. Os sujeitos podem se mover surpreendentemente rápido, cobrindo 60 metros em poucos segundos. Vale notar que os sujeitos não têm sistema de frenagem, o que resultou em vários incidentes interessantes ou até engraçados. Os sujeitos também demonstraram capacidade de escalar superfícies verticais e se perderam repetidamente no sistema de ventilação.
 
 
-        Интеллект субъектов находится на уровне обычной домашней кошки, к тому же они невероятно любопытны. Большую часть времени они проводят, катаясь по учреждению, наблюдая за сотрудниками и подглядывая за другими безопасными SCP. Субъекты могут переговариваться при помощи непереводимого писклявого бормотания. Никто никогда не видел, чтобы они моргали, даже в опыте, когда их снимали на камеру 18 часов подряд.
+        A inteligência dos sujeitos está no nível de um gato doméstico comum e eles são incrivelmente curiosos. Eles passam a maior parte do tempo rolando pela instalação, observando os funcionários e espiando outros SCPs seguros. Os sujeitos podem se comunicar através de um borbulho estridente intraduzível. Ninguém nunca os viu piscar, mesmo em um experimento em que foram filmados continuamente por 18 horas.
 
 
-        Субъекты хорошо реагируют на доброту к ним и быстро привязываются к тому, кто эту доброту проявляет, примерно так же, как щенки привязываются к человеку. Они будут преследовать того, к кому привязались, повсюду, даже в режимные зоны. Несмотря на своё любопытство, субъекты чувствуют опасность, когда она рядом, а если объект их привязанности начинает приближаться к тому, что они считают опасными (например, к объектам класса Евклид или Кетер), они станут носиться под ногами (или другими конечностями) и что-то бормотать паническим голосом, словно предупреждая. Поскольку персонал Зоны 19 ежедневно сталкивается с объектами класса Евклид и Кетер, сотрудникам не рекомендуется создавать привязанность, т. к. это отвлекает во время сложных операций и исследований и может подставить под угрозу самих субъектов (см. приложение 131-1). Если объект привязанности будет достаточно долго игнорировать субъектов, они в конце концов утратят интерес и вернутся к обычной деятельности.
+        Os sujeitos respondem bem à gentileza e se apegam rapidamente àqueles que a demonstram, de maneira semelhante a como filhotes se apegam aos humanos. Eles perseguem aquele ao qual se apegaram em todos os lugares, mesmo em zonas especiais. Apesar de sua curiosidade, os sujeitos sentem perigo quando está próximo, e se o objeto de seu apego começar a se aproximar do que consideram perigoso (por exemplo, objetos de classe Euclídio ou Keter), começarão a correr entre os pés (ou outras extremidades) e dar gemidos em voz de pânico, como se avassassem. Como o pessoal da Zona 19 interage diariamente com objetos de classe Euclídio e Keter, não é recomendado que os funcionários desenvolvam apego, pois isso distrai durante operações e pesquisas complexas e pode colocar os próprios sujeitos em risco (ver apêndice 131-1). Se o objeto de apego ignorar suficientemente os sujeitos por um tempo, eles eventualmente perderão o interesse e retornarão às atividades normais.
 
 
-        Стоит отметить, что за субъектами не требуется какой-либо уход. Они не едят, отходов пищеварения тоже нет, и во сне не нуждаются. Похоже, что для жизни им требуется только утолять информационный голод (требуются дополнительные исследования для проверки этой гипотезы).
+        Vale notar que nenhum cuidado é necessário com os sujeitos. Eles não comem, não há resíduos de digestão e não precisam de sono. Parece que para viver eles só precisam satisfazer a fome de informação (pesquisas posteriores são necessárias para testar esta hipótese).
   - uid: 22527
     components:
     - type: Transform
@@ -151648,28 +151626,28 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-999
+        Objeto Nº: SCP-999
 
 
-        Класс объекта: Безопасный
+        Classe do Objeto: Seguro
 
 
-        Особые условия содержания: SCP-999 дозволяется свободно бродить по территории комплекса, если оно того пожелает. В остальных случаях необходимо держать его внутри загончика с 20:00 до 21:00 или во время блокировки всей Зоны ради безопасности существа. Существу не разрешается выходить из загончика ночью или покидать территорию комплекса. Загончик всегда должен быть чист, еду следует приносить дважды в день. В зону содержания SCP-999 разрешено входить всем сотрудникам, но только если в это время у них нет других дел или если у них перерыв. С существом следует играть, когда ему скучно, говорить с ним нужно спокойным голосом, избегая угрожающего тона.
+        Condições Especiais de Contenção: SCP-999 é permitido vaguear livremente pelo complexo se desejar. Caso contrário, deve ser mantido em um recinto das 20:00 às 21:00 ou durante lockdowns da Zona para a segurança da criatura. A criatura não pode sair do recinto à noite nem deixar o complexo. O recinto deve estar sempre limpo e a comida deve ser fornecida duas vezes ao dia. Todo o pessoal tem permissão para visitar a área de contenção de SCP-999, mas apenas se não tiverem outras tarefas ou se tiverem um intervalo. A criatura deve ser brincada quando entediada e deve ser falada em tom calmo, evitando tom ameaçador.
 
 
-        Описание: SCP-999 выглядит как большая аморфная студенистая масса прозрачной оранжевой слизи, весящая приблизительно 54 кг (120 фунтов) и обладающая вязкостью как у арахисового масла. Размер существа и его форма легко изменяются, хотя в состоянии покоя оно принимает форму приплюснутой полусферы шириной 2 м и высотой 1 м. Поверхность SCP-999 покрыта тонкой прозрачной мембраной, как у животных клеток, толщиной примерно 0,5 см. Эта мембрана обладает чрезвычайной эластичностью, что позволяет SCP-999 сплющиваться до толщины в 2 см. И хотя поверхность тела существа обладает свойством гидрофобности, оно способно поглощать жидкости (см. Приложение SCP-999-A). Все тело существа состоит из вязкого оранжевого вещества, химический состав вещества, из которого состоит SCP-999, неизвестен, однако в нём легко могут перевариваться органические соединения.
+        Descrição: SCP-999 parece uma grande massa gelatinosa amorfa de muco laranja transparente pesando aproximadamente 54 kg (120 libras) com uma viscosidade semelhante à manteiga de amendoim. O tamanho da criatura e sua forma mudam facilmente, embora em repouso assuma a forma de um hemisfério achatado com 2 m de largura e 1 m de altura. A superfície de SCP-999 é coberta por uma membrana fina e transparente como a das células animais, aproximadamente 0,5 cm de espessura. Esta membrana é extremamente elástica, permitindo que SCP-999 se achate até 2 cm de espessura. Embora a superfície do corpo da criatura seja hidrofóbica, ela pode absorver líquidos (ver Apêndice SCP-999-A). O corpo inteiro da criatura consiste em uma substância laranja viscosa; a composição química da substância que compõe SCP-999 é desconhecida, porém pode digerir facilmente compostos orgânicos.
 
 
-        Характер существа лучше всего можно описать как "игривый", в чём-то его поведение схоже с собачьим: если к нему подойти, SCP-999 будет изображать бурный восторг, подползет к ближайшему человеку и запрыгнет на него, "обнимая" его парой ложноножек, а третьей прижимаясь к лицу человека, всё время издавая высокий звук, похожий на булькание и воркование. Поверхность SCP-999 испускает приятный аромат, который различается в зависимости от того, с кем оно взаимодействует. Были зафиксированы запахи шоколада, свежевыстиранного белья, бекона, роз и пластилина Play-Doh™.
+        O temperamento da criatura é melhor descrito como "lúdico"; de certa forma seu comportamento é semelhante ao canino: se alguém se aproximar, SCP-999 mostrará entusiasmo arrebatador, gatinhará em direção à pessoa mais próxima e saltará sobre ela, "abraçando" com alguns pseudópodes enquanto prensa o rosto humano contra si, continuamente emitindo um som alto semelhante a borbulhos e arrulhos. A superfície de SCP-999 emite um aroma agradável que varia dependendo de com quem está interagindo. Aromas de chocolate, roupa fresca lavada, bacon, rosas e massa Play-Doh™ foram registrados.
 
 
-        Прикосновение к поверхности SCP-999 немедленно вызывает лёгкую эйфорию, которая становится сильнее в зависимости от времени соприкосновения с объектом и длится ещё долгое время после отделения от существа. Больше всего SCP-999 любит устраивать "щекоточную борьбу", полностью обволакивая человека от шеи до самых пяток и щекоча его, пока ему не будет приказано остановиться (хотя оно не всегда выполняет этот приказ). И хотя при этом возможны случаи травматизации, SCP-999 никогда не старается причинить людям вред предумышленно; если существо заметит, что своими действиями нанесло вред человеку, то быстро отползёт в сторону и свернётся в дрожащий шар, издавая при этом звук, похожий на собачье скуление, как будто извиняясь за свой проступок.
+        O toque na superfície de SCP-999 causa imediatamente uma leve euforia que intensifica dependendo do tempo de contato com o objeto e persiste muito tempo após a separação da criatura. SCP-999 mais gosta de "lutas de cócegas", revestindo completamente uma pessoa do pescoço aos pés e fazendo cócegas até ser ordenado a parar (embora nem sempre obedeça). Embora traumas possam ocorrer, SCP-999 nunca tenta deliberadamente prejudicar pessoas; se notar que seus actions prejudicaram alguém, rápidamente se afasta e se enrola em uma bola tremendo, emitindo um som semelhante a um chorinho de cachorro, como se pedisse desculpas.
 
 
-        Хотя существо может взаимодействовать с любым человеком, оно, похоже, проявляет особый интерес к тем, кто несчастен или подавлен. Люди, страдающие от депрессии или ПТСР, после взаимодействия с SCP-999 становились бодры и приобретали крайне позитивное восприятие жизни. Обсуждалась возможность продажи слизи SCP-999 в качестве антидепрессанта.
+        Embora a criatura possa interagir com qualquer pessoa, parece mostrar especial interesse em quem está infeliz ou deprimido. Pessoas sofrendo de depressão ou TEPT ficaram alegres e alegres após interação com SCP-999. Foi discutida a possibilidade de comercializar a baba de SCP-999 como antidepressivo.
 
 
-        Кроме своего игривого поведения, SCP-999 также любит всех животных (особенно людей), отказывается есть любое мясо и даже рискует собственной жизнью для спасения других - например, прыгая перед человеком, чтобы принять на себя пулю (разумность существа всё ещё является предметом споров: хотя его поведение кажется инфантильным, оно, похоже, понимает человеческую речь и назначение большинства современных технологий, в том числе и оружия). Рацион существа состоит исключительно из сладостей и конфет, больше всего оно любит конфеты M&M's™ и вафли Necco™. Способ питания подобен таковому у амебы.
+        Além de seu comportamento lúdico, SCP-999 ama todos os animais (particularmente pessoas), recusa qualquer carne e até arrisca sua própria vida para salvar outros - por exemplo, pulando na frente de uma pessoa para absorver uma bala (a inteligência da criatura ainda é objeto de debate: embora seu comportamento pareça infantil, parece compreender a fala humana e a maioria das tecnologias modernas, incluindo armas). A dieta da criatura consiste exclusivamente de doces, preferindo doces M&M's™ e biscoitos Necco™. Seu método de alimentação é semelhante ao de uma ameba.
   - uid: 22528
     components:
     - type: Transform
@@ -151704,13 +151682,13 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        В 1:23:04 начался эксперимент. Из-за снижения оборотов насосов, подключённых к выбегающему генератору, и положительного парового коэффициента реактивности реактор испытывал тенденцию к увеличению мощности, однако в течение почти всего времени эксперимента поведение мощности не внушало опасений.
+        Às 1:23:04 o experimento começou. Devido à redução da velocidade das bombas conectadas ao gerador backup e ao coeficiente positivo de reatividade de vapor, o reator tendia a aumentar a potência, mas durante quase todo o tempo do experimento o comportamento da potência não causava preocupação.
 
 
-        В 1:23:39 зарегистрирован сигнал аварийной защиты АЗ-5 от нажатия кнопки на пульте оператора. Поглощающие стержни начали движение в активную зону, однако вследствие их неправильной конструкции и низкого оперативного запаса реактивности реактор был не заглушён, а наоборот, начал разгоняться. В следующие несколько секунд зарегистрированы различные сигналы, свидетельствующие об очень быстром росте мощности, затем регистрирующие системы вышли из строя.
+        Às 1:23:39 um sinal de proteção de emergência AZ-5 foi registrado do pressionar do botão no painel do operador. As barras absorvedoras começaram a se mover na zona ativa, mas devido ao seu projeto inadequado e rápida resposta insuficiente de reatividade, o reator não foi desligado, mas ao contrário, começou a entrar em fuga. Nos segundos seguintes vários sinais foram registrados indicando um rápido aumento de potência, e então os sistemas de registro falharam.
 
 
-        Произошло несколько мощных взрывов, и к 1:23:47—1:23:50 реактор был полностью разрушен.
+        Várias explosões poderosas ocorreram e entre 1:23:47—1:23:50 o reator foi completamente destruído.
                                                               ☢
   - uid: 22534
     components:
@@ -151734,30 +151712,30 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Продолжение записи 11
+        Continuação do registro 11
 
 
 
-        Это было ужасно, доктор ▆▆▆▆рд▆ проводил опыты над 008.
+        Foi horrível, o doutor ▆▆▆▆rd▆ estava realizando experimentos com 008.
 
 
-        Черт, наверное мне не нужно было писать его имя.
+        Droga, provavelmente não deveria ter escrito seu nome.
 
 
-        В общем, он то ли нарушил технику безопасности, то ли специально заразился.. Я точно не знаю как это было, всё об этом случае я узнал от одного из сотрудников ТЗС.
+        Enfim, ele violou o protocolo de segurança ou talvez tenha se infectado deliberadamente.. Não tenho certeza de como aconteceu, descobri tudo sobre este incidente por um funcionário do departamento de segurança.
 
 
-        К▆▆▆, тот сотрудник, тогда учавствовала в ВУС 008, она убила доктора, того самого, который проводил эксперимент и обратился в зомби. 
+        K▆▆▆, esse funcionário, então participou de um procedimento especial de contenção com 008, e matou o doutor que realizava o experimento e se virou em zumbi.
 
-        Я давно знаю ▆▆р▆, она... Она не плохая девушка, спокойная, временами даже весёлая, но в тот день... Тогда она выглядела так, будто ей понравилось то что было во время НУС 008.
-
-
-        Сейчас зона содержания 008 перекрыта, ▆▆▆а сказала что там всё перевернули вверх дном.
+        Conheço ▆▆r▆ há muito tempo, ela... Ela não é uma garota má, calma, às vezes até alegre, mas naquele dia... Ela parecia gostar do que aconteceu durante o procedimento especial com 008.
 
 
-        А, я забыл, там же всё было настолько плохо, что вызывали Бета-7, каких-то там "болванчиков". Не знаю точно, не интересовался я этим всем, но Бета-7 это вроде РХБЗ или что-то такое.
+        Agora a zona de contenção de 008 permanece selada, ▆▆▆a disse que lá tudo foi virado de cabeça para baixo.
 
-                                                                                             Страница 12
+
+        Ah, esqueci, as coisas ficaram tão ruins que precisaram chamar Beta-7, esses "bonecos". Não tenho certeza, não me interessei muito, mas Beta-7 é aparentemente algum tipo de CBRN ou algo assim.
+
+                                                                                             Página 12
   - uid: 22537
     components:
     - type: Transform
@@ -151890,14 +151868,14 @@ entities:
       pos: -19.493803,49.600845
       parent: 2
     - type: Paper
-      content: Реактор РБМК-10000 - это передовой реактор типа РБМК, хотя в текущем виде РБМК-10000 не имеет той самой канальной системы, благодаря узноваемому образу и большой энерговыроботке реактор сохранил своё название.
+      content: O Reator RBMK-10000 é um reator RBMK de ponta, embora na sua forma atual o RBMK-10000 não possua o mesmo sistema de canal, graças à sua aparência reconhecível e grande produção de energia, o reator manteve seu nome.
   - uid: 22559
     components:
     - type: Transform
       pos: -10.020332,175.38066
       parent: 2
     - type: Paper
-      content: Не забывайте обучать персонал пользоваться вещами для отвлечения 939, это продлевает жизнь.
+      content: Não esqueça de treinar a equipe a usar coisas para distrair 939, isso prolonga a vida.
   - uid: 22560
     components:
     - type: Transform
@@ -151912,37 +151890,37 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-096
+        Objeto Nº: SCP-096
 
 
-        Класс объекта: Евклид
+        Classe do Objeto: Euclídeo
 
 
-        Особые условия содержания: SCP-096 должен постоянно содержаться в своей камере (герметичный стальной куб 5х5х5 м). Обязательны еженедельные проверки на наличие любых трещин или отверстий. Внутри камеры SCP-096 не должно быть абсолютно никаких устройств видеонаблюдения или оптических приборов. Сотрудники службы охраны должны использовать предварительно установленные датчики давления и лазерные детекторы, чтобы убедиться, что SCP-096 находится в камере.
+        Condições Especiais de Contenção: SCP-096 deve ser permanentemente contido em sua própria câmara (um cubo de aço hermético de 5x5x5 m). Inspeções semanais obrigatórias para qualquer rachadura ou abertura. Não deve haver absolutamente nenhum dispositivo de vigilância por vídeo ou instrumentos óticos dentro da câmara SCP-096. O pessoal de segurança deve usar sensores de pressão preinstalados e detectores de laser para garantir que o SCP-096 permaneça na câmara.
 
 
-        Все фото, видео или описания внешности SCP-096 строго запрещены без согласования с доктором ███ и O5-█.
+        Todas as fotos, vídeos ou descrições da aparência de SCP-096 são estritamente proibidas sem aprovação do Doutor ███ e O5-█.
 
 
-        Описание: SCP-096 – гуманоидное существо ростом приблизительно 2,38 метра. У субъекта наблюдается малое количество мышечной массы, предварительные анализы массы тела показывают легкое недоедание. Руки непропорционально велики по отношению к телу объекта, длина каждой равна примерно 1,5 м. Кожа в основном лишена пигментации, признаки волос на теле отсутствуют.
+        Descrição: SCP-096 é uma criatura humanóide com aproximadamente 2,38 metros de altura. O indivíduo tem pouca massa muscular; análises preliminares de peso corporal indicam desnutrição leve. Os braços são desproporcionalmente grandes em relação ao corpo do objeto, cada um com aproximadamente 1,5 m de comprimento. A pele é amplamente despigmentada, sem sinais de pelos no corpo.
 
 
-        Челюсти SCP-096 могут открываться в четыре раза шире нормы для среднего человека. Другие черты лица аналогичны средним человеческим, за исключением глаз, которые также лишены пигментации. На данный момент неизвестно, слеп SCP-096 или нет. Он не показывает признаков высших мозговых функций, его разумность не подтверждена.
+        A mandíbula de SCP-096 pode abrir quatro vezes mais do que a normal para um humano médio. Outras características faciais são semelhantes à média humana, exceto pelos olhos, que também carecem de pigmentação. Atualmente, é desconhecido se o SCP-096 é cego. Ele não mostra sinais de funções cerebrais superiores; sua inteligência não foi confirmada.
 
 
-        Как правило, SCP-096 чрезвычайно спокоен, датчики давления в камере указывают, что он проводит большую часть дня, прохаживаясь вдоль восточной стены. Однако когда кто-либо видит лицо SCP-096, будь это непосредственно, на видеозаписи, или даже на фотографии, - он приходит в состояние крайнего эмоционального переживания. SCP-096 закрывает лицо руками и начинает кричать, плакать и невнятно бормотать. Приблизительно через одну-две (1-2) минуты после первого просмотра SCP-096 бежит к увидевшему его лицо (далее обозначается как SCP-096-1).
+        Tipicamente, SCP-096 é extremamente calmo; sensores de pressão na câmara indicam que passa a maior parte do dia caminhando ao longo da parede leste. No entanto, quando alguém vê o rosto de SCP-096, seja diretamente, em vídeo ou até em fotografia, ele entra em um estado de extrema angústia emocional. SCP-096 cobre o rosto com as mãos e começa a gritar, chorar e murmurar incoerentemente. Aproximadamente um a dois (1-2) minutos após o primeiro avistamento, SCP-096 corre em direção ao que viu seu rosto (doravante designado SCP-096-1).
 
 
-        Задокументированная скорость варьируется от 35 до ███ км/ч, и, видимо, зависит от расстояния до SCP-096-1. На данный момент ни один известный материал или метод не может препятствовать движению SCP-096. Фактическое расположение  SCP-096-1 не оказывает видимого влияния на реакцию SCP-096; он, похоже, обладает врожденным чутьем местонахождения SCP-096-1. Примечание: эта реакция не появляется, если смотреть на художественные изображения (см. Документ 096-1).
+        A velocidade documentada varia de 35 a ███ km/h, e aparentemente depende da distância até SCP-096-1. Nenhum material ou método conhecido pode impedir o movimento de SCP-096. A localização real de SCP-096-1 não parece ter efeito visível na reação de SCP-096; ele parece possuir um instinto inato para localizar SCP-096-1. Nota: essa reação não ocorre ao olhar para imagens artísticas (ver Documento 096-1).
 
 
-        По прибытии в расположение SCP-096-1 SCP-096 приступает к убийству и ДАННЫЕ УДАЛЕНЫ SCP-096-1. В 100% случаев не остается и следа от SCP-096-1. После этого SCP-096 садится на несколько минут, прежде чем снова обретет хладнокровие и станет послушным. Затем он попытается вернуться в свое естественное место обитания, ДАННЫЕ УДАЛЕНЫ.
+        Ao chegar à localização de SCP-096-1, SCP-096 procede a matar e DADOS REMOVIDOS SCP-096-1. Em 100% dos casos, nenhum traço permanece de SCP-096-1. Depois disso, SCP-096 fica sentado por vários minutos antes de recuperar a serenidade e se tornando dócil. Ele então tentará retornar ao seu habitat natural, DADOS REMOVIDOS.
 
 
-        В связи с возможностью массовой цепной реакции, включающей нарушение секретности Организации и большие потери среди гражданских, розыску субъекта должен быть присвоен Альфа-приоритет.
+        Devido à possibilidade de uma reação em cadeia em massa envolvendo violação de segurança organizacional e grande perda de vida civil, a busca pelo objeto deve ser atribuída prioridade Alfa.
 
 
-        Доктор ███ также ходатайствовал о немедленном уничтожении SCP-096 (см. интервью 096-1). Приказ об уничтожении подтвержден и должен быть выполнен доктором ███ ДАННЫЕ УДАЛЕНЫ.
+        O Doutor ███ também peticionou pela destruição imediata de SCP-096 (ver Entrevista 096-1). A ordem de destruição foi confirmada e deve ser executada pelo Doutor ███ DADOS REMOVIDOS.
   - uid: 22562
     components:
     - type: Transform
@@ -151986,31 +151964,31 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-939
+        Objeto Nº: SCP-939
 
 
-        Класс объекта: Кетер
+        Classe do Objeto: Keter
 
 
-        Особые условия содержания: SCP-939-1, -3, -19, -53, -89, -96, -98, -99 и -109 содержатся в ячейке 1163-А. Обе ячейки имеют размер 14x6x3 метра и находятся в ДАННЫЕ УДАЛЕНЫ. Обе ячейка снабжена системой климат-контроля; внутри поддерживается пониженное давление. Стены ячеек железобетонные. Доступ осуществляется посредством дезактивационной камеры, внутренняя дверь которой сделана из стали и герметична. Смотровые окна изготовлены из слоёного пуленепробиваемого стекла толщиной 10 см, между слоями которого проложена металлическая сетка под напряжением 100 киловольт. Относительная влажность внутри ячеек составляет 100%, температура - 16° C. Наблюдение за особями осуществляется посредством камер, работающих в инфракрасном диапазоне.
+        Condições Especiais de Contenção: SCP-939-1, -3, -19, -53, -89, -96, -98, -99 e -109 são contidos na cela 1163-A. Ambas as celas têm dimensões de 14x6x3 metros e estão localizadas em DADOS REMOVIDOS. Ambas as celas estão equipadas com sistema de controle climático; pressão reduzida é mantida dentro. As paredes das celas são de concreto armado. O acesso é obtido através de uma câmara de descontaminação, cuja porta interna é feita de aço e é hermética. As janelas de observação são feitas de vidro blindado laminado com 10 cm de espessura, com uma malha de metal sob tensão de 100 quilovolts entre as camadas. A umidade relativa dentro das celas é de 100%, temperatura de 16°C. A observação dos indivíduos é realizada através de câmeras operando na faixa infravermelha.
 
 
-        Ячейки содержания следует проверять с периодичностью раз в две недели. Во время проверки SCP-939 переводятся в соседнюю ячейку. В это время дверь и окна ячейки следует осмотреть на предмет повреждений, при необходимости - починить или заменить.
+        As celas de contenção devem ser inspecionadas a cada duas semanas. Durante a inspeção, SCP-939 é transferido para a cela adjacente. Durante este tempo, a porta e as janelas da cela devem ser inspecionadas quanto a danos, e reparadas ou substituídas conforme necessário.
 
 
-        При работе с SCP-939, а также при посещении мест, где раньше обитали SCP-939, сотрудникам следует носить комплекты хим. защиты по классу C.1
+        Ao trabalhar com SCP-939 e ao visitar locais onde SCP-939 habitava anteriormente, os funcionários devem usar trajes de proteção química classe C.1
 
 
-        Описание: SCP-939 - теплокровные стайные хищники, некоторые органы и системы которых атрофировались, как у троглобионтов. Кожа SCP-939 хорошо пропускает влагу, красная и полупрозрачная из-за насыщенности похожим на гемоглобин веществом. Средний рост особи SCP-939, прямо стоящей на задних конечностях - 2,2 метра, а вес - 250 кг, хотя от этой величины могут быть значительные отклонения. На каждой из четырёх конечностей имеется по три снабжённых когтем пальца, напротив которых расположен большой палец. Конечности покрыты щетинками, что весьма положительно влияет на способность SCP-939 к лазанию. Головы вытянутые, глаз или глазниц нет, мозгового черепа нет. Челюсти SCP-939 снабжены заострёнными зубами, которые тускло светятся красным. Строение челюстей и зубов похоже на таковое у хаулиодовых, зубы достигают шести сантиметров в длину. На внешней стороне челюстей расположены терморецепторные ямки. Вдоль покрытого иглами позвоночника расположены светочувствительные пятна. Иглы же достигают 16 сантиметров в длину и, похоже, чувствительны к движению потоков воздуха и атмосферному давлению.
+        Descrição: SCP-939 são predadores gregários de sangue quente, alguns de cujos órgãos e sistemas atrofiaram como em troglóbios. A pele de SCP-939 transmite bem a umidade, é vermelha e semitransparente devido à saturação de uma substância semelhante à hemoglobina. A altura média de um indivíduo SCP-939 em pé nas patas traseiras é 2,2 metros, e pesa 250 kg, embora possam haver desvios significativos desse valor. Cada uma de suas quatro extremidades possui três dedos equipados com garras, com um polegar oposto. As extremidades são cobertas com cerdas, o que afeta positivamente a capacidade de escalada de SCP-939. As cabeças são alongadas, não possuem olhos nem órbitas oculares, sem crânio cerebral. As mandíbulas de SCP-939 sono equipadas com dentes afiados que brilham levemente em vermelho. A estrutura das mandíbulas e dentes é semelhante à de haulióides, com dentes atingindo seis centímetros de comprimento. Na parte externa das mandíbulas estão localizadas fossetas termorrecptoras. Ao longo da coluna vertebral coberta de espinhos há manchas sensíveis à luz. Os espinhos atingem 16 centímetros de comprimento e parecem ser sensíveis ao movimento dos fluxos de ar e pressão atmosférica.
 
 
-        Многих жизненно важных систем у SCP-939 нет - отсутствуют центральная и периферийная нервные системы, система кровообращения и желудочно-кишечный тракт. Дыхательная система SCP-939 атрофирована и служит, судя по всему, только для выдыхания АМН-С227(см. ниже). Похоже, что SCP-939 не нуждаются в пище для поддержания жизни, и неспособны переваривать проглоченное. Съеденные SCP-939 ткани скапливаются в дыхательной системе и отрыгиваются, когда их накапливается слишком много для нормальной работы этой системы. Несмотря на отсутствие жизненно важных систем, SCP-939 живородящие (См. приложение 10-16-1991)
+        Muitos dos sistemas vitais não estão presentes em SCP-939 - faltam sistema nervoso central e periférico, sistema circulatório e trato gastrointestinal. O sistema respiratório de SCP-939 è atrofiado e aparentemente serve apenas para exalar AMN-C227 (veja abaixo). Parece que SCP-939 não necessita de alimento para manter a vida e é incapaz de digerir o que engole. Os tecidos comidos por SCP-939 se acumulam no sistema respiratório e são regurgitados quando se acumulam muito para o funcionamento normal do sistema. Apesar da falta de sistemas vitais, SCP-939 é vivíparo (Ver apêndice 10-16-1991)
 
 
-        Излюбленный метод SCP-939 для заманивания жертвы - имитация человеческой речи голосом убитых ранее жертв, хотя имелись случаи активной ночной охоты и имитации звучания других животных. Часто в том, что проговаривают SCP-939, звучит тревога; ведутся попытки выяснить, понимают ли SCP-939, что говорят, или просто повторяют услышанное ранее. Неизвестно, как именно SCP-939 узнают голоса; имеются документально подтверждённые случаи имитации голоса жертвы, которая ни разу не говорила в их присутствии. Голосовой анализ SCP-939 не в силах распознать разницу между речью SCP-939 и речью жертвы. По этой причине настоятельно рекомендуется отказаться от систем идентификации по голосу во всех учреждениях, где имеются особи SCP-939. Жертву SCP-939 обычно убивают одним укусом в основание черепа или шею, челюсти этих существ способны развивать давление больше 350 атмосфер.
+        O método preferido de SCP-939 para atrair presas é imitar a fala humana com a voz de vítimas previamente mortas, embora houvessem casos de caça noturna ativa e imitação de sons de outros animais. Frequentemente há alarme no que SCP-939 fala; estão sendo feitas tentativas para determinar se SCP-939 entende o que diz ou simplesmente repete o que ouviu antes. É desconhecido como exatamente SCP-939 reconhece vozes; há casos documentados de imitação da voz de uma vítima que nunca falou em sua presença. A análise de voz não consegue reconhecer a diferença entre a fala de SCP-939 e a fala human. Por essa razão, é fortemente recomendado renunciar a sistemas de identificação por voz em todas as instalações onde indivíduos SCP-939 estão presentes. As vítimas de SCP-939 geralmente são mortas por uma única mordida na base do crânio ou pescoço; as mandíbulas dessas criaturas podem desenvolver pressão superior a 350 atmosferas.
 
 
-        SCP-939 выдыхают взвесь амнезиака класса C (далее - АМН-С227) в очень низкой концентрации. АМН-С227 вызывает временную антероградную амнезию, подавляя формирование воспоминаний за всё время действия плюс примерно тридцать минут. Вещество не имеет цвета, вкуса или запаха, ЭКВ502 составляет 0,0015 мг в минуту на кубометр. В хорошо вентилируемых помещениях или на открытом воздухе ЭКВ50 значительно падает, но по-прежнему представляет угрозу. Через 60 минут после попадания в организм АМН-С227 растворяется в крови. Ощущение дезориентации и слабые галлюцинации, возникающие после выхода из насыщенной АМН-С227 области, похожи на постэффекты от употребления различных психоактивных веществ, поэтому легко принять одно за другое.
+        SCP-939 exala uma suspensão de amnésico classe C (daqui em diante - AMN-C227) em concentração muito baixa. AMN-C227 causa amnésia anterógrada temporária, suprimindo a formação de memória por todo o tempo de duração mais aproximadamente trinta minutos. A substância não tem cor, sabor ou odor; o EKV502 é 0,0015 mg por minuto por metro cúbico. Em áreas bem ventiladas ou ao ar livre, o EKV50 cai significativamente, mas ainda representa uma ameaça. Dentro de 60 minutos após entrar no corpo, AMN-C227 se dissolve no sangue. A sensação de desorientação e alucinações fracas que ocorrem depois de sair de uma área saturada de AMN-C227 são semelhantes aos efeitos residuais de várias substâncias psicoativas, portanto é fácil confundir uma com a outra.
   - uid: 22569
     components:
     - type: Transform
@@ -152019,22 +151997,22 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-005
+        Objeto Nº: SCP-005
 
 
-        Класс объекта: Безопасный
+        Classe do Objeto: Seguro
 
 
-        Особые условия содержания: SCP-005 не представляет немедленной угрозы в прямом смысле. При этом, ввиду его уникальных свойств, требуются специальные меры для ограничения доступа к объекту и его применения. Для извлечения объекта из камеры содержания требуется разрешение как минимум одного сотрудника с 4 уровнем допуска.
+        Condições Especiais de Contenção: SCP-005 não representa ameaça imediata no sentido direto. No entanto, devido às suas propriedades únicas, medidas especiais são necessárias para limitar o acesso ao objeto e seu uso. Para remover o objeto de seu contêiner de contenção, é necessária aprovação de pelo menos um funcionário com nível de autorização 4.
 
 
-        Описание: SCP-005 внешне напоминает витиеватый ключ, по характеристикам не отличающийся от серийно выпускаемых ключей 1920-х годов. Ключ был обнаружен, когда гражданское лицо использовало тот при проникновении на особо охраняемый объект. Судя по всему, SCP-005 обладает уникальной возможностью без особых затруднений открывать любые виды замков (см. приложение А), как механические, так и электронные. Происхождение этой возможности на данный момент не установлено.
+        Descrição: SCP-005 parece uma chave ornamentada não diferindo externamente das chaves comerciais da década de 1920. A chave foi descoberta quando um civil a usou para invadir uma instalação altamente segura. Aparentemente, SCP-005 possui uma abilidade única de abrir qualquer tipo de fechadura (ver apêndice A) sem dificuldade, tanto mecânicas quanto eletrônicas. A origem desta abilidade não foi estabelecida no momento.
 
 
-        Примечания: SCP-005 допускается использовать в качестве замены утерянных ключ-карт, но только под наблюдением как минимум одного сотрудника с 4 уровнем допуска. Запрещается использовать SCP-005 для ремонта торговых автоматов, вскрытия сейфов или в качестве замены утерянных личных ключей сотрудников. Вынос объекта за пределы Зоны карается немедленным увольнением.
+        Notas: SCP-005 é permitido ser usado como substituição de cartões-chave perdidos, mas apenas sob supervisão de pelo menos um funcionário com nível de autorização 4. É proibido usar SCP-005 para reparar máquinas de venda automática, abrir cofres ou como substituição de chaves pessoais perdidas de funcionários. Remover o objeto das dependências da Zona resulta em demissão imediata.
 
 
-        Приложение A: SCP-005 демонстрирует высокую эффективность в обходе практически любых замковых устройств. Дальнейшие эксперименты продемонстрировали, что попытка замаскировать замок внешне или функционально в некоторой степени предотвращает аномальный эффект SCP-005. Приблизительно в 50% случаев, в которых подопытный не мог опознать замковое устройство как таковое, объекту не удавалось его открыть. По этой причине SCP-005 до выяснения обстоятельств получил классификацию "разумный", ожидается проведение экспериментов, направленных на выяснение его познавательных способностей. Однако, не было получено результатов, демонстрирующих какие-либо особенности, которые мешают самому SCP-005 идентифицировать замок, за исключением случаев, когда замок был тщательно скрыт или замаскирован.
+        Apêndice A: SCP-005 demonstra alta eficiência em contornar praticamente qualquer dispositivo de fechadura. Experimentos posteriores demonstraram que tentar disfarçar uma fechadura externa ou funcionalmente em certo grau impede o efeito anômalo de SCP-005. Aproximadamente em 50% dos casos em que o sujeito de teste não conseguia reconhecer o dispositivo de fechadura como tal, o objeto falhava em abri-lo. Por esta razão, SCP-005 foi provisoriamente classificado como "inteligente", com experimentos planejados para investigar suas capacidades cognitivas. No entanto, nenhum resultado foi obtido demonstrando quaisquer características que impeçam SCP-005 de identificar uma fechadura, exceto quando a fechadura estava bem oculta ou disfarçada.
   - uid: 22570
     components:
     - type: Transform
@@ -152043,16 +152021,16 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-500
+        Objeto Nº: SCP-500
 
 
-        Класс объекта: Безопасный
+        Classe do Objeto: Seguro
 
 
-        Особые условия содержания: SCP-500 следует хранить в прохладном и сухом месте, вдали от яркого света. Для предотвращения нецелевого использования к SCP-500 допускается только персонал с 4 уровнем допуска.
+        Condições Especiais de Contenção: SCP-500 deve ser armazenado em local fresco e seco, longe de luz brilhante. Apenas pessoal com nível de autorização 4 tem permissão de acesso para SCP-500 para prevenir uso não autorizado.
 
 
-        Описание: SCP-500 — красные таблетки, хранящиеся в маленькой пластиковой банке, количество которых на момент написания данного документа равняется сорока семи (47) штукам. Таблетка, принятая перорально, в течение двух часов излечивает субъект от всех болезней. Необходимое для исцеления время зависит от тяжести и количества заболеваний. Многочисленные попытки синтеза соединения, которое, предположительно, является действующим веществом таблеток, не увенчались успехом.
+        Descrição: SCP-500 — comprimidos vermelhos armazenados em um pequeno frasco de plástico, com quantidade no momento da redação deste documento igual a quarenta e sete (47) unidades. Um comprimido ingerido por via oral cura o sujeito de todas as doenças dentro de duas horas. O tempo necessário para a cura depende da gravidade e quantidade de doenças. Numerosas tentativas de sintetizar o composto que se presume ser o ingrediente ativo dos comprimidos não foram bem-sucedidas.
   - uid: 22571
     components:
     - type: Transform
@@ -152120,40 +152098,40 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-049
+        Objeto Nº: SCP-049
 
 
-        Класс объекта: Евклид
+        Classe do Objeto: Euclídeo
 
 
-        Особые условия содержания: SCP-049 содержится в стандартной укреплённой камере содержания гуманоидов в Исследовательском секторе 02 Зоны 19. Перед любыми попытками транспортировки SCP-049 объект следует обрабатывать седативными препаратами. Во время транспортировки SCP-049 должен находиться в укреплённой системе фиксаторов для гуманоидов 3 класса (с ошейником и ограничителями растяжения), под постоянным надзором как минимум двух вооружённых охранников.
+        Condições Especiais de Contenção: SCP-049 é contido em um compartimento padrão reforçado para humanoides no Setor de Pesquisa 02 da Zona 19. Antes de qualquer tentativa de transferência, SCP-049 deve ser sedado. Durante a transferência, SCP-049 deve ser mantido em um sistema de restrição de humanoides classe 3 reforçado (com colar e limitadores de extensão), sob supervisão constante de pelo menos dois guardas armados.
 
 
-        Как правило, SCP-049 идёт на контакт с большинством сотрудников Фонда. Несмотря на это, любые резкие перемены в поведении следует пресекать силовыми методами. Во время таких перепадов сотрудникам следует всеми доступными средствами избегать прямого контакта с объектом. Установлено, что применение лаванды многонадрезной (L. multifida) может оказывать успокаивающее воздействие на объект в случае, если тот становится агрессивным. После успокоения SCP-049 как правило становится сговорчивее и возвращается в камеру содержания, практически не оказывая сопротивления.
+        SCP-049 geralmente está disposto a manter contato com a maioria dos funcionários da Fundação. Apesar disso, qualquer mudança abrupta de comportamento deve ser suprimida pela força. Durante tal oscilação comportamental, os funcionários devem evitar contato direto com o objeto por todos os meios disponíveis. Descobriu-se que a aplicação de lavanda francesa (L. multifida) pode ter um efeito calmante no objeto se ele se tornar agressivo. Após sedar, SCP-049 geralmente se torna mais dócil e retorna ao compartimento de contenção praticamente sem resistência.
 
 
-        С целью дальнейшего успешного содержания SCP-049 один раз в две недели сущности следует предоставлять тушу недавно скончавшегося животного (как правило, коровы или другого крупного млекопитающего) для исследований. Трупы, ставшие SCP-049-2, следует изымать из камеры содержания SCP-049 и уничтожать путём сжигания. Было принято решение запретить дальнейшие опыты SCP-049 на людях, поэтому все запросы по поводу подопытных-людей следует отклонять.
+        Para melhor manutenção continuada de SCP-049, a entidade deve ser fornecida uma vez a cada duas semanas com o cadáver de um animal recentemente morto (geralmente uma vaca ou outro mamífero grande) para pesquisas. Cadáveres que se tornam SCP-049-2 devem ser removidos da câmara de contenção de SCP-049 e destruídos por incineração. Foi decidido proibir qualquer experimentação posterior de SCP-049 em humanos, portanto todos os pedidos de prisioneiros de teste devem ser recusados.
 
 
-        Временное дополнение к условиям содержания: (См. приложение 049.3) Согласно приказу №049.S19.17.1 Комитета по Содержанию, SCP-049 запрещено прямое взаимодействие с сотрудниками Фонда. Также объекту более не выдаются трупы для анатомических опытов. Эта мера введена на неопределённый срок и может быть отменена только после того, как будет достигнут консенсус по поводу долговременного содержания SCP-049.
+        Adendo Temporário às Condições de Contenção: (Ver apêndice 049.3) De acordo com a Ordem No. 049.S19.17.1 do Comitê de Contenção, SCP-049 tem interação direta proibida com funcionários da Fundação. Além disso, o objeto não recebe mais cadáveres para experimentação anatômica. Esta medida foi implementada por tempo indeterminado e pode ser revogada apenas após consenso ser alcançado sobre a contenção de longo prazo de SCP-049.
 
 
-        Описание: SCP-049 - гуманоидное существо ростом около 190 см, внешне схожее со средневековым чумным доктором. На первый взгляд кажется, что SCP-049 облачён в толстый балахон и керамическую маску, характерные для данной профессии, однако, судя по этим предметам одежды, они постепенно выросли из тела самого SCP-0491 и на данный момент неотличимы от того, что могут скрывать под собой. Тем не менее, рентгеновские снимки показывают, что под этим внешним слоем у SCP-049 имеется скелет, схожий с человеческим.
+        Descrição: SCP-049 é uma criatura humanóide com aproximadamente 190 cm de altura, externamente semelhante a um doutor medieval da peste. À primeira vista, parece que SCP-049 está vestido com um manto espesso e máscara de cerâmica, características daquela profissão; no entanto, baseado nestas peças de roupa, elas gradualmente cresceram do corpo do próprio SCP-049 e presentemente são indistinguíveis do que pode estar oculto sob elas. No entanto, radiografias mostram que sob esta camada externa, SCP-049 possui um esqueleto semelhante ao humano.
 
 
         049xray.jpg
 
 
-        Рентгеновский снимок строения черепа SCP-049.
+        Radiografia da estrutura do crânio de SCP-049.
 
 
-        SCP-049 способен изъясняться на многих языках, хотя в основном предпочитает английский и старофранцузский2. Характер у SCP-049 в основном дружелюбный, объект охотно идёт на контакт с сотрудниками Фонда, однако, если по мнению объекта рядом присутствует то, что он называет "Поветрие", он становится крайне раздражительным, а иногда и вовсе агрессивным. Суть этого "Поветрия" не ясна исследователям Фонда, но, похоже, для SCP-049 оно представляет особую важность.
+        SCP-049 é capaz de se comunicar em muitas línguas, embora principalmente prefira inglês e antigo francês. O temperamento de SCP-049 é principalmente amigável; o objeto está disposto a manter contato com funcionários da Fundação; entretanto, se na opinião do objeto há algo que ele chama de "Praga" por perto, ele se torna extremamente irritado e às vezes completamente agressivo. A natureza desta "Praga" não é clara aos pesquisadores da Fundação, mas parece representar importância particular para SCP-049.
 
 
-        SCP-049 проявляет открытую агрессию к тем, кого он считает поражёнными "Поветрием", в таких случаях его зачастую необходимо сдерживать. Имея свободу действий, SCP-049 как правило пытается убить такого субъекта; SCP-049 способен останавливать все биологические функции в организме посредством прямого контакта открытых участков тела. Механизм этого явления неизвестен, результаты вскрытия жертв, убитых SCP-049 таким образом, неоднозначны во всех случаях. SCP-049 выражает досаду или раскаяние по поводу этих смертей, заявляя, что жертвы не старались бороться с "Поветрием", хотя при этом обычно стремится провести на трупе примитивную операцию с помощью инструментов, которые постоянно носит с собой в чёрной врачебной сумке3. Операция не всегда приводит к "успеху", но зачастую приводит к созданию SCP-049-2.
+        SCP-049 exibe agressão aberta em relação àqueles que ele considera afligidos pela "Praga", em tais casos geralmente é necessário contê-lo. Tendo liberdade de ação, SCP-049 geralmente tenta matar tal sujeito; SCP-049 é capaz de parar todas as funções biológicas no corpo através de contato direto com áreas expostas da pele. O mecanismo deste fenômeno é desconhecido; resultados de necropsias de vítimas mortas por SCP-049 desta forma são inconsistentes em todos os casos. SCP-049 expressa desgosto ou arrependimento sobre essas mortes, afirmando que as vítimas não tentaram lutar contra a "Praga", embora geralmente procure realizar uma operação primitiva no cadáver usando instrumentos que carrega constantemente em uma bolsa médica preta. A operação nem sempre resulta em "sucesso", mas frequentemente resulta na criação de SCP-049-2.
 
 
-        SCP-049-2 - оживлённые трупы субъектов, прооперированных SCP-049. Судя по внешним признакам, они не сохраняют воспоминаний и умственных навыков и наделены лишь базовыми двигательными навыками и механизмами реагирования. В целом они малоподвижны, двигаются редко и бессистемно, но при побуждении или по команде SCP-049, могут стать крайне агрессивными. У SCP-049-2 имеются активные биологические функции, однако они радикально отличаются от известной современной науке физиологии человека. Несмотря на эти отличия, SCP-049 нередко утверждает, что субъекты "исцелились".
+        SCP-049-2 são cadáveres reanimados de sujeitos operados por SCP-049. Pelos sinais externos, eles não retêm memórias ou habilidades mentais e são dotados apenas de habilidades motoras básicas e mecanismos de reação. Em geral são pouco móveis, movem-se raramente e sem padrão, mas quando instigados ou ordenados por SCP-049, podem se tornar extremamente agressivos. SCP-049-2 possui funções biológicas ativas, porém diferem radicalmente da fisiologia humana conhecida pela ciência moderna. Apesar dessas diferenças, SCP-049 frequentemente afirma que os sujeitos foram "curados".
   - uid: 22582
     components:
     - type: Transform
@@ -152162,58 +152140,58 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-082
+        Objeto Nº: SCP-082
 
 
-        Класс объекта: Евклид
+        Classe do Objeto: Euclídeo
 
 
-        Особые условия содержания: Увеличенные жилые комнаты, находящиеся в Милитаризированном Участке биосодержания, переоборудованы для подавления и успокоения SCP-082. Обычное оружие имеет слабый эффект воздействия на объект SCP-082. На данный момент объект думает, что его сделали королем Франции, а зона содержания на самом деле — королевский дворец, созданный для его защиты. Весь персонал, общающийся с ним, должен быть проинструктирован об этой уловке, а также о том, что нельзя опровергать его понимание ситуации под угрозой казни. Охранники и остальной персонал должен относиться только к классу D.
+        Condições Especiais de Contenção: As salas de estar ampliadas, localizadas no Setor de Contenção Bioamplificado Militarizado, foram reformadas para supressão e pacificação do SCP-082. Armas convencionais têm eficácia limitada contra o SCP-082. Atualmente, o objeto acredita que foi feito rei da França e que a zona de contenção é na verdade um palácio real criado para sua proteção. Todo o pessoal que interage com ele deve ser instruído sobre esse logro e informado de que não deve contradizer sua compreensão da situação sob pena de execução. Guardas e outros funcionários devem ser apenas da Classe D.
 
 
-        Оперативная группа Фи-1 поставлена охранять комнату объекта, но ей не разрешаются близкие контакты с ним.
+        Grupo Operacional Phi-1 foi designado para guardar a sala do objeto, mas não é permitido contato próximo com ele.
 
 
-        Описание: Объект SCP-082 генетически представляет из себя человека; тем не менее, из-за неопределённых процессов (химических, гормональных, раковых или сверхъестественных), он вырос до гигантского роста, примерно 2.4 м (около 8 футов), и имеет вес более 310 кг (около 700 фунтов), при этом физические характеристики объекта SCP-082 крайне непропорциональны. У него слегка заостренная лысеющая голова, округлые скулы и щеки, нос картошкой и темные запавшие глаза, а также одновременно избыточный вес и большой объем мышечной массы. Его предплечья очень мускулисты, около 71 см (примерно 28 дюймов) в обхвате. Ширина кулака вдоль по костяшкам составляет около 30 см (примерно 12 дюймов). Хотя ноги объекта громадны, ступни непропорционально маленькие по отношению к телу (46 размер).
+        Descrição: O SCP-082 é geneticamente humano; no entanto, devido a processos indeterminados (químicos, hormonais, cancerosos ou sobrenaturais), ele cresceu até uma altura gigantesca, aproximadamente 2,4 m (cerca de 8 pés), e pesa mais de 310 kg (cerca de 700 libras), com características físicas extremamente desproporcionais. Possui uma cabeça ligeiramente pontiaguda e em recesso, bochechas e queixo arredondados, nariz em batata e olhos escuros e fundos, combinado com obesidade e grande volume de massa muscular. Seus antebraços são muito musculosos, aproximadamente 71 cm (cerca de 28 polegadas) de circunferência. A largura do punho ao longo dos nós é de cerca de 30 cm (cerca de 12 polegadas). Embora as pernas do objeto sejam enormes, os pés são desproporcionalmente pequenos em relação ao corpo (tamanho 46).
 
 
-        Объект SCP-082 называет себя Фернандом и говорит на французском и с сильным акцентом на английском. Его внешний вид усугубляют множественные шрамы по всему телу (как результат многолетнего подавления в зоне содержания). Его кожа темного, загорелого цвета и, хотя он отказывается мыться, он часто меняет одежду. Когда объект говорит, он цедит слова через аномально большие, сжатые зубы. Объект SCP-082 размыкает зубы только когда ест или поет, что делает довольно часто. Он поет песни о том, что доставляет ему удовольствие, варьирующиеся от забытых барных песен викторианской эпохи до современной классики, обычно во время обеда и приготовления пищи. Объект SCP-082 не расчесывает волосы на голове, хотя и подрезает их и бреется большим ножом, с помощью которого он готовит пищу. Необходимо упомянуть, что волосы объекта ненормально увеличены, единичный волос толщиной примерно в миллиметр (при этом по твердости и внешнему виду представляет собой грифель из карандаша). Иногда объект SCP-082 сжимает зубы так плотно, что его десны начинают кровоточить. Пока остается неизвестным, зачем он это делает. Рентгеновские снимки с трудом поддаются толкованию из-за большой мышечной массы, однако ученые обнаружили бесчисленное количество пуль, а также несколько ножей и мечей, застрявших в теле объекта.
+        O SCP-082 se chama Fernando e fala francês e inglês com sotaque pesado. Sua aparência é piorada por inúmeras cicatrizes em todo o corpo (resultado de anos de contenção na zona). Sua pele é de cor escura e bronzeada e, embora recuse a tomar banho, frequentemente muda de roupa. Quando fala, cerra as palavras através de dentes anormalmente grandes e apertados. O SCP-082 abre os dentes apenas ao comer ou cantar, que faz frequentemente. Ele canta músicas sobre coisas que lhe agradam, variando de canções de bares esquecidas da era vitoriana a clássicos modernos, geralmente durante o almoço e tempo de preparação de comida. O SCP-082 não penteeia o cabelo da cabeça, embora o corte e se barbeie com uma faca grande que usa para cozinhar. É necessário notar que o cabelo do objeto é anormalmente ampliado, um único fio com espessura de aproximadamente um milímetro (que em dureza e aparência parece ser grafite de lápis). Ocasionalmente, o SCP-082 aperta os dentes tão firmemente que as gengivas começam a sangrar. Ainda não está claro por que ele faz isso. Radiografias são difíceis de interpretar devido à grande massa muscular, mas os cientistas descobriram inúmeras balas, bem como várias facas e espadas presas ao corpo do objeto.
 
 
-        Манера поведения объекта SCP-082 дружелюбна и беззаботна. За время содержания у SCP-082 накопился большой гардероб. Он любит одеваться по разной моде, в обычную одежду, военную униформу, в клоунскую и женскую одежду. Новая одежда должна доставляться по требованию объекта. Он довольно часто шутит и вежливо общается с персоналом, часто приглашая их на обед. Тем не менее, персонал должен помнить, что в любой момент объект SCP-082 может напасть на них и съесть. Обычно перед этим он извиняется за свои манеры и прерывает беседу отрыванием головы. Мощные челюсти объекта SCP-082 достаточно сильны, чтобы раскусить кость, хотя обычно он объедает самые длинные кости, после наслаждаясь черепом. Его атаки случайны, без каких-либо мотиваций — не имеет значения, ел он или еще нет, это никак не влияет на его каннибалистический голод.
+        Modo de comportamento do SCP-082 é amigável e despreocupado. Durante o tempo de contenção, o SCP-082 acumulou um grande guardaroupa. Ele gosta de se vestir de diferentes maneiras, em roupas comuns, uniforme militar, roupas de palhaço e roupas femininas. Novas roupas devem ser fornecidas conforme solicitado pelo objeto. Ele frequentemente faz piadas e se comunica educadamente com a equipe, frequentemente os convidando para jantar. No entanto, a equipe deve lembrar que a qualquer momento o SCP-082 pode atacá-los e comê-los. Geralmente antes disso, ele pede desculpas por seus modos e interrompe a conversa arrancando uma cabeça. As poderosas mandíbulas do SCP-082 são fortes o suficiente para quebrar osso, embora geralmente ele arranque os ossos mais longos, depois se deliciando com o crânio. Seus ataques são aleatórios, sem qualquer motivação — não importa se comeu ou não, isso não afeta sua fome canibal.
 
 
-        Самая большая уязвимость объекта SCP-082 состоит в том, что он не способен отделить реальность от того, что он увидел в телевизоре или прочел в книге. Несколько раз объект выражал сильное желание встретить своего кумира, Ганнибала Лектера, и верит, что его любимые шоу, например "Закон и порядок", реальны. Хотя он показал высокий интеллект в сфере памяти и разгадывания загадок, суть пародии, сатиры и фантастики находится за пределами его понимания. Объект SCP-082, по видимому, знает суть лжи и может определить, когда окружающие врут ему, и в то же время говорит очевидную ложь, когда его спрашивают о прошлом. Следуя показаниям объекта SCP-082, он:
+        A maior vulnerabilidade do SCP-082 é que ele é incapaz de separar realidade do que viu na televisão ou leu em um livro. Várias vezes, o objeto expressou forte desejo de conhecer seu ídolo, Hannibal Lecter, e acredita que seus shows favoritos, como "Lei e Ordem", são reais. Embora tenha demonstrado alto inteligência em memória e resolução de quebra-cabeças, a essência de paródia, sátira e ficção está além de seu entendimento. O SCP-082 aparentemente entende o conceito de mentira e pode dizer quando outras pessoas estão mentindo para ele, mas ao mesmo tempo diz mentiras óbvias quando perguntado sobre seu passado. De acordo com os relatos do SCP-082, ele é:
 
 
-        Вампир
+        Vampiro
 
-        Гомункул
+        Homúnculo
 
-        Большая птица
+        Um Pássaro Grande
 
-        Гигант Андре
+        O Gigante André
 
-        Наполеон
+        Napoleão
 
-        Обеликс (напарник Астерикса)
+        Obelix (parceiro de Asterix)
 
-        Доктор Брайт
+        Doutor Bright
 
-        Халк
+        Hulk
 
-        Александр Великий
+        Alexandre, O Grande
 
-        Капитан Крюк
+        Capitão Gancho
 
-        Шерлок Холмс
+        Sherlock Holmes
 
-        Доктор Франкенштейн
+        Doutor Frankenstein
 
-        Монстр Франкенштейна
+        O Monstro de Frankenstein
 
 
-        Когда ему задали вопрос насчет лжи, он извинился: "Но я ведь только тогда вру, когда не краснею!"
+        Quando questionado sobre mentir, ele se desculpou: "Mas eu só minto quando não fico vermelho!"
   - uid: 22583
     components:
     - type: Transform
@@ -152306,27 +152284,27 @@ entities:
         SCP-2398
 
 
-        Объект №: 2398
+        Objeto Nº: 2398
 
 
-        Класс содержания:
+        Classe de Contenção:
 
-        безопасный
+        seguro
 
 
-        Класс нарушения:
+        Classe de Violação:
 
         тёмный
 
 
-        Особые условия содержания: SCP-2398 содержится в стандартной сейфовой ячейке с высокой степенью охраны. 
+        Особые условия содержания: SCP-2398 содержится в стандартной сейфовой ячейке с высокой степенью охраны.
 
-        Сотрудники, обладающие достаточным уровнем допуска для проведения экспериментов с SCP-2398, 
+        Сотрудники, обладающие достаточным уровнем допуска для проведения экспериментов с SCP-2398,
 
         вначале должны подать правильно заполненную заявку в Управление руководителя исследовательских работ Зоны.
 
 
-        Сотрудникам, проводящим эксперименты с SCP-2398, запрещается размахивать объектом, 
+        Сотрудникам, проводящим эксперименты с SCP-2398, запрещается размахивать объектом,
 
         находясь в прямой близости от прочих членов персонала.
 
@@ -152336,27 +152314,27 @@ entities:
 
 
 
-        Описание: SCP-2398 - это стандартная деревянная бейсбольная бита длиной около 110 см с обмоткой на рукояти, 
+        Описание: SCP-2398 - это стандартная деревянная бейсбольная бита длиной около 110 см с обмоткой на рукояти,
 
-        сделанная из древесины ясеня. SCP-2398 не имеет каких-либо необычных меток, за исключением букв “K.O.”, 
+        сделанная из древесины ясеня. SCP-2398 не имеет каких-либо необычных меток, за исключением букв “K.O.”,
 
         вырезанных чуть выше рукояти.
 
 
-        SCP-2398 проявляет аномальные свойства только при использовании; если размахнуться битой на скорости чуть более 20 м/с 
+        SCP-2398 проявляет аномальные свойства только при использовании; если размахнуться битой на скорости чуть более 20 м/с
 
         и ударить ею по любому живому существу, то оно взорвётся. Механизм данного явления пока что неизвестен.
 
 
-        Обстоятельства обнаружения: Первыми о свойствах SCP-2398 узнали агенты Фонда, внедрённые в полицию Торонто, 
+        Обстоятельства обнаружения: Первыми о свойствах SCP-2398 узнали агенты Фонда, внедрённые в полицию Торонто,
 
-        в ходе расследования обстоятельств ссоры игрока бейсбольной команды "Торонто Блю Джейс" Карла Томаса с группой молодых мужчин 
+        в ходе расследования обстоятельств ссоры игрока бейсбольной команды "Торонто Блю Джейс" Карла Томаса с группой молодых мужчин
 
-        и женщин. Один из мужчин, увидев, как г-н Томас выходит из ночного клуба и направляется к своей машине, 
+        и женщин. Один из мужчин, увидев, как г-н Томас выходит из ночного клуба и направляется к своей машине,
 
-        подбежал к нему и стал обвинять в попытке ограбления, что также стали подтверждать ещё трое мужчин и две женщины. 
+        подбежал к нему и стал обвинять в попытке ограбления, что также стали подтверждать ещё трое мужчин и две женщины.
 
-        Г-н Томас достал SCP-2398 с заднего сиденья автомобиля и ударил ею одну из женщин, которая тут же взорвалась. 
+        Г-н Томас достал SCP-2398 с заднего сиденья автомобиля и ударил ею одну из женщин, которая тут же взорвалась.
 
         Нападавшие быстро разбежались, а один из случайных прохожих позвонил в полицию.
   - uid: 22598
@@ -152367,7 +152345,7 @@ entities:
       pos: 26.38343,88.81601
       parent: 2
     - type: Paper
-      content: План на столько сложный, что понять вы его не в силах...
+      content: O plano é tão complexo que vocês não podem compreendê-lo...
   - uid: 22599
     components:
     - type: Transform
@@ -152555,11 +152533,11 @@ entities:
       parent: 2
     - type: Paper
       content: >
-        НЕ В[color=#dc143c]█РЬ[color=#dc143c]█Е МЭЙ[color=#dc143c]██РДУ ЭТОТ УБЛЮДОК ХОЧЕТ ВЫПУ[color=#dc143c]██ИТ[color=#dc143c]█ 0[color=#dc143c]██ ЕГО [color=#dc143c]██ДОСЛАЛИ ПОВСТАНЦЫ 
+        NÃO CONFIE NO MEU[color=#dc143c]█ █ ESTE MISERÁVEL QUER EXPLODIR[color=#dc143c]██ █ 0[color=#dc143c]██ ELE [color=#dc143c]██FOI ENVIADO PELOS REBELDES
 
-        ЕСЛ[color=#dc143c]█ О[color=#dc143c]█ ДО[color=#dc143c]███ЕТ█Я ДО ██8 ВЕСЬ КОМПЛЕКС 
+        SE ELE CHEGAR[color=#dc143c]█ A[color=#dc143c]█ ATÉ [color=#dc143c]███ █ SERÁ ATÉ ██8 TODO O COMPLEXO
 
-        БУДЕТ ЗАР[color=#dc143c]██ЕН УБ[color=#dc143c]██ТЕ М[color=#dc143c]█ЙНА[color=#dc143c]██А![color=#fff]█████
+        SERÁ DESAC[color=#dc143c]██ELADO MATE[color=#dc143c]██ M[color=#dc143c]█ INIMIGA[color=#dc143c]██A![color=#fff]█████
 
         [color=#fefbfc]██[color=#fdf2f5]██[color=#fef8f9]██[color=#f8d6dd]██[color=#ee8ea1]██[color=#f9d9e0]██[color=#fff]██████████████████[color=#fefbfc]██[color=#fdf2f5]██
 
@@ -152597,22 +152575,22 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Объект №: SCP-173
+        Objeto Nº: SCP-173
 
 
-        Класс объекта: Евклид
+        Classe do Objeto: Euclídeo
 
 
-        Особые условия содержания: Объект SCP-173 должен постоянно храниться в закрытом контейнере. При посещении персоналом контейнера с SCP-173 в контейнер должно входить не менее трёх человек, и дверь должна быть немедленно заперта за ними. Два лица должны постоянно поддерживать прямой зрительный контакт с SCP-173 до тех пор, пока все сотрудники не покинут контейнер, и он не будет заперт.
+        Condições Especiais de Contenção: O objeto SCP-173 deve ser permanentemente contido em um contêiner fechado. Quando o pessoal visita o contêiner com SCP-173, no mínimo três pessoas devem entrar na contenção e a porta deve ser imediatamente trancada atrás delas. Dois indivíduos devem manter contato visual direto constante com SCP-173 até que todo o pessoal tenha deixado o contêiner e ele tenha sido trancado.
 
 
-        Описание: Привезён в Зону 19 в 1993. Происхождение всё ещё неизвестно. Изготовлен из бетона и арматуры со следами аэрозольной краски марки Krylon. SCP-173 одушевлён и крайне враждебен. Объект не может двигаться в то время, когда находится в пределах прямой видимости. При работе с SCP-173 никогда не должен быть нарушен зрительный контакт. Персонал, предназначенный для входа в контейнер, проинструктирован предупреждать друг друга перед тем, как моргнуть. Объект, как сообщается, нападает, ломая шею у основания черепа, или с помощью удушения. В случае нападения персонал должен применять действия по сдерживанию опасных объектов класса 4.
+        Descrição: Trazido para a Zona 19 em 1993. A origem ainda permanece desconhecida. Feito de concreto e armadura com traços de tinta spray marca Krylon. SCP-173 é animado e extremamente hostil. O objeto não pode se mover enquanto estiver dentro da linha de visão direta. Ao trabalhar com SCP-173, contato visual nunca deve ser quebrado. O pessoal designado para entrar no contêiner é instruído a avisar um ao outro antes de piscar. O objeto relata atacar quebrando o pescoço na base do crânio ou por asfixia. Em caso de ataque, o pessoal deve implementar procedimentos de contenção de objetos perigosos classe 4.
 
 
-        Персонал докладывает о скрежете, доносящемся из контейнера, когда никто не присутствует внутри. Это считается нормальным, и о любых изменениях в этом поведении должно быть немедленно доложено действующему куратору HMCL.
+        Pessoal relata estrondo vindo do contêiner quando ninguém está dentro. Isso é considerado normal e qualquer mudança neste comportamento deve ser imediatamente reportada ao curador em exercício HMCL.
 
 
-        Красновато-коричневая субстанция на полу представляет собой смесь фекалий и крови. Происхождение этих веществ неизвестно. Корпуса должны очищаться раз в две недели.
+        A substância avermelhada-marrom no piso é uma mistura de fezes e sangue. A origem dessas substâncias é desconhecida. Os habitáculos devem ser limpos a cada duas semanas.
   - uid: 22630
     components:
     - type: MetaData
@@ -152623,57 +152601,57 @@ entities:
       parent: 2
     - type: Paper
       content: >+
-        Эксперимент 330 - № 1
+        Experimento 330 - No. 1
 
-        Сотрудника класса D-[color=#0]████ попросили посмотреть на миску, обойти её со всех сторон и сказать, видит ли он надпись.
+        Um funcionário Classe D-[color=#0]████ foi solicitado a olhar para uma tigela, contorná-la de todos os lados e dizer se via alguma escrita.
 
-        Как выяснилось, даже находясь с другой стороны от листа с надписью, она как бы виднелась перед глазами, каждый раз было видно одно и тоже: "Берите не больше двух, пожалуйста :)"
-
-
-        Расшифровка протокола эксперимента №1
-
-                              [color=#0]НАЧАЛО [color=#0]ЗАПИСИ
-
-        D-[color=#0]████ : Что мне делать то?
+        Como se verificou, mesmo do outro lado da folha com a inscrição, parecia estar visível diante dos olhos, cada vez mostrando o mesmo: "Pegue não mais de dois, por favor :)"
 
 
-        Доктор-[color=#0]████ : D-[color=#0]████, вы видите перед собой стол с металлической миской?
+        Transcrição do protocolo do Experimento No. 1
+
+                              [color=#0]INÍCIO [color=#0]REGISTRO
+
+        D-[color=#0]████ : O que devo fazer?
 
 
-        D-[color=#0]████ : Конечно, доктор.
+        Doutor-[color=#0]████ : D-[color=#0]████, você vê uma mesa à sua frente com uma tigela de metal?
 
 
-        Доктор-[color=#0]████ : На миске есть листок бумаги, прикрепленный к ней липкой лентой, есть ли на листе надписи, если есть, то какие?
+        D-[color=#0]████ : Claro, doutor.
 
 
-        D-[color=#0]████ : Тут что-то на английском... Я не очень хорошо знаю его, но могу тут разлечить слова "два", "пожалуйста", "бери". Тут восклицательные знаки ещё.
+        Doutor-[color=#0]████ : Há um pedaço de papel preso na tigela com fita adesiva. Existem inscrições no papel? Se sim, quais são?
 
 
-        Доктор-[color=#0]████ : Хорошо, когда вы смотрите на надпись, вы чувствуете что-то?
+        D-[color=#0]████ : Há algo em inglês aqui... Não sou muito bom em inglês, mas posso distinguir as palavras "dois", "por favor", "pegue". Há também pontos de exclamação.
 
 
-        D-[color=#0]████ : Да вроде нет, надпись как надпись.
+        Doutor-[color=#0]████ : Certo, ao olhar para a inscrição, você sente algo?
 
 
-        Доктор-[color=#0]████ : Хорошо, подойдите к противоположной от надписи стороне миски. 
+        D-[color=#0]████ : Não, parece não. É apenas uma inscrição comum.
 
 
-        Доктор-[color=#0]████ : D-[color=#0]████, что вы видите?
+        Doutor-[color=#0]████ : Certo, mova-se para o lado oposto da tigela da inscrição.
 
 
-        D-[color=#0]████ : Хм, это очень странно, кажется что я всё ещё вижу надпись, она буд-то перед глазами.
+        Doutor-[color=#0]████ : D-[color=#0]████, o que você vê?
 
 
-        Доктор-[color=#0]████ : Надпись как на листе?
+        D-[color=#0]████ : Hmm, isso é muito estranho, parece que ainda consigo ver a inscrição, ela fica como se estivesse diante dos meus olhos.
 
 
-        D-[color=#0]████ : Да.
+        Doutor-[color=#0]████ : É a inscrição como está no papel?
+
+
+        D-[color=#0]████ : Sim.
 
 
 
-        Система оповещения комплекса : ВНИМАНИЕ! ВСЕМУ ПЕРСОНАЛУ СЛЕДУЕТ ПРОЙТИ В АВАРИЙНЫЕ УБЕЖИЩА! МОБИЛЬНАЯ ОПЕРАТИВНАЯ ГРУППА... "Шляпные болванчики"... ПРИБУДЕТ ЧЕРЕЗ... Десять минут.
+        Sistema de Alerta da Instalação : AVISO! TODO PESSOAL DEVE PROSSEGUIR PARA ABRIGOS DE EMERGÊNCIA! GRUPO OPERACIONAL MÓVEL... "Fantasmas de Chapéu"... CHEGARÁ EM... Dez minutos.
 
-                                   [color=#0]КОНЕЦ [color=#0]ЗАПИСИ
+                                   [color=#0]FIM [color=#0]REGISTRO
 
   - uid: 22631
     components:
@@ -152737,55 +152715,55 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Боже-боже-боже!!!
+        Ó meu Deus! Ó meu Deus! Ó meu Deus!!!
 
-        Я так рад! На очередном опыте я хорошо вёл себя и за это мне подарили новый плакат с красивой японкой в купальнике!!!!!!!!
+        Estou tão feliz! No último experimento, me comportei bem e por isso me deram um novo pôster com uma linda garota japonesa em biquíni!!!!!!!!
 
         ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
 
-        ________000000000000______00000000000000________ 
+        ________000000000000______00000000000000________
 
-        ______0000000000000000__0000000000000000000_____ 
+        ______0000000000000000__0000000000000000000_____
 
-        ____0000000000000000000000000000________00000___ 
+        ____0000000000000000000000000000________00000___
 
-        ___00000000000000000000000000000__________0000__ 
+        ___00000000000000000000000000000__________0000__
 
-        __00000000000000000000000000000000__________000_ 
+        __00000000000000000000000000000000__________000_
 
-        __000000000000000000000000000000000000_____0000_ 
+        __000000000000000000000000000000000000_____0000_
 
-        _000000000000000000000000000000000000000___00000 
+        _000000000000000000000000000000000000000___00000
 
-        _0000000000000000000000000000000000000000_000000 
+        _0000000000000000000000000000000000000000_000000
 
-        _0000000000000000000000000000000000000000000000_ 
+        _0000000000000000000000000000000000000000000000_
 
-        _0000000000000000000000000000000000000000000000_ 
+        _0000000000000000000000000000000000000000000000_
 
-        __000000000000000000000000000000000000000000000_ 
+        __000000000000000000000000000000000000000000000_
 
-        ___0000000000000000000000000000000000000000000__ 
+        ___0000000000000000000000000000000000000000000__
 
-        _____000000000000000000000000000000000000000____ 
+        _____000000000000000000000000000000000000000____
 
-        _______0000000000000000000000000000000000000______ 
+        _______0000000000000000000000000000000000000______
 
-        __________0000000000000000000000000000000_________ 
+        __________0000000000000000000000000000000_________
 
-        _____________00000000000000000000000000___________ 
+        _____________00000000000000000000000000___________
 
-        _______________00000000000000000000______________ 
+        _______________00000000000000000000______________
 
-        __________________000000000000000________________ 
+        __________________000000000000000________________
 
-        ____________________0000000000___________________ 
+        ____________________0000000000___________________
 
-        ______________________000000_____________________ 
+        ______________________000000_____________________
 
-        _______________________0000______________________ 
+        _______________________0000______________________
 
-        ________________________00_______________________ 
+        ________________________00_______________________
 
         ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
   - uid: 22641
@@ -152795,15 +152773,15 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        И откуда у этого уёбка из четвёртой камеры столько постеров с девчонками?
+        De onde aquele idiota da quarta câmara tirou tantos pôsteres com garotas?
 
 
-        Я видел постер с какой-то горячей чикой в купальнике, какую-то инопланетянку. Может из фильма?
+        Vi um pôster com alguma gata sexy em biquíni, alguma alien. Pode ser de um filme?
 
-        И красивую беловолосую девушку с острыми ушками.
+        E uma linda garota de cabelo branco com orelhas pontiagudas.
 
 
-        Мне нужен этот постер.
+        Preciso desse pôster.
 - proto: Pen
   entities:
   - uid: 22642
