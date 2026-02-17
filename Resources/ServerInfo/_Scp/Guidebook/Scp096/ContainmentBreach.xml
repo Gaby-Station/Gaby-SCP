@@ -1,68 +1,68 @@
 ﻿<Document>
-  # Как сбежать?
+  # Como Escapar?
 
-  Здесь будет рассмотрено, как можно нарушить условия содержания, если вам выпала роль SCP-096.
+  Aqui será considerado como você pode violar as condições de contenção se você receber o papel de SCP-096.
 
-  [textlink="Общая информация о скромнике" link="Scp096About"]
+  [textlink="Informações gerais sobre o tímido" link="Scp096About"]
 
-  [textlink="Подробнее о методах сдерживания скромника за персонал комплекса" link="Scp096Containment"]
+  [textlink="Mais informações sobre métodos de contenção do tímido para o pessoal da instalação" link="Scp096Containment"]
 
-  ## Основной способ
+  ## Método Principal
 
-  Данный способ заключается в использовании способности [bold]"Содрать кожу с лица"[/bold], доступную вам со старта.
+  Este método envolve usar a habilidade [bold]"Arrancar Pele do Rosto"[/bold], disponível para você desde o início.
 
-  [textlink="Подробнее про способности" link="Scp096Abilities"]
+  [textlink="Mais informações sobre habilidades" link="Scp096Abilities"]
 
-  Каждое использование способности наносит урон вашему лицу. Использование способности 5 раз подряд переведет вас в "Состояние содранного лица".
-  [bold]В этом состоянии вы сможете:[/bold]
-  - Открывать любые шлюзы и гермоворота
-  - Атаковать любой персонал
-  - Свободно перемещаться по комплексу
+  Cada uso da habilidade causa dano ao seu rosto. Usar a habilidade 5 vezes seguidas o colocará em "Estado Rosto Esfolado".
+  [bold]Neste estado, você será capaz de:[/bold]
+  - Abrir qualquer comporta e aerodeslizador
+  - Atacar qualquer pessoal
+  - Se mover livremente pela instalação
 
-  Учтите, что в этом состоянии вы не можете перейти в состояние "Ярости", если кто-то увидит ваше лицо!
+  Observe que neste estado você não pode entrar em "Estado de Fúria" se alguém ver seu rosto!
 
-  [textlink="Подробнее про состояния" link="Scp096States"]
+  [textlink="Mais informações sobre estados" link="Scp096States"]
 
-  ## Дополнительный способ
+  ## Método Adicional
 
-  Вы обладаете способностью "Издать жалостный крик", которая наносит огромный урон всем структурам в вашей области видимости. Используйте эту способность, чтобы повреждать стены камеры содержания.
+  Você possui a habilidade "Emitir um Grito Lamentoso", que causa enorme dano a todas as estruturas em seu campo de visão. Use esta habilidade para danificar as paredes da câmara de contenção.
 
-  Многократное использование способности будет наносить урон стенам, что в конечном итоге приведет к их поломке и вашему освобождению. Стены вашей камеры содержания очень прочны и хорошо сопротивляются урону вашей способности. Но обычные, даже самые прочные стены комплекса, упадут гораздо быстрее.
+  O uso repetido da habilidade danificará as paredes, o que eventualmente levará à sua ruptura e sua libertação. As paredes de sua câmara de contenção são muito resistentes e resistem bem ao dano de sua habilidade. Mas paredes comuns, mesmo as mais resistentes da instalação, cairão muito mais rápido.
 
-  Учтите, что способность может работать только в пределах камеры содержания. А персонал комплекса может отремонтировать даже сломанные стены.
+  Observe que a habilidade só pode funcionar dentro da câmara de contenção. E o pessoal da instalação pode reparar até paredes danificadas.
 
-  ## Альтернативный способ
+  ## Método Alternativo
 
-  Кто-то из персонала может увидеть ваше лицо на одной из фотографий. Таким образом он станет вашей целью для зверского убийства.
+  Alguém do pessoal pode ver seu rosto em uma das fotografias. Assim ele se tornará seu alvo para assassinato selvagem.
 
-  Вы начнете переходить в состояние "Ярости" и пулей вылетите из своей камеры содержания.
-  Убив все цели, вы окажитесь где-то в глубине комплекса, что позволит вам посветить своим лицом перед другими сотрудниками Фонда.
+  Você começará a entrar em "Estado de Fúria" e disparará como uma bala de sua câmara de contenção.
+  Depois de matar todos os seus alvos, você se encontrará em algum lugar nas profundezas da instalação, o que lhe permitirá exibir seu rosto para outros funcionários da Fundação.
 
-  ## Как определить степень поврежденности лица?
+  ## Como Determinar o Grau de Dano Facial?
 
-  Как скромник, вы обладаете большей информацией о вашем лице. Поэтому и способов у вас больше
+  Como o tímido, você possui mais informações sobre seu rosto. Portanto, você tem mais formas
 
-  - Наведитесь на ваше лицо справа, в панели статус-эффектов.
+  - Passe o mouse sobre seu rosto à direita, no painel de efeitos de status.
 
-  По внешнему виду лица можно понять ваше текущее состояние или степень поврежденности лица.
-  Наведение мышки позволит услышать комментарии вашего внутреннего "голоса", касательно ситуации.
+  Pela aparência do rosto, você pode entender seu estado atual ou grau de dano facial.
+  Passar o mouse permite que você ouça comentários de sua "voz" interna sobre a situação.
 
-  - Посмотрите на иконку справа-сверху вашего персонажа
+  - Olhe para o ícone no canto superior direito de seu personagem
 
-  Чем больше крови на иконке - тем больше степень поврежденности лица
+  Quanto mais sangue no ícone - maior o grau de dano facial
 
-  - Осмотрите себя
+  - Inspecione a si mesmo
 
-  Вы, как и другие люди, можете осмотреть себя и прочитать визуальное описание оставленных вами ран.
+  Você, como outras pessoas, pode se inspecionar e ler uma descrição visual das feridas que deixou.
 
-  ## Как сопротивляться поимке?
+  ## Como Resistir à Captura?
 
-  Покинув свою камеру содержания, персонал начнет принимать усилия по вашей поимке. Ваша задача - сопротивляться.
+  Ao sair de sua câmara de contenção, o pessoal começará a fazer esforços para capturá-lo. Sua tarefa é resistir.
 
-  Если вы можете атаковать их - атакуйте, но помните, что вы слабы против вооруженной нелетальными средствами толпы.
-  Сдерживающие технологии Фонда достаточно развиты, чтобы ослабить вас на некоторое время, выбив из сил.
+  Se você pode atacá-los - ataque, mas lembre-se que você é fraco contra uma multidão armada com meios não-letais.
+  As tecnologias de contenção da Fundação são desenvolvidas o suficiente para enfraquecê-lo por algum tempo, deixando-o sem energia.
 
-  В это время сотрудники могут надеть сдерживающую экипировку, которая ослабит вас и запретит использование способностей.
+  Durante este tempo, os funcionários podem colocar equipamento de contenção, que o enfraquecerá e proibirá o uso de habilidades.
 
-  [bold]Следите за своим уровнем выносливости, оно решает ключевую роль в вашей поимке.[/bold]
+  [bold]Monitore seu nível de resistência, que é essencial para sua captura.[/bold]
 </Document>

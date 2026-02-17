@@ -1,48 +1,48 @@
 ﻿<Document>
 
-  # Исследовательский материал
+  # Material de Pesquisa
 
-  Данная статья объясняет, какие имеются уникальные взаимодейстия, как получать исследовательский материал и для чего он требуется.
+  Este artigo explica quais interações únicas estão disponíveis, como obter material de pesquisa e para que ele é necessário.
 
   # SCP-173
 
-  ## Шахтерская кирка
+  ## Picareta de Minerador
 
-  Используйте шахтерскую кирку на объекте, чтобы отколоть кусочек статуи. Полученный фрагмент будет работать как артефакт и может быть использован для получения [color=#8b0000]очков исследования SCP[/color]
+  Use a picareta de minerador no objeto para quebrar um pedaço da estátua. O fragmento obtido funcionará como um artefato e pode ser usado para obter [color=#8b0000]pontos de pesquisa SCP[/color]
 
-  ## Соскобление краски
+  ## Raspagem de Tinta
 
-  Используйте лом на объекте, чтобы содрать немного краски. Полученный порошок нужно поместить в микроволновку, чтобы превратить ее в сгусток, который можно исследовать как артефакт для получения [color=#8b0000]очков исследования SCP[/color]
+  Use a alavanca no objeto para remover um pouco de tinta. O pó obtido deve ser colocado no micro-ondas para transformá-lo em um coágulo que pode ser estudado como um artefato para obter [color=#8b0000]pontos de pesquisa SCP[/color]
 
-  ## Сбор жидкости
+  ## Coleta de Líquido
 
-  Это единственное взаимодействие не связанное с самим объектом.
-  - Соберите жижу, выделяемую SCP-173.
-  - Поместите жижу в [bold]синтезатор реагентов[/bold], который находится рядом с его камерой. [bold]Требуется минимум 30 юнитов жижи[/bold]
-  - Дождитесь окончания синтеза
+  Esta é a única interação não relacionada ao próprio objeto.
+  - Colete o líquido secretado pela SCP-173.
+  - Coloque o líquido no [bold]sintetizador de reagentes[/bold], que fica perto de sua câmara. [bold]Requer um mínimo de 30 unidades de líquido[/bold]
+  - Aguarde o término da síntese
 
-  В вашей пробирке может оказаться случайный реагент случайного количества
+  No seu tubo de ensaio, você pode obter um reagente aleatório em quantidade aleatória
 
   # SCP-999
 
-  ## Скальпель
+  ## Bisturi
 
-  Используйте скальпель на объекте, чтобы получить кусочек желе. Желе работает как артефакт, который можно изучить для получения [color=#8b0000]очков исследования SCP[/color]
+  Use o bisturi no objeto para obter um pedaço de geleia. A geleia funciona como um artefato que pode ser estudado para obter [color=#8b0000]pontos de pesquisa SCP[/color]
 
-  ## Прикормка
+  ## Alimentação
 
-  Покормите объект пончиками для получения сладкой слизи. Ее можно использовать в рецептах для приготовления лечащей еды
+  Alimente o objeto com donuts para obter lodo doce. Pode ser usado em receitas para preparar alimentos curativos
 
-  - Булка + желе = [bold]желебулка[/bold]
-  - Пицца Маргаритта + желе = [bold]желепицца[/bold]
+  - Pão + geleia = [bold]pão de geleia[/bold]
+  - Pizza Margherita + geleia = [bold]pizza de geleia[/bold]
 
-  Некоторые образцы желе могут содержать пепел. Все случайно
+  Algumas amostras de geleia podem conter cinzas. Tudo é aleatório
 
   # SCP-096
 
-  ## Фотоаппарат
+  ## Câmera Fotográfica
 
-  Используйте фотоаппарат на объекте, чтобы создать его фотографию.
-  Посмотрев на нее любой член экипажа автоматически увидит лицо скромника, что приведет его в состояние ярости и сделает посмотревшего целью скромника
+  Use a câmera fotográfica no objeto para tirar uma foto dele.
+  Ao observar a foto, qualquer membro da tripulação verá automaticamente o rosto do tímido, o que o colocará em estado de fúria e tornará o observador alvo do tímido
 
 </Document>

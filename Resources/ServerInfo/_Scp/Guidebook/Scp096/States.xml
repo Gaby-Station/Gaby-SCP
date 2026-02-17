@@ -1,68 +1,68 @@
 ﻿<Document>
-  # Состояния
+  # Estados
 
-  Скромник обладает несколькими уникальными состояниями, определяющими его возможности и механики.
+  O tímido possui vários estados únicos que determinam suas capacidades e mecânicas.
 
-  Будучи скромником, вы можете определить ваше состояние с помощью репрезентации вашего лица на панели статус-эффектов, справа. Наведя на него мышку, можно увидеть более подробное описание и комментарии вашего внутреннего "голоса" касательно всей ситуации.
+  Sendo o tímido, você pode determinar seu estado através da representação de seu rosto no painel de efeitos de status, à direita. Ao passar o mouse sobre ele, você pode ver uma descrição mais detalhada e comentários de sua "voz" interna sobre a situação geral.
 
-  Персоналу комплекса можно определить состояние по звуку, который издает скромник. Некоторые состояния имеют отличимые уникальные действия или внешний вид.
+  O pessoal da instalação pode determinar o estado pelo som que o tímido emite. Alguns estados têm ações e aparências únicas e distintas.
 
-  [textlink="Общая информация о скромнике" link="Scp096About"]
+  [textlink="Informações gerais sobre o tímido" link="Scp096About"]
 
-  ## Обычное
+  ## Normal
 
-  В данном состоянии скромник медлителен, не может атаковать. Это стандартное состояние, в котором находится объект после появления в раунде.
+  Neste estado, o tímido é lento e não pode atacar. Este é o estado padrão em que o objeto se encontra após aparecer na rodada.
 
-  Чтобы перейти в другое состояние ему требуется [bold]содрать кожу со своего лица[/bold] или дождаться, пока [bold]кто-то увидит его лицо[/bold] вживую или на фотографии.
+  Para passar para outro estado, ele precisa [bold]arrancar a pele de seu rosto[/bold] ou esperar que [bold]alguém veja seu rosto[/bold] pessoalmente ou em uma fotografia.
 
-  Определить данное состояние можно по звуку плача или медлительной скорости передвижения.
+  Você pode identificar este estado pelo som de choro ou pela velocidade lenta de movimento.
 
-  ## Пред-яростное
+  ## Pré-Fúria
 
-  В данном состоянии скромник не может передвигаться, трясется и издает громкий звук.
-  Состояние длится 40 секунд, после чего скромник автоматически переходит в состояние Ярости.
+  Neste estado, o tímido não pode se mover, treme e emite um som alto.
+  Este estado dura 40 segundos, após o qual o tímido automaticamente entra em estado de Fúria.
 
-  [bold]Скромник переходит в состояние после того, как кто-то увидел его лицо. Это можно сделать:[/bold]
-  - Вживую, когда вы и скромник смотрите друг-другу в лица.
-  - На фотографии. Достаточно осмотреть ее
+  [bold]O tímido entra em estado após alguém ver seu rosto. Isso pode ser feito por:[/bold]
+  - Pessoalmente, quando você e o tímido se olham nos olhos.
+  - Em uma fotografia. Basta examiná-la
 
-  Определить состояние можно по громкому звуку и тряске объекта.
+  Você pode identificar o estado pelo som alto e tremor do objeto.
 
-  ## Ярость
+  ## Fúria
 
-  Перейдя в данное состояние, объект будет выискивать посмотревших на его лицо, чтобы зверски убить свою цель.
+  Ao entrar neste estado, o objeto procurará por aqueles que viram seu rosto para matá-los selvagemente.
 
-  [bold]Скромник перейдет в следующее состояние, когда [/bold]
-  - Убьет все свои цели или они перестанут существовать
-  - Спустя около 4 минут после начала этого состояния
+  [bold]O tímido passará para o próximo estado quando[/bold]
+  - Matar todos os seus alvos ou eles deixarem de existir
+  - Após cerca de 4 minutos desde o início deste estado
 
-  Определить состояние можно по громкому реву, доносящемуся от скромника, высокой скорости и целенаправленному передвижению по комплексу
+  Você pode identificar o estado pelo rosnado alto do tímido, alta velocidade e movimento direcionado pela instalação
 
-  ## Сон/Сидя
+  ## Dormir/Sentado
 
-  В данном состоянии скромник не может передвигаться и находится в уязвимом положении.
-  Он может попасть в него следующими способами
-  - Выйдя из состояния ярости. Спустя время он сможет проснуться
-  - Использовав способность "Присесть". Он может быстро встать обратно
-  - Потратив всю выносливость(стан). Спустя некоторое время он снова встанет.
+  Neste estado, o tímido não pode se mover e está em uma posição vulnerável.
+  Ele pode entrar nele das seguintes formas
+  - Saído do estado de Fúria. Após algum tempo, ele consegue acordar
+  - Usando a habilidade "Agachar". Ele pode rapidamente se levantar novamente
+  - Gastando toda a resistência (atordoamento). Após algum tempo, ele se levantará novamente.
 
-  В данном состоянии скромник быстрее плачет, выделяя больше слезной жидкости. Также его можно таскать.
+  Neste estado, o tímido chora mais rápido, expelindo mais líquido lacrimal. Ele também pode ser arrastado.
 
-  Определить состояние можно по уникальному внешнему виду, когда объект "сидит" и издает звук плача.
+  Você pode identificar o estado pela aparência única, quando o objeto está "sentado" e emite o som de choro.
 
-  ## Состояние содранного лица
+  ## Estado Rosto Esfolado
 
-  Уникальное состояние, происходящее, когда объект сдирает всю кожу со своего лица, теряя все очертания.
+  Um estado único que ocorre quando o objeto arranca toda a pele de seu rosto, perdendo todas as características.
 
-  [textlink="Подробнее про способности" link="Scp096Abilities"]
+  [textlink="Mais informações sobre habilidades" link="Scp096Abilities"]
 
-  В данном состоянии он может свободно атаковать персонал комплекс, открывать закрытые шлюзы и гермоворота, а также чуть быстрее перемещаться.
+  Neste estado, ele pode atacar livremente o pessoal da instalação, abrir comportas e aerodeslizadores fechados, e também se mover um pouco mais rápido.
 
-  Пока лицо не будет восстановлено, зрительный контакт с его лицом не приведет к переходу в состояние ярости. Даже при взгляде на фотографию.
+  Enquanto o rosto não for restaurado, o contato visual com seu rosto não resultará em transição para o estado de Fúria. Mesmo ao olhar para uma fotografia.
 
-  Чтобы выйти из этого состояния, требуется восстановить лицо. Это автоматически произойдет спустя 15 минут после входа в состояние. Этот процесс можно ускорить, вылечив лицо вручную с помощью пластырей.
+  Para sair deste estado, é necessário restaurar o rosto. Isso acontecerá automaticamente 15 minutos após entrar no estado. Este processo pode ser acelerado curando o rosto manualmente com ataduras.
 
-  [textlink="Подробнее про восстановление условий содержания" link="Scp096Containment"]
+  [textlink="Mais informações sobre restauração de condições de contenção" link="Scp096Containment"]
 
-  Определить состояние можно по уникальному "шумному" звуку исходящему от объекта и свободному передвижению по комплексу.
+  Você pode identificar o estado pelo som "ruidoso" único emanando do objeto e movimento livre pela instalação.
 </Document>

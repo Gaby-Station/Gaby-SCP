@@ -165,6 +165,10 @@
             "name": "direction_evac",
             "directions": 4
         },
+                {
+            "name": "direction_evac_glow",
+            "directions": 4
+        },
         {
             "name": "direction_supply",
             "directions": 4

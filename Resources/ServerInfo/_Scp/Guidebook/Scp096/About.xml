@@ -1,33 +1,33 @@
 ﻿<Document>
-  # SCP-096 "Скромник"
+  # SCP-096 "O Tímido"
 
-  Данное руководство расскажет о том, чем является объект в рамках игры и ее механик. Здесь НЕ будет затронута "лорная" часть объекта.
+  Este manual descreverá o que é o objeto dentro do contexto do jogo e suas mecânicas. A parte "canônica" do objeto NÃO será abordada aqui.
 
-  Данная страница является сборником ссылок на другие, более подробные руководства по объекту, и краткое описание раздела.
+  Esta página é uma coleção de links para outros guias mais detalhados sobre o objeto e uma breve descrição da seção.
 
-  ## Начало раунда
+  ## Início da Rodada
 
-  В стартовой точке, начале раунда или после появления, SCP-096 находится в своей камере содержания.
-  Камера содержания представляет собой сдерживающую меру, препятствующую вреду персоналу комплекса.
+  No ponto de partida, no início da rodada ou após aparecer, a SCP-096 se encontra em sua câmara de contenção.
+  A câmara de contenção é uma medida de retenção que impede danos ao pessoal da instalação.
 
-  Пока объект находится в ней - он практически не представляет угрозы.
+  Enquanto o objeto estiver dentro dela - ele praticamente não representa ameaça alguma.
 
-  - Задача персонала комплекса: сдерживать объект внутри камеры содержания.
-  - Задача SCP-096: Покинуть камеру содержания.
+  - Tarefa do pessoal da instalação: manter o objeto dentro da câmara de contenção.
+  - Tarefa da SCP-096: Escapar da câmara de contenção.
 
-  [textlink="Подробнее о сдерживании здесь" link="Scp096Containment"]
+  [textlink="Mais informações sobre contenção aqui" link="Scp096Containment"]
 
-  [textlink="Подробнее о методах здесь." link="Scp096ContainmentBreach"]
+  [textlink="Mais informações sobre métodos aqui." link="Scp096ContainmentBreach"]
 
-  ## Состояния
+  ## Estados
 
-  Состояния определяют набор механик и задают поведение объекта. В течение раунда объект будет переходить в разные состояния, в зависимости от действий окружающих или действий самого скромника.
+  Os estados determinam um conjunto de mecânicas e definem o comportamento do objeto. Durante a rodada, o objeto passará por diferentes estados, dependendo das ações dos outros ou das ações do próprio tímido.
 
-  [textlink="Подробнее про состояния здесь" link="Scp096States"]
+  [textlink="Mais informações sobre estados aqui" link="Scp096States"]
 
-  ## Способности
+  ## Habilidades
 
-  Скромник обладает двумя уникальными способностями, одна из которых является ключевой механикой, позволяющей сбежать из камеры содержания.
+  O tímido possui duas habilidades únicas, uma das quais é a mecânica chave que permite escapar da câmara de contenção.
 
-  [textlink="Подробнее про способности здесь" link="Scp096Abilities"]
+  [textlink="Mais informações sobre habilidades aqui" link="Scp096Abilities"]
 </Document>

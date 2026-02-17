@@ -1,66 +1,66 @@
 ﻿<Document>
-  # Содержание SCP-096
+  # Contenção da SCP-096
 
-  По умолчанию SCP-096 появляется в своей камере содержания, которая ограничивает его зону передвижения и не дает выйти за ее пределы.
-  Камера содержания является сдерживающей мерой, которая делает содержание объекта безопасным.
+  Por padrão, a SCP-096 aparece em sua câmara de contenção, que limita sua zona de movimento e a impede de sair de seus limites.
+  A câmara de contenção é uma medida de retenção que torna a contenção do objeto segura.
 
-  [textlink="Общая информация о скромнике" link="Scp096About"]
+  [textlink="Informações gerais sobre o tímido" link="Scp096About"]
 
-  [textlink="Подробнее о методах побега, будучи скромником" link="Scp096ContainmentBreach"]
+  [textlink="Mais informações sobre métodos de fuga, sendo o tímido" link="Scp096ContainmentBreach"]
 
-  ## Что нужно делать?
+  ## O que fazer?
 
-  Основной способ нарушения условий содержания для объекта - использование способности "Содрать кожу с лица". Она позволяет повредить лицо объекта, нанеся урон.
+  A principal maneira de violar as condições de contenção do objeto é usando a habilidade "Arrancar Pele do Rosto". Ela permite danificar o rosto do objeto, causando dano.
 
-  [textlink="Подробнее про способности" link="Scp096Abilities"]
+  [textlink="Mais informações sobre habilidades" link="Scp096Abilities"]
 
-  Учтите, что использовать способность можно только спустя 15 минут после начала раунда, так как в это время действует механика "Безопасного времени", ограничивающая активность SCP объектов и дающая персоналу время на начальную подготовку к раунду.
+  Observe que você só pode usar a habilidade 15 minutos após o início da rodada, pois durante este tempo está em vigor a mecânica de "Tempo Seguro", que limita a atividade dos objetos SCP e dá ao pessoal tempo para preparação inicial da rodada.
 
-  Сдирание кожи с лица 5 раз позволит раскрошить лицо в мясо, что переведет скромника в состояние "Содранной кожи на лице". В этом состоянии он сможет выйти из камеры содержания и атаковать персонал.
+  Arrancar a pele do rosto 5 vezes reduzirá o rosto a carne amassada, colocando o tímido no estado "Rosto Esfolado". Neste estado, ele será capaz de sair da câmara de contenção e atacar o pessoal.
 
-  [textlink="Подробнее про состояния" link="Scp096States"]
+  [textlink="Mais informações sobre estados" link="Scp096States"]
 
-  Задача персонала - не дать скромнику раскрошить свое лицо. Для этого требуется время от времени восстанавливать лицо объекта, используя медицинские пластыри.
+  A tarefa do pessoal é impedir que o tímido tenha destruído o seu rosto. Para isso, é necessário de tempos em tempos restaurar o rosto do objeto usando ataduras médicas.
 
-  ## Как определить степень повреждения лица?
+  ## Como determinar o grau de dano facial?
 
-  Персоналу важно вовремя провести процедуру восстановления лица скромника, поэтому грамотное определение состояние - ключевой фактор в этом вопросе.
+  É importante que o pessoal conduza o procedimento de restauração do rosto do tímido no tempo certo, portanto, uma determinação adequada do estado é um fator chave nesta questão.
 
-  Квалифицированный персонал, вроде научного и части медицинского, может сходу оценить степень тяжести травм у объекта. Эту степень отображает видимая им иконка, справа сверху над объектом.
+  Pessoal qualificado, como cientistas e parte do pessoal médico, pode avaliar prontamente o grau de severidade dos ferimentos do objeto. Este grau é exibido por um ícone visível para eles, no canto superior direito do objeto.
 
-  Чем больше крови на лице иконки - тем больше поврежденность лица.
+  Quanto mais sangue no rosto do ícone - maior é o dano no rosto.
 
-  Альтернативным способом получения информации является осмотр скромника используя Shift+Click. В меню будет предоставлено визуальное описание состояния объекта, что может помочь оценить обстановку.
+  Uma forma alternativa de obter informações é inspecionar o tímido usando Shift+Click. No menu será fornecida uma descrição visual do estado do objeto, o que pode ajudar a avaliar a situação.
 
-  Квалифицированный персонал, вроде научного, может оценить, насколько критичны данные повреждения и немедленно выдать оценку.
-  Информация о важности восстановления лица в данный момент будет написана ниже, если сотрудник обладает достаточной квалификацией.
+  Pessoal qualificado, como cientistas, pode avaliar o quão críticos são esses danos e fornecer uma avaliação imediata.
+  As informações sobre a importância de restaurar o rosto neste momento serão fornecidas abaixo se o funcionário tiver qualificação suficiente.
 
-  ## Ремонт камеры содержания
+  ## Reparo da Câmara de Contenção
 
-  Объект обладает способностью создавать мощный аномальный резонанс, наносящий колоссальный урон всем структурам вокруг с помощью звуковой волны. К счастью, камера содержания объекта спроектирована по образу "Безэховых камер", частично подавляя разрушающую способность.
+  O objeto tem a capacidade de criar uma poderosa ressonância anômala que causa dano colossal a todas as estruturas ao redor com uma onda sonora. Felizmente, a câmara de contenção do objeto foi projetada de acordo com "Câmaras à Prova de Eco", suprimindo parcialmente a habilidade destrutiva.
 
-  Но камера содержания не вечная! Постоянное воздействие сверхмощных звуковых волн вызывает деформацию и повреждение стен камеры содержания.
+  Mas a câmara de contenção não é eterna! A exposição constante a ondas sonoras super potentes causa deformação e dano às paredes da câmara de contenção.
 
-  Для предотвращения нарушения условий содержания требуется проводить ремонтные работы каждые 20-25 минут, вызывая квалифицированный технический персонал с материалами и инструментами.
-  ## Что делать, если объект сбежал?
+  Para evitar violações das condições de contenção, é necessário realizar trabalhos de reparo a cada 20-25 minutos, convocando pessoal técnico qualificado com materiais e ferramentas.
+  ## O que fazer se o objeto escapar?
 
-  На вооружении фонда имеются высокотехнологичные разработки в виде "Мешка на голову" и "Маски", которые можно надеть на объект.
-  Пока объект их носит, он не может атаковать и сопротивляться транспортировке.
+  O armamento da Fundação inclui desenvolvimentos de alta tecnologia na forma de "Saco de Cabeça" e "Máscaras" que podem ser colocadas no objeto.
+  Enquanto o objeto os usa, ele não pode atacar ou resistir ao transporte.
 
-  Объект может разорвать сдерживающую экипировку спустя некоторое время после ее надевания. Чем лучше экипировка, тем сложнее ее разорвать.
+  O objeto pode rasgar o equipamento de contenção algum tempo depois de ser colocado. Quanto melhor o equipamento, mais difícil é rasgá-lo.
 
-  Если объект уничтожил свое лицо, то хорошим решением будет использовать нелетальное вооружение для усмирения объекта перед надеванием сдерживающей экипировки.
-  Учтите, что потребуется большая сила, чтобы усмирить объект. Одного вооруженного тайзером сотрудника не хватит!
+  Se o objeto destruiu seu rosto, uma boa solução é usar armas não-letais para subjugar o objeto antes de colocar o equipamento de contenção.
+  Observe que será precisa de muita força para subjugar o objeto. Um único funcionário armado com um taser não será suficiente!
 
-  ## Фотографии
+  ## Fotografias
 
-  Иногда случайность может стать решающим фактором. В игре существует случайный ивент, создающий по всему комплексу и в инвентарях игроков копии фотографии SCP-096.
+  Às vezes, a aleatoriedade pode ser o fator decisivo. O jogo possui um evento aleatório que cria cópias de fotografias da SCP-096 em toda a instalação e nos inventários dos jogadores.
 
-  Посмотревшие на фотографию станут целями скромника, переведя его в другое состояние.
+  Aqueles que olham para a foto se tornam alvos do tímido, mudando-o para um estado diferente.
 
-  Фотографии могут играть и на руку персоналу. Так, если посадить цель скромника в его камеру содержания, а затем вовремя ее закрыть, можно восстановить Особые Условия Содержания с незначительными потерями.
+  As fotografias também podem jogar a favor do pessoal. Assim, se você colocar o alvo do tímido em sua câmara de contenção e depois fechá-la a tempo, poderá restaurar as Condições Especiais de Contenção com perdas mínimas.
 
-  Фотографию также можно создать, использовав лабораторный фотоаппарат на скромнике.
+  Uma fotografia também pode ser criada usando uma câmera de laboratório no tímido.
 
-  [textlink="Подробнее про уникальные взаимодействия" link="ScpResearchAdvanced"]
+  [textlink="Mais informações sobre interações únicas" link="ScpResearchAdvanced"]
 </Document>
