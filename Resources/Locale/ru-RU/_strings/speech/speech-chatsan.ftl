@@ -330,4 +330,4 @@ chatsan-word-118 = hos
 chatsan-replacement-118 = Chefe da Segurança
 
 chatsan-word-119 = hop
-chatsan-replacement-119 = Chefe dos Funcionários
+chatsan-replacement-119 = Gerente de RH

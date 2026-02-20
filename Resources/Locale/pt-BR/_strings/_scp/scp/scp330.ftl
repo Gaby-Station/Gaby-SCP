@@ -1,14 +1,14 @@
 scp330-bowl-empty = A tigela está vazia...
-scp330-removed-hands = SEUS ESCOVAS CAÍRAM!
+scp330-removed-hands = SUAS MÃOS CAÍRAM!
 scp330-cant-see-count = Daqui você não consegue ver quantos deles sobraram...
-scp330-see-count = Em uma tigela { $count -> 
-    [one] осталась { $count } конфета
-    [few] осталось { $count } конфеты
-   *[other] осталось { $count } конфет
+scp330-see-count = Em uma tigela { $count ->
+    [one] restou { $count } doce
+    [few] restaram alguns { $count } doces
+   *[other] restaram { $count } doces
  }
-scp330-can-take = Se eu seguir as instruções, posso fazer outro { $count -> 
-    [one] { $count } конфету
-    [few] { $count } конфеты
-   *[other] { $count } конфет
+scp330-can-take = Se eu seguir as instruções, posso fazer outro { $count ->
+    [one] { $count } doce
+    [few] { $count } doces
+   *[other] { $count } doce
  }.
 scp330-can-not-take = Se eu seguir as instruções, não devo comer mais doces.

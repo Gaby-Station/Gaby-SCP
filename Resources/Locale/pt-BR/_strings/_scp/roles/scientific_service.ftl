@@ -6,4 +6,4 @@ job-name-production-specialist = Especialista em Produção
 job-description-production-specialist = Um funcionário de manufatura especializado na criação de máquinas complexas. Produz materiais e coisas em autolats/protolats e também projeta novos equipamentos.
 job-name-junior-researcher = Assistente de laboratório
 job-description-junior-researcher = Um pesquisador novato designado para um dos funcionários.
-job-supervisors-scientific-service-director = pesquisador-chefe
+job-supervisors-scientific-service-director = Diretor de Pesquisa

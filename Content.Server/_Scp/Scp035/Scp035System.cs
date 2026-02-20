@@ -56,9 +56,9 @@ public sealed class Scp035System : SharedScp035System
 
     private List<string> _messages = new()
     {
-        "Ну же, надень меня!",
-        "Чего ты ждешь! Надень меня..",
-        "Помоги мне!.."
+        "Vai, me vista..",
+        "O que você está esperando? me vista..",
+        "Me ajuda!"
     };
 
     public override void Initialize()

@@ -1,6 +1,6 @@
 - type: gameMap
   id: ScpComplexStandard
-  mapName: 'Комплекс типа - Standard'
+  mapName: 'Sítio - Standard'
   mapPath: /Maps/_Scp/scp_complex_standard.yml
   maxRandomOffset: 0
   randomRotation: false
@@ -11,7 +11,7 @@
       stationProto: ScpComplexStandard
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'Участок-{0} тип - Standard'
+          mapNameTemplate: 'Sitio-{0} Tipo - Standard'
           nameGenerator:
             !type:ScpSiteNameGenerator
             prefixCreator: '15'

@@ -21,5 +21,5 @@ comms-console-announcement-unknown-sender = Desconhecido
 comms-console-announcement-title-station = Console de comunicações
 comms-console-announcement-title-centcom = Gestão regional
 comms-console-announcement-title-nukie = Sindicato de agentes nucleares
-comms-console-announcement-title-station-ai = Recrute com inteligência artificial
+comms-console-announcement-title-station-ai = IA do sítio
 comms-console-announcement-title-wizard = Mago

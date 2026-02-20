@@ -28,7 +28,7 @@ ent-RandomStaffKeycardSpawnerHigh = { ent-RandomStaffKeycardSpawnerBase }
     .suffix = 70%
     .desc = { ent-RandomStaffKeycardSpawnerBase.desc }
 
-ent-RandomLogisticsKeycardSpawnerBase = gerador de cartão-chave de serviço de logística
+ent-RandomLogisticsKeycardSpawnerBase = gerador de cartão-chave de Departamento de Logística
     .desc = Gera um cartão-chave de logístico.
 
 ent-RandomLogisticsKeycardSpawnerLow = { ent-RandomLogisticsKeycardSpawnerBase }
@@ -43,8 +43,8 @@ ent-RandomLogisticsKeycardSpawnerHigh = { ent-RandomLogisticsKeycardSpawnerBase 
     .suffix = 70%
     .desc = { ent-RandomLogisticsKeycardSpawnerBase.desc }
 
-ent-RandomMedicalKeycardSpawnerBase = gerador de cartão-chave de serviço médico
-    .desc = Gera o cartão-chave de um funcionário do serviço médico. Não inclui anciãos ou chefes.
+ent-RandomMedicalKeycardSpawnerBase = gerador de cartão-chave de Departamento Médico
+    .desc = Gera o cartão-chave de um funcionário do Departamento Médico. Não inclui anciãos ou chefes.
 
 ent-RandomMedicalKeycardSpawnerLow = { ent-RandomMedicalKeycardSpawnerBase }
     .suffix = 30%
@@ -73,7 +73,7 @@ ent-RandomTechnicalKeycardSpawnerHigh = { ent-RandomTechnicalKeycardSpawnerBase 
     .suffix = 70%
     .desc = { ent-RandomTechnicalKeycardSpawnerBase.desc }
 
-ent-RandomScientificKeycardSpawnerBase = gerador de cartão-chave de serviço científico
+ent-RandomScientificKeycardSpawnerBase = gerador de cartão-chave de Departamento de Pesquisa
     .desc = Gera um cartão-chave de Oficial de Ciências. Não inclui anciãos ou chefes.
 
 ent-RandomScientificKeycardSpawnerLow = { ent-RandomScientificKeycardSpawnerBase }

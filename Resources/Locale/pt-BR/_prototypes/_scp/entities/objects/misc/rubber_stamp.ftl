@@ -12,5 +12,5 @@ ent-RubberStampSecurityCommander = selo do chefe de segurança
     .desc = { ent-RubberStampBase.desc }
 ent-RubberStampSeniorLogisticsOfficer = selo de oficial sênior de logística
     .desc = { ent-RubberStampBase.desc }
-ent-RubberStampScientificServiceDirector = selo do diretor do serviço científico
+ent-RubberStampScientificServiceDirector = selo do diretor do Departamento de Pesquisa
     .desc = { ent-RubberStampBase.desc }

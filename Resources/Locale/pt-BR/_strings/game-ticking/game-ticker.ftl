@@ -8,21 +8,21 @@ game-ticker-delay-start = O início da rodada foi atrasado em { $seconds } segun
 game-ticker-pause-start = O início da rodada foi suspenso.
 game-ticker-pause-start-resumed = A contagem regressiva para o início da rodada foi retomada.
 game-ticker-player-join-game-message = Bem-vindo à Fundação SCP do Projeto Corpo de Bombeiros! Se esta é a primeira vez que você joga, pressione ESC no teclado e leia as regras do jogo, e não tenha medo de pedir ajuda na “Ajuda do administrador”.
-game-ticker-get-info-text = 
-    Текущий раунд: [color=branco] #{ $roundId }[/color]
-    Текущее количество игроков: [color=branco]{ $playerCount }[/color]
-    Текущая карта: [color=branco]{ $mapName }[/color]
-    Текущий режим игры: [color=branco]{ $gmTitle }[/color]
+game-ticker-get-info-text =
+    Rodada atual: [color=branco] #{ $roundId }[/color]
+    Número atual de jogadores: [color=branco]{ $playerCount }[/color]
+    Mapa atual: [color=branco]{ $mapName }[/color]
+    Modo de jogo atual: [color=branco]{ $gmTitle }[/color]
     >[color=amarelo]{ $desc }[/color]
-game-ticker-get-info-preround-text = 
-    Текущий раунд: [color=branco] #{ $roundId }[/color]
-    Текущее количество игроков: [color=branco]{ $playerCount }[/color] ([color=white]{ $readyCount }[/color] { $readyCount -> 
-    [one] готов
-   *[other] готовы
+game-ticker-get-info-preround-text =
+        Rodada atual: [color=branco] #{ $roundId }[/color]
+        Número atual de jogadores: [color=branco]{ $playerCount }[/color] ([color=white]{ $readyCount }[/color] { $readyCount ->
+        [one] pronto
+     *[other] prontos
  })
-    Текущая карта: [color=branco]{ $mapName }[/color]
-    Текущий режим игры: [color=branco]{ $gmTitle }[/color]
-    >[color=amarelo]{ $desc }[/color]
+        Mapa atual: [color=branco]{ $mapName }[/color]
+        Modo de jogo atual: [color=branco]{ $gmTitle }[/color]
+        >[color=amarelo]{ $desc }[/color]
 game-ticker-no-map-selected = [color=red]Mapa ainda não selecionado![/color]
 game-ticker-player-no-jobs-available-when-joining = Ao tentar entrar no jogo, nenhuma função estava disponível.
 # Displayed in chat to admins when a player joins
@@ -30,13 +30,13 @@ player-join-message = O jogador { $name } entrou!
 player-first-join-message = O jogador { $name } entrou no servidor pela primeira vez.
 # Displayed in chat to admins when a player leaves
 player-leave-message = O jogador { $name } saiu!
-latejoin-arrival-announcement = 
-    { $character } ({ $job }) { $gender -> 
-    [male] прибыл
-    [female] прибыла
-    [epicene] прибыли
-   *[neuter] прибыл
- } в Комплекс!
+latejoin-arrival-announcement =
+        { $character } ({ $job }) { $gender ->
+        [male] chegou
+        [female] chegou
+        [epicene] chegaram
+     *[neuter] chegou
+ } no Complexo!
 latejoin-arrival-announcement-special = { $job } { $character } no Complexo!
 latejoin-arrival-sender = Complexo
 latejoin-arrivals-direction = Um ônibus chegará em breve para levá-lo à estação.

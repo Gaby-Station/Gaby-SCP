@@ -8,4 +8,4 @@ job-name-medical-specialist = Doutor
 job-description-medical-specialist = O médico residente oferece atendimento médico especializado e também é especialista no uso de amnésticos e outras drogas anômalas.
 job-name-hospital-intern = Assistente médico
 job-description-hospital-intern = As funções de um assistente médico incluem prestar primeiros socorros em caso de lesões e auxiliar os médicos da equipe.
-job-supervisors-head-of-medical-sector = médico-chefe
+job-supervisors-head-of-medical-sector = Médico Chefe

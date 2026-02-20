@@ -1,6 +1,6 @@
 - type: gameMap
   id: ScpComplexModular
-  mapName: 'Комплекс типа - Modular'
+  mapName: 'Sítio - Modular'
   mapPath: /Maps/_Scp/scp_complex_modular.yml
   maxRandomOffset: 0
   randomRotation: false
@@ -10,7 +10,7 @@
       stationProto: ScpComplexModular
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'Участок-{0} тип - Modular'
+          mapNameTemplate: 'Sitio-{0} Tipo - Modular'
           nameGenerator:
             !type:ScpSiteNameGenerator
             prefixCreator: '15'

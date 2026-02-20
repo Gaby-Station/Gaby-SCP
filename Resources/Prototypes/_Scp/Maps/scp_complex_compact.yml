@@ -1,6 +1,6 @@
 - type: gameMap
   id: ScpComplexCompact
-  mapName: 'Комплекс типа - Compact'
+  mapName: 'Sítio - Compact'
   mapPath: /Maps/_Scp/scp_complex_compact.yml
   maxRandomOffset: 0
   randomRotation: false
@@ -11,7 +11,7 @@
       stationProto: ScpComplexCompact
       components:
         - type: StationNameSetup
-          mapNameTemplate: 'Участок-{0} тип - Compact'
+          mapNameTemplate: 'Sitio-{0} Tipo - Compact'
           nameGenerator:
             !type:ScpSiteNameGenerator
             prefixCreator: '15'

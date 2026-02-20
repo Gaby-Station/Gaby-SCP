@@ -5,5 +5,5 @@ ent-GunLockerSmallFilledM1984 = { ent-GunLockerSmall }
     .suffix = Preenchido, M1984, Gabinete do Comandante
     .desc = { ent-GunLockerSmall.desc }
 ent-GunLockerSmallFilledACP14 = { ent-GunLockerSmall }
-    .suffix = Preenchido, ACP-14, OSN
+    .suffix = Preenchido, ACP-14, ZCP
     .desc = { ent-GunLockerSmall.desc }

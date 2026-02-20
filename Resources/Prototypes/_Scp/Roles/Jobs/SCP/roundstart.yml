@@ -14,6 +14,7 @@
   canBeAntag: false
   jobEntity: Scp999
   applyTraits: false
+  whitelisted: true
 
 # Euclid
 - type: job
@@ -31,6 +32,7 @@
   canBeAntag: false
   jobEntity: Scp173
   applyTraits: false
+  whitelisted: true
 
 - type: job
   id: Scp096
@@ -47,6 +49,7 @@
   canBeAntag: false
   jobEntity: Scp096
   applyTraits: false
+  whitelisted: true
 
 - type: job
   id: Scp049
@@ -63,6 +66,7 @@
   canBeAntag: false
   jobEntity: Scp049
   applyTraits: false
+  whitelisted: true
 
 - type: job
   id: Scp082
@@ -80,6 +84,7 @@
   jobEntity: Scp082 # TODO: Поменять после добавления каннибала
   applyTraits: false
   setPreference: false # TODO: Убрать после добавления каннибала
+  whitelisted: true
 
 # Keter
 - type: job
@@ -97,6 +102,7 @@
   canBeAntag: false
   jobEntity: Scp939
   applyTraits: false
+  whitelisted: true
 
 - type: job
   id: Scp106
@@ -113,3 +119,4 @@
   canBeAntag: false
   jobEntity: Scp106
   applyTraits: false
+  whitelisted: true

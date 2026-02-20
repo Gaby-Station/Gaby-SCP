@@ -16,4 +16,4 @@ reagent-dispenser-window-eject-container-button = ⏏
 reagent-dispenser-window-no-container-loaded-text = O contêiner não está carregado.
 reagent-dispenser-window-reagent-name-not-found-text = Nome do reagente não encontrado
 reagent-dispenser-window-unknown-reagent-text = Reagente desconhecido
-reagent-dispenser-window-quantity-label-text = { $quantity }unidades
+reagent-dispenser-window-quantity-label-text = { $quantity } unidades
