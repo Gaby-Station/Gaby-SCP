@@ -1,7 +1,7 @@
 - type: radioChannel
   id: Law
   name: chat-radio-law
-  keycode: 'n' # Fire edit - чтобы не конфликтовало
+  keycode: 'q' # Fire edit - чтобы не конфликтовало
   frequency: 1780
   color: "#ff178b"
 

@@ -16,14 +16,14 @@
 - type: radioChannel
   id: EthicsCommittee
   name: chat-radio-ethics-committee
-  keycode: 'u'
+  keycode: 'b'
   frequency: 2359
   color: "#8c4669"
 
 - type: radioChannel
   id: HeavyContainmentSecurityService
   name: chat-radio-heavy-containment-security-service
-  keycode: 'b'
+  keycode: 'x'
   frequency: 2360
   color: "#B54E4E"
 

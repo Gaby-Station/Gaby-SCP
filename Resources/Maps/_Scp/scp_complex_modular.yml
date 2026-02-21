@@ -66666,16 +66666,16 @@ entities:
   - uid: 10559
     components:
     - type: MetaData
-      desc: Кусок графитового стержня, используемого в реакторах большой мощности канальных, РБМК-1000. (В данный момент устаревшей модели РБМК)
-      name: Обломок графитового стержня
+      desc: Um pedaço de haste de grafite usado em reatores de alta potência do tipo canal, o RBMK-1000. (Atualmente um modelo obsoleto do RBMK)
+      name: Um fragmento de uma haste de grafite
     - type: Transform
       pos: -40.627594,49.5308
       parent: 2
   - uid: 10560
     components:
     - type: MetaData
-      desc: Кусок графитового стержня, используемого в реакторах большой мощности канальных, РБМК-1000. (В данный момент устаревшей модели РБМК)
-      name: Обломок графитового стержня
+      desc: Um pedaço de haste de grafite usado em reatores de alta potência do tipo canal, o RBMK-1000. (Atualmente um modelo obsoleto do RBMK)
+      name: Um fragmento de uma haste de grafite
     - type: Transform
       pos: -41.523872,48.4683
       parent: 2
@@ -71808,84 +71808,84 @@ entities:
       pos: 23.5,164.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara 096
+      text: Камера 096
   - uid: 11398
     components:
     - type: Transform
       pos: 83.5,205.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara 457
+      text: Камера 457
   - uid: 11399
     components:
     - type: Transform
       pos: 24.5,188.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara 082
+      text: Камера 082
   - uid: 11400
     components:
     - type: Transform
       pos: 50.5,189.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara 049
+      text: Камера 049
   - uid: 11401
     components:
     - type: Transform
       pos: 57.5,158.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara 035
+      text: Камера 035
   - uid: 11402
     components:
     - type: Transform
       pos: 109.5,102.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara de Teste
+      text: Тестовая камера
   - uid: 11403
     components:
     - type: Transform
       pos: 92.5,101.5
       parent: 2
     - type: NavMapBeacon
-      text: Bloco de Armazenamento de SCP de Bolso
+      text: Unidade de armazenamento de bolso SCP
   - uid: 11404
     components:
     - type: Transform
       pos: 83.5,131.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara 173
+      text: camera 173
   - uid: 11405
     components:
     - type: Transform
       pos: -6.5,170.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara 939
+      text: Камера 939
   - uid: 11406
     components:
     - type: Transform
       pos: 49.5,157.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara 079
+      text: Камера 079
   - uid: 11407
     components:
     - type: Transform
       pos: 16.5,224.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara 106
+      text: Камера 106
   - uid: 11408
     components:
     - type: Transform
       pos: 37.5,221.5
       parent: 2
     - type: NavMapBeacon
-      text: Câmara Livre para Humanóides
+      text: Câmera gratuita para humanoides
 - proto: DefaultStationBeaconAI
   entities:
   - uid: 11409
@@ -72018,14 +72018,36 @@ entities:
       parent: 2
 - proto: DefaultStationBeaconEscapePod
   entities:
+  - uid: 11429
+    components:
+    - type: Transform
+      pos: -0.5,181.5
+      parent: 2
     - type: NavMapBeacon
-      text: Abrigo
+      text: Asilo
+  - uid: 11430
+    components:
+    - type: Transform
+      pos: 77.5,191.5
+      parent: 2
     - type: NavMapBeacon
-      text: Abrigo
+      text: Asilo
+  - uid: 11431
+    components:
+    - type: MetaData
+      name: Asilo
+    - type: Transform
+      pos: 68.5,92.5
+      parent: 2
     - type: NavMapBeacon
-      text: Abrigo
+      text: Bunker
+  - uid: 11432
+    components:
+    - type: Transform
+      pos: 18.5,90.5
+      parent: 2
     - type: NavMapBeacon
-      text: Abrigo
+      text: Bunker
   - uid: 11433
     components:
     - type: Transform
@@ -72101,7 +72123,7 @@ entities:
   - uid: 11445
     components:
     - type: MetaData
-      name: Кабинет Представителя КпЭ
+      name: Gabinete do Representante do Comitê de Peritos
     - type: Transform
       pos: 48.5,43.5
       parent: 2
@@ -82728,7 +82750,7 @@ entities:
       pos: -1.5,62.5
       parent: 2
     - type: FaxMachine
-      name: Конференц зал
+      name: sala de comferencias
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -82738,7 +82760,7 @@ entities:
       pos: 2.5,80.5
       parent: 2
     - type: FaxMachine
-      name: Менеджер по персоналу
+      name: Gerente de RH
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -82748,7 +82770,7 @@ entities:
       pos: 51.5,40.5
       parent: 2
     - type: FaxMachine
-      name: Представитель комитета по этике
+      name: Representante do Comitê de Ética
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -82758,7 +82780,7 @@ entities:
       pos: 30.5,111.5
       parent: 2
     - type: FaxMachine
-      name: Главный врач
+      name: CMO
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -82768,7 +82790,7 @@ entities:
       pos: 41.5,124.5
       parent: 2
     - type: FaxMachine
-      name: Главный научный сотрудник
+      name: RD
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -82778,7 +82800,7 @@ entities:
       pos: -23.5,118.5
       parent: 2
     - type: FaxMachine
-      name: Начальник СБ
+      name: HOS
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -82788,7 +82810,7 @@ entities:
       pos: -16.5,45.5
       parent: 2
     - type: FaxMachine
-      name: Ведущий инженер
+      name: CE
     - type: Pullable
       prevFixedRotation: True
     - type: DontSell
@@ -141203,8 +141225,8 @@ entities:
   - uid: 20962
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botão ativa as persianas.
+      name: botão com trava (Obturadores)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -8.5,117.5
@@ -141234,8 +141256,8 @@ entities:
   - uid: 20963
     components:
     - type: MetaData
-      desc: Эта кнопка разблокирует оружейную.
-      name: кнопка с замком (Оружейная)
+      desc: Este botão destrava a arma.
+      name: botão com trava (Armamento)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -8.5,116.5
@@ -141404,7 +141426,7 @@ entities:
   - uid: 20972
     components:
     - type: MetaData
-      name: кнопка с замком (ставни)
+      name: botão com trava (obturadores)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 22.268085,168.56676
@@ -141425,7 +141447,7 @@ entities:
   - uid: 20973
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botão com trava (câmera)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 22.72121,168.56676
@@ -141529,8 +141551,8 @@ entities:
   - uid: 20978
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ворота в камеру 173.
-      name: кнопка с замком (Ворота в камеру 173)
+      desc: Este botão ativa o portão da câmara 173.
+      name: Botão com trava (Portão para a câmara 173)
     - type: Transform
       pos: 78.5,129.5
       parent: 2
@@ -141547,7 +141569,7 @@ entities:
   - uid: 20979
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botão com cadeado (entrada)
     - type: Transform
       pos: 58.5,191.5
       parent: 2
@@ -141561,7 +141583,7 @@ entities:
   - uid: 20980
     components:
     - type: MetaData
-      name: кнопка с замком (выпуск газов)
+      name: botão com trava (liberação de gás)
     - type: Transform
       pos: 59.5,191.5
       parent: 2
@@ -141575,7 +141597,7 @@ entities:
   - uid: 20981
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: botão com cadeado (janela)
     - type: Transform
       pos: 49.5,191.5
       parent: 2
@@ -141592,7 +141614,7 @@ entities:
   - uid: 20982
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botão com trava (câmera)
     - type: Transform
       pos: 50.5,191.5
       parent: 2
@@ -141644,7 +141666,7 @@ entities:
   - uid: 20985
     components:
     - type: MetaData
-      name: кнопка с замком (окна)
+      name: botão com um cadeado (windows)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 45.5,179.5
@@ -141668,7 +141690,7 @@ entities:
   - uid: 20986
     components:
     - type: MetaData
-      name: кнопка с замком (вход к 049)
+      name: botão com cadeado (entrada para 049)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 46.5,179.5
@@ -141689,8 +141711,8 @@ entities:
   - uid: 20987
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botão ativa as persianas.
+      name: botão com trava (Obturadores)
     - type: Transform
       pos: 79.5,129.5
       parent: 2
@@ -141757,7 +141779,7 @@ entities:
   - uid: 20989
     components:
     - type: MetaData
-      name: кнопка с замком (Южные ворота на ВНЕШНИЙ периметр)
+      name: Botão com cadeado (Portão sul para o perímetro EXTERNO)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 6.5,6.5
@@ -141848,8 +141870,8 @@ entities:
   - uid: 20992
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botão ativa as persianas.
+      name: botão com trava (Obturadores)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 29.5,107.5
@@ -141873,8 +141895,8 @@ entities:
   - uid: 20993
     components:
     - type: MetaData
-      desc: Эта кнопка активирует блокировку мед отдела.
-      name: кнопка с замком (Блокировка мед отдела)
+      desc: Este botão ativa a fechadura do departamento médico.
+      name: Botão com trava (Trava do departamento médico)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 30.5,106.5
@@ -141918,7 +141940,7 @@ entities:
   - uid: 20994
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: botão com cadeado (janela)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 23.5,189.5
@@ -141961,7 +141983,7 @@ entities:
   - uid: 20996
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botão com trava (câmera)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 28.5,183.5
@@ -142004,7 +142026,7 @@ entities:
   - uid: 20998
     components:
     - type: MetaData
-      name: кнопка с замком (окна)
+      name: botão com um cadeado (windows)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 92.5,204.5
@@ -142028,7 +142050,7 @@ entities:
   - uid: 20999
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botão com cadeado (entrada)
     - type: Transform
       pos: 86.5,207.5
       parent: 2
@@ -142042,7 +142064,7 @@ entities:
   - uid: 21000
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: botão com cadeado (janela)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 76.5,196.5
@@ -142063,7 +142085,7 @@ entities:
   - uid: 21001
     components:
     - type: MetaData
-      name: кнопка с замком (вход к камере)
+      name: botão com trava (entrada para a câmera)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -0.5,168.5
@@ -142084,7 +142106,7 @@ entities:
   - uid: 21002
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: botão com cadeado (janela)
     - type: Transform
       pos: 14.5,196.5
       parent: 2
@@ -142104,7 +142126,7 @@ entities:
   - uid: 21003
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botão com cadeado (entrada)
     - type: Transform
       pos: 16.5,196.5
       parent: 2
@@ -142124,7 +142146,7 @@ entities:
   - uid: 21004
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botão com trava (câmera)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 28.5,183.5
@@ -142161,7 +142183,7 @@ entities:
   - uid: 21006
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botão com trava (câmera)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 24.5,228.5
@@ -142185,7 +142207,7 @@ entities:
   - uid: 21007
     components:
     - type: MetaData
-      name: кнопка с замком (ставни)
+      name: botão com trava (obturadores)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 23.5,228.5
@@ -142236,7 +142258,7 @@ entities:
   - uid: 21008
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botão com cadeado (entrada)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 77.5,198.5
@@ -142257,7 +142279,7 @@ entities:
   - uid: 21009
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botão com trava (câmera)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 92.5,205.5
@@ -142272,7 +142294,7 @@ entities:
   - uid: 21010
     components:
     - type: MetaData
-      name: кнопка с замком (КПП)
+      name: botão com trava (caixa de câmbio)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 1.5,166.5
@@ -142296,7 +142318,7 @@ entities:
   - uid: 21011
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botão com cadeado (entrada)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 0.5,166.5
@@ -142326,7 +142348,7 @@ entities:
   - uid: 21012
     components:
     - type: MetaData
-      name: кнопка с замком (окна камеры)
+      name: botão com cadeado (entrada)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -6.5,165.5
@@ -142344,7 +142366,7 @@ entities:
   - uid: 21013
     components:
     - type: MetaData
-      name: кнопка с замком (наружний вход)
+      name: Botão de pressão com trava (entrada externa)
     - type: Transform
       pos: -7.5,169.5
       parent: 2
@@ -142370,7 +142392,7 @@ entities:
   - uid: 21014
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botão com trava (câmera)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -9.493713,168.43747
@@ -142388,7 +142410,7 @@ entities:
   - uid: 21015
     components:
     - type: MetaData
-      name: кнопка с замком (окно)
+      name: botão com cadeado (janela)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 20.5,194.5
@@ -142409,7 +142431,7 @@ entities:
   - uid: 21016
     components:
     - type: MetaData
-      name: кнопка с замком (камера)
+      name: botão com trava (câmera)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 20.5,188.5
@@ -142419,7 +142441,7 @@ entities:
   - uid: 21017
     components:
     - type: MetaData
-      name: кнопка с замком (окна)
+      name: botão com um cadeado (windows)
     - type: Transform
       pos: -9.5,169.5
       parent: 2
@@ -142488,7 +142510,7 @@ entities:
   - uid: 21020
     components:
     - type: MetaData
-      name: кнопка с замком (вход)
+      name: botão com cadeado (entrada)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -9.493713,168.67184
@@ -143020,8 +143042,8 @@ entities:
   - uid: 21050
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ворота на вертолётную площадку.
-      name: кнопка с замком (Ворота на вертолётную площадку)
+      desc: Este botão ativa o portão de acesso ao heliporto.
+      name: Botão com trava (Portão para o heliponto)
     - type: Transform
       pos: 20.5,-4.5
       parent: 2
@@ -143041,8 +143063,8 @@ entities:
   - uid: 21051
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botão ativa as persianas.
+      name: botão com trava (Obturadores)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 21.5,-5.5
@@ -143066,8 +143088,8 @@ entities:
   - uid: 21052
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botão ativa as persianas.
+      name: botão com trava (Obturadores)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 2.5,9.5
@@ -143464,8 +143486,8 @@ entities:
   - uid: 21069
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botão ativa as persianas.
+      name: botão com trava (Obturadores)
     - type: Transform
       pos: 77.5,106.5
       parent: 2
@@ -143488,8 +143510,8 @@ entities:
   - uid: 21070
     components:
     - type: MetaData
-      desc: Эта кнопка активирует блокировку зоны содержания корманных SCP объектов.
-      name: кнопка с замком (Блокировка зоны содержания корманных SCP объектов)
+      desc: Este botão ativa o bloqueio da área de contenção do objeto SCP de bolso.
+      name: Botão de bloqueio (Tranque a área de contenção para objetos SCP de bolso)
     - type: Transform
       pos: 78.5,106.5
       parent: 2
@@ -143679,8 +143701,8 @@ entities:
   - uid: 21078
     components:
     - type: MetaData
-      desc: Эта кнопка блокирует D блок.
-      name: кнопка с замком (Блокировка D блока)
+      desc: Este botão trava o bloco D.
+      name: Botão com trava (trava tipo D)
     - type: Transform
       pos: -6.211542,119.60646
       parent: 2
@@ -143761,8 +143783,8 @@ entities:
   - uid: 21080
     components:
     - type: MetaData
-      desc: Эта кнопка активирует блокировку брига.
-      name: кнопка с замком (Блокировка брига)
+      desc: Este botão ativa a trava da cela.
+      name: botão com trava (trava Brig)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 74.5,169.5
@@ -143780,8 +143802,8 @@ entities:
   - uid: 21081
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botão ativa as persianas.
+      name: botão com trava (Obturadores)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 74.5,170.5
@@ -143802,8 +143824,8 @@ entities:
   - uid: 21082
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка с замком (Ставни)
+      desc: Este botão ativa as persianas.
+      name: botão com trava (Obturadores)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 88.5,182.5
@@ -143824,8 +143846,8 @@ entities:
   - uid: 21083
     components:
     - type: MetaData
-      desc: Эта кнопка активирует блокировку брига.
-      name: кнопка с замком (Блокировка брига)
+      desc: Este botão ativa a trava da cela.
+      name: botão com trava (trava Brig)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 88.5,181.5
@@ -143843,8 +143865,8 @@ entities:
   - uid: 21084
     components:
     - type: MetaData
-      desc: Эта кнопка открывает оружейную.
-      name: кнопка с замком (Оружейная)
+      desc: Este botão abre o arsenal.
+      name: botão com trava (Arsenal)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 88.5,180.5
@@ -143859,8 +143881,8 @@ entities:
   - uid: 21085
     components:
     - type: MetaData
-      desc: Эта кнопка активирует восточные ворота на вертолетную площадку.
-      name: кнопка с замком (Восточные ворота на вертолетную площадку)
+      desc: Este botão ativa o portão leste do heliporto.
+      name: Botão com cadeado (Portão Leste para o heliporto)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 5.5,11.5
@@ -143884,8 +143906,8 @@ entities:
   - uid: 21086
     components:
     - type: MetaData
-      desc: Эта кнопка активирует южные ворота на внутренний периметр и парковку.
-      name: кнопка с замком (Южные ворота на внутренний периметр и парковку)
+      desc: Este botão ativa o portão sul que dá acesso ao perímetro interno e ao estacionamento.
+      name: Botão com cadeado (Portão sul para o perímetro interno e estacionamento)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 5.5,10.5
@@ -143911,8 +143933,8 @@ entities:
   - uid: 21087
     components:
     - type: MetaData
-      desc: Эта кнопка блокирует тюремные камеры.
-      name: кнопка с замком (Блокировка тюремных камер)
+      desc: Este botão tranca as celas da prisão.
+      name: Botão de tranca (Tranca da cela da prisão)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -21.29009,116.57233
@@ -143948,8 +143970,8 @@ entities:
   - uid: 21088
     components:
     - type: MetaData
-      desc: Эта кнопка блокирует D блок.
-      name: кнопка с замком (Блокировка D блока)
+      desc: Este botão trava o bloco D.
+      name: Botão com trava (trava tipo D)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -21.900465,116.576645
@@ -144012,8 +144034,8 @@ entities:
   - uid: 21089
     components:
     - type: MetaData
-      desc: Эта кнопка блокирует бриг.
-      name: кнопка с замком (Блокировка Брига)
+      desc: Este botão tranca a cela.
+      name: botão com trava (Brig Lock)
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -21.59611,116.57038
@@ -151600,25 +151622,24 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Objeto Nº: SCP-131
+        Objeto №: SCP-131
 
 
-        Classe do Objeto: Seguro
+        Classe de objeto: Seguro
 
 
-        Condições Especiais de Contenção: Nenhuma ação especial em relação ao SCP-131-A e SCP-131-B é necessária. É permitido que se desloquem livremente pela Zona 19, mas é proibido entrar em salas especiais ou tentar deixar a Zona. A comunicação com os sujeitos é permitida, mas é recomendado mantê-la ao mínimo para evitar que os sujeitos desenvolvam apego aos funcionários. O paradeiro dos sujeitos deve ser monitorado a cada hora; o não cumprimento desta condição resulta em uma situação de quarentena de nível um. Todos os casos de maus-tratos aos sujeitos serão investigados e os culpados receberão punição severa.
+        Procedimentos Especiais de Contenção: Nenhuma ação especial é necessária para SCP-131-A e SCP-131-B. É permitido aos indivíduos circular livremente dentro do Sítio-19, mas é proibido entrar em áreas restritas ou tentar sair do local. A interação com os indivíduos é permitida, mas recomenda-se que seja mantida ao mínimo para evitar que desenvolvam vínculos afetivos com a equipe. A localização dos indivíduos deve ser monitorada a cada hora; o não cumprimento dessa regra resultará em quarentena de Nível 1. Todos os casos de maus-tratos a indivíduos serão investigados e os culpados estarão sujeitos a penalidades severas.
+
+        Descrição: SCP-131-A e SCP-131-B (carinhosamente apelidados de "colírios" pela equipe) são duas criaturas em forma de lágrima, com aproximadamente 30 centímetros de altura. Um único olho azul está localizado no centro de seus corpos. SCP-131-A é de cor ocre, enquanto SCP-131-B é amarelo mostarda. Na base de ambos os corpos há uma estrutura semelhante a uma roda, sugerindo uma natureza biomecânica. Os indivíduos podem se mover com uma rapidez notável, percorrendo 60 metros em poucos segundos. Vale ressaltar que os indivíduos não possuem sistema de freios, o que levou a alguns incidentes bastante curiosos, para não dizer hilários. Os indivíduos também demonstraram a capacidade de escalar superfícies íngremes e se perderam em sistemas de ventilação em mais de uma ocasião.
 
 
-        Descrição: SCP-131-A e SCP-131-B (os funcionários carinhosamente os chamam de "olhos-gota") são duas criaturas com forma de corpo em forma de gota, aproximadamente 30 centímetros de altura. No meio do corpo está localizado um olho azul. SCP-131-A tem coloração ocre, SCP-131-B tem coloração amarelo-mostarda. Na base do corpo de ambas existe uma formação semelhante a uma roda, sugerindo a natureza biomecânica das criaturas. Os sujeitos podem se mover surpreendentemente rápido, cobrindo 60 metros em poucos segundos. Vale notar que os sujeitos não têm sistema de frenagem, o que resultou em vários incidentes interessantes ou até engraçados. Os sujeitos também demonstraram capacidade de escalar superfícies verticais e se perderam repetidamente no sistema de ventilação.
+        A inteligência desses indivíduos é comparável à de um gato doméstico comum, e eles são incrivelmente curiosos. Passam a maior parte do tempo perambulando pelas instalações, observando os funcionários e espionando outros SCPs seguros. Eles conseguem se comunicar por meio de um murmúrio agudo e intraduzível. Ninguém jamais os viu piscar, nem mesmo em um teste no qual foram filmados por 18 horas seguidas.
 
 
-        A inteligência dos sujeitos está no nível de um gato doméstico comum e eles são incrivelmente curiosos. Eles passam a maior parte do tempo rolando pela instalação, observando os funcionários e espiando outros SCPs seguros. Os sujeitos podem se comunicar através de um borbulho estridente intraduzível. Ninguém nunca os viu piscar, mesmo em um experimento em que foram filmados continuamente por 18 horas.
+        Os indivíduos respondem bem à gentileza demonstrada e rapidamente criam um vínculo com a pessoa que a demonstra, assim como os filhotes criam um vínculo com uma pessoa. Eles perseguirão a pessoa por quem se apegaram em todos os lugares, mesmo em áreas restritas. Apesar da curiosidade, os indivíduos pressentem o perigo quando ele está por perto e, se o objeto de sua afeição começar a se aproximar de algo que eles percebem como perigoso (como objetos das classes Euclidiana ou Keteriana), eles começarão a se movimentar rapidamente (com os pés ou outros membros) e a murmurar algo em tom de pânico, como se estivessem dando um aviso. Se a pessoa amada ignorar os sujeitos por tempo suficiente, eles eventualmente perderão o interesse e retornarão às suas atividades normais.
 
 
-        Os sujeitos respondem bem à gentileza e se apegam rapidamente àqueles que a demonstram, de maneira semelhante a como filhotes se apegam aos humanos. Eles perseguem aquele ao qual se apegaram em todos os lugares, mesmo em zonas especiais. Apesar de sua curiosidade, os sujeitos sentem perigo quando está próximo, e se o objeto de seu apego começar a se aproximar do que consideram perigoso (por exemplo, objetos de classe Euclídio ou Keter), começarão a correr entre os pés (ou outras extremidades) e dar gemidos em voz de pânico, como se avassassem. Como o pessoal da Zona 19 interage diariamente com objetos de classe Euclídio e Keter, não é recomendado que os funcionários desenvolvam apego, pois isso distrai durante operações e pesquisas complexas e pode colocar os próprios sujeitos em risco (ver apêndice 131-1). Se o objeto de apego ignorar suficientemente os sujeitos por um tempo, eles eventualmente perderão o interesse e retornarão às atividades normais.
-
-
-        Vale notar que nenhum cuidado é necessário com os sujeitos. Eles não comem, não há resíduos de digestão e não precisam de sono. Parece que para viver eles só precisam satisfazer a fome de informação (pesquisas posteriores são necessárias para testar esta hipótese).
+        Vale ressaltar que os indivíduos não necessitam de cuidados. Eles não comem, não produzem resíduos e não precisam dormir. Aparentemente, sua única necessidade de sobrevivência é satisfazer sua sede de informação (mais pesquisas são necessárias para verificar essa hipótese).
   - uid: 22527
     components:
     - type: Transform
@@ -151626,28 +151647,26 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Objeto Nº: SCP-999
+        Objeto №: SCP-999
 
 
-        Classe do Objeto: Seguro
+        Classe de objeto: Seguro
 
 
-        Condições Especiais de Contenção: SCP-999 é permitido vaguear livremente pelo complexo se desejar. Caso contrário, deve ser mantido em um recinto das 20:00 às 21:00 ou durante lockdowns da Zona para a segurança da criatura. A criatura não pode sair do recinto à noite nem deixar o complexo. O recinto deve estar sempre limpo e a comida deve ser fornecida duas vezes ao dia. Todo o pessoal tem permissão para visitar a área de contenção de SCP-999, mas apenas se não tiverem outras tarefas ou se tiverem um intervalo. A criatura deve ser brincada quando entediada e deve ser falada em tom calmo, evitando tom ameaçador.
+        Procedimentos Especiais de Contenção: SCP-999 tem permissão para circular livremente pelas instalações, se assim o desejar. Caso contrário, deve ser mantido em seu recinto entre 20h e 21h, ou durante o bloqueio geral do local, para sua segurança. Não é permitido que saia de seu recinto à noite ou das dependências da instalação. O recinto deve ser mantido limpo o tempo todo e a comida deve ser entregue duas vezes ao dia. Todos os funcionários têm permissão para entrar na área de contenção do SCP-999, mas somente se não tiverem outras tarefas a cumprir ou estiverem em horário de descanso. A criatura deve ser interagida quando estiver entediada e deve-se falar com ela em um tom calmo e não ameaçador.
+
+        Caso contrário, deve ser mantido em seu recinto entre 20h e 21h, ou durante o bloqueio geral do local, para sua segurança. Não é permitido que saia de seu recinto à noite ou das dependências da instalação. O recinto deve ser mantido limpo o tempo todo e a comida deve ser entregue duas vezes ao dia. Todos os funcionários têm permissão para entrar na área de contenção do SCP-999, mas somente se não tiverem outras tarefas a cumprir ou estiverem em horário de descanso. A criatura deve ser interagida quando estiver entediada e deve-se falar com ela em um tom calmo e não ameaçador.
+
+        A personalidade da criatura é melhor descrita como brincalhona, com comportamento um tanto semelhante ao de um cachorro: quando abordado, o SCP-999 finge alegria exuberante, rasteja em direção ao humano mais próximo e pula sobre ele, "abraçando-o" com um par de pseudópodes e pressionando um terceiro contra o rosto do humano, enquanto emite um som agudo de gorgolejo e arrulho. A superfície do SCP-999 emite um aroma agradável, que varia dependendo do indivíduo com quem está interagindo. Cheiros de chocolate, lençóis recém-lavados, bacon, rosas e massinha de modelar Play-Doh™ foram registrados.
 
 
-        Descrição: SCP-999 parece uma grande massa gelatinosa amorfa de muco laranja transparente pesando aproximadamente 54 kg (120 libras) com uma viscosidade semelhante à manteiga de amendoim. O tamanho da criatura e sua forma mudam facilmente, embora em repouso assuma a forma de um hemisfério achatado com 2 m de largura e 1 m de altura. A superfície de SCP-999 é coberta por uma membrana fina e transparente como a das células animais, aproximadamente 0,5 cm de espessura. Esta membrana é extremamente elástica, permitindo que SCP-999 se achate até 2 cm de espessura. Embora a superfície do corpo da criatura seja hidrofóbica, ela pode absorver líquidos (ver Apêndice SCP-999-A). O corpo inteiro da criatura consiste em uma substância laranja viscosa; a composição química da substância que compõe SCP-999 é desconhecida, porém pode digerir facilmente compostos orgânicos.
+        O contato com a superfície de SCP-999 induz imediatamente uma leve euforia, que se intensifica com a duração do contato e persiste mesmo após a separação da entidade. A atividade favorita de SCP-999 é a "luta de cócegas", na qual ele envolve completamente um indivíduo do pescoço aos pés e lhe faz cócegas até que seja ordenado a parar (embora nem sempre obedeça). Embora isso possa causar ferimentos, o SCP-999 nunca fere humanos intencionalmente; se perceber que suas ações causaram dano a um humano, ele rastejará rapidamente para longe e se enrolará em uma bola trêmula, emitindo um som semelhante ao ganido de um cachorro, como se estivesse se desculpando por sua má ação.
 
 
-        O temperamento da criatura é melhor descrito como "lúdico"; de certa forma seu comportamento é semelhante ao canino: se alguém se aproximar, SCP-999 mostrará entusiasmo arrebatador, gatinhará em direção à pessoa mais próxima e saltará sobre ela, "abraçando" com alguns pseudópodes enquanto prensa o rosto humano contra si, continuamente emitindo um som alto semelhante a borbulhos e arrulhos. A superfície de SCP-999 emite um aroma agradável que varia dependendo de com quem está interagindo. Aromas de chocolate, roupa fresca lavada, bacon, rosas e massa Play-Doh™ foram registrados.
+        Embora a criatura possa interagir com qualquer pessoa, parece ter um interesse particular por aqueles que estão infelizes ou deprimidos. Indivíduos que sofrem de depressão ou TEPT relataram sentir-se mais alertas e otimistas em relação à vida após interagirem com o SCP-999. Há discussões sobre a possibilidade de comercializar a gosma do SCP-999 como um antidepressivo.
 
 
-        O toque na superfície de SCP-999 causa imediatamente uma leve euforia que intensifica dependendo do tempo de contato com o objeto e persiste muito tempo após a separação da criatura. SCP-999 mais gosta de "lutas de cócegas", revestindo completamente uma pessoa do pescoço aos pés e fazendo cócegas até ser ordenado a parar (embora nem sempre obedeça). Embora traumas possam ocorrer, SCP-999 nunca tenta deliberadamente prejudicar pessoas; se notar que seus actions prejudicaram alguém, rápidamente se afasta e se enrola em uma bola tremendo, emitindo um som semelhante a um chorinho de cachorro, como se pedisse desculpas.
-
-
-        Embora a criatura possa interagir com qualquer pessoa, parece mostrar especial interesse em quem está infeliz ou deprimido. Pessoas sofrendo de depressão ou TEPT ficaram alegres e alegres após interação com SCP-999. Foi discutida a possibilidade de comercializar a baba de SCP-999 como antidepressivo.
-
-
-        Além de seu comportamento lúdico, SCP-999 ama todos os animais (particularmente pessoas), recusa qualquer carne e até arrisca sua própria vida para salvar outros - por exemplo, pulando na frente de uma pessoa para absorver uma bala (a inteligência da criatura ainda é objeto de debate: embora seu comportamento pareça infantil, parece compreender a fala humana e a maioria das tecnologias modernas, incluindo armas). A dieta da criatura consiste exclusivamente de doces, preferindo doces M&M's™ e biscoitos Necco™. Seu método de alimentação é semelhante ao de uma ameba.
+        Além de seu comportamento brincalhão, o SCP-999 também ama todos os animais (especialmente humanos), recusa-se a comer carne e chega a arriscar a própria vida para salvar outros — por exemplo, se jogando na frente de um humano para levar um tiro. (A inteligência da criatura ainda é debatida: embora seu comportamento pareça infantil, ela demonstra compreender a fala humana e o funcionamento da maioria das tecnologias modernas, incluindo armamentos.) Sua dieta consiste exclusivamente de doces e balas, sendo os M&M's™ e os wafers Necco™ seus favoritos. Seu método de alimentação é semelhante ao de uma ameba.
   - uid: 22528
     components:
     - type: Transform
@@ -151682,13 +151701,13 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Às 1:23:04 o experimento começou. Devido à redução da velocidade das bombas conectadas ao gerador backup e ao coeficiente positivo de reatividade de vapor, o reator tendia a aumentar a potência, mas durante quase todo o tempo do experimento o comportamento da potência não causava preocupação.
+        В 1:23:04 O experimento teve início. Devido à velocidade reduzida das bombas conectadas ao gerador de reserva e ao coeficiente de reatividade de vazio positivo, o reator apresentou uma tendência de aumento de potência, mas, durante quase toda a duração do experimento, o comportamento da potência não gerou preocupação.
 
 
-        Às 1:23:39 um sinal de proteção de emergência AZ-5 foi registrado do pressionar do botão no painel do operador. As barras absorvedoras começaram a se mover na zona ativa, mas devido ao seu projeto inadequado e rápida resposta insuficiente de reatividade, o reator não foi desligado, mas ao contrário, começou a entrar em fuga. Nos segundos seguintes vários sinais foram registrados indicando um rápido aumento de potência, e então os sistemas de registro falharam.
+        В 1:23:39 O sinal de proteção de emergência AZ-5 foi registrado quando um botão foi pressionado no console do operador. As barras de controle começaram a se mover para o núcleo, mas devido ao seu projeto defeituoso e à baixa margem de reatividade operacional, o reator não foi desligado, mas sim começou a acelerar. Nos segundos seguintes, vários sinais foram registrados indicando um aumento muito rápido de potência, e então os sistemas de gravação falharam.
 
 
-        Várias explosões poderosas ocorreram e entre 1:23:47—1:23:50 o reator foi completamente destruído.
+        Ocorreram várias explosões poderosas e, entre 1:23:47 e 1:23:50, o reator foi completamente destruído.
                                                               ☢
   - uid: 22534
     components:
@@ -151704,36 +151723,36 @@ entities:
   - uid: 22536
     components:
     - type: MetaData
-      desc: Это вырванная двенадцатая страница дневника Главы Службы Логистики, имена на ней зачеркнуты, но некоторые буквы можно различить. На двенадцатой странице продолжаются записи одиннадцатого дня.
-      name: Двенадцатая страница дневника Главы Службы Логистики
+      desc: Esta é a décima segunda página arrancada do diário do Chefe do Serviço de Logística. Os nomes estão riscados, mas algumas letras ainda são legíveis. A página doze continua as anotações do décimo primeiro dia.
+      name: Página doze do diário do Chefe de Serviço da Logística
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 46.48433,79.594505
       parent: 2
     - type: Paper
       content: >-
-        Continuação do registro 11
+        Gravação continuada 11
 
 
 
-        Foi horrível, o doutor ▆▆▆▆rd▆ estava realizando experimentos com 008.
+        Foi terrível, o Doutor ▆▆▆▆rd▆ estava fazendo experiências com o 008.
 
 
-        Droga, provavelmente não deveria ter escrito seu nome.
+        Droga, talvez eu não devesse ter escrito o nome dele.
 
 
-        Enfim, ele violou o protocolo de segurança ou talvez tenha se infectado deliberadamente.. Não tenho certeza de como aconteceu, descobri tudo sobre este incidente por um funcionário do departamento de segurança.
+        Resumindo, ou ele violou as normas de segurança ou se infectou intencionalmente. Não sei exatamente como aconteceu, mas fiquei sabendo de tudo sobre o incidente por meio de um dos funcionários da TZS.
 
 
-        K▆▆▆, esse funcionário, então participou de um procedimento especial de contenção com 008, e matou o doutor que realizava o experimento e se virou em zumbi.
+        K▆▆▆, aquela funcionária, estava participando do VUS 008, matou o médico, o mesmo que conduziu o experimento e se transformou em um zumbi. 
 
-        Conheço ▆▆r▆ há muito tempo, ela... Ela não é uma garota má, calma, às vezes até alegre, mas naquele dia... Ela parecia gostar do que aconteceu durante o procedimento especial com 008.
-
-
-        Agora a zona de contenção de 008 permanece selada, ▆▆▆a disse que lá tudo foi virado de cabeça para baixo.
+        Conheço a ▆▆r▆ há muito tempo, ela... Ela não é uma má garota, calma, às vezes até alegre, mas naquele dia... Então ela pareceu gostar do que aconteceu durante o NUS 008.
 
 
-        Ah, esqueci, as coisas ficaram tão ruins que precisaram chamar Beta-7, esses "bonecos". Não tenho certeza, não me interessei muito, mas Beta-7 é aparentemente algum tipo de CBRN ou algo assim.
+        Agora que a zona de contenção 008 está fechada, ▆▆▆a disse que tudo lá estava de cabeça para baixo.
+
+
+        Ah, esqueci, a situação estava tão ruim lá que chamaram a Beta-7, uma espécie de "duendes". Não sei ao certo, não me interessava por isso, mas a Beta-7 era tipo uma proteção da NBC ou algo parecido.
 
                                                                                              Página 12
   - uid: 22537
@@ -151868,14 +151887,14 @@ entities:
       pos: -19.493803,49.600845
       parent: 2
     - type: Paper
-      content: O Reator RBMK-10000 é um reator RBMK de ponta, embora na sua forma atual o RBMK-10000 não possua o mesmo sistema de canal, graças à sua aparência reconhecível e grande produção de energia, o reator manteve seu nome.
+      content: Reator RBMK-10000 - Este é um reator avançado do tipo RBMK, embora em sua forma atual o RBMK-10000 não possua o mesmo sistema de canais, graças à sua imagem reconhecível e alta produção de energia, o reator manteve seu nome.
   - uid: 22559
     components:
     - type: Transform
       pos: -10.020332,175.38066
       parent: 2
     - type: Paper
-      content: Não esqueça de treinar a equipe a usar coisas para distrair 939, isso prolonga a vida.
+      content: Não se esqueça de treinar sua equipe para usar itens de distração 939, isso prolonga a vida.
   - uid: 22560
     components:
     - type: Transform
@@ -151890,37 +151909,37 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Objeto Nº: SCP-096
+        Objeto №: SCP-096
 
 
-        Classe do Objeto: Euclídeo
+        Classe de objeto: Euclides
 
 
-        Condições Especiais de Contenção: SCP-096 deve ser permanentemente contido em sua própria câmara (um cubo de aço hermético de 5x5x5 m). Inspeções semanais obrigatórias para qualquer rachadura ou abertura. Não deve haver absolutamente nenhum dispositivo de vigilância por vídeo ou instrumentos óticos dentro da câmara SCP-096. O pessoal de segurança deve usar sensores de pressão preinstalados e detectores de laser para garantir que o SCP-096 permaneça na câmara.
+        Procedimentos Especiais de Contenção: SCP-096 deve ser mantido em sua câmara de contenção (um cubo de aço selado medindo 5 x 5 x 5 metros) em todos os momentos. Inspeções semanais para verificar a presença de rachaduras ou furos são obrigatórias. Não deve haver vigilância por vídeo ou dispositivos ópticos dentro da câmara de contenção de SCP-096. A equipe de segurança deve utilizar sensores de pressão e detectores a laser pré-instalados para garantir que SCP-096 permaneça dentro da câmara.
 
 
-        Todas as fotos, vídeos ou descrições da aparência de SCP-096 são estritamente proibidas sem aprovação do Doutor ███ e O5-█.
+        Todas as fotografias, vídeos ou descrições da aparência de SCP-096 são estritamente proibidas sem a aprovação do Dr. ███ e de O5-█.
 
 
-        Descrição: SCP-096 é uma criatura humanóide com aproximadamente 2,38 metros de altura. O indivíduo tem pouca massa muscular; análises preliminares de peso corporal indicam desnutrição leve. Os braços são desproporcionalmente grandes em relação ao corpo do objeto, cada um com aproximadamente 1,5 m de comprimento. A pele é amplamente despigmentada, sem sinais de pelos no corpo.
+        Descrição: SCP-096 é uma criatura humanoide com aproximadamente 2,38 metros de altura. O sujeito apresenta pouca massa muscular e a análise preliminar de sua massa indica desnutrição leve. Seus braços são desproporcionalmente grandes em relação ao corpo, medindo aproximadamente 1,5 metros de comprimento cada. Sua pele é praticamente desprovida de pigmentação e não há evidências de pelos corporais.
 
 
-        A mandíbula de SCP-096 pode abrir quatro vezes mais do que a normal para um humano médio. Outras características faciais são semelhantes à média humana, exceto pelos olhos, que também carecem de pigmentação. Atualmente, é desconhecido se o SCP-096 é cego. Ele não mostra sinais de funções cerebrais superiores; sua inteligência não foi confirmada.
+        As mandíbulas de SCP-096 podem abrir quatro vezes mais do que as de um humano comum. Outras características faciais são compatíveis com as de um humano comum, com exceção dos olhos, que também são desprovidos de pigmentação. Atualmente, não se sabe se SCP-096 é cego. Ele não apresenta sinais de funções cerebrais superiores e sua sapiência não foi confirmada.
 
 
-        Tipicamente, SCP-096 é extremamente calmo; sensores de pressão na câmara indicam que passa a maior parte do dia caminhando ao longo da parede leste. No entanto, quando alguém vê o rosto de SCP-096, seja diretamente, em vídeo ou até em fotografia, ele entra em um estado de extrema angústia emocional. SCP-096 cobre o rosto com as mãos e começa a gritar, chorar e murmurar incoerentemente. Aproximadamente um a dois (1-2) minutos após o primeiro avistamento, SCP-096 corre em direção ao que viu seu rosto (doravante designado SCP-096-1).
+        SCP-096 é tipicamente extremamente calmo; sensores de pressão dentro de sua câmara de contenção indicam que ele passa a maior parte do dia caminhando ao longo da parede leste. No entanto, quando o rosto de SCP-096 é visto por alguém — seja diretamente, em vídeo ou mesmo em uma fotografia — ele entra em um estado de extremo sofrimento emocional. SCP-096 cobre o rosto com as mãos e começa a gritar, chorar e balbuciar incoerentemente. Aproximadamente um a dois (1-2) minutos após a visualização inicial, SCP-096 corre em direção à pessoa que viu seu rosto (doravante designada SCP-096-1).
 
 
-        A velocidade documentada varia de 35 a ███ km/h, e aparentemente depende da distância até SCP-096-1. Nenhum material ou método conhecido pode impedir o movimento de SCP-096. A localização real de SCP-096-1 não parece ter efeito visível na reação de SCP-096; ele parece possuir um instinto inato para localizar SCP-096-1. Nota: essa reação não ocorre ao olhar para imagens artísticas (ver Documento 096-1).
+        As velocidades documentadas variam de 35 a ███ km/h e parecem depender da distância de SCP-096-1. Atualmente, nenhum material ou método conhecido consegue impedir o movimento de SCP-096. A localização exata de SCP-096-1 não parece afetar a reação de SCP-096; ele parece ter um senso inato da localização de SCP-096-1. Nota: Essa reação não ocorre ao visualizar representações artísticas (ver Documento 096-1).
 
 
-        Ao chegar à localização de SCP-096-1, SCP-096 procede a matar e DADOS REMOVIDOS SCP-096-1. Em 100% dos casos, nenhum traço permanece de SCP-096-1. Depois disso, SCP-096 fica sentado por vários minutos antes de recuperar a serenidade e se tornando dócil. Ele então tentará retornar ao seu habitat natural, DADOS REMOVIDOS.
+        Ao chegar ao local de SCP-096-1, SCP-096 iniciará o processo de eliminação e os dados de SCP-096-1 serão apagados. Em 100% dos casos, nenhum vestígio de SCP-096-1 permanecerá. SCP-096 então permanecerá sentado por alguns minutos antes de recuperar a compostura e se tornar dócil. Em seguida, tentará retornar ao seu habitat natural.
 
 
-        Devido à possibilidade de uma reação em cadeia em massa envolvendo violação de segurança organizacional e grande perda de vida civil, a busca pelo objeto deve ser atribuída prioridade Alfa.
+        Devido ao potencial para uma reação em cadeia massiva, incluindo uma quebra de sigilo organizacional e um número significativo de vítimas civis, a busca pelo indivíduo em questão deve receber prioridade Alfa.
 
 
-        O Doutor ███ também peticionou pela destruição imediata de SCP-096 (ver Entrevista 096-1). A ordem de destruição foi confirmada e deve ser executada pelo Doutor ███ DADOS REMOVIDOS.
+        O Dr. ███ também solicitou a eliminação imediata do SCP-096 (ver Entrevista 096-1). A ordem de eliminação foi confirmada e será executada pelo Dr. ███. DADOS EXPURGADOS.
   - uid: 22562
     components:
     - type: Transform
@@ -151964,31 +151983,31 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Objeto Nº: SCP-939
+        Objeto №: SCP-939
 
 
-        Classe do Objeto: Keter
+        Classe de objeto: Keter
 
 
-        Condições Especiais de Contenção: SCP-939-1, -3, -19, -53, -89, -96, -98, -99 e -109 são contidos na cela 1163-A. Ambas as celas têm dimensões de 14x6x3 metros e estão localizadas em DADOS REMOVIDOS. Ambas as celas estão equipadas com sistema de controle climático; pressão reduzida é mantida dentro. As paredes das celas são de concreto armado. O acesso é obtido através de uma câmara de descontaminação, cuja porta interna é feita de aço e é hermética. As janelas de observação são feitas de vidro blindado laminado com 10 cm de espessura, com uma malha de metal sob tensão de 100 quilovolts entre as camadas. A umidade relativa dentro das celas é de 100%, temperatura de 16°C. A observação dos indivíduos é realizada através de câmeras operando na faixa infravermelha.
+        Procedimentos Especiais de Contenção: SCP-939-1, -3, -19, -53, -89, -96, -98, -99 e -109 estão contidos na cela 1163-A. Ambas as celas medem 14 x 6 x 3 metros e são mantidas em [DADOS EXPURGADOS]. Ambas as celas possuem controle climático, mantendo pressão negativa em seu interior. As paredes das celas são feitas de concreto armado. O acesso é feito através de uma câmara de descontaminação, cuja porta interna é construída em aço e selada. As janelas de observação são construídas com vidro laminado à prova de balas de 10 cm de espessura, com uma malha metálica eletrificada de 100 kV entre as camadas. A umidade relativa dentro das celas é de 100% e a temperatura é de -16°C. As instâncias são observadas por meio de câmeras infravermelhas.
 
 
-        As celas de contenção devem ser inspecionadas a cada duas semanas. Durante a inspeção, SCP-939 é transferido para a cela adjacente. Durante este tempo, a porta e as janelas da cela devem ser inspecionadas quanto a danos, e reparadas ou substituídas conforme necessário.
+        As celas de contenção devem ser inspecionadas quinzenalmente. Durante essas inspeções, o SCP-939 deve ser transferido para uma cela adjacente. Nessas inspeções, a porta e as janelas da cela devem ser inspecionadas quanto a danos e reparadas ou substituídas, se necessário.
 
 
-        Ao trabalhar com SCP-939 e ao visitar locais onde SCP-939 habitava anteriormente, os funcionários devem usar trajes de proteção química classe C.1
+        Ao trabalhar com o SCP-939, ou ao visitar áreas onde o SCP-939 habitou anteriormente, os funcionários devem usar trajes de proteção química Classe C.Ao trabalhar com o SCP-939, ou ao visitar áreas onde o SCP-939 habitou anteriormente, os funcionários devem usar trajes de proteção química Classe C.
 
 
-        Descrição: SCP-939 são predadores gregários de sangue quente, alguns de cujos órgãos e sistemas atrofiaram como em troglóbios. A pele de SCP-939 transmite bem a umidade, é vermelha e semitransparente devido à saturação de uma substância semelhante à hemoglobina. A altura média de um indivíduo SCP-939 em pé nas patas traseiras é 2,2 metros, e pesa 250 kg, embora possam haver desvios significativos desse valor. Cada uma de suas quatro extremidades possui três dedos equipados com garras, com um polegar oposto. As extremidades são cobertas com cerdas, o que afeta positivamente a capacidade de escalada de SCP-939. As cabeças são alongadas, não possuem olhos nem órbitas oculares, sem crânio cerebral. As mandíbulas de SCP-939 sono equipadas com dentes afiados que brilham levemente em vermelho. A estrutura das mandíbulas e dentes é semelhante à de haulióides, com dentes atingindo seis centímetros de comprimento. Na parte externa das mandíbulas estão localizadas fossetas termorrecptoras. Ao longo da coluna vertebral coberta de espinhos há manchas sensíveis à luz. Os espinhos atingem 16 centímetros de comprimento e parecem ser sensíveis ao movimento dos fluxos de ar e pressão atmosférica.
+        Descrição: SCP-939 são predadores de sangue quente que vivem em grupo, com alguns sistemas orgânicos atrofiados, semelhantes aos de troglóbios. A pele de SCP-939 é altamente permeável, vermelha e translúcida devido a uma substância semelhante à hemoglobina. Um espécime de SCP-939 em pé mede em média 2,2 metros de altura e pesa 250 quilogramas, embora esses valores possam variar significativamente. Cada um de seus quatro membros possui três dedos com garras, com o polegar oposto a eles. Os membros são cobertos por cerdas, o que aumenta consideravelmente a capacidade de escalada do SCP-939. Suas cabeças são alongadas, sem olhos ou órbitas, e sem estrutura craniana. As mandíbulas do SCP-939 são revestidas por dentes pontiagudos que brilham em um vermelho fraco. A estrutura da mandíbula e dos dentes é semelhante à dos Chauliodontidae, com dentes que atingem seis centímetros de comprimento. Fossas termorreceptoras estão localizadas na superfície externa das mandíbulas. Pontos fotossensíveis estão localizados ao longo da coluna vertebral, que é coberta por espinhos. Os próprios espinhos atingem 16 centímetros de comprimento e parecem ser sensíveis a correntes de ar e à pressão atmosférica.
 
 
-        Muitos dos sistemas vitais não estão presentes em SCP-939 - faltam sistema nervoso central e periférico, sistema circulatório e trato gastrointestinal. O sistema respiratório de SCP-939 è atrofiado e aparentemente serve apenas para exalar AMN-C227 (veja abaixo). Parece que SCP-939 não necessita de alimento para manter a vida e é incapaz de digerir o que engole. Os tecidos comidos por SCP-939 se acumulam no sistema respiratório e são regurgitados quando se acumulam muito para o funcionamento normal do sistema. Apesar da falta de sistemas vitais, SCP-939 é vivíparo (Ver apêndice 10-16-1991)
+        SCP-939 carece de muitos sistemas vitais, incluindo os sistemas nervoso central e periférico, o sistema circulatório e o trato gastrointestinal. O sistema respiratório de SCP-939 é atrofiado e parece funcionar unicamente para a exalação de AMN-C227 (ver abaixo). SCP-939 não parece necessitar de sustento e é incapaz de digerir o material ingerido. O tecido consumido por SCP-939 se acumula no sistema respiratório e é regurgitado quando a quantidade se torna excessiva para o funcionamento adequado do sistema. Apesar da ausência de sistemas vitais, SCP-939 dá à luz filhotes vivos (ver Adendo 16/10/1991).
 
 
-        O método preferido de SCP-939 para atrair presas é imitar a fala humana com a voz de vítimas previamente mortas, embora houvessem casos de caça noturna ativa e imitação de sons de outros animais. Frequentemente há alarme no que SCP-939 fala; estão sendo feitas tentativas para determinar se SCP-939 entende o que diz ou simplesmente repete o que ouviu antes. É desconhecido como exatamente SCP-939 reconhece vozes; há casos documentados de imitação da voz de uma vítima que nunca falou em sua presença. A análise de voz não consegue reconhecer a diferença entre a fala de SCP-939 e a fala human. Por essa razão, é fortemente recomendado renunciar a sistemas de identificação por voz em todas as instalações onde indivíduos SCP-939 estão presentes. As vítimas de SCP-939 geralmente são mortas por uma única mordida na base do crânio ou pescoço; as mandíbulas dessas criaturas podem desenvolver pressão superior a 350 atmosferas.
+        O método preferido de SCP-939 para atrair presas é imitar a fala humana usando as vozes de vítimas mortas anteriormente, embora tenha sido observado caçando ativamente à noite e imitando os sons de outros animais. As vocalizações de SCP-939 frequentemente soam alarmantes; testes estão em andamento para determinar se SCP-939 entende o que está dizendo ou se está simplesmente repetindo o que ouviu anteriormente. Como exatamente SCP-939 reconhece vozes é desconhecido; existem casos documentados de SCP-939 imitando as vozes de presas que nunca falaram em sua presença. A análise de voz do SCP-939 é incapaz de distinguir entre a fala do SCP-939 e a de suas vítimas. Por esse motivo, recomenda-se fortemente que os sistemas de identificação de voz sejam desativados em todas as instalações que abrigam instâncias do SCP-939. O SCP-939 geralmente mata suas vítimas com uma única mordida na base do crânio ou no pescoço, com mandíbulas capazes de exercer pressão superior a 350 atmosferas.
 
 
-        SCP-939 exala uma suspensão de amnésico classe C (daqui em diante - AMN-C227) em concentração muito baixa. AMN-C227 causa amnésia anterógrada temporária, suprimindo a formação de memória por todo o tempo de duração mais aproximadamente trinta minutos. A substância não tem cor, sabor ou odor; o EKV502 é 0,0015 mg por minuto por metro cúbico. Em áreas bem ventiladas ou ao ar livre, o EKV50 cai significativamente, mas ainda representa uma ameaça. Dentro de 60 minutos após entrar no corpo, AMN-C227 se dissolve no sangue. A sensação de desorientação e alucinações fracas que ocorrem depois de sair de uma área saturada de AMN-C227 são semelhantes aos efeitos residuais de várias substâncias psicoativas, portanto é fácil confundir uma com a outra.
+        SCP-939 Exale uma substância amnésica de Classe C (doravante denominada AMN-C227) em uma concentração muito baixa. A AMN-C227 causa amnésia anterógrada temporária, suprimindo a formação de memórias durante toda a duração de sua ação, mais aproximadamente trinta minutos. A substância é incolor, insípida e inodora, com um EQ502 de 0,0015 mg por minuto por metro cúbico. Em áreas bem ventiladas ou ao ar livre, o EQ50 diminui significativamente, mas ainda representa um risco. A AMN-C227 se dissolve no sangue em até 60 minutos após a ingestão. A sensação de desorientação e as leves alucinações que ocorrem após sair do ambiente saturado com AMN-C227 são semelhantes aos efeitos residuais de diversas substâncias psicoativas, sendo fácil confundi-las.
   - uid: 22569
     components:
     - type: Transform
@@ -151997,22 +152016,22 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Objeto Nº: SCP-005
+        Objeto №: SCP-005
 
 
-        Classe do Objeto: Seguro
+        Classe de objeto: Seguro
 
 
-        Condições Especiais de Contenção: SCP-005 não representa ameaça imediata no sentido direto. No entanto, devido às suas propriedades únicas, medidas especiais são necessárias para limitar o acesso ao objeto e seu uso. Para remover o objeto de seu contêiner de contenção, é necessária aprovação de pelo menos um funcionário com nível de autorização 4.
+        Procedimentos Especiais de Contenção: SCP-005 não representa uma ameaça imediata em nenhum sentido direto. No entanto, devido às suas propriedades únicas, medidas especiais são necessárias para restringir o acesso e o uso do objeto. A remoção do objeto de sua câmara de contenção requer permissão de pelo menos um membro da equipe de Nível 4.
 
 
-        Descrição: SCP-005 parece uma chave ornamentada não diferindo externamente das chaves comerciais da década de 1920. A chave foi descoberta quando um civil a usou para invadir uma instalação altamente segura. Aparentemente, SCP-005 possui uma abilidade única de abrir qualquer tipo de fechadura (ver apêndice A) sem dificuldade, tanto mecânicas quanto eletrônicas. A origem desta abilidade não foi estabelecida no momento.
+        Descrição: SCP-005 assemelha-se a uma chave ornamentada, idêntica em aparência às chaves produzidas comercialmente na década de 1920. A chave foi descoberta quando um civil a utilizou para invadir uma instalação de alta segurança. SCP-005 parece possuir a habilidade única de abrir sem esforço todos os tipos de fechaduras (ver Apêndice A), tanto mecânicas quanto eletrônicas. A origem dessa habilidade é atualmente desconhecida.
 
 
-        Notas: SCP-005 é permitido ser usado como substituição de cartões-chave perdidos, mas apenas sob supervisão de pelo menos um funcionário com nível de autorização 4. É proibido usar SCP-005 para reparar máquinas de venda automática, abrir cofres ou como substituição de chaves pessoais perdidas de funcionários. Remover o objeto das dependências da Zona resulta em demissão imediata.
+        Nota: SCP-005 pode ser usado como substituto para cartões de acesso perdidos, mas somente sob a supervisão de pelo menos um funcionário de Nível 4. SCP-005 não tem permissão para consertar máquinas de venda automática, abrir cofres ou substituir chaves pessoais perdidas. A remoção do objeto do Sítio é punível com demissão imediata.
 
 
-        Apêndice A: SCP-005 demonstra alta eficiência em contornar praticamente qualquer dispositivo de fechadura. Experimentos posteriores demonstraram que tentar disfarçar uma fechadura externa ou funcionalmente em certo grau impede o efeito anômalo de SCP-005. Aproximadamente em 50% dos casos em que o sujeito de teste não conseguia reconhecer o dispositivo de fechadura como tal, o objeto falhava em abri-lo. Por esta razão, SCP-005 foi provisoriamente classificado como "inteligente", com experimentos planejados para investigar suas capacidades cognitivas. No entanto, nenhum resultado foi obtido demonstrando quaisquer características que impeçam SCP-005 de identificar uma fechadura, exceto quando a fechadura estava bem oculta ou disfarçada.
+        Adendo A: SCP-005 demonstrou alta eficácia em contornar praticamente todos os dispositivos de travamento. Experimentos adicionais demonstraram que tentar disfarçar a fechadura, seja visualmente ou funcionalmente, impede, em certa medida, o efeito anômalo de SCP-005. Em aproximadamente 50% dos casos em que o sujeito não reconheceu o dispositivo de travamento como tal, SCP-005 não conseguiu abri-lo. Por essa razão, o SCP-005 foi classificado como "sapiente" enquanto aguarda novas investigações, e experimentos destinados a avaliar suas habilidades cognitivas estão em andamento. No entanto, nenhum resultado foi obtido que demonstre qualquer característica que impeça o SCP-005 de identificar uma fechadura, exceto nos casos em que a fechadura tenha sido cuidadosamente escondida ou camuflada.
   - uid: 22570
     components:
     - type: Transform
@@ -152021,16 +152040,15 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Objeto Nº: SCP-500
+        Objeto №: SCP-500
 
 
-        Classe do Objeto: Seguro
+        Classe de objeto: Seguro
+
+        Procedimentos Especiais de Contenção: SCP-500 deve ser armazenado em local fresco e seco, longe da luz intensa. Para evitar o uso indevido, somente pessoal com autorização de Nível 4 tem permissão para acessar SCP-500.
 
 
-        Condições Especiais de Contenção: SCP-500 deve ser armazenado em local fresco e seco, longe de luz brilhante. Apenas pessoal com nível de autorização 4 tem permissão de acesso para SCP-500 para prevenir uso não autorizado.
-
-
-        Descrição: SCP-500 — comprimidos vermelhos armazenados em um pequeno frasco de plástico, com quantidade no momento da redação deste documento igual a quarenta e sete (47) unidades. Um comprimido ingerido por via oral cura o sujeito de todas as doenças dentro de duas horas. O tempo necessário para a cura depende da gravidade e quantidade de doenças. Numerosas tentativas de sintetizar o composto que se presume ser o ingrediente ativo dos comprimidos não foram bem-sucedidas.
+        Descrição: SCP-500 são pílulas vermelhas armazenadas em um pequeno frasco de plástico, dos quais existem quarenta e sete (47) no momento da redação deste documento. Quando ingeridas por via oral, cada pílula cura o indivíduo de todas as suas doenças em até duas horas. O tempo necessário para a cura varia dependendo da gravidade e da quantidade de doenças. Numerosas tentativas de sintetizar o composto presumido como o ingrediente ativo das pílulas não obtiveram sucesso.
   - uid: 22571
     components:
     - type: Transform
@@ -152098,40 +152116,39 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Objeto Nº: SCP-049
+        Objeto №: SCP-049
 
 
-        Classe do Objeto: Euclídeo
+        Classe de objeto: Euclides
 
 
-        Condições Especiais de Contenção: SCP-049 é contido em um compartimento padrão reforçado para humanoides no Setor de Pesquisa 02 da Zona 19. Antes de qualquer tentativa de transferência, SCP-049 deve ser sedado. Durante a transferência, SCP-049 deve ser mantido em um sistema de restrição de humanoides classe 3 reforçado (com colar e limitadores de extensão), sob supervisão constante de pelo menos dois guardas armados.
+        Procedimentos Especiais de Contenção: SCP-049 está contido em uma cela de contenção humanoide reforçada padrão no Setor de Pesquisa 02 do Sítio 19. SCP-049 deve ser sedado antes de qualquer tentativa de transporte. Durante o transporte, SCP-049 deve ser mantido em um sistema de contenção humanoide reforçado de Classe 3 (com coleira e restrições extensíveis) e sob a supervisão constante de pelo menos dois guardas armados.
 
 
-        SCP-049 geralmente está disposto a manter contato com a maioria dos funcionários da Fundação. Apesar disso, qualquer mudança abrupta de comportamento deve ser suprimida pela força. Durante tal oscilação comportamental, os funcionários devem evitar contato direto com o objeto por todos os meios disponíveis. Descobriu-se que a aplicação de lavanda francesa (L. multifida) pode ter um efeito calmante no objeto se ele se tornar agressivo. Após sedar, SCP-049 geralmente se torna mais dócil e retorna ao compartimento de contenção praticamente sem resistência.
+        O SCP-049 geralmente coopera com a maioria dos funcionários da Fundação. No entanto, quaisquer mudanças repentinas de comportamento devem ser tratadas com firmeza. Durante tais mudanças comportamentais, os funcionários devem evitar o contato direto com o objeto a todo custo. Foi demonstrado que a lavanda (L. multifida) tem um efeito calmante sobre o objeto caso ele se torne agressivo. Uma vez acalmado, o SCP-049 normalmente se torna mais dócil e retorna à sua câmara de contenção com mínima resistência.
 
 
-        Para melhor manutenção continuada de SCP-049, a entidade deve ser fornecida uma vez a cada duas semanas com o cadáver de um animal recentemente morto (geralmente uma vaca ou outro mamífero grande) para pesquisas. Cadáveres que se tornam SCP-049-2 devem ser removidos da câmara de contenção de SCP-049 e destruídos por incineração. Foi decidido proibir qualquer experimentação posterior de SCP-049 em humanos, portanto todos os pedidos de prisioneiros de teste devem ser recusados.
+        Para garantir a contenção contínua de SCP-049, a entidade deve receber a carcaça de um animal recentemente morto (tipicamente uma vaca ou outro mamífero de grande porte) a cada duas semanas para testes. As carcaças, agora designadas como instâncias de SCP-049-2, devem ser removidas da câmara de contenção de SCP-049 e incineradas. Testes adicionais em humanos com SCP-049 estão proibidos, e todos os pedidos de voluntários humanos para testes devem ser negados.
 
 
-        Adendo Temporário às Condições de Contenção: (Ver apêndice 049.3) De acordo com a Ordem No. 049.S19.17.1 do Comitê de Contenção, SCP-049 tem interação direta proibida com funcionários da Fundação. Além disso, o objeto não recebe mais cadáveres para experimentação anatômica. Esta medida foi implementada por tempo indeterminado e pode ser revogada apenas após consenso ser alcançado sobre a contenção de longo prazo de SCP-049.
+        Adendo Temporário aos Procedimentos de Contenção: (Ver Adendo 049.3) De acordo com a Ordem nº 049.S19.17.1 do Comitê de Contenção, o SCP-049 está proibido de interagir diretamente com funcionários da Fundação. Além disso, cadáveres não devem mais ser fornecidos ao SCP-049 para testes anatômicos. Esta medida está em vigor por tempo indeterminado e só poderá ser revogada quando se chegar a um consenso sobre a contenção de longo prazo do SCP-049.
 
 
-        Descrição: SCP-049 é uma criatura humanóide com aproximadamente 190 cm de altura, externamente semelhante a um doutor medieval da peste. À primeira vista, parece que SCP-049 está vestido com um manto espesso e máscara de cerâmica, características daquela profissão; no entanto, baseado nestas peças de roupa, elas gradualmente cresceram do corpo do próprio SCP-049 e presentemente são indistinguíveis do que pode estar oculto sob elas. No entanto, radiografias mostram que sob esta camada externa, SCP-049 possui um esqueleto semelhante ao humano.
+        Descrição: SCP-049 é uma criatura humanoide, com aproximadamente 190 cm de altura, semelhante a um médico da peste medieval. À primeira vista, SCP-049 parece estar vestindo uma túnica grossa e uma máscara de cerâmica típicas dessa profissão. No entanto, essas vestimentas parecem ter surgido gradualmente do corpo de SCP-0491 e são atualmente indistinguíveis do que quer que esteja escondendo por baixo. Contudo, radiografias revelam que, sob essa camada externa, SCP-049 possui uma estrutura esquelética semelhante à de um humano.
 
 
         049xray.jpg
 
 
-        Radiografia da estrutura do crânio de SCP-049.
+        Radiografia da estrutura craniana de SCP-049.
+
+        SCP-049 é capaz de se comunicar em vários idiomas, embora prefira principalmente o inglês e o francês antigo. SCP-049 é geralmente amigável e disposto a interagir com o pessoal da Fundação. No entanto, se perceber a presença do que chama de "a Pestilência", torna-se extremamente irritável e, às vezes, até agressivo. A natureza dessa "Pestilência" não está clara para os pesquisadores da Fundação, mas parece ser de particular importância para SCP-049.
 
 
-        SCP-049 é capaz de se comunicar em muitas línguas, embora principalmente prefira inglês e antigo francês. O temperamento de SCP-049 é principalmente amigável; o objeto está disposto a manter contato com funcionários da Fundação; entretanto, se na opinião do objeto há algo que ele chama de "Praga" por perto, ele se torna extremamente irritado e às vezes completamente agressivo. A natureza desta "Praga" não é clara aos pesquisadores da Fundação, mas parece representar importância particular para SCP-049.
+        SCP-049 demonstra hostilidade declarada contra aqueles que percebe como afetados pela Pestilência, muitas vezes necessitando de contenção. Quando tem livre acesso, SCP-049 geralmente tenta matar o indivíduo; ele é capaz de interromper todas as funções biológicas de um organismo através do contato direto com a pele exposta. O mecanismo pelo qual isso ocorre é desconhecido, e os resultados das autópsias das vítimas mortas por SCP-049 dessa maneira têm sido consistentemente inconclusivos. SCP-049 expressa frustração ou remorso por essas mortes, alegando que as vítimas falharam em lutar contra a Pestilência, embora geralmente tente realizar cirurgias rudimentares no cadáver usando instrumentos que carrega em uma maleta médica preta. A operação nem sempre resulta em "sucesso", mas frequentemente resulta na criação do SCP-049-2.
 
 
-        SCP-049 exibe agressão aberta em relação àqueles que ele considera afligidos pela "Praga", em tais casos geralmente é necessário contê-lo. Tendo liberdade de ação, SCP-049 geralmente tenta matar tal sujeito; SCP-049 é capaz de parar todas as funções biológicas no corpo através de contato direto com áreas expostas da pele. O mecanismo deste fenômeno é desconhecido; resultados de necropsias de vítimas mortas por SCP-049 desta forma são inconsistentes em todos os casos. SCP-049 expressa desgosto ou arrependimento sobre essas mortes, afirmando que as vítimas não tentaram lutar contra a "Praga", embora geralmente procure realizar uma operação primitiva no cadáver usando instrumentos que carrega constantemente em uma bolsa médica preta. A operação nem sempre resulta em "sucesso", mas frequentemente resulta na criação de SCP-049-2.
-
-
-        SCP-049-2 são cadáveres reanimados de sujeitos operados por SCP-049. Pelos sinais externos, eles não retêm memórias ou habilidades mentais e são dotados apenas de habilidades motoras básicas e mecanismos de reação. Em geral são pouco móveis, movem-se raramente e sem padrão, mas quando instigados ou ordenados por SCP-049, podem se tornar extremamente agressivos. SCP-049-2 possui funções biológicas ativas, porém diferem radicalmente da fisiologia humana conhecida pela ciência moderna. Apesar dessas diferenças, SCP-049 frequentemente afirma que os sujeitos foram "curados".
+        Os SCP-049-2 são cadáveres reanimados de indivíduos que foram submetidos a cirurgias realizadas pelo SCP-049. Eles parecem não reter memórias ou habilidades mentais, possuindo apenas habilidades motoras básicas e mecanismos de resposta. Geralmente são sedentários, movendo-se com pouca frequência e de forma errática, mas quando provocados ou sob o comando do SCP-049, podem se tornar extremamente agressivos. Os SCP-049-2 possuem funções biológicas ativas, mas estas diferem radicalmente da fisiologia humana moderna. Apesar dessas diferenças, o SCP-049 frequentemente afirma que os indivíduos são "curados".
   - uid: 22582
     components:
     - type: Transform
@@ -152140,47 +152157,47 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Objeto Nº: SCP-082
+        Objeto №: SCP-082
 
 
-        Classe do Objeto: Euclídeo
+        Classe de objeto: Euclides
 
 
-        Condições Especiais de Contenção: As salas de estar ampliadas, localizadas no Setor de Contenção Bioamplificado Militarizado, foram reformadas para supressão e pacificação do SCP-082. Armas convencionais têm eficácia limitada contra o SCP-082. Atualmente, o objeto acredita que foi feito rei da França e que a zona de contenção é na verdade um palácio real criado para sua proteção. Todo o pessoal que interage com ele deve ser instruído sobre esse logro e informado de que não deve contradizer sua compreensão da situação sob pena de execução. Guardas e outros funcionários devem ser apenas da Classe D.
+        Procedimentos Especiais de Contenção: As acomodações ampliadas localizadas dentro da Área de Biocontenção Armada foram modificadas para a supressão e pacificação do SCP-082. Armas convencionais têm pouco efeito sobre o SCP-082. Atualmente, o SCP-082 acredita ter sido nomeado Rei da França e que a área de contenção é, na verdade, um palácio real criado para sua proteção. Todos os funcionários que interagirem com ele devem ser instruídos sobre essa farsa e que qualquer tentativa de refutar sua compreensão da situação será punida com a morte. Guardas e demais funcionários devem ser exclusivamente da Classe D.
 
 
-        Grupo Operacional Phi-1 foi designado para guardar a sala do objeto, mas não é permitido contato próximo com ele.
+        A Força-Tarefa Phi-1 foi designada para guardar o quarto do indivíduo, mas não tem permissão para ter contato próximo com ele.
 
 
-        Descrição: O SCP-082 é geneticamente humano; no entanto, devido a processos indeterminados (químicos, hormonais, cancerosos ou sobrenaturais), ele cresceu até uma altura gigantesca, aproximadamente 2,4 m (cerca de 8 pés), e pesa mais de 310 kg (cerca de 700 libras), com características físicas extremamente desproporcionais. Possui uma cabeça ligeiramente pontiaguda e em recesso, bochechas e queixo arredondados, nariz em batata e olhos escuros e fundos, combinado com obesidade e grande volume de massa muscular. Seus antebraços são muito musculosos, aproximadamente 71 cm (cerca de 28 polegadas) de circunferência. A largura do punho ao longo dos nós é de cerca de 30 cm (cerca de 12 polegadas). Embora as pernas do objeto sejam enormes, os pés são desproporcionalmente pequenos em relação ao corpo (tamanho 46).
+        Descrição: SCP-082 é geneticamente humano; no entanto, devido a processos não especificados (químicos, hormonais, cancerígenos ou sobrenaturais), cresceu a uma altura gigantesca, aproximadamente 2,4 m (aproximadamente 8 pés) e pesando mais de 310 kg (aproximadamente 700 libras), com características físicas grosseiramente desproporcionais. Possui uma cabeça ligeiramente pontiaguda e calva, maçãs do rosto arredondadas e proeminentes, nariz bulboso e olhos escuros e fundos, além de ser obeso e extremamente musculoso. Seus antebraços são muito musculosos, medindo aproximadamente 71 cm (aproximadamente 28 polegadas) de circunferência. A largura de um punho, na altura dos nós dos dedos, é de aproximadamente 30 cm (cerca de 12 polegadas). Embora as pernas do indivíduo sejam enormes, os pés são desproporcionalmente pequenos em relação ao corpo (tamanho 46).
 
 
-        O SCP-082 se chama Fernando e fala francês e inglês com sotaque pesado. Sua aparência é piorada por inúmeras cicatrizes em todo o corpo (resultado de anos de contenção na zona). Sua pele é de cor escura e bronzeada e, embora recuse a tomar banho, frequentemente muda de roupa. Quando fala, cerra as palavras através de dentes anormalmente grandes e apertados. O SCP-082 abre os dentes apenas ao comer ou cantar, que faz frequentemente. Ele canta músicas sobre coisas que lhe agradam, variando de canções de bares esquecidas da era vitoriana a clássicos modernos, geralmente durante o almoço e tempo de preparação de comida. O SCP-082 não penteeia o cabelo da cabeça, embora o corte e se barbeie com uma faca grande que usa para cozinhar. É necessário notar que o cabelo do objeto é anormalmente ampliado, um único fio com espessura de aproximadamente um milímetro (que em dureza e aparência parece ser grafite de lápis). Ocasionalmente, o SCP-082 aperta os dentes tão firmemente que as gengivas começam a sangrar. Ainda não está claro por que ele faz isso. Radiografias são difíceis de interpretar devido à grande massa muscular, mas os cientistas descobriram inúmeras balas, bem como várias facas e espadas presas ao corpo do objeto.
+        SCP-082 se identifica como Fernand e fala francês e inglês com forte sotaque. Sua aparência é acentuada por múltiplas cicatrizes por todo o corpo (resultado de anos de supressão dentro da área de contenção). Sua pele é escura e bronzeada, e embora se recuse a tomar banho, troca de roupa frequentemente. Ao falar, murmura palavras através de dentes anormalmente grandes e cerrados. SCP-082 só abre os dentes para comer ou cantar, o que faz com bastante frequência. Canta canções sobre o que lhe dá prazer, desde antigas canções de bar da era vitoriana até clássicos modernos, geralmente enquanto janta ou cozinha. SCP-082 não penteia o cabelo, embora o apare e se barbeie com uma faca grande, que usa para preparar alimentos. Deve-se notar que o cabelo do sujeito é anormalmente grosso, com fios individuais de aproximadamente um milímetro de espessura (embora a dureza e a aparência da ponta de um lápis sejam comparáveis). SCP-082 ocasionalmente cerra os dentes com tanta força que suas gengivas sangram. O motivo disso permanece desconhecido. Radiografias são difíceis de interpretar devido à sua grande massa muscular, mas pesquisadores descobriram inúmeras balas, bem como diversas facas e espadas, alojadas em seu corpo.
 
 
-        Modo de comportamento do SCP-082 é amigável e despreocupado. Durante o tempo de contenção, o SCP-082 acumulou um grande guardaroupa. Ele gosta de se vestir de diferentes maneiras, em roupas comuns, uniforme militar, roupas de palhaço e roupas femininas. Novas roupas devem ser fornecidas conforme solicitado pelo objeto. Ele frequentemente faz piadas e se comunica educadamente com a equipe, frequentemente os convidando para jantar. No entanto, a equipe deve lembrar que a qualquer momento o SCP-082 pode atacá-los e comê-los. Geralmente antes disso, ele pede desculpas por seus modos e interrompe a conversa arrancando uma cabeça. As poderosas mandíbulas do SCP-082 são fortes o suficiente para quebrar osso, embora geralmente ele arranque os ossos mais longos, depois se deliciando com o crânio. Seus ataques são aleatórios, sem qualquer motivação — não importa se comeu ou não, isso não afeta sua fome canibal.
+        O comportamento de SCP-082 é amigável e despreocupado. Durante seu confinamento, SCP-082 acumulou um vasto guarda-roupa. Ele gosta de se vestir com uma variedade de estilos, incluindo roupas casuais, uniformes militares, fantasias de palhaço e roupas femininas. Roupas novas devem ser fornecidas mediante solicitação. Ele frequentemente faz piadas e interage educadamente com a equipe, muitas vezes convidando-os para almoçar. No entanto, a equipe deve estar ciente de que SCP-082 pode atacá-los e consumi-los a qualquer momento. Geralmente, antes de fazê-lo, pede desculpas por sua falta de educação e interrompe a conversa arrancando a própria cabeça. As poderosas mandíbulas do SCP-082 são fortes o suficiente para rachar ossos, embora ele normalmente consuma os ossos mais longos, saboreando o crânio em seguida. Seus ataques são aleatórios, sem qualquer motivação — o fato de ter comido ou não não afeta sua fome canibal.
 
 
-        A maior vulnerabilidade do SCP-082 é que ele é incapaz de separar realidade do que viu na televisão ou leu em um livro. Várias vezes, o objeto expressou forte desejo de conhecer seu ídolo, Hannibal Lecter, e acredita que seus shows favoritos, como "Lei e Ordem", são reais. Embora tenha demonstrado alto inteligência em memória e resolução de quebra-cabeças, a essência de paródia, sátira e ficção está além de seu entendimento. O SCP-082 aparentemente entende o conceito de mentira e pode dizer quando outras pessoas estão mentindo para ele, mas ao mesmo tempo diz mentiras óbvias quando perguntado sobre seu passado. De acordo com os relatos do SCP-082, ele é:
+        A maior fraqueza de SCP-082 é sua incapacidade de distinguir a realidade daquilo que vê na televisão ou lê em livros. Em diversas ocasiões, SCP-082 expressou um forte desejo de conhecer seu ídolo, Hannibal Lecter, e acredita que seus programas favoritos, como Law & Order, são reais. Embora tenha demonstrado alta inteligência nas áreas de memória e resolução de quebra-cabeças, os conceitos de paródia, sátira e fantasia estão além de sua compreensão. SCP-082 parece entender o conceito de engano e consegue detectar quando outros estão mentindo para ele, mas contará mentiras óbvias quando questionado sobre seu passado. De acordo com o depoimento de SCP-082, ele:
 
 
         Vampiro
 
         Homúnculo
 
-        Um Pássaro Grande
+        Pássaro grande
 
-        O Gigante André
+        André, o Gigante
 
         Napoleão
 
         Obelix (parceiro de Asterix)
 
-        Doutor Bright
+        Dr. Brilhante
 
         Hulk
 
-        Alexandre, O Grande
+        Alexandre, o Grande
 
         Capitão Gancho
 
@@ -152188,10 +152205,10 @@ entities:
 
         Doutor Frankenstein
 
-        O Monstro de Frankenstein
+        O monstro de Frankenstein
 
 
-        Quando questionado sobre mentir, ele se desculpou: "Mas eu só minto quando não fico vermelho!"
+        Quando questionado sobre mentir, ele se desculpou: "Mas eu só minto quando não estou corando!"
   - uid: 22583
     components:
     - type: Transform
@@ -152284,68 +152301,64 @@ entities:
         SCP-2398
 
 
-        Objeto Nº: 2398
+        Objeto №: 2398
 
 
-        Classe de Contenção:
+        Classe de conteúdo:
 
         seguro
 
 
-        Classe de Violação:
-
-        тёмный
-
-
-        Особые условия содержания: SCP-2398 содержится в стандартной сейфовой ячейке с высокой степенью охраны.
-
-        Сотрудники, обладающие достаточным уровнем допуска для проведения экспериментов с SCP-2398,
-
-        вначале должны подать правильно заполненную заявку в Управление руководителя исследовательских работ Зоны.
+        Classe de violação:
+        preto
 
 
-        Сотрудникам, проводящим эксперименты с SCP-2398, запрещается размахивать объектом,
+        Procedimentos Especiais de Contenção: SCP-2398 está contido em um cofre de segurança padrão de alta segurança. 
 
-        находясь в прямой близости от прочих членов персонала.
+        Pessoal com autorização suficiente para realizar experimentos com SCP-2398, 
+
+        Primeiramente, você deve enviar um formulário de inscrição devidamente preenchido à Diretoria de Pesquisa da Zona.
+
+        É proibido aos funcionários que realizam experimentos com SCP-2398 balançar o objeto. 
+
+        estando em estreita proximidade com outros membros da equipe.
 
 
 
-        Дополнение к особым условиям содержания: Проводить эксперименты с SCP-2398 более не разрешается.
+        Atualização dos Procedimentos Especiais de Contenção: Não são permitidos mais testes com SCP-2398.
 
 
+        Descrição: SCP-2398 é um taco de beisebol de madeira padrão com aproximadamente 110 cm de comprimento e com um revestimento no cabo. 
 
-        Описание: SCP-2398 - это стандартная деревянная бейсбольная бита длиной около 110 см с обмоткой на рукояти,
+        Feito de madeira de freixo. SCP-2398 não possui nenhuma marca incomum, exceto pelas letras “K.O.”, 
 
-        сделанная из древесины ясеня. SCP-2398 не имеет каких-либо необычных меток, за исключением букв “K.O.”,
-
-        вырезанных чуть выше рукояти.
-
-
-        SCP-2398 проявляет аномальные свойства только при использовании; если размахнуться битой на скорости чуть более 20 м/с
-
-        и ударить ею по любому живому существу, то оно взорвётся. Механизм данного явления пока что неизвестен.
+        esculpido logo acima da alça.
 
 
-        Обстоятельства обнаружения: Первыми о свойствах SCP-2398 узнали агенты Фонда, внедрённые в полицию Торонто,
+        SCP-2398 exibe propriedades anômalas apenas quando em uso; quando o bastão é balançado a velocidades ligeiramente superiores a 20 m/s
 
-        в ходе расследования обстоятельств ссоры игрока бейсбольной команды "Торонто Блю Джейс" Карла Томаса с группой молодых мужчин
+        E se atingir qualquer criatura viva com ela, explodirá. O mecanismo desse fenômeno ainda é desconhecido.
 
-        и женщин. Один из мужчин, увидев, как г-н Томас выходит из ночного клуба и направляется к своей машине,
+        Descoberta: As propriedades do SCP-2398 foram descobertas inicialmente por agentes da Fundação infiltrados na força policial de Toronto. 
 
-        подбежал к нему и стал обвинять в попытке ограбления, что также стали подтверждать ещё трое мужчин и две женщины.
+        durante a investigação das circunstâncias de uma altercação entre o jogador de beisebol do Toronto Blue Jays, Carl Thomas, e um grupo de jovens. 
 
-        Г-н Томас достал SCP-2398 с заднего сиденья автомобиля и ударил ею одну из женщин, которая тут же взорвалась.
+        e mulheres. Um dos homens, ao ver o Sr. Thomas saindo da boate e indo em direção ao seu carro, 
 
-        Нападавшие быстро разбежались, а один из случайных прохожих позвонил в полицию.
+        Correram até ele e começaram a acusá-lo de tentativa de roubo, o que foi confirmado por mais três homens e duas mulheres. 
+
+        O Sr. Thomas retirou o SCP-2398 do banco traseiro do carro e o usou para atingir uma das mulheres, causando uma explosão. 
+
+        Os agressores fugiram rapidamente e um dos transeuntes chamou a polícia.
   - uid: 22598
     components:
     - type: MetaData
-      name: план модульного комплекса
+      name: plano complexo modular
     - type: Transform
       pos: 26.38343,88.81601
       parent: 2
     - type: Paper
-      content: O plano é tão complexo que vocês não podem compreendê-lo...
+      content: O plano é tão complexo que você não consegue entendê-lo...
   - uid: 22599
     components:
     - type: Transform
@@ -152526,18 +152539,17 @@ entities:
   - uid: 22628
     components:
     - type: MetaData
-      name: окровавленный лист бумаги
+      name: uma folha de papel ensanguentada
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 57.31961,41.45651
       parent: 2
     - type: Paper
       content: >
-        NÃO CONFIE NO MEU[color=#dc143c]█ █ ESTE MISERÁVEL QUER EXPLODIR[color=#dc143c]██ █ 0[color=#dc143c]██ ELE [color=#dc143c]██FOI ENVIADO PELOS REBELDES
+        NÃO ESTÁ EM[color=#dc143c]█РЬ[color=#dc143c]█E MAIO[color=#dc143c]██RDU ESSE DESGRAÇADO QUER LIBERTAR[color=#dc143c]██TI[color=#dc143c]█ 0[color=#dc143c]██ DELE [color=#dc143c]██REBELDES ENVIADOS 
 
-        SE ELE CHEGAR[color=#dc143c]█ A[color=#dc143c]█ ATÉ [color=#dc143c]███ █ SERÁ ATÉ ██8 TODO O COMPLEXO
-
-        SERÁ DESAC[color=#dc143c]██ELADO MATE[color=#dc143c]██ M[color=#dc143c]█ INIMIGA[color=#dc143c]██A![color=#fff]█████
+        ESL[color=#dc143c]█ О[color=#dc143c]█ PARA[color=#dc143c]███TH█I PARA ██8 COMPLEXO INTEIRO
+        Haverá um amanhecer[color=#dc143c]██EN UB[color=#dc143c]██ТЕ М[color=#dc143c]█YNA[color=#dc143c]██А![color=#fff]█████
 
         [color=#fefbfc]██[color=#fdf2f5]██[color=#fef8f9]██[color=#f8d6dd]██[color=#ee8ea1]██[color=#f9d9e0]██[color=#fff]██████████████████[color=#fefbfc]██[color=#fdf2f5]██
 
@@ -152575,84 +152587,79 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Objeto Nº: SCP-173
+        Objeto №: SCP-173
 
 
-        Classe do Objeto: Euclídeo
+        Classe de objeto: Euclides
 
 
-        Condições Especiais de Contenção: O objeto SCP-173 deve ser permanentemente contido em um contêiner fechado. Quando o pessoal visita o contêiner com SCP-173, no mínimo três pessoas devem entrar na contenção e a porta deve ser imediatamente trancada atrás delas. Dois indivíduos devem manter contato visual direto constante com SCP-173 até que todo o pessoal tenha deixado o contêiner e ele tenha sido trancado.
+        Procedimentos Especiais de Contenção: SCP-173 deve ser mantido em um recipiente trancado em todos os momentos. Quando funcionários entrarem no recipiente contendo SCP-173, pelo menos três indivíduos devem entrar, e a porta deve ser imediatamente trancada atrás deles. Dois indivíduos devem manter contato visual direto com SCP-173 o tempo todo até que todos os funcionários tenham saído do recipiente e ele tenha sido trancado.
 
 
-        Descrição: Trazido para a Zona 19 em 1993. A origem ainda permanece desconhecida. Feito de concreto e armadura com traços de tinta spray marca Krylon. SCP-173 é animado e extremamente hostil. O objeto não pode se mover enquanto estiver dentro da linha de visão direta. Ao trabalhar com SCP-173, contato visual nunca deve ser quebrado. O pessoal designado para entrar no contêiner é instruído a avisar um ao outro antes de piscar. O objeto relata atacar quebrando o pescoço na base do crânio ou por asfixia. Em caso de ataque, o pessoal deve implementar procedimentos de contenção de objetos perigosos classe 4.
+        Descrição: Trazido para o Sítio-19 em 1993. Origem ainda desconhecida. Construído em concreto e vergalhões com vestígios de tinta spray Krylon. SCP-173 é animado e extremamente hostil. Não pode se mover enquanto estiver dentro do campo de visão. O contato visual nunca deve ser quebrado ao manusear SCP-173. Os funcionários designados para entrar no contêiner são instruídos a avisar uns aos outros antes de piscar. Há relatos de que o sujeito ataca quebrando o pescoço na base do crânio ou por estrangulamento. Em caso de ataque, os funcionários devem empregar procedimentos de contenção de objetos perigosos de Classe 4.
 
 
-        Pessoal relata estrondo vindo do contêiner quando ninguém está dentro. Isso é considerado normal e qualquer mudança neste comportamento deve ser imediatamente reportada ao curador em exercício HMCL.
+        Os funcionários relatam ruídos de rangido vindos do contêiner quando não há ninguém presente. Isso é considerado normal, e qualquer alteração nesse comportamento deve ser imediatamente comunicada ao supervisor da HMCL.
 
 
-        A substância avermelhada-marrom no piso é uma mistura de fezes e sangue. A origem dessas substâncias é desconhecida. Os habitáculos devem ser limpos a cada duas semanas.
+        A substância marrom-avermelhada no chão é uma mistura de fezes e sangue. A origem dessas substâncias é desconhecida. Os recintos devem ser limpos a cada duas semanas.
   - uid: 22630
     components:
     - type: MetaData
-      name: Отчет об эксперименте 330 - № 1
+      name: Relatório de experiência 330 - № 1
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 103.54102,103.546425
       parent: 2
     - type: Paper
       content: >+
-        Experimento 330 - No. 1
+        Experimento 330 - № 1
 
-        Um funcionário Classe D-[color=#0]████ foi solicitado a olhar para uma tigela, contorná-la de todos os lados e dizer se via alguma escrita.
+        Funcionário classe D-[color=#0]Foi solicitado a ████ que observasse a tigela, caminhasse ao redor dela por todos os lados e dissesse se via a inscrição.
 
-        Como se verificou, mesmo do outro lado da folha com a inscrição, parecia estar visível diante dos olhos, cada vez mostrando o mesmo: "Pegue não mais de dois, por favor :)"
-
-
-        Transcrição do protocolo do Experimento No. 1
-
-                              [color=#0]INÍCIO [color=#0]REGISTRO
-
-        D-[color=#0]████ : O que devo fazer?
+        Acontece que, mesmo quando eu estava do outro lado da folha de papel com a inscrição, ela parecia estar visível diante dos meus olhos; todas as vezes eu via a mesma coisa: "Não leve mais de dois, por favor :)"
 
 
-        Doutor-[color=#0]████ : D-[color=#0]████, você vê uma mesa à sua frente com uma tigela de metal?
+        Transcrição do protocolo experimental №1
+
+                              [color=#0]COMEÇAR [color=#0]REGISTROS
+        D-[color=#0]████ : O que devo fazer então?
+
+        Doutor-[color=#0]████ : D-[color=#0]████, Você vê uma mesa com uma tigela de metal à sua frente?
 
 
         D-[color=#0]████ : Claro, doutor.
 
 
-        Doutor-[color=#0]████ : Há um pedaço de papel preso na tigela com fita adesiva. Existem inscrições no papel? Se sim, quais são?
+        Doutor-[color=#0]████ : Há um pedaço de papel sobre a tigela, preso com fita adesiva. Há alguma inscrição no papel? Se sim, qual é?
 
 
-        D-[color=#0]████ : Há algo em inglês aqui... Não sou muito bom em inglês, mas posso distinguir as palavras "dois", "por favor", "pegue". Há também pontos de exclamação.
+        D-[color=#0]████ : Tem algo em inglês aqui... Não entendo muito bem, mas consigo distinguir as palavras "two", "please" e "take". Também há pontos de exclamação.
 
 
-        Doutor-[color=#0]████ : Certo, ao olhar para a inscrição, você sente algo?
+        Doutor-[color=#0]████ : Certo, quando você olha para a inscrição, você sente alguma coisa?
+
+        D-[color=#0]████ : Bem, eu não acho que seja assim, a inscrição é apenas uma inscrição.
 
 
-        D-[color=#0]████ : Não, parece não. É apenas uma inscrição comum.
+        Doutor-[color=#0]████ : Certo, vá para o lado oposto da tigela em relação ao rótulo. 
 
 
-        Doutor-[color=#0]████ : Certo, mova-se para o lado oposto da tigela da inscrição.
+        Doutor-[color=#0]████ : D-[color=#0]████, O que você vê?
 
 
-        Doutor-[color=#0]████ : D-[color=#0]████, o que você vê?
+        D-[color=#0]████ : Hum, isso é muito estranho, parece que ainda consigo ver a inscrição, como se estivesse bem diante dos meus olhos.
 
-
-        D-[color=#0]████ : Hmm, isso é muito estranho, parece que ainda consigo ver a inscrição, ela fica como se estivesse diante dos meus olhos.
-
-
-        Doutor-[color=#0]████ : É a inscrição como está no papel?
+        Doutor-[color=#0]████ : A inscrição é como está na folha?
 
 
         D-[color=#0]████ : Sim.
 
 
 
-        Sistema de Alerta da Instalação : AVISO! TODO PESSOAL DEVE PROSSEGUIR PARA ABRIGOS DE EMERGÊNCIA! GRUPO OPERACIONAL MÓVEL... "Fantasmas de Chapéu"... CHEGARÁ EM... Dez minutos.
+        Sistema de Alerta Complexo: ATENÇÃO! TODO O PESSOAL DEVE SE DIRIGIR AOS ABRIGOS DE EMERGÊNCIA! A FORÇA-TAREFA MÓVEL... "Matty Boys"... CHEGARÁ EM... Dez minutos.
 
-                                   [color=#0]FIM [color=#0]REGISTRO
-
+                                   [color=#0]FIM [color=#0]REGISTROS
   - uid: 22631
     components:
     - type: Transform
@@ -152715,55 +152722,55 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        Ó meu Deus! Ó meu Deus! Ó meu Deus!!!
+        Meu Deus, meu Deus, meu Deus!!!
 
-        Estou tão feliz! No último experimento, me comportei bem e por isso me deram um novo pôster com uma linda garota japonesa em biquíni!!!!!!!!
+        Estou tão feliz! Me comportei bem durante minha última experiência e, por isso, ganhei um pôster novo de uma linda japonesa de maiô!
 
         ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
 
-        ________000000000000______00000000000000________
+        ________000000000000______00000000000000________ 
 
-        ______0000000000000000__0000000000000000000_____
+        ______0000000000000000__0000000000000000000_____ 
 
-        ____0000000000000000000000000000________00000___
+        ____0000000000000000000000000000________00000___ 
 
-        ___00000000000000000000000000000__________0000__
+        ___00000000000000000000000000000__________0000__ 
 
-        __00000000000000000000000000000000__________000_
+        __00000000000000000000000000000000__________000_ 
 
-        __000000000000000000000000000000000000_____0000_
+        __000000000000000000000000000000000000_____0000_ 
 
-        _000000000000000000000000000000000000000___00000
+        _000000000000000000000000000000000000000___00000 
 
-        _0000000000000000000000000000000000000000_000000
+        _0000000000000000000000000000000000000000_000000 
 
-        _0000000000000000000000000000000000000000000000_
+        _0000000000000000000000000000000000000000000000_ 
 
-        _0000000000000000000000000000000000000000000000_
+        _0000000000000000000000000000000000000000000000_ 
 
-        __000000000000000000000000000000000000000000000_
+        __000000000000000000000000000000000000000000000_ 
 
-        ___0000000000000000000000000000000000000000000__
+        ___0000000000000000000000000000000000000000000__ 
 
-        _____000000000000000000000000000000000000000____
+        _____000000000000000000000000000000000000000____ 
 
-        _______0000000000000000000000000000000000000______
+        _______0000000000000000000000000000000000000______ 
 
-        __________0000000000000000000000000000000_________
+        __________0000000000000000000000000000000_________ 
 
-        _____________00000000000000000000000000___________
+        _____________00000000000000000000000000___________ 
 
-        _______________00000000000000000000______________
+        _______________00000000000000000000______________ 
 
-        __________________000000000000000________________
+        __________________000000000000000________________ 
 
-        ____________________0000000000___________________
+        ____________________0000000000___________________ 
 
-        ______________________000000_____________________
+        ______________________000000_____________________ 
 
-        _______________________0000______________________
+        _______________________0000______________________ 
 
-        ________________________00_______________________
+        ________________________00_______________________ 
 
         ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
   - uid: 22641
@@ -152773,13 +152780,11 @@ entities:
       parent: 2
     - type: Paper
       content: >-
-        De onde aquele idiota da quarta câmara tirou tantos pôsteres com garotas?
+        E onde aquele idiota da cela quatro conseguiu tantos pôsteres de garotas?
 
+        Vi um pôster com uma gata de biquíni e um alienígena. Talvez de algum filme?
 
-        Vi um pôster com alguma gata sexy em biquíni, alguma alien. Pode ser de um filme?
-
-        E uma linda garota de cabelo branco com orelhas pontiagudas.
-
+        É uma linda garota de cabelos brancos e orelhas pontudas.
 
         Preciso desse pôster.
 - proto: Pen
@@ -153000,8 +153005,8 @@ entities:
   - uid: 22680
     components:
     - type: MetaData
-      desc: ручка архитектора Nicolay, говорят что именно ей он чертит планы новых построек.
-      name: ручка Архитектора
+      desc: Dizem que a caneta do arquiteto Nicolay é o que ele usa para desenhar os projetos de novos edifícios.
+      name: Caneta de arquiteto
     - type: Transform
       pos: 26.696087,89.09379
       parent: 2
@@ -153257,8 +153262,8 @@ entities:
   - uid: 22704
     components:
     - type: MetaData
-      desc: Плюшевая игрушка главного и единственного архитектора Nicolay, того, благодаря кому этот комплекс существует. Элегантная и мягкая.
-      name: Плюшевая лиса главного архитектора
+      desc: Um boneco de pelúcia do arquiteto-chefe e único de Nicolay, aquele que tornou este complexo possível. Elegante e macio.
+      name: A raposa de pelúcia do arquiteto-chefe
     - type: Transform
       pos: -11.038731,59.046383
       parent: 2
@@ -153274,8 +153279,8 @@ entities:
   - uid: 22706
     components:
     - type: MetaData
-      desc: Линь ган гули гули...
-      name: плюшевый Акула Генрих
+      desc: Lin Gang Guli Guli...
+      name: pelúcia tubarão Henry
     - type: Transform
       pos: 4.0147743,67.43397
       parent: 2
@@ -237400,8 +237405,8 @@ entities:
   - uid: 38405
     components:
     - type: MetaData
-      desc: Эта кнопка активирует аварийную защиту от радиации.
-      name: кнопка сигнала (Аварийная защита от радиации)
+      desc: Este botão ativa a proteção de emergência contra radiação.
+      name: Botão de sinalização (Proteção contra radiação de emergência)
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -18.978073,50.71282
@@ -237440,8 +237445,8 @@ entities:
   - uid: 38406
     components:
     - type: MetaData
-      desc: Эта кнопка управляет защитным экранированием ядра реактора.
-      name: кнопка сигнала (Защитное экранирование ядра реактора)
+      desc: Este botão controla a blindagem protetora do núcleo do reator.
+      name: botão de sinalização (blindagem protetora do núcleo do reator)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -19.5,50.5
@@ -237693,8 +237698,8 @@ entities:
   - uid: 38411
     components:
     - type: MetaData
-      desc: Эта кнопка активирует ставни.
-      name: кнопка сигнала (Ставни)
+      desc: Este botão ativa as persianas.
+      name: botão de sinalização (obturadores)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 40.5,123.5
@@ -237715,8 +237720,8 @@ entities:
   - uid: 38412
     components:
     - type: MetaData
-      desc: Эта кнопка активирует блокировку научного отдела.
-      name: кнопка сигнала (Блокировка научного отдела)
+      desc: Este botão ativa a fechadura do Departamento de Ciências.
+      name: botão de sinalização (Fechadura do Departamento de Ciências)
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 40.5,122.5
@@ -242664,16 +242669,16 @@ entities:
   - uid: 39082
     components:
     - type: MetaData
-      desc: Статуя агента SCP, который лишился жизни, сражаясь во тьме, чтоб остальные жили на свету!
-      name: статуя Агента SCP
+      desc: Uma estátua de um agente da SCP que perdeu a vida lutando nas trevas para que outros pudessem viver na luz!
+      name: Estátua do Agente SCP
     - type: Transform
       pos: -5.5,63.5
       parent: 2
   - uid: 39083
     components:
     - type: MetaData
-      desc: Статуя агента SCP, который лишился жизни, сражаясь во тьме, чтоб остальные жили на свету!
-      name: статуя Агента SCP
+      desc: Uma estátua de um agente da SCP que perdeu a vida lutando nas trevas para que outros pudessem viver na luz!
+      name: Estátua do Agente SCP
     - type: Transform
       pos: -5.5,59.5
       parent: 2
@@ -246330,8 +246335,8 @@ entities:
   - uid: 39689
     components:
     - type: MetaData
-      desc: Фигурка, изображающая маппера Nicolay.
-      name: фигурка маппера Nicolay
+      desc: Uma estatueta representando o cartógrafo Nicolay.
+      name: estatueta do cartógrafo Nicolay
     - type: Transform
       pos: 25.480202,89.47573
       parent: 2
@@ -247534,154 +247539,154 @@ entities:
   - uid: 39880
     components:
     - type: MetaData
-      name: Мед отдел
+      name: Departamento médico
     - type: Transform
       pos: 26.5,115.5
       parent: 2
   - uid: 39881
     components:
     - type: MetaData
-      name: Поверхность
+      name: Superfície
     - type: Transform
       pos: 9.5,-2.5
       parent: 2
   - uid: 39882
     components:
     - type: MetaData
-      name: Инженерный Отдел
+      name: Departamento de Engenharia
     - type: Transform
       pos: -11.5,40.5
       parent: 2
   - uid: 39883
     components:
     - type: MetaData
-      name: Объекты ЛЗС
+      name: Objetos LZS
     - type: Transform
       pos: 92.5,101.5
       parent: 2
   - uid: 39884
     components:
     - type: MetaData
-      name: Ворота Б
+      name: Portão B
     - type: Transform
       pos: 28.5,39.5
       parent: 2
   - uid: 39885
     components:
     - type: MetaData
-      name: Ворота А
+      name: Portão A
     - type: Transform
       pos: 8.5,32.5
       parent: 2
   - uid: 39886
     components:
     - type: MetaData
-      name: Эвакуационная площадка
+      name: Local de evacuação
     - type: Transform
       pos: 42.5,14.5
       parent: 2
   - uid: 39887
     components:
     - type: MetaData
-      name: Интерком
+      name: Interfone
     - type: Transform
       pos: -1.5,58.5
       parent: 2
   - uid: 39888
     components:
     - type: MetaData
-      name: Кабинет Кадрового Офицера
+      name: RH
     - type: Transform
       pos: 2.5,82.5
       parent: 2
   - uid: 39889
     components:
     - type: MetaData
-      name: Кофитерий
+      name: Cafeteria
     - type: Transform
       pos: 27.5,68.5
       parent: 2
   - uid: 39890
     components:
     - type: MetaData
-      name: Логистический отдел
+      name: Departamento de logística
     - type: Transform
       pos: 45.5,71.5
       parent: 2
   - uid: 39891
     components:
     - type: MetaData
-      name: Кабинет Представителя Комитета По Этике
+      name: Comitê de Ética
     - type: Transform
       pos: 48.5,42.5
       parent: 2
   - uid: 39892
     components:
     - type: MetaData
-      name: Утилизационный блок АЗ
+      name: Unidade de reciclagem AZ
     - type: Transform
       pos: 58.5,43.5
       parent: 2
   - uid: 39893
     components:
     - type: MetaData
-      name: КПП АЗ-ЛЗС Альфа
+      name: Posto de controle ZCL-ZCP Alpha
     - type: Transform
       pos: 8.5,89.5
       parent: 2
   - uid: 39894
     components:
     - type: MetaData
-      name: КПП АЗ-ЛЗС Бета
+      name: Checkpoint AZ-LZS Beta
     - type: Transform
       pos: 38.5,89.5
       parent: 2
   - uid: 39895
     components:
     - type: MetaData
-      name: Каморка Уборщика АЗ
+      name: vestiario do zelador AZ
     - type: Transform
       pos: 24.5,47.5
       parent: 2
   - uid: 39896
     components:
     - type: MetaData
-      name: Каморка Уборщика ЛЗС
+      name: Armário de limpeza LZS
     - type: Transform
       pos: 12.5,109.5
       parent: 2
   - uid: 39897
     components:
     - type: MetaData
-      name: Научный отдел
+      name: Departamento SCI
     - type: Transform
       pos: 51.5,121.5
       parent: 2
   - uid: 39898
     components:
     - type: MetaData
-      name: Отдел СБ ЛЗС
+      name: Departamento de Segurança da LZS
     - type: Transform
       pos: -7.5,101.5
       parent: 2
   - uid: 39899
     components:
     - type: MetaData
-      name: Кабинет НСБ
+      name: Gabinete NSB
     - type: Transform
       pos: -24.5,116.5
       parent: 2
   - uid: 39900
     components:
     - type: MetaData
-      name: D блок
+      name: Bloco D
     - type: Transform
       pos: -12.5,130.5
       parent: 2
   - uid: 39901
     components:
     - type: MetaData
-      name: КС 173
+      name: KS 173
     - type: Transform
       pos: 82.5,131.5
       parent: 2
@@ -247695,56 +247700,56 @@ entities:
   - uid: 39903
     components:
     - type: MetaData
-      name: КС 939
+      name: KS 939
     - type: Transform
       pos: -7.5,171.5
       parent: 2
   - uid: 39904
     components:
     - type: MetaData
-      name: КС 082
+      name: KS 082
     - type: Transform
       pos: 26.5,191.5
       parent: 2
   - uid: 39905
     components:
     - type: MetaData
-      name: Склад ТЗС
+      name: Armazém TZS
     - type: Transform
       pos: 60.5,207.5
       parent: 2
   - uid: 39906
     components:
     - type: MetaData
-      name: КС 106
+      name: KS 106
     - type: Transform
       pos: 15.5,229.5
       parent: 2
   - uid: 39907
     components:
     - type: MetaData
-      name: СБК
+      name: SBK
     - type: Transform
       pos: 78.5,228.5
       parent: 2
   - uid: 39908
     components:
     - type: MetaData
-      name: Отдел СБ ТЗС
+      name: Departamento de Segurança da TZS
     - type: Transform
       pos: 85.5,175.5
       parent: 2
   - uid: 39909
     components:
     - type: MetaData
-      name: КС 457
+      name: KS 457
     - type: Transform
       pos: 83.5,205.5
       parent: 2
   - uid: 39910
     components:
     - type: MetaData
-      name: КС 049
+      name: KS 049
     - type: Transform
       pos: 47.5,191.5
       parent: 2
