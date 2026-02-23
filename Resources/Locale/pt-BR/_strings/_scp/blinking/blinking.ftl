@@ -1,12 +1,12 @@
 eye-droplets-failed = Os olhos de { $name } devem estar abertos
 eye-droplets-used = { $name } coloca gotas nos olhos dele
 eye-droplets-first-bonus-end = Seus olhos estão começando a secar, você tem que começar a piscar
-eye-droplets-end = Meus olhos estão secos, parece que as gotas evaporaram!
+eye-droplets-end = Meus olhos estão secos, parece que estou em um deserto!
 close-eye-phrase-1 = Estou piscando!
 close-eye-phrase-2 = Estou piscando!!
 close-eye-phrase-3 = Eu fecho meus olhos
 close-eye-phrase-4 = Fechado
 open-eye-phrase-1 = Abri meus olhos
-open-eye-phrase-2 = Eu abro meus olhos
+open-eye-phrase-2 = Eu abri meus olhos
 open-eye-phrase-3 = Estou vendo
-open-eye-phrase-4 = Eu vejo
+open-eye-phrase-4 = Eu consigo ver

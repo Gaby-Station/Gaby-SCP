@@ -4,69 +4,68 @@ ui-options-scp-audio = Áudio
 ui-options-scp-game = Jogo
 ui-options-tab-hover-to-see-details = Passe o mouse sobre uma configuração para ver uma dica sobre a ação da configuração.
 ui-options-fps-impact-attention = Essas configurações afetam diretamente o desempenho do jogo.
-    Изменение настроек вызовет изменение FPS
+    Alterar esta configuração mudará o seu FPS
 ui-options-grain-toggle-overlay = Usar sombreador de grãos
-ui-options-grain-toggle-overlay-tooltip = 
-    Будет ли включен шейдер зернистости?
-    ВНИМАНИЕ: При использовании режима совместимости картинка будет пересвечена
-ui-options-grain-strength = Poder do shader de grãos
-ui-options-grain-strength-tooltip = 
-    Определяет интенсивность эффектов шейдера зернистости.
-    Чем больше, тем больше будет "шуршания" на экране
-ui-options-field-of-view-blur-scale = Desfocar a qualidade da textura
-ui-options-field-of-view-blur-scale-tooltip = 
-    Определяет качество текстуры размытия. Чем больше, тем более ресурсозатратная текстура
-    ВНИМАНИЕ: Вызывает проблемы с производительностью на слабых видеокартах
+ui-options-grain-toggle-overlay-tooltip =
+    O shader de granulação será ativadoe com problemas?
+    Ao usar o modo de compatibilidade, a imagem ficará estourada.
+ui-options-grain-strength = Força do efeito de granulação
+ui-options-grain-strength-tooltip =
+    Define a intensidade dos efeitos do shader de granulação.
+    Quanto maior o valor, mais 'ruído' haverá na tela.
+ui-options-field-of-view-blur-scale = Qualidade da textura desfocada
+ui-options-field-of-view-blur-scale-tooltip =
+    Define a qualidade da textura de desfoque. Quanto maior o valor, mais recursos a textura consumirá.
+    ATENÇÃO: Causa problemas de desempenho em placas de vídeo fracas.
 ui-options-field-of-view-opacity = Transparência do campo de visão
-ui-options-field-of-view-opacity-tooltip = 
-    Определяет прозрачность (темноту) пространства за спиной персонажа
-    Чем больше, тем темнее будет пространство.
-ui-options-light-bloom-enable = Brilho (floração)
-ui-options-light-bloom-enable-tooltip = 
-    Определяет, будет ли использован эффект свечения?
-    На слабых системах включение эффекта вызовет потери производительности.
-ui-options-light-bloom-cone-enable = Cone de brilho
-ui-options-light-bloom-cone-enable-tooltip = 
-    Определяет, будет ли рисоваться конус от источника света?
-    При выключении источник света продолжит иметь небольшое свечение вокруг себя.
+ui-options-field-of-view-opacity-tooltip =
+   Define a transparência (escuridão) do espaço atrás do personagem.
+   Quanto maior o valor, mais escuro o espaço será.
+ui-options-light-bloom-enable = Bloom(Efeito de brilho)
+ui-options-light-bloom-enable-tooltip =
+    Define a força do efeito de efeito de brilho (bloom).
+    Em sistemas fracos afetará o desempenho.
+ui-options-light-bloom-cone-enable = Cone das Luzes
+ui-options-light-bloom-cone-enable-tooltip =
+    Define se o cone de luz será desenhado a partir da fonte luminosa.
+    Ao desativar, a fonte de luz continuará tendo um pequeno brilho ao seu redor.
 ui-options-light-bloom-cone-opacity = Transparência do cone brilhante
 ui-options-light-bloom-cone-opacity-tooltip = Define a transparência com que o cone luminoso será desenhado
 ui-options-light-bloom-optimizations = Carga reduzida na placa de vídeo
-ui-options-light-bloom-optimizations-tooltip = 
-    При включении источники света, которые не видны персонажу, не будут создавать эффект.
-    Проверка на видимость потребляет большое количество ресурсов ЦП.
-    Это скорее всего даст обратный эффект, если у вас не слабая видеокарта.
-    Рекомендуется использовать ТОЛЬКО если у вас ОЧЕНЬ СЛАБАЯ ВИДЕОКАРТА и вы хотите поиграть с эффектом.
-ui-options-light-bloom-strength = Brilho brilhante
-ui-options-light-bloom-strength-tooltip = 
-    Регулирует яркость эффекта свечения. Чем выше значение, тем ярче свечение.
-    Позволяет настроить эффект под свои предпочтения.
+ui-options-light-bloom-optimizations-tooltip =
+    Quando ativado, as fontes de luz que não são visíveis para o personagem não criarão efeitos.
+   A verificação de visibilidade consome uma grande quantidade de recursos do Processador (CPU).
+   Isso provavelmente causará o efeito contrário (piora no desempenho), a menos que sua placa de vídeo seja muito fraca.
+   Recomenda-se usar APENAS se você tiver uma PLACA DE VÍDEO MUITO FRACA e ainda assim desejar jogar com o efeito ativado.
+ui-options-light-bloom-strength = Força do Bloom(Efeito de brilho)
+ui-options-light-bloom-strength-tooltip =
+    Ajusta o brilho do efeito de brilho (bloom). Quanto maior o valor, mais intenso será o brilho.
 ui-options-compatibility-mode-show-warning = Aviso de modo de compatibilidade
-ui-options-compatibility-mode-show-warning-tooltip = 
-    Определяет, будете ли вы получать предупреждение о включённом режиме совместимости при каждом заходе в игру.
-    Внимание: Для большинства игроков рекомендуется следовать инструкциям из предупреждения и выключить режим совместимости.
+ui-options-compatibility-mode-show-warning-tooltip =
+    Define se você receberá um aviso sobre o modo de compatibilidade ativado toda vez que entrar no jogo.
+    Atenção: Para a maioria dos jogadores, recomenda-se seguir as instruções do aviso e desativar o modo de compatibilidade.
 ui-options-compatibility-mode-use-shaders = Use shaders em modo de compatibilidade
-ui-options-compatibility-mode-use-shaders-tooltip = 
-    Позволяет шейдерам работать в режиме совместимости, несмотря на графические артефакты.
-    Включите, если хотите попробовать играть так.
+ui-options-compatibility-mode-use-shaders-tooltip =
+   Permite que os shaders funcionem no modo de compatibilidade, apesar dos artefatos gráficos.
+   Ative esta opção se desejar tentar jogar desta forma.
 ui-options-scp-echo-enabled = Efeito de eco
-ui-options-scp-echo-enabled-tooltip = 
-    При включении каждый неглобальный звук получит эффект эха.
-    При включении все звуки могут стать громче. Используйте слайдер громкости, чтобы отрегулировать громкость.
+ui-options-scp-echo-enabled-tooltip =
+    Quando ativado, cada som não global receberá um efeito de eco.
+    Ao ativar, todos os sons podem ficar mais altos. Use o controle deslizante (slider) de volume para ajustar a intensidade.
 ui-options-scp-echo-strong-preset-preferred = Use efeito de eco aprimorado
-ui-options-scp-echo-strong-preset-preferred-tooltip = 
-    Определяет, будет ли использован сильный эффект эха.
-    В усиленном эффекте звуки будут иметь более долгий хвост.
-ui-options-scp-audio-muffling-enabled = Supressão de som
-ui-options-scp-audio-muffling-enabled-tooltip = 
-    В зависимости от расположения источника делает звук глухим или тихим.
-    Может вызывать проблемы с производительностью на слабых системах.
-ui-options-scp-audio-muffling-use-high-frequency-update = Use erros de cálculo frequentes de supressão de som
-ui-options-scp-audio-muffling-use-high-frequency-update-tooltip = 
-    Определяет частоту проверок системы подавления звуков, с включенной опцией ~2-3 чаще обычного.
-    Крайне не рекомендуется при проблемах с производительностью, гарантированно будет вызывать понижение FPS
-ui-options-scp-game-auto-open-character-window-enabled = Menu de caracteres de abertura automática
-ui-options-scp-game-auto-open-character-window-enabled-tooltip = 
-    Будет ли меню персонажа автоматически открываться при заходе на новую должность.
-    Если вы ранее не играли на этой должности, меню покажет минимальную информацию о вашем персонаже и его должности.
-    При последующих захода меню перестанет открываться.
+ui-options-scp-echo-strong-preset-preferred-tooltip =
+    Define se o efeito de eco forte será utilizado.
+    No efeito intensificado, os sons terão uma cauda (reverberação) mais longa.
+ui-options-scp-audio-muffling-enabled = Oclusão de Som(Abafamento)
+ui-options-scp-audio-muffling-enabled-tooltip =
+    Dependendo da localização da fonte, torna o som abafado ou baixo.
+    Pode causar problemas de desempenho em sistemas mais fracos.
+ui-options-scp-audio-muffling-use-high-frequency-update = Maior Verificação de Erros da Oclusão de Som(Abafamento)
+ui-options-scp-audio-muffling-use-high-frequency-update-tooltip =
+    Define a frequência das verificações do sistema de oclusão de som. Com esta opção ativada as verificações ocorrem aproximadamente 2-3 vezes mais rápido que o normal.
+    Extremamente não recomendado se houver problemas de desempenho; causará queda de FPS garantida.
+ui-options-scp-game-auto-open-character-window-enabled = Abrir o Menu de Personagem Toda Vez
+ui-options-scp-game-auto-open-character-window-enabled-tooltip =
+    Define se o menu do personagem será aberto automaticamente ao assumir um novo cargo.
+   Se você nunca jogou com este cargo antes, o menu exibirá informações básicas sobre seu personagem e sua função.
+   Nas entradas subsequentes, o menu deixará de abrir automaticamente.

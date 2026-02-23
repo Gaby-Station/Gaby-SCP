@@ -5,17 +5,17 @@ examine-fear-state-none-dead = [color=lightblue]{ CAPITALIZE(gender-based-third-
 examine-fear-state-anxiety-dead = [color=lightblue]Em { gender-based-third-form-case } olhos extintos o último olhar alarmado congelou, olhando para sua alma ainda viva[/color]
 examine-fear-state-fear-dead = [color=lightblue]Um momento consciente foi impresso nos olhos bem abertos de { gender-based-third-form-case }, que se tornou seu último[/color]
 examine-fear-state-terror-dead = [color=lightblue]{ CAPITALIZE(gender-based-third-form-case) } boca congelada em um grito silencioso e olhos olhando para o vazio que ninguém deveria ter visto[/color]
-gender-based-third-form = 
-    { GENDER($target) -> 
-    [male] он
-    [female] она
+gender-based-third-form =
+    { GENDER($target) ->
+    [male] Ele
+    [female] Ela
     [epicene] они
-   *[neuter] оно
+   *[neuter] Elu
  }
-gender-based-third-form-case = 
-    { GENDER($target) -> 
-    [male] его
-    [female] её
+gender-based-third-form-case =
+    { GENDER($target) ->
+    [male] Dele
+    [female] Dela
     [epicene] их
-   *[neuter] этого
+   *[neuter] Delu
  }

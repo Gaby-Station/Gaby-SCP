@@ -9,4 +9,4 @@ scp106-announce-on-spawn = Atividade detectada na câmara de contenção de SCP-
 head-announce-on-spawn = { $name }, { $job }, nomeado chefe de departamento.
 squad-commander-announce-on-spawn = { $name }, { $job }, nomeado líder do esquadrão.
 mtf-announce-on-spawn = ATENÇÃO! A força-tarefa móvel entrou no complexo.
-    Всем выжившим рекомендуется оставаться в убежище или в любом другом безопасном месте, пока группа не зачистит комплекс.
+    Recomenda-se que todos os sobreviventes permaneçam no abrigo ou em qualquer outro local seguro até que o grupo faça a varredura de todo o complexo.

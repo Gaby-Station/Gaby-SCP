@@ -1,1 +1,1 @@
-id-card-examine = Você nota uma identificação, parece que este cartão-chave pertence a { $name }, na posição de { $job }
+id-card-examine = Você nota um cartão de identificação, parece que este cartão pertence a { $name }, na posição de { $job }
