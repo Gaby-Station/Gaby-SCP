@@ -183,12 +183,9 @@ public sealed class AHelpUIController: UIController, IOnSystemChanged<BwoinkSyst
     private void OnBwoinkTextHistoryMessage(SharedBwoinkSystem.BwoinkTextHistoryMessage args, EntitySessionEventArgs session)
     {
         EnsureUIHelper();
-        UIHelper?.Clean(args.UserId);
-        foreach (var msg in args.Messages)
-        {
-            UIHelper?.Receive(msg);
-        }
-        UIHelper?.SetLoadDb(args.UserId);
+        // REMOVED: UIHelper?.Clean(args.UserId); // <-- removed to avoid clearing live messages
+        UIHelper?.LoadHistory(args.UserId, args.Messages);
+        UIHelper?.SetHistoryLoaded(args.UserId);
     }
     // Sunrise-End
 
@@ -360,8 +357,12 @@ public interface IAHelpUIHandler : IDisposable
     // Sunrise-Start
     public void SetLoadDb(NetUserId userId);
     public void Clean(NetUserId userId);
+    // NEW: load history without discarding pending messages
+    public void LoadHistory(NetUserId userId, List<SharedBwoinkSystem.BwoinkTextMessage> messages);
+    public void SetHistoryLoaded(NetUserId userId);
     // Sunrise-End
 }
+
 public sealed class AdminAHelpUIHandler : IAHelpUIHandler
 {
     private readonly NetUserId _ownerId;
@@ -372,6 +373,10 @@ public sealed class AdminAHelpUIHandler : IAHelpUIHandler
         _ownerId = owner;
     }
     private readonly Dictionary<NetUserId, BwoinkPanel> _activePanelMap = new();
+    // NEW: per-channel pending messages and history loaded flag
+    private readonly Dictionary<NetUserId, bool> _historyLoaded = new();
+    private readonly Dictionary<NetUserId, List<SharedBwoinkSystem.BwoinkTextMessage>> _pendingMessages = new();
+
     public bool IsAdmin => true;
     public bool IsOpen => Window is { Disposed: false, IsOpen: true } || ClydeWindow is { IsDisposed: false };
     public bool EverOpened;
@@ -384,8 +389,46 @@ public sealed class AdminAHelpUIHandler : IAHelpUIHandler
     public void Receive(SharedBwoinkSystem.BwoinkTextMessage message)
     {
         var panel = EnsurePanel(message.UserId);
+
+        // If history hasn't been loaded for this user yet, buffer the message
+        if (!_historyLoaded.TryGetValue(message.UserId, out var loaded) || !loaded)
+        {
+            if (!_pendingMessages.ContainsKey(message.UserId))
+                _pendingMessages[message.UserId] = new List<SharedBwoinkSystem.BwoinkTextMessage>();
+            _pendingMessages[message.UserId].Add(message);
+            return;
+        }
+
         panel.ReceiveLine(message);
         Control?.OnBwoink(message.UserId);
+    }
+
+    public void LoadHistory(NetUserId userId, List<SharedBwoinkSystem.BwoinkTextMessage> messages)
+    {
+        var panel = EnsurePanel(userId);
+
+        // Clear the panel first (history overwrites what was there)
+        panel.TextOutput.Clear();
+
+        // Insert all historical messages
+        foreach (var msg in messages)
+            panel.ReceiveLine(msg);
+
+        // Append any messages that arrived while history was loading
+        if (_pendingMessages.TryGetValue(userId, out var pending))
+        {
+            foreach (var msg in pending)
+                panel.ReceiveLine(msg);
+            _pendingMessages.Remove(userId);
+        }
+
+        _historyLoaded[userId] = true;
+        Control?.OnBwoink(userId);
+    }
+
+    public void SetHistoryLoaded(NetUserId userId)
+    {
+        _historyLoaded[userId] = true;
     }
 
     private void OpenWindow()
@@ -468,6 +511,7 @@ public sealed class AdminAHelpUIHandler : IAHelpUIHandler
         {
             panel.TextOutput.Clear();
         }
+        // Do NOT clear _historyLoaded or _pendingMessages here
     }
 
     public void LoadDbMessages(NetUserId userId)
@@ -560,6 +604,8 @@ public sealed class AdminAHelpUIHandler : IAHelpUIHandler
         }
         // Sunrise-End
         _activePanelMap.Clear();
+        _pendingMessages.Clear();
+        _historyLoaded.Clear();
         EverOpened = false;
     }
 }
@@ -580,12 +626,51 @@ public sealed class UserAHelpUIHandler : IAHelpUIHandler
     private bool _discordRelayActive;
     public bool LoadDb;
 
+    // NEW: buffer for messages arriving before history
+    private bool _historyLoaded;
+    private List<SharedBwoinkSystem.BwoinkTextMessage> _pendingMessages = new();
+
     public void Receive(SharedBwoinkSystem.BwoinkTextMessage message)
     {
         DebugTools.Assert(message.UserId == _ownerId);
         EnsureInit(_discordRelayActive);
+
+        // If history hasn't been loaded yet, buffer the message
+        if (!_historyLoaded)
+        {
+            _pendingMessages.Add(message);
+            return;
+        }
+
         _chatPanel!.ReceiveLine(message);
         _window!.OpenCentered();
+    }
+
+    public void LoadHistory(NetUserId userId, List<SharedBwoinkSystem.BwoinkTextMessage> messages)
+    {
+        if (userId != _ownerId) return;
+        EnsureInit(_discordRelayActive);
+
+        // Clear the panel first
+        _chatPanel!.TextOutput.Clear();
+
+        // Insert all historical messages
+        foreach (var msg in messages)
+            _chatPanel.ReceiveLine(msg);
+
+        // Append any messages that arrived while history was loading
+        foreach (var msg in _pendingMessages)
+            _chatPanel.ReceiveLine(msg);
+
+        _pendingMessages.Clear();
+        _historyLoaded = true;
+        _window!.OpenCentered();
+    }
+
+    public void SetHistoryLoaded(NetUserId userId)
+    {
+        if (userId == _ownerId)
+            _historyLoaded = true;
     }
 
     // Sunrise-Start
@@ -596,7 +681,9 @@ public sealed class UserAHelpUIHandler : IAHelpUIHandler
 
     public void Clean(NetUserId userId)
     {
-        _chatPanel!.TextOutput.Clear();
+        if (userId == _ownerId && _chatPanel != null)
+            _chatPanel.TextOutput.Clear();
+        // Do NOT clear _historyLoaded or _pendingMessages here
     }
 
     public bool IsLoadDb(NetUserId userId)
@@ -700,5 +787,7 @@ public sealed class UserAHelpUIHandler : IAHelpUIHandler
         _window = null;
         _chatPanel = null;
         LoadDb = false; // Sunrise-Edit
+        _historyLoaded = false;
+        _pendingMessages.Clear();
     }
 }
