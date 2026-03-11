@@ -1,0 +1,14 @@
+reagent-name-nutriment = nutrientes
+reagent-desc-nutriment = Todas as vitaminas, minerais e carboidratos necessários para o organismo em sua forma pura.
+reagent-name-glucose = glicose
+reagent-desc-glucose = Um açúcar simples encontrado em muitos alimentos.
+reagent-name-vitamin = vitaminas
+reagent-desc-vitamin = Encontradas em uma alimentação saudável e equilibrada.
+reagent-name-protein = proteínas
+reagent-desc-protein = Também conhecidas como proteínas. Encontradas em alguns pratos e benéficas para a saúde do organismo.
+reagent-name-cocoapowder = cacau em pó
+reagent-desc-cocoapowder = Feito das melhores variedades de grãos de cacau.
+reagent-name-butter = manteiga
+reagent-desc-butter = Supostamente, manteiga de verdade!
+reagent-name-pumpkin-flesh = polpa de abóbora
+reagent-desc-pumpkin-flesh = Restos macios e doces de abóbora.

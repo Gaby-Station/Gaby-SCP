@@ -1,0 +1,10 @@
+reagent-name-bleach = alvejante
+reagent-desc-bleach = Popularmente conhecido como cloro. Um agente de limpeza extremamente potente que pode limpar pisos como o limpador espacial e também desinfetar roupas. Extremamente tóxico se ingerido.
+reagent-name-space-cleaner = limpador espacial
+reagent-desc-space-cleaner = Capaz de limpar quase qualquer superfície de tudo que possa sujá-la. O faxineiro certamente ficará grato pelo reforço.
+reagent-name-soap = sabão
+reagent-desc-soap = No seu lugar eu não lavaria a boca com isso.
+reagent-name-space-lube = lubrificante espacial
+reagent-desc-space-lube = Lubrificante espacial é um lubrificante altamente eficiente destinado à manutenção de equipamentos mecânicos extremamente complexos (e definitivamente não usado para fazer as pessoas escorregarem).
+reagent-name-space-glue = cola espacial
+reagent-desc-space-glue = Cola espacial é um adesivo altamente eficiente destinado à manutenção de equipamentos mecânicos extremamente complexos (e definitivamente não usado para colar pessoas no chão).
