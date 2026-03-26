@@ -22,29 +22,29 @@ Ainda não terminou? Adicione uma lista do que é necessário para concluir o PR
 COMO ESCREVER UM REGISTRO DE ALTERAÇÕES:
 
 1) Não considere o tipo de registro de alterações como parte da sua proposta. Isso não é aceito. Ou seja:
-adicionar: Novo recurso = RUIM
-adicionar: Novo recurso adicionado = BOM
+
+add: Novo recurso = RUIM
+
+add: Novo recurso adicionado = BOM
 
 2) Descreva em detalhes o que você adicionou e como usar/encontrar. Apenas não exagere. Tudo deve ser feito com moderação.
 
-corrigir: Correções menores = PÉSSIMO
-corrigir: Alguns bugs no código do scp 173 corrigidos = RUIM
-corrigir: Corrigida a incapacidade do scp173 de se mover = BOM
+fix: Correções menores = PÉSSIMO
+
+fix: Alguns bugs no código do scp 173 corrigidos = RUIM
+
+fix: Corrigida a incapacidade do scp173 de se mover = BOM
 
 3) Não adicione detalhes técnicos da sua alteração ao registro de alterações. Um registro de alterações é para os jogadores, escreva-o para os jogadores. Eles não precisam saber os detalhes técnicos.
 
-adicionar: Novo método auxiliar adicionado ao sistema scp106 = RUIM
+add: Novo método auxiliar adicionado ao sistema scp106 = RUIM
+
 NÃO ESCREVA NADA = BOM.
 
 Às vezes, um registro de alterações não é necessário. Basta apagar este campo.
-
 -->
-
 :cl: SEU_APELIDO
-- adicionar: Adicionada diversão.
-
-- remover: Removida a diversão.
-
-- ajustar: Alterada a diversão.
-
-- corrigir: Corrigida a diversão.
+- add: Adicionada diversão.
+- remove: Removida a diversão.
+- tweak: Alterada a diversão.
+- fix: Corrigida a diversão.
