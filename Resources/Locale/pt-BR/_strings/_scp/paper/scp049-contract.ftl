@@ -1,4 +1,6 @@
-​[head=1]CONTRATO[/head]
+paper-text-scp049-contract =
+​
+[head=1]CONTRATO[/head]
     ​
     Entre [bold]SCP-049[/bold] (doravante denominado "O Médico da Peste") e [bold]Fundação SCP[/bold] (doravante denominado "Fundo")
     ​
