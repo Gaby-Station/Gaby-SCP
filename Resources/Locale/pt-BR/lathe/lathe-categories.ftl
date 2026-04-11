@@ -18,7 +18,7 @@ lathe-category-medical = Medicamento
 lathe-category-research = Pesquisar
 lathe-category-security = Segurança
 lathe-category-service = Serviço
-lathe-category-supply = Fornecer
+lathe-category-supply = Carga
 # Cutter
 lathe-category-concrete = Concreto
 lathe-category-dark = Escuro
@@ -35,7 +35,7 @@ lathe-category-ammo = Munição
 lathe-category-boxes = Caixas
 lathe-category-magazines = Lojas
 # Uniform
-lathe-category-bedsheets = Folhas
+lathe-category-bedsheets = Cobertores
 lathe-category-carpets = Tapetes
 lathe-category-coats = Casaco
 lathe-category-command = Equipe de comando

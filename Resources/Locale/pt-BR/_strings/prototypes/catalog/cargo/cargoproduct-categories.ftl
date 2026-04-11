@@ -1,6 +1,6 @@
 cargoproduct-category-name-armory = Arsenal
 cargoproduct-category-name-atmospherics = Atmosféricos
-cargoproduct-category-name-cargo = Fornecer
+cargoproduct-category-name-cargo = Carga
 cargoproduct-category-name-circuitboards = Placas e circuitos
 cargoproduct-category-name-emergency = Equipamento de emergência
 cargoproduct-category-name-engineering = Engenharia

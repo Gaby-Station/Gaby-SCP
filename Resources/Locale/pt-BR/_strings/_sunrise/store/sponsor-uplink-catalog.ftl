@@ -30,7 +30,7 @@ uplink-sunrise-cigar-gold-case-name = Cigarreira premium
 uplink-sunrise-crayon-rainbow-name = Giz arco-íris
 uplink-sunrise-clothing-uniform-color-jumpskirt-rainbow-name = Macacão arco-íris
 uplink-sunrise-clothing-uniform-color-jumpsuit-rainbow-name = Macacão arco-íris
-uplink-sunrise-bedsheet-rainbow-name = Folha de arco-íris
+uplink-sunrise-bedsheet-rainbow-name = cobertor arco-íris
 uplink-sunrise-speed-loader-cap-name = Carregador de pistão
 uplink-sunrise-box-cartridge-cap-name = Caixa de pistões
 uplink-sunrise-clothing-head-hat-flower-wreath-name = Guirlanda floral
@@ -176,7 +176,7 @@ uplink-sunrise-clothing-head-hat-cap-cmo-name = Boina médica
 
 ## Head of Personality
 
-uplink-sunrise-clothing-elite-mask-gas-name = Máscara de gás do chefe de equipe
+uplink-sunrise-clothing-elite-mask-gas-name = Máscara de gás do chefe de pessoal
 uplink-sunrise-clothing-head-hat-hop-name = Chapéu de Chefe de Gabinete
 uplink-sunrise-clothing-outer-elite-coat-name = Sobretudo de Chefe de Gabinete
 uplink-sunrise-clothing-neck-cloak-hop-cloak-name = Capa de Chefe de Gabinete

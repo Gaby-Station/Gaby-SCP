@@ -1,4 +1,4 @@
-ent-ScpDoubleGlassAirlock = eclusa de vidro duplo
+ent-ScpDoubleGlassAirlock = airlock duplo de vidro
     .desc = { ent-ScpAirlockGlass.desc }
 ent-ScpDoubleAirlock = porta dupla
     .desc = { ent-ScpAirlock.desc }

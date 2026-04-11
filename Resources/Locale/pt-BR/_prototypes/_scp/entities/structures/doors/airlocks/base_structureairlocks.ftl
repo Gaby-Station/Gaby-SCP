@@ -1,6 +1,6 @@
-ent-ScpAirlock = porta de entrada
+ent-ScpAirlock = airlock
     .desc = Ele abre, fecha e pode esmagar você.
 ent-ScpAirlockRCDResistant = { ent-Airlock }
     .desc = { ent-Airlock.desc }
-ent-ScpAirlockGlass = eclusa de vidro
+ent-ScpAirlockGlass = airlock de vidro
     .desc = { ent-Airlock.desc }

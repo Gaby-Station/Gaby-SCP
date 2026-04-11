@@ -1,2 +1,2 @@
-ent-DoorElectronics = chip de gateway
+ent-DoorElectronics = placa eletrônica de airlock
     .desc = { ent-BaseItem.desc }

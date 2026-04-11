@@ -7,7 +7,7 @@ ChiefEngineer-loadout = Engenheiro Sênior de Equipamentos
 ChiefMedicalOfficer-loadout = Equipamento do médico-chefe
 HeadOfSecurity-loadout = Equipamento do capítulo Sat
 Quartermaster-loadout = Equipamento Intendente
-ResearchDirector-loadout = Equipamento do supervisor científico
+ResearchDirector-loadout = Equipamento do diretor de pesquisa
 NanoTrasenRepresentative-loadout = Equipamento representativo NanoTrasen
 ComMaid-loadout = Roupa de empregada de comando
 # Law
@@ -35,8 +35,8 @@ Psychologist-loadout = Equipamento do psicólogo
 Reporter-loadout = Equipamento de repórter
 Zookeeper-loadout = Equipamento para gado
 # Supply
-CargoTechnician-loadout = Equipamento carregador
-SalvageSpecialist-loadout = Equipamento reciclador
+CargoTechnician-loadout = Equipamento do técnico de carga
+SalvageSpecialist-loadout = Equipamento do especialista em salvamento
 # Medical
 Chemist-loadout = Equipamento Químico
 MedicalDoctor-loadout = Equipamento médico
@@ -55,12 +55,12 @@ Botanist-loadout = Equipamento Nerd
 Chaplain-loadout = Equipamento do Sacerdote
 Chef-loadout = Equipamento do Chef
 Clown-loadout = Roupa de palhaço
-Janitor-loadout = Equipamento de limpeza
+Janitor-loadout = Equipamento do faxineiro
 Librarian-loadout = Equipamento de bibliotecário
 Mime-loadout = Equipamento de mímica
 Musician-loadout = Equipamento do músico
 Passenger-loadout = Equipamento de passageiros
-ServiceWorker-loadout = Equipamento para trabalhadores de serviço
+ServiceWorker-loadout = Equipamento do funcionário de serviços
 # Silicons
 StationAi-loadout = Nome da Estação AI
 Borg-loadout = Nome ciborgue

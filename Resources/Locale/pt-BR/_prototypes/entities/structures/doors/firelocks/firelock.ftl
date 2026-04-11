@@ -1,8 +1,8 @@
-ent-BaseFirelock = eclusa de fogo
+ent-BaseFirelock = porta corta-fogo
     .desc = Use a alavanca.
 ent-Firelock = { ent-BaseFirelock }
     .desc = { ent-BaseFirelock.desc }
-ent-FirelockGlass = eclusa de fogo de vidro
+ent-FirelockGlass = porta corta-fogo de vidro
     .desc = { ent-Firelock.desc }
-ent-FirelockEdge = eclusa de fogo
+ent-FirelockEdge = porta corta-fogo
     .desc = { ent-Firelock.desc }

@@ -1,9 +1,9 @@
-ent-BlastDoor = selo hermético
+ent-BlastDoor = porta blindada
     .desc = Existe uma etiqueta "PERIGO DE EXPLOSÃO".
 ent-BlastDoorOpen = { ent-BlastDoor }
     .suffix = Abrir
     .desc = { ent-BlastDoor.desc }
-ent-BlastDoorFrame = moldura de vedação
+ent-BlastDoorFrame = moldura de porta blindada
     .desc = { ent-BlastDoor.desc }
 ent-BlastDoorXeno = porta de explosão xenomorfo
     .desc = Não perca um membro!

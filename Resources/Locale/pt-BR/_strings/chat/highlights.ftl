@@ -3,17 +3,17 @@ highlights-captain = Capitão, Boné, Ponte, Comandante
 highlights-head-of-personnel = Chefe de Pessoal, "GP", "HOP", "NOK", Serviço, Ponte, Comando
 highlights-chief-engineer = Engenheiro Sênior, "SE", "SI", Engenharia, Engenheiro, "Eng", Ponte, Comando
 highlights-chief-medical-officer = Médico-chefe, "GV", Bloco Médico, "Med", Ponte, Comando
-highlights-head-of-security = Chefe do Serviço de Segurança, Chefe do Serviço de Segurança, "GSS", "KhOS", "NSB", Segurança, "SB", Ponte, Comando
+highlights-head-of-security = Chefe de Segurança, Chefe de Segurança, "GSS", "KhOS", "NSB", Segurança, "SB", Ponte, Comando
 highlights-quartermaster = Intendente, "KM", Carga, Ponte, Comando
-highlights-research-director = Diretor Científico, "NR", Ciência, "Nauch", Bridge, Equipe
+highlights-research-director = Diretor de Pesquisa, "NR", Ciência, "Nauch", Ponte, Comando
 # Security
 highlights-detective = Detetive, "Dec", Segurança, "SB"
-highlights-security-cadet = Cadete, Serviço de Segurança, Cadete, Segurança, "SB"
+highlights-security-cadet = Cadete, Segurança, Cadete, Segurança, "SB"
 highlights-security-officer = Oficial de segurança, SB, Oficial, Segurança, "SB"
-highlights-warden = Diretor, "Varden", "Vard", Segurança, "SB"
+highlights-warden = Warden, "Varden", "Vard", Segurança, "SB"
 # Cargo
-highlights-cargo-technician = Carregador, Carga
-highlights-salvage-specialist = Reciclador, "Sucata", Carga, Mineiro
+highlights-cargo-technician = Técnico de Carga, Carga
+highlights-salvage-specialist = Especialista em Salvamento, "Sucata", Carga, Minerador
 # Engineering
 highlights-atmospheric-technician = Técnico Atmosférico, Técnico Atmos, Atmosférico, Engenharia, "Atmos", "Engenheiro"
 highlights-station-engineer = Engenheiro, Engenharia, "Eng"
@@ -33,7 +33,7 @@ highlights-chaplain = Padre, Santo, Igreja
 highlights-chef = Chef, "Cozinheiro", Cozinha
 # ))))))
 highlights-clown = Palhaço, bobo da corte, "bicha"
-highlights-janitor = Limpador, "Limpeza"
+highlights-janitor = Faxineiro, "Limpeza"
 highlights-lawyer = Advogado, Advogado
 highlights-librarian = Bibliotecário, Biblioteca
 highlights-mime = Mime
@@ -42,9 +42,9 @@ highlights-service-worker = Trabalhador de serviço, Trabalhador de serviço, Se
 # Station-specific
 highlights-boxer = Boxeador, Anel
 highlights-reporter = Repórter, jornalista
-highlights-zookeeper = Zelador do Zoológico, Zoológico
+highlights-zookeeper = Tratador, Zoológico
 highlights-psychologist = Psicólogo, Psicologia
 # Silicon
 highlights-personal-ai = IA pessoal, "PII"
 highlights-cyborg = Ciborgue, Borg, Robô
-highlights-station-ai = Estação AI, "AI", "SII"
+highlights-station-ai = IA da Estação, "AI", "SII"

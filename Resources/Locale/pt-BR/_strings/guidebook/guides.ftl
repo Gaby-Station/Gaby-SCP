@@ -1,7 +1,7 @@
 guide-entry-engineering = Engenharia
 guide-entry-construction = Construção
 guide-entry-expandingrepairingstation = Ampliação e reforma de estações
-guide-entry-airlock-security = Melhorias no gateway
+guide-entry-airlock-security = Melhorias de airlock
 guide-entry-wirepanels = Painéis de arame
 guide-entry-airlocks = Portais
 guide-entry-atmospherics = Atmosfera

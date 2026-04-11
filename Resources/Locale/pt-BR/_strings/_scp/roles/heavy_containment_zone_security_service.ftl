@@ -1,9 +1,9 @@
-job-name-heavy-containment-zone-commandant = Tenente do BOPE
+job-name-heavy-containment-zone-commandant = Tenente do SecDep
 job-description-heavy-containment-zone-commandant = Comandante de uma unidade de forças especiais. Ele é responsável pela segurança dos SCPs e coordena as operações de combate aos SCPs no cenário de quebra de contenção.
-job-name-senior-heavy-containment-zone-officer = Cabo do BOPE
+job-name-senior-heavy-containment-zone-officer = Cabo do SecDep
 job-description-senior-heavy-containment-zone-officer = Oficial Sênior das Forças Especiais. Este não é o primeiro dia de serviço no destacamento, ele sabe trabalhar tanto em situações críticas como nas normais.
-job-name-heavy-containment-zone-officer = Soldado do BOPE
+job-name-heavy-containment-zone-officer = Soldado do SecDep
 job-description-heavy-containment-zone-officer = Oficial das Forças Especiais. Garante a segurança dos SCPs e também os combate em um cenário de quebra de contenção.
-job-name-junior-heavy-containment-zone-officer = Recruta do BOPE
+job-name-junior-heavy-containment-zone-officer = Recruta do SecDep
 job-description-junior-heavy-containment-zone-officer = Apenas um oficial subalterno de um destacamento de forças especiais que entrou em serviço. Ele ajuda os seus superiores a monitorar as instalações do sitio.
-job-supervisors-heavy-containment-zone-commandant = Tenente do BOPE
+job-supervisors-heavy-containment-zone-commandant = Tenente do SecDep

@@ -1,7 +1,7 @@
-ent-ScpAirlockShuttle = gateway de acoplamento
+ent-ScpAirlockShuttle = airlock de acoplamento
     .desc = Necessário para conectar duas naves espaciais.
     .suffix = Ancoragem
-ent-ScpAirlockGlassShuttle = gateway de acoplamento
+ent-ScpAirlockGlassShuttle = airlock de acoplamento de vidro
     .desc = Necessário para conectar duas naves espaciais.
     .suffix = Encaixe, Vidro
 ent-ScpAirlockShuttleAssembly = estrutura da câmara de ar de encaixe

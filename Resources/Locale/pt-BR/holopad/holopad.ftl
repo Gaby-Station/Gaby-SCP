@@ -67,7 +67,7 @@ holopad-science-artifact-north = Ciência - Artefatos do Norte
 holopad-science-artifact-south = Ciência - Artefatos Sul
 holopad-science-robotics = Ciência - Robótica
 holopad-science-rnd = Ciência - P&D
-holopad-science-front = Ciência - Login
+holopad-science-front = Ciência - Entrada
 holopad-science-breakroom = Ciência - Sala de descanso
 # Medical
 holopad-medical-medbay = Enfermaria - Recepção
@@ -81,7 +81,7 @@ holopad-medical-front = Enfermaria - Entrada
 holopad-medical-breakroom = Enfermaria - Sala de Recreação
 holopad-medical-clinic = Enfermaria - Clínica
 # Cargo
-holopad-cargo-front = Carga - Login
+holopad-cargo-front = Carga - Entrada
 holopad-cargo-bay = Carga - Compartimento de carga
 holopad-cargo-salvage-bay = Carga - Compartimento de sucata
 holopad-cargo-breakroom = Carga - Sala de descanso
@@ -89,34 +89,34 @@ holopad-cargo-ats = Carga - ATS
 holopad-cargo-shuttle = Carga - Transporte
 holopad-cargo-mailroom = Carga - Posto
 # Engineering
-holopad-engineering-atmos-front = Atmos - Login
+holopad-engineering-atmos-front = Atmos - Entrada
 holopad-engineering-atmos-main = Atmos - Salão Principal
 holopad-engineering-atmos-teg = Atmos-TEG
 holopad-engineering-storage = Engenharia - Armazenamento
 holopad-engineering-breakroom = Engenharia - Sala de recreação
-holopad-engineering-front = Engenharia - Login
+holopad-engineering-front = Engenharia - Entrada
 holopad-engineering-telecoms = Engenharia - Telecomunicações
 holopad-engineering-tech-vault = Engenharia - Armazenamento técnico
 holopad-engineering-ame = Engenharia - AME
 holopad-engineering-power = Engenharia - Energia
 holopad-engineering-main = Engenharia - Salão Principal
 # Security
-holopad-security-front = SB - Entrar
-holopad-security-brig = SB - Briga
-holopad-security-warden = SB - Zelador
+holopad-security-front = Segurança - Entrada
+holopad-security-brig = Segurança - Brig
+holopad-security-warden = Segurança - Warden
 holopad-security-interrogation = SB – Interrogatório
-holopad-security-breakroom = SB - Sala de descanso
-holopad-security-detective = SB - Detetive
-holopad-security-perma = SB - Prisão
-holopad-security-courtroom = SB - Tribunal
-holopad-security-lawyer = SB - Advogado
-holopad-security-armory = SB - Arsenal
-holopad-security-locker-room = SB - Vestiário
-holopad-security-brig-med = SB - posto de primeiros socorros do Brig
-holopad-security-evac-checkpoint = SB - posto de controle de evacuação
-holopad-security-arrivals-checkpoint = SB - posto de controle de chegada
+holopad-security-breakroom = Segurança - Sala de descanso
+holopad-security-detective = Segurança - Detetive
+holopad-security-perma = Segurança - Perma
+holopad-security-courtroom = Segurança - Tribunal
+holopad-security-lawyer = Segurança - Law Office
+holopad-security-armory = Segurança - Arsenal
+holopad-security-locker-room = Segurança - Vestiário
+holopad-security-brig-med = Segurança - Brig Med
+holopad-security-evac-checkpoint = Segurança - Checkpoint de Evacuação
+holopad-security-arrivals-checkpoint = Segurança - Checkpoint de Chegadas
 # Service
-holopad-service-janitor = Serviço - Limpador
+holopad-service-janitor = Serviço - Faxineiro
 holopad-service-bar = Serviço - Bar
 holopad-service-kitchen = Serviço - Cozinha
 holopad-service-botany = Serviço - Botânica
@@ -135,13 +135,13 @@ holopad-ai-core = IA - Núcleo
 holopad-ai-main = IA - Chefe
 holopad-ai-upload = IA - Carregando
 holopad-ai-backup-power = IA – Energia de reserva
-holopad-ai-entrance = IA - Login
-holopad-ai-chute = IA - Minha
+holopad-ai-entrance = IA - Entrada
+holopad-ai-chute = IA - Duto
 # Long Range
 holopad-station-bridge = Estação - Ponte
 holopad-station-cargo-bay = Estação - Baía de Carga
 # CentComm
 holopad-centcomm-evac = CentCom - Ônibus de Evacuação
 # Sunrise
-holopad-salvage-shuttle = Transporte reciclador
+holopad-salvage-shuttle = Transporte de Expedição
 holopad-security-shuttle = Transporte de segurança

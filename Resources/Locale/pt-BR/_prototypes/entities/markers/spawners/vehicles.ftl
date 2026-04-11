@@ -1,8 +1,8 @@
 ent-SpawnVehicleSecway = sequência de desova
     .desc = { ent-MarkerBase.desc }
-ent-SpawnVehicleJanicart = máquina de limpeza de spawner
+ent-SpawnVehicleJanicart = gerador de janicart
     .desc = { ent-MarkerBase.desc }
-ent-SpawnVehicleATV = quadriciclo spawner
+ent-SpawnVehicleATV = gerador de quadriciclo
     .desc = { ent-MarkerBase.desc }
 ent-SpawnVehicleMotobike = motocicleta geradora
     .desc = { ent-MarkerBase.desc }

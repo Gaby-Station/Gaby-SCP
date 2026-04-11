@@ -34,13 +34,13 @@ ent-FloorTileItemLightAstroGrass = grama astro clara
 ent-EngineeringBorgChassisDerelict = engenheiro ciborgue abandonado
     .desc = Um híbrido homem-máquina que auxilia o departamento de engenharia. Este parece estar coberto de cristais estranhos.
 
-ent-JanitorBorgChassisDerelict = limpador ciborgue abandonado
+ent-JanitorBorgChassisDerelict = ciborgue faxineiro abandonado
     .desc = Um híbrido homem-máquina auxiliando o departamento de serviço. Ele próprio está mais sujo do que qualquer lixo que possa remover.
 
 ent-MedicalBorgChassisDerelict = ciborgue médico abandonado
     .desc = Um híbrido homem-máquina que auxilia o departamento médico. Suas agulhas não parecem muito estéreis.
 
-ent-MiningBorgChassisDerelict = reciclador ciborgue abandonado
+ent-MiningBorgChassisDerelict = ciborgue de salvamento abandonado
     .desc = Um híbrido de homem e máquina que ajuda na carga. Parece que foi atingido por um pedaço de gibtonita.
 
 ent-SyndicateAssaultBorgChassisDerelictSunrise = Ciborgue de assalto do Sindicato abandonado
@@ -56,7 +56,7 @@ ent-SyndicateSaboteurBorgChassisDerelictSunrise = sabotador ciborgue abandonado 
     .desc = Uma unidade de infiltração especializada em sabotagem e espionagem. Este passou por guerras.
 
 ent-XenoborgModuleDoorControl = Módulo xenoborg: controle de porta
-    .desc = Um módulo que permite que xenoborgs controlem gateways.
+    .desc = Um módulo que permite que xenoborgs controlem airlocks.
 
 ent-BorgModuleDoubleEsword = Módulo Cyborg: espada de energia dupla
     .desc = Módulo de arma com espada de energia dupla.

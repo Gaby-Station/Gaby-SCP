@@ -4,7 +4,7 @@ borg-type-all = [color=white]qualquer ciborgue[/color]
 borg-type-salvage = [cor = #d6b328]киборги-утилизаторы[/color]
 borg-type-engineer = [cor = #ff9900]инженерные киборги[/color]
 borg-type-generic = [cor = #666680]универсальные киборги[/color]
-borg-type-janitor = [cor = #a747c0]уборочные киборги[/color]
+borg-type-janitor = [cor = #a747c0]ciborgues faxineiros[/color]
 borg-type-medical = [cor = #5995ba]медицинские киборги[/color]
 borg-type-service = [cor = #508242]сервисные киборги[/color]
 

@@ -16,5 +16,5 @@ comp-secret-stash-verb-close = Fechar
 comp-secret-stash-verb-cant-close = Você não pode fechar { $stashname } dessa maneira.
 comp-secret-stash-verb-open = Abrir
 secret-stash-plant = plantar
-secret-stash-toilet = cisterna de banheiro
+secret-stash-toilet = cisterna da privada
 secret-stash-plushie = brinquedo de pelúcia

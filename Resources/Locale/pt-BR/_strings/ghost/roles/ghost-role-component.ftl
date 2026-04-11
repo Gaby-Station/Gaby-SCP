@@ -132,7 +132,7 @@ ghost-role-information-cerberus-name = Cerberus, o malvado familiar
 ghost-role-information-cerberus-description = Ouça seu mestre. Causar estragos.
 ghost-role-information-ert-leader-name = Líder OBR
 ghost-role-information-ert-leader-description = Lidere uma equipe de especialistas para solucionar problemas da planta.
-ghost-role-information-ert-janitor-name = Limpador OBR
+ghost-role-information-ert-janitor-name = Faxineiro OBR
 ghost-role-information-ert-janitor-description = Auxiliar nos esforços de limpeza para resolver problemas da planta.
 ghost-role-information-ert-chaplain-name = Padre OBR
 ghost-role-information-ert-chaplain-description = Prestar assistência na resolução de problemas morais da tripulação da estação.
@@ -248,7 +248,7 @@ ghost-role-information-lost-challenge-cargo-technican-rules =
     Вы не помните ничего из вашей прошлой жизни и ничего из того, чего вы узнали будучи призраком.
     Вам разрешено помнить знания об игре в общем, такие как умение готовить, использование предметов и т.д.
     Вам категорически [color=vermelho] É PROIBIDO[/color] lembrar, por exemplo, nome, aparência, etc. do seu personagem anterior.
-ghost-role-information-lost-cargo-technical-name = O carregador desaparecido
+ghost-role-information-lost-cargo-technical-name = O técnico de carga desaparecido
 ghost-role-information-lost-cargo-technical-description = Algo deu errado e seu transporte de carga com sua carga foi teletransportado para outra estação do setor.
 ghost-role-information-clown-troupe-name = Palhaço Espacial
 ghost-role-information-clown-troupe-description = Você e sua trupe vieram entreter esta emissora com suas melhores piadas. Buzina!

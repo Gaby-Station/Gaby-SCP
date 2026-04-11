@@ -1,4 +1,4 @@
-ent-AirlockHatchMaintenance = gateway técnico selado
-    .desc = Protege Tech.Tunnels com segurança.
-ent-AirlockHatch = câmara de ar selada
-    .desc = Mantém o que é ruim por fora e o que é bom por dentro.
+ent-AirlockHatchMaintenance = escotilha de manutenção
+    .desc = Protege os túneis de manutenção.
+ent-AirlockHatch = escotilha
+    .desc = Mantém o que é ruim do lado de fora e o que é bom do lado de dentro.
