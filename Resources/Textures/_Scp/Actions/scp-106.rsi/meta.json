@@ -8,19 +8,19 @@
     },
     "states": [
         {
-            "name": "setornar_fantasma"
+            "name": "become_phantom"
         },
         {
-            "name": "loja"
+            "name": "shop"
         },
         {
-            "name": "teleportar"
+            "name": "teleport"
         },
         {
-            "name": "des virar_fantasma"
+            "name": "leave_phantom"
         },
         {
-            "name": "reverter"
+            "name": "reverse"
         },
         {
             "name": "teleport_facility"
@@ -29,13 +29,13 @@
             "name": "teleport_dimension"
         },
         {
-            "name": "garra"
+            "name": "blade"
         },
         {
-            "name": "garra_adivada"
+            "name": "blade_active"
         },
         {
-            "name": "aterrororizar"
+            "name": "terrify"
         }
     ]
 }

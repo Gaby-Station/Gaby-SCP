@@ -8,22 +8,22 @@
     },
     "states": [
         {
-            "name": "atacar"
+            "name": "attack"
         },
         {
-            "name": "seguir"
+            "name": "follow"
         },
         {
-            "name": "clone falso"
+            "name": "loose"
         },
         {
-            "name": "clones"
+            "name": "raise"
         },
         {
-            "name": "ficar"
+            "name": "stay"
         },
         {
-            "name": "hipnose"
+            "name": "hypnosis"
         }
     ]
 }
