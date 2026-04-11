@@ -1,24 +1,24 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/СБ[/bold]
-[head=3]Отчет об извлечении[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/SB[/bold]
+[head=3]Relatório de extração[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
- Составитель документа:
- Должность составителя: Бригмедик
-
-
-После проведения медицинской процедуры об извлечении объекта из тела задерженного можно сделать следующие выводы:
-
-Внешнее описание извлечённого объекта: (если имплант, то допускается оставить прочерк)
+ Compilador do documento:
+ Cargo do compilador: Médico de brigada
 
 
-Предположительная принадлежность извлечённого объекта: (имплант или какое-либо существо)
+Após a realização de um procedimento médico para remover um objeto do corpo de um detento, as seguintes conclusões podem ser tiradas:
 
-Дополнительно: (прочерк или дополнительные сведения)
+Descrição externa do objeto extraído: (caso se trate de um implante, é permitido omitir um traço)
 
 
- [italic]Место для печатей[/italic]
+Identidade presumida do objeto extraído: (implante ou alguma criatura)
+
+Informações adicionais: (travessão ou informações adicionais)
+
+
+ [italic]Lugar para carimbo[/italic]
 
 </Document>

@@ -1,18 +1,18 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/НИО[/bold]
-[head=3]Отчет об изучении объекта[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/НИО[/bold]
+[head=3]Relatório de estudo de objeto[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
-Для проведения экспертизы было представлено (кто или какой отдел передал объект) приспособление с неизученными свойствами. В ходе экспертизы объект был изучен, были установлены свойства объекта и его видовая принадлежность.
-Внешнее описание объекта:
+Um dispositivo com propriedades inexploradas foi submetido para exame (por quem ou qual departamento submeteu o objeto). Durante o exame, o objeto foi examinado e suas propriedades e tipo foram determinados.
+Descrição externa do objeto:
 
-Выявленные свойства объекта:
+Propriedades reveladas do objeto:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbos[/italic]
 
 </Document>

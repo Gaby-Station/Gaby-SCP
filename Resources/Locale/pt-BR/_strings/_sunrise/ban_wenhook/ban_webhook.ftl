@@ -1,79 +1,79 @@
 server-ban-string-infinity = Para sempre
 server-ban-no-name = Não encontrado. ({ $hwid })
 server-time-ban = 
-    Временный бан на { $mins } { $mins -> 
-    [one] минуту
-    [few] минуты
-   *[other] минут
+    banimento temporária de { $mins } { $mins -> 
+    [one] minuto
+    [few] minutos
+   *[other] horas
  }.
-server-perma-ban = Proibição permanente.
+server-perma-ban = banimento permanente.
 server-role-ban = 
-    Временный джоб-бан на { $mins } { $mins -> 
-    [one] минуту
-    [few] минуты
-   *[other] минут
+    banimento temporária de trabalho em { $mins } { $mins -> 
+    [one] minuto
+    [few] minutos
+   *[other] horas
  }.
-server-perma-role-ban = Proibição permanente de empregos.
+server-perma-role-ban = banimento permanente de cargo.
 server-time-ban-string = 
-    > **Администратор**
-    > **Логин:** ``{ $adminName }``
-    > **Дискорд:** { $adminLink }
+    > **Administrador**
+    > **nome do(a) admin:** ``{ $adminName }``
+    > **discord:** { $adminLink }
     
-    > **Нарушитель**
-    > **Логин:** ``{ $targetName }``
-    > **Дискорд:** { $targetLink }
+    > **miliante**
+    > **nome da conta:** ``{ $targetName }``
+    > **discord:** { $targetLink }
     
-    > **Выдан:** { $TimeNow }
-    > **Истечёт:** { $expiresString }
+    > **Publicado:** { $TimeNow }
+    > **Irá expirar:** { $expiresString }
     
-    > **Причина:** { $reason }
+    > **motivo:** { $reason }
     
-    > **Уровень тяжести:** { $severity }
-server-ban-footer = { $server } | Redondo: #{ $round }
+    > **Nível de gravidade:** { $severity }
+server-ban-footer = { $server } | partida: #{ $round }
 server-perma-ban-string = 
-    > **Администратор**
-    > **Логин:** ``{ $adminName }``
-    > **Дискорд:** { $adminLink }
+    > **Administrador**
+    > **nome do(a) admin:** ``{ $adminName }``
+    > **discord:** { $adminLink }
     
-    > **Нарушитель**
-    > **Логин:** ``{ $targetName }``
-    > **Дискорд:** { $targetLink }
+    > **miliante**
+    > **nome da conta:** ``{ $targetName }``
+    > **discord:** { $targetLink }
     
-    > **Выдан:** { $TimeNow }
+    > **Publicado:** { $TimeNow }
     
-    > **Причина:** { $reason }
+    > **motivo:** { $reason }
     
-    > **Уровень тяжести:** { $severity }
+    > **Nível de gravidade:** { $severity }
 server-role-ban-string = 
-    > **Администратор**
-    > **Логин:** ``{ $adminName }``
-    > **Дискорд:** { $adminLink }
+    > **Administrador**
+    > **nome do(a) admin :** ``{ $adminName }``
+    > **discord:** { $adminLink }
     
-    > **Нарушитель**
-    > **Логин:** ``{ $targetName }``
-    > **Дискорд:** { $targetLink }
+    > **miliante**
+    > **nome da conta:** ``{ $targetName }``
+    > **discord:** { $targetLink }
     
-    > **Выдан:** { $TimeNow }
-    > **Истечёт:** { $expiresString }
+    > **Publicado:** { $TimeNow }
+    > **Irá expirar:** { $expiresString }
     
-    > **Роли:** { $roles }
+    > **Funções/cargos:** { $roles }
     
-    > **Причина:** { $reason }
+    > **motivo:** { $reason }
     
-    > **Уровень тяжести:** { $severity }
+    > **Nível de gravidade:** { $severity }
 server-perma-role-ban-string = 
-    > **Администратор**
-    > **Логин:** ``{ $adminName }``
-    > **Дискорд:** { $adminLink }
+    > **Administrador**
+    > **nome do(a) admin:** ``{ $adminName }``
+    > **discord:** { $adminLink }
     
-    > **Нарушитель**
-    > **Логин:** ``{ $targetName }``
-    > **Дискорд:** ``{ $targetLink }``
+    > **miliante**
+    > **conta:** ``{ $targetName }``
+    > **discord:** ``{ $targetLink }``
     
-    > **Выдан:** { $TimeNow }
+    > **Publicado:** { $TimeNow }
     
-    > **Роли:** { $roles }
+    > **Funções/cargos:** { $roles }
     
-    > **Причина:** { $reason }
+    > **motivo:** { $reason }
     
-    > **Уровень тяжести:** { $severity }
+    > **nivel da gravidade:** { $severity }

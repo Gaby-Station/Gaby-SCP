@@ -1,17 +1,17 @@
 <Document>
-[bold]Станция: Station ХХ-000[/bold]
-[bold]Форма {corpString}/ЦК-КОМ[/bold]
-[head=3]Указ о наличии глав станции[/head]
+[bold]Estação: Station ХХ-000[/bold]
+[bold]Forma {corpString}/comitê central-COM[/bold]
+[head=3]Decreto ó disponibilidade capítulos estações[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Tempo de iniciado turnos E data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
-
-
-Уважаемое Командование Станции station XX-000, в целях регулярной проверки командования станции Центральным Командованием, мы запрашиваем отчет о наличии глав отделов. В отчете должны быть указаны все пункты глав, на назначение ВРиО для отчёта у вас имеется ровно два часа смены, в случае если вы не успеете назначить всех врио и включить все пункты, на станцию будет отправлен ПЦК для проверки. В случае удачного назначения и отправки отчёта зарплата всего командования станций будет увеличена на 10%!
+Compilado por documento:
+Cargo compilador:
 
 
-[italic]Место для печатей[/italic]
+Querido Comando Estações station XX-000, V propósitos regular cheques comando estações Central Comando, Nós nós solicitamos relatório Ó disponibilidade capítulos departamentos. EM relatório deve ser indicado Todos pontos capítulos, sobre encontro VRiO Para relatório no você disponível suave dois horas turnos, V caso Se Não Você terá tempo nomear todos provisório E ligar Todos pontos, sobre estação vai enviado PCC Para cheques. EM caso boa sorte compromissos E enviando relatório salário total comando estações vai aumentou sobre 10%!
+
+
+[italic]Lugar Para selos[/italic]
 
 </Document>

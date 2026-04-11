@@ -1,12 +1,12 @@
 paper-generic-scp-header =
     ​
     ​[head=1]SCP[/head]
-    ​[bold]Обезопасить. Удержать. Сохранить.[/bold]
+    ​[bold]Segurar. Conter. Preservar.[/bold]
     ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    ​[head=3]АВТОМАТИЧЕСКАЯ СИСТЕМА ОПОВЕЩЕНИЯ[/head]
+    ​[head=3]SISTEMA DE ALERTA AUTOMÁTICO[/head]
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 paper-generic-scp-bottom =
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    ​[italic]Место для печатей[/italic]
+    ​[italic]Lugar para carimbo[/italic]
     ​
     ​

@@ -1,103 +1,103 @@
 paper-text-scp049-contract =
-    
+​
     [head=1]CONTRATO[/head]
-    
-    Entre [bold]SCP-049[/bold] (doravante — "Doutor da Peste") e [bold]Fundação SCP[/bold] (doravante — "Fundação")
-    
-    [head=3]1. OBJETIVO DO ACORDO[/head]
-    Este contrato estabelece as regras de contenção, interação e limitações de direitos e deveres do Doutor da Peste e do pessoal da Fundação. O documento tem como objetivo garantir a segurança do pessoal, preservar a utilidade científica do objeto e prevenir abusos de privilégios por qualquer uma das partes.
-    
-    [head=3]2. PARTES E DEFINIÇÕES[/head]
-    [bullet][bold]Doutor da Peste[/bold] — objeto identificado sob o número SCP-049.
-    [bullet][bold]Fundação[/bold] — organização responsável pela contenção, estudo e controle do SCP-049.
-    [bullet][bold]Pessoal da Fundação[/bold] — funcionários da instalação que possuem um cartão de acesso que indica seu nível de autorização e registros de legitimidade no console de registro de pessoal.
-    [bullet][bold]Situação de Emergência (SE)[/bold] — evento que representa ameaça imediata à vida e/ou à integridade da instalação e/ou do pessoal (quebra de contenção, confronto armado etc.).
-    
-    [head=3]3. DISPOSIÇÕES GERAIS[/head]
-    [bullet]O Doutor da Peste assinou este contrato e, assim, confirma sua compreensão e aceitação das condições nele contidas.
-    [bullet]A assinatura não torna o Doutor da Peste um funcionário em sentido organizacional; SCP-049 permanece um objeto de contenção com direitos limitados definidos neste documento.
-    [bullet]Os direitos, privilégios e deveres do Doutor da Peste são limitados exclusivamente pelas disposições deste contrato e pelas decisões da administração da instalação (diretor da instalação, chefe do departamento científico).
-    
-    [head=3]4. DIREITOS DO DOUTOR DA PESTE[/head]
-    [bullet]A Fundação compromete-se a fornecer condições básicas de contenção: segurança, alimentação, suporte médico, bem como a possibilidade de realizar sessões de pesquisa aprovadas sob supervisão do pessoal.
-    [bullet]É permitido ao Doutor da Peste fazer declarações escritas e verbais ao pessoal e aos cientistas, desde que não contradigam as instruções do pessoal do nível apropriado (diretor da instalação, chefe do departamento científico, chefe da segurança).
-    [bullet]Outros privilégios são concedidos apenas com autorização do chefe do departamento científico ou do diretor da instalação.
-    
-    [head=3]4.1. PERMISSÕES ESPECIAIS PARA SOLICITAÇÕES DO SCP-049[/head]
-    [bold]Direito de solicitação[/bold]
-    SCP-049 tem o direito de enviar solicitações para obtenção de itens restritos e "pacientes" (funcionários Classe D) exclusivamente através de funcionários com nível de acesso 3 ou superior.
-    
-    Itens permitidos para operações médicas:
-    [bullet]instrumentos cirúrgicos básicos (bisturi, retrator, luvas etc.);
-    [bullet]medicamentos simples (kits para contusões, pomadas etc.) — estritamente sob controle de cientistas ou da segurança;
-    [bullet]outros itens podem ser adicionados à lista somente com autorização por escrito do diretor da instalação ou do chefe do departamento científico.
-    
-    [bold]Pacientes (Classe D)[/bold]
-    [bullet]SCP-049 tem o direito de solicitar cobaias (Classe D) para realizar "operações" ou pesquisas.
-    [bullet]A quantidade de Classe D fornecidos simultaneamente é determinada pelo diretor da instalação e não pode exceder o limite estabelecido pelos protocolos internos.
-    [bullet]Todas as ações do SCP-049 com Classe D ocorrem exclusivamente sob observação de cientistas ou da segurança.
-    
-    [bold]Restrições e condições[/bold]
-    [bullet]SCP-049 não tem o direito de escolher por conta própria Classe D específicos ou itens. A decisão é tomada pelo pessoal da Fundação, com exceção dos itens permitidos no ponto 4.1 do contrato.
-    [bullet]As solicitações são analisadas no fluxo de trabalho e podem ser recusadas sem explicação em caso de risco à segurança, emergência, falta de recursos ou a critério da administração.
-    [bullet]O fornecimento de itens e pacientes não é um direito do SCP-049, mas apenas uma possibilidade disponível desde que ele cumpra as regras de contenção e segurança.
-    
-    [bold]Abusos e violações[/bold]
-    [bullet]Em caso de comportamento agressivo ou manipulador por parte do SCP-049 durante uma solicitação, ele perde o direito de fazer novos pedidos por um período determinado pelo diretor ou pelo chefe do departamento científico.
-    [bullet]Ao tentar usar itens fornecidos ou Classe D fora do contexto do experimento — intervenção imediata da segurança, apreensão dos itens e aplicação de medidas de contenção.
-    
-    [head=3]5. RESTRIÇÕES E OBRIGAÇÕES DO DOUTOR DA PESTE[/head]
-    [bullet]O Doutor da Peste não tem o direito de exigir do pessoal ações que contradigam ordens do diretor da instalação, do chefe do departamento científico ou da segurança. Suas palavras não têm força de ordem.
-    [bullet]O Doutor da Peste compromete-se a não realizar ações que representem ameaça à vida do pessoal ou à integridade da instalação.
-    [bullet]Comportamento manipulador, agressivo ou demonstrativamente exigente por parte do Doutor da Peste é considerado violação das condições e motivo para medidas disciplinares.
-    [bullet]Em situação de emergência, a prioridade da segurança do pessoal e da instalação está acima do conforto do Doutor da Peste; suas solicitações e privilégios podem ser temporariamente suspensos.
-    
-    [head=3]6. DEVERES E DIREITOS DO PESSOAL DA FUNDAÇÃO[/head]
-    [bullet]O pessoal deve tratar o Doutor da Peste com respeito e profissionalismo, mas sem conceder "status especial".
-    [bullet]O pessoal deve cumprir as condições do contrato e seguir as instruções de segurança.
-    [bullet]A segurança tem o direito de aplicar medidas de contenção (meios de supressão, amnésticos, isolamento, uso da força) em caso de violação do contrato ou ameaça à vida/segurança.
-    [bullet]Ao detectar tentativas de fuga ou violações graves das condições — o diretor da instalação e o chefe do departamento científico têm prioridade na tomada de medidas.
-    
-    [head=3]7. PROCEDIMENTOS EM SITUAÇÕES DE EMERGÊNCIA[/head]
-    [bullet]Em caso de ameaça direta à vida do pessoal ou grande violação — ações prioritárias: contenção da ameaça, supressão (letal ou não letal conforme decisão do diretor da instalação ou chefe da segurança), isolamento do objeto, uso de amnésticos e procedimentos de restauração.
-    [bullet]Se o Doutor da Peste agir de forma agressiva e houver menos de dois SCP-049-2 presentes, a ameaça é considerada controlável; se houver dois ou mais SCP-049-2, protocolos adicionais de contenção e uso de fogo são aplicados.
-    
-    [head=3]8. INFORMAÇÃO E COMUNICAÇÃO[/head]
-    [bold]Confidencialidade[/bold]
-    [bullet]Todas as informações internas da Fundação (comunicações por rádio, documentos, protocolos, registros pessoais de funcionários, relatórios internos) são confidenciais e destinadas exclusivamente a pessoal com nível de acesso apropriado.
-    [bullet]SCP-049 não possui acesso legal aos dados da Fundação, exceto às informações diretamente fornecidas a ele no âmbito de experimentos ou comunicação com o pessoal.
-    
-    [bold]Proibição do uso de meios de comunicação[/bold]
-    [bullet]SCP-049 está proibido de possuir ou usar headsets, rádios, intercomunicadores, terminais ou quaisquer outros dispositivos de comunicação que permitam receber ou transmitir informações de serviço do pessoal.
-    [bullet]Qualquer dispositivo de comunicação encontrado com SCP-049 ou em sua câmara de contenção deve ser imediatamente confiscado.
-    
-    [bold]Isolamento informacional[/bold]
-    [bullet]O pessoal deve garantir que SCP-049 não tenha acesso a informações secretas.
-    [bullet]Caso SCP-049 acidentalmente testemunhe ou obtenha informações não destinadas a ele, tais informações não possuem validade jurídica para SCP-049 e não podem ser usadas por ele como argumento em solicitações ou negociações.
-    
-    [bold]Responsabilidade[/bold]
-    [bullet]Tentativas de SCP-049 de usar informações secretas da Fundação (incluindo chantagem ou ameaças) constituem violação do contrato e resultam em aplicação imediata de medidas de supressão e isolamento temporário.
-    [bullet]Violação de confidencialidade por funcionários (por exemplo, deixar um headset na câmara) é registrada como erro de serviço e o responsável está sujeito a sanções disciplinares.
-    
-    [head=3]9. MEDIDAS DISCIPLINARES E SANÇÕES[/head]
-    [bullet]Por violação dos termos do contrato, a Fundação pode aplicar uma ou mais das seguintes medidas: advertência verbal, isolamento, sedação forçada, transferência para regime de contenção reforçada, restrição temporária ou permanente de privilégios.
-    [bullet]Em caso de violações sistemáticas ou graves — por decisão do diretor da instalação pode ser autorizado o uso de medidas letais.
-    
-    [head=3]9.1. VIOLAÇÃO POR PARTE DA FUNDAÇÃO[/head]
-    Caso funcionários da Fundação violem os termos do contrato (uso de violência excessiva, privação de direitos e privilégios do SCP-049 estabelecidos no contrato ou ignorar acordos sem situação de emergência), SCP-049 tem o direito de:
-    
-    [bullet]Enviar uma reclamação oficial através de um curador designado (cientista, chefe do departamento científico ou funcionário autorizado com nível de acesso 3+).
-    
-    [bold]Se a violação for confirmada:[/bold]
-    [bullet]Funcionários culpados podem sofrer medidas disciplinares (rebaixamento, perda de acesso, transferência para Classe D, investigação interna).
-    [bullet]SCP-049 recebe compensação na forma de restauração dos privilégios violados e uma oportunidade adicional (por exemplo, uma sessão de pesquisa extra não planejada ou maior liberdade para solicitar pequenos itens).
-    
-    [bold]Em caso de violações sistemáticas do contrato por parte do pessoal da Fundação:[/bold]
-    [bullet]SCP-049 tem o direito de recusar temporariamente participar de testes/pesquisas até que o conflito seja resolvido.
-    [bullet]Ao mesmo tempo, SCP-049 deve permanecer dentro da câmara de contenção e não realizar ações que ameacem a segurança da instalação.
-    [bullet]Em situação de emergência (SE), ações da Fundação que violem o conforto ou privilégios do SCP-049 não são consideradas violação se forem diretamente destinadas a salvar vidas ou conter ameaças.
-    
-    [head=3]10. ALTERAÇÃO E RESCISÃO DO CONTRATO[/head]
-    [bullet]Quaisquer alterações no contrato só podem ser feitas com autorização por escrito do diretor da instalação e aprovação do chefe do departamento científico.
-    [bullet]O contrato pode ser rescindido por decisão do diretor da instalação em caso de violações sistemáticas graves por parte do SCP-049 ou mudança no status do objeto.
-    [bullet]Em caso de rescisão do contrato, todos os privilégios do SCP-049 são anulados e ele é transferido para o regime padrão de contenção.
+    ​
+    Entre [bold]SCP-049[/bold] (doravante denominado "O Médico da Peste") e [bold]Fundação SCP[/bold] (doravante denominado "Fundo")
+    ​
+    ​[head=3]1. OBJETIVO DO ACORDO[/head]
+    ​Este contrato estabelece as regras para a manutenção, interação e limitações dos direitos e responsabilidades do Médico da Peste e da equipe da Fundação. Este documento visa garantir a segurança da equipe, preservar o valor científico da instalação e prevenir o abuso de privilégios por qualquer uma das partes.
+    ​
+    ​[head=3]2. PARTES E DEFINIÇÕES[/head]
+    ​[bullet][bold]Médico da Peste[/bold] — objeto identificado por número SCP-049.
+    ​[bullet][bold]Fundo[/bold] — organização responsável pelo conteúdo, estudo e controle SCP-049.
+    ​[bullet][bold]Pessoal da Fundação[/bold] — Funcionários da instituição que possuem um cartão de acesso indicando seu nível de autorização e registros de sua legitimidade no sistema de cadastro de pessoal.
+    ​[bullet][bold]Emergência (perigo)[/bold] — Um evento que representa uma ameaça imediata à vida e/ou à integridade da instituição e/ou do seu pessoal (ruptura, conflito armado, etc.).
+    ​
+    ​[head=3]3. DISPOSIÇÕES GERAIS[/head]
+    ​[bullet]O Médico da Peste assinou este contrato e, por meio deste, confirma seu entendimento e aceitação dos termos e condições aqui contidos.
+    ​[bullet]A assinatura não torna o Médico da Peste um funcionário no sentido organizacional; SCP-049 permanece um objeto de conteúdo com direitos limitados, conforme definido neste documento.
+    ​[bullet]Os direitos, privilégios e obrigações do Médico da Peste são limitados exclusivamente pelas disposições deste contrato e pelas decisões da administração da instituição (diretor da instituição, chefe do serviço científico).
+    ​
+    ​[head=3]4. DIREITOS DO MÉDICO DA PESTE[/head]
+    ​[bullet]A Fundação compromete-se a fornecer condições básicas de detenção: segurança, alimentação, assistência médica e a possibilidade de realizar sessões de pesquisa aprovadas sob a supervisão da equipe.
+    ​[bullet]O Médico da Peste está autorizado a fazer declarações escritas e orais a funcionários e cientistas, dentro dos limites que não contradigam as instruções da equipe do nível apropriado (diretor da instituição, chefe do serviço científico, chefe de segurança).
+    ​[bullet]Outros privilégios só são concedidos com a permissão do chefe do serviço científico ou do diretor da instituição.
+    ​
+    ​[head=3]4.1. PERMISSÕES ESPECIAIS PARA SOLICITAÇÕES SCP-049[/head]
+    ​[bold]Direito de fazer perguntas[/bold]
+    ​SCP-049 Tem autoridade para submeter pedidos de itens restritos e "pacientes" (pessoal de Classe D) somente através de pessoal com nível de autorização 3 ou superior.
+    ​
+    ​Itens aprovados para cirurgias:
+    ​[bullet]Instrumentos cirúrgicos básicos (bisturi, afastador, luvas, etc.);
+    ​[bullet]Medicamentos simples (kits para contusões, pomadas, etc.) - estritamente sob o controle de cientistas ou do Serviço de Segurança;
+    ​[bullet]Outros itens podem ser adicionados à lista somente com a autorização por escrito do diretor da instituição ou do chefe do serviço científico.
+    ​
+    ​[bold]Pacientes (classe D)[/bold]
+    ​[bullet]SCP-049 tem o direito de solicitar o fornecimento de sujeitos de teste (classe D) para fins de realização de "operações" ou pesquisas.
+    ​[bullet]O número de turmas do tipo D oferecidas simultaneamente é determinado pelo diretor da instituição e não pode exceder o limite estabelecido pelos protocolos internos.
+    ​[bullet]Todas as ações SCP-049 As operações com classes D ocorrem exclusivamente sob a supervisão de cientistas ou serviços de segurança.
+    ​
+    ​[bold]Restrições e condições[/bold]
+    ​[bullet]SCP-049 A Fundação não tem o direito de selecionar, de forma independente, turmas ou disciplinas específicas do programa D. A decisão é tomada pela equipe da Fundação, com exceção das disciplinas permitidas no parágrafo 4.1 do acordo.
+    ​[bullet]As solicitações são analisadas rotineiramente e podem ser rejeitadas sem justificativa em caso de ameaça à segurança, emergência, falta de recursos ou a critério da gerência.
+    ​[bullet]Fornecer itens e pacientes não é um direito. SCP-049, mas apenas uma oportunidade disponível mediante o cumprimento das normas de manutenção e segurança.
+    ​
+    ​[bold]Abusos e violações[/bold]
+    ​[bullet]Caso o SCP-049 apresente comportamento agressivo ou manipulador ao submeter uma solicitação, perderá o direito de fazer novas solicitações por um período de tempo determinado pelo Diretor ou Chefe de Pesquisa.
+    ​[bullet]Qualquer tentativa de usar os itens fornecidos ou as classes D fora do escopo do experimento resultará em intervenção imediata do Serviço de Segurança, confisco dos itens e uso de medidas repressivas.
+    ​
+    ​[head=3]5. LIMITAÇÕES E OBRIGAÇÕES DO MÉDICO DA PESTE[/head]
+    ​[bullet]O Médico da Peste não tem o direito de exigir que os funcionários ajam de maneira que contradiga as ordens do diretor da instalação, do chefe do serviço científico ou do Serviço de Segurança. Suas palavras não têm força de ordem.
+    ​[bullet]O médico da peste compromete-se a não tomar nenhuma atitude que represente uma ameaça à vida dos funcionários ou à integridade da instituição.
+    ​[bullet]Comportamentos manipuladores, agressivos ou excessivamente exigentes por parte do Médico da Peste são considerados uma violação dos termos e passíveis de medidas disciplinares.
+    ​[bullet]Em caso de emergência, a segurança da equipe e das instalações tem prioridade sobre o conforto do Médico da Peste; seus pedidos e privilégios podem ser suspensas temporária e irrevogavelmente.
+    ​
+    ​[head=3]6. RESPONSABILIDADES E DIREITOS DA EQUIPE DO FUNDO[/head]
+    ​[bullet]Os funcionários são obrigados a tratar o Médico da Peste com respeito e profissionalismo, mas sem conceder-lhe "status especial".
+    ​[bullet]Os funcionários são obrigados a cumprir os termos do contrato e seguir as instruções de proteção.
+    ​[bullet]O Serviço de Segurança tem o direito de aplicar medidas de contenção (repressão, amnésia, isolamento, uso da força) em casos de violação de contrato ou quando a vida/segurança estiver ameaçada.
+    ​[bullet]Caso sejam detectadas tentativas de fuga ou violações significativas das condições, o diretor da instituição e o chefe do serviço científico têm prioridade na tomada de medidas.
+    ​
+    ​[head=3]7. PROCEDIMENTOS DE EMERGÊNCIA[/head]
+    ​[bullet]Em caso de ameaça imediata à vida do pessoal ou de uma violação grave, as ações prioritárias são: localização da ameaça, supressão (letal ou não letal, conforme decisão do diretor da instituição ou do chefe de segurança), isolamento das instalações, uso de amnésicos e procedimentos de recuperação.
+    ​[bullet]Se o Médico da Peste for agressivo e houver menos de dois SCP-049-2 presentes, a ameaça é considerada controlada; se houver dois ou mais SCP-049-2 presentes, protocolos adicionais de contenção e combate a incêndios são implementados.
+    ​
+    ​[head=3]8. INFORMAÇÃO E COMUNICAÇÃO[/head]
+    ​[bold]Confidencialidade[/bold]
+    ​[bullet]Todas as informações internas da Fundação (comunicações via rádio, documentos, protocolos, registros pessoais de funcionários, relatórios internos) são confidenciais e destinadas exclusivamente a pessoal com o nível de autorização apropriado.
+    ​[bullet]SCP-049 Não possui acesso legal aos dados da Fundação, exceto pelas informações que lhe são transmitidas diretamente como parte de experimentos ou comunicação com a equipe.
+    ​
+    ​[bold]Proibição do uso de ferramentas de comunicação[/bold]
+    ​[bullet]SCP-049 É proibido possuir ou utilizar fones de ouvido, rádios, intercomunicadores, terminais ou quaisquer outros dispositivos de comunicação que permitam o recebimento ou a transmissão de informações pessoais.
+    ​[bullet]Qualquer dispositivo de comunicação encontrado em SCP-049 ou em sua câmara de contenção deve ser imediatamente confiscado.
+    ​
+    ​[bold]Isolamento de informações[/bold]
+    ​[bullet]É necessário que o pessoal assegure que o SCP-049 não tenha acesso a informações classificadas.
+    ​[bullet]Caso o SCP-049 acidentalmente testemunhe ou tome conhecimento de informações que não lhe sejam destinadas, tais informações serão consideradas nulas e sem efeito para o SCP-049 e não poderão ser utilizadas como argumento em solicitações ou negociações.
+    ​
+    ​[bold]Responsabilidade[/bold]
+    ​[bullet]Qualquer tentativa do SCP-049 de usar informações classificadas da Fundação (incluindo chantagem ou ameaças) constitui uma quebra de contrato e resultará em supressão imediata e isolamento temporário.
+    ​[bullet]Violações de confidencialidade por parte dos funcionários (por exemplo, deixar um fone de ouvido em uma cela) são registradas como erro oficial, e os funcionários culpados estão sujeitos a medidas disciplinares.
+    ​
+    ​[head=3]9. MEDIDAS DISCIPLINARES E SANÇÕES[/head]
+    ​[bullet]Em caso de violação dos termos do contrato, a Fundação tem o direito de aplicar uma ou mais das seguintes medidas: advertência verbal, isolamento, sedação forçada, transferência para um regime de alta segurança, restrição temporária ou permanente de privilégios.
+    ​[bullet]Em caso de violações sistemáticas ou graves, medidas letais poderão ser aplicadas por decisão do diretor da instituição.
+    ​
+    ​[head=3]9.1. VIOLAÇÃO POR PARTE DO FUNDO[/head]
+    Caso algum funcionário da Fundação viole os termos do contrato (use força excessiva, prive o SCP-049 de direitos e privilégios expressamente estipulados no contrato ou ignore acordos estabelecidos sem uma emergência), o SCP-049 terá o direito de:
+    ​
+    ​[bullet]Envie uma solicitação formal por meio de um supervisor designado (um cientista, chefe de departamento de pesquisa ou um funcionário autorizado com nível de acesso 3 ou superior).
+    ​
+    ​[bold]Se a violação for confirmada:[/bold]
+    ​[bullet]Os funcionários da Guilty Foundation podem estar sujeitos a medidas disciplinares (rebaixamento, perda da autorização de segurança, transferência para a classe D, investigação interna).
+    ​[bullet]O SCP-049 é compensado com a restauração de seus privilégios violados e com habilidades adicionais (por exemplo, uma sessão de pesquisa não programada, mais liberdade para solicitar itens de inventário de pequeno porte).
+    ​
+    ​[bold]Em caso de violações sistemáticas dos termos do acordo por parte dos funcionários do Fundo, serão tomadas as medidas cabíveis:[/bold]
+    ​[bullet]SCP-049 tem o direito de recusar temporariamente participar de testes/pesquisas até que o conflito seja resolvido.
+    ​[bullet]O SCP-049 deve permanecer dentro da câmara de contenção e não tomar nenhuma ação que ameace a segurança da instalação.
+    ​[bullet]Em uma emergência, ações da Fundação que violem as comodidades ou privilégios do SCP-049 não são consideradas uma violação se tiverem como objetivo direto salvar vidas de funcionários ou conter uma ameaça.
+    ​
+    ​[head=3]10. MODIFICAÇÃO E RESCISÃO DO CONTRATO[/head]
+    ​[bullet]Qualquer alteração ao contrato só será feita com a autorização por escrito do diretor da instituição e a aprovação do chefe do serviço científico.
+    ​[bullet]O contrato poderá ser rescindido pelo Diretor da Instalação em caso de violações sistemáticas e graves por parte do SCP-049 ou de uma mudança no estado do objeto.
+    ​[bullet]Caso o contrato seja rescindido, todos os privilégios do SCP-049 serão revogados e ele será transferido para contenção padrão.

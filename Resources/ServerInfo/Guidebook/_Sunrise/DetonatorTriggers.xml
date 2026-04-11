@@ -1,26 +1,26 @@
-  # Взрывной шнур, детонатор и триггеры
+  # Carga explosiva, detonador e gatilhos
 
-  Это руководство описывает основу сборки взрывных связок: детонатор, триггеры и взрывной шнур.
+  Este guia aborda os princípios básicos da montagem de conjuntos explosivos: o detonador, os gatilhos e o cordão detonante.
 
-  ## Основные компоненты
+  ## Componentes Principais
   <Box>
   <GuideEntityEmbed Entity="CableDetStack1" Caption="Взрывной шнур" Scale="1"/>
   <GuideEntityEmbed Entity="EmptyDetonator" Caption="Пустой детонатор" Scale="1"/>
   </Box>
-  ## Виды триггеров
+  ## Tipos de gatilhos
   <Box>
   <GuideEntityEmbed Entity="TimerTrigger" Caption="Таймер-триггер" Scale="1"/>
   <GuideEntityEmbed Entity="SignalTrigger" Caption="Сигнальный триггер" Scale="1"/>
   <GuideEntityEmbed Entity="VoiceTrigger" Caption="Голосовой триггер" Scale="1"/>
   </Box>
-  ## Общая схема сборки
-  1. Соберите детонатор, установив в него один из триггеров и вставьте взрывной шнур.
+  ## Diagrama geral de montagem
+  1. Monte o detonador instalando um dos gatilhos e inserindo o carga de explosivo.
   <Box>
   <GuideEntityEmbed Entity="BoxDetonator" Caption="" Scale="2"/>
   <GuideEntityEmbed Entity="WiredDetonator" Caption="" Scale="2"/>
   </Box>
   <Box>
-  2. Проложите взрывной шнур по полу в месте где вы хотите создать контролируемый взрыв для разрушения. Взрыв мощный, чтобы проломить стену, но достаточно небольшого радиуса дабы не задеть вас.
+  2. Coloque um fio explosivo no chão, no local onde deseja criar uma explosão controlada para destruição. A explosão é forte o suficiente para romper uma parede, mas pequena o bastante para não atingir você.
   </Box>
   <Box>
   <GuideEntityEmbed Entity="CableDet" Caption="" Scale="1.5"/>
@@ -35,4 +35,4 @@
   <GuideEntityEmbed Entity="CableDet" Caption="" Scale="1.5"/>
   </Box>
 
-  3. Активируйте заранее таймер-триггер для подрыва связки и прикрепите его к напольному шнуру либо прикрепите готовый детонатор с иными типами триггеров заранее и взорвите на удалении.
+  3. Ative o temporizador com antecedência para detonar o pacote e conecte-o ao cabo de aterramento, ou conecte um detonador pronto com outros tipos de gatilhos com antecedência e detone-o remotamente.

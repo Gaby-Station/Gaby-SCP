@@ -1,26 +1,26 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/КОМ[/bold]
-[head=2]Отчет о Собрании Глав[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/CC[/bold]
+[head=2]Relatório da Reunião de Chefes[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
-Причина созыва Собрания Глав:
-Формулировка поставленного перед Главами вопроса:
-Количество голосов «За»:
-Проголосовавшие «За»:
+Motivo da convocação da Assembleia de Chefes:
+Formulação da questão dirigida aos Chefes:
+Número de votos "A favor":
+Eleitores "A favor":
 
-Количество голосов «Против»:
-Проголосовавшие «Против»:
+Número de votos "Contra":
+Eleitores "Contra":
 
-Количество воздержавшихся от голосования:
-Воздержавшиеся от голосования:
+Número de abstenções na votação:
+Aqueles que se abstiveram de votar:
 
-Решение Собрания Глав:
+Decisão da Assembleia de Chefes:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

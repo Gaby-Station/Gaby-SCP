@@ -1,16 +1,16 @@
 <Document>
-[bold]Станция: Station ХХ-000[/bold]
-[bold]Форма {corpString}/ЦК-КОМ[/bold]
-[head=3]Приказ Центрального Командования[/head]
+[bold]estação: Station ХХ-000[/bold]
+[bold]forma {corpString}/ЦК-КОМ[/bold]
+[head=3]Ordem Central Comandos[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Tempo de iniciado turnos E data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilado por documento:
+Cargo compilador:
 
-Уважаемое(ый) Командование Станции (Капитан/ГП/прочие), в соответствии с действующим регламентом уведомляем вас об отправке вам следующего приказа: [суть приказа]. Сообщаем вам, что вы должны выполнять действующий приказ беспрекословно. В случае нарушения, к вам будут применены административные санкции корпорации, вплоть до увольнение из {corpString}. За вами остаётся право запросить уточнение по действующему приказу.
+Querido(a) Comando Estações (Capitão/GP/outro), V conformidade Com atual regulamentos nós notificamos você sobre enviando para você próximo ordem: [essência ordem]. Nós informamos para você, O que Você deve vai cumprir ativo ordem inquestionavelmente. EM caso violações, para você vai aplicado administrativo sanções corporações, até para demissão de {corpString}. Para você restos certo solicitar esclarecimento Por atual ordem.
 
 
-[italic]Место для печатей[/italic]
+[italic]Lugar Para carinbo[/italic]
 
 </Document>

@@ -1,19 +1,19 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/МЕД-КОМ[/bold]
-[head=2]Приказ о карантине[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/DEP-MED[/bold]
+[head=2]Ordem de quarentena[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
-
-
-Я, (полное имя), в должности (полное название должности), ввожу приказ об объявление карантина на станции. В связи с этим я передаю следующие указания:
+Compilador do documento:
+Posição do compilador:
 
 
-(Список указаний)
+Eu, (nome completo), no cargo de (cargo completo), emito uma ordem declarando quarentena na estação. Nesse sentido, emito as seguintes instruções:
 
-[italic]Место для печатей[/italic]
+
+(Lista de instruções)
+
+[italic]Lugar para carimbo[/italic]
 
 </Document>

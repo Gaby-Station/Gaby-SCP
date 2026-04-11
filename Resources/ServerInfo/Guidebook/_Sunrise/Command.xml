@@ -1,9 +1,9 @@
 <Document>
   # Command
-  Главы каждого отдела собираются, чтобы сформировать отдел [color=#1b67a5]Command[/color], мощную силу, управляющую станцией. У них обычно есть доступ к специальному оборудованию и собственным помещениям. Их часто хотят найти мёртвыми.
+  Os chefes de cada departamento se reúnem para formar um departamento. [color=#1b67a5]Command[/color], Uma força poderosa que controla a estação. Geralmente têm acesso a equipamentos especializados e seus próprios aposentos. Frequentemente são procurados para serem mortos.
 
   ## Personnel
-  [color=#1b67a5]Command[/color] состоит из глав отделов: [color=#9fed58]Head of Personnel[/color], [color=#cb0000]Head of Security[/color], [color=#5b97bc]Chief Medical Officer[/color], [color=#f39f27]Chief Engineer[/color], [color=#c96dbf]Research Director[/color], [color=#b18644]Quartermaster[/color] и прежде всего [color=#1b67a5]Captain[/color].
+  [color=#1b67a5]Comando[/color] é composto por chefes de departamento: [color=#9fed58]Chefe dos funcionarios[/color], [color=#cb0000]Chefe da segurança[/color], [color=#5b97bc]Chefe Medico Officer[/color], [color=#f39f27]engenheiro chefe[/color], [color=#c96dbf]Diretor de pesquisa[/color], [color=#b18644]intendente logistico[/color] e acima de tudo [color=#1b67a5]Capitão[/color].
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineCaptain" Caption="Captain"/>
   </Box>
@@ -19,35 +19,35 @@
   </Box>
 
   ## Taking Charge
-  Поздравляем с повышением! Помимо всей лишней бумажной волокиты, ваши новые [color=#a4885c]обязанности[/color] включают управление своим отделом, внесение изменений и расстановку приоритетов, заботу о безопасности персонала и оборудования, а также умение впускать немного лени, пока ваши товарищи делают работу за вас.
+  Parabéns pela sua promoção! Além de toda a papelada desnecessária, seu novo [color=#a4885c]responsabilidades[/color] Isso inclui gerenciar seu departamento, fazer mudanças e definir prioridades, garantir a segurança da equipe e dos equipamentos, e poder se dar ao luxo de um pouco de preguiça enquanto seus colegas de equipe fazem o trabalho para você.
 
-  Не забывайте, что у вас всё ещё есть работа! Ваши навороченные инструменты не дают вам выходного, вы всё так же должны закрывать отсутствие сотрудников, помогать тем, кто отстаёт, и обучать новичков.
+  Não se esqueça, você ainda tem um emprego! Suas ferramentas sofisticadas não lhe dão folga; você ainda precisa cobrir as ausências dos funcionários, ajudar aqueles que estão ficando para trás e treinar os recém-chegados.
 
-  Можно просто сидеть и позволять людям злиться, но разумнее включиться в работу и действовать рядом с ними. Не забывайте перемещать работников так, чтобы они делали то, что им нравится или выходит лучше всего.
+  Você pode simplesmente ficar de braços cruzados e deixar as pessoas se irritarem, mas é mais inteligente se envolver e trabalhar junto com elas. Não se esqueça de realocar os funcionários para que possam fazer o que gostam ou o que fazem melhor.
 
   ## Your Locker
-  Чтобы справиться с новыми душераздирающими обязанностями, каждому главе выдают особые предметы для управления подчинёнными. Большую часть вы найдёте в своём [color=#a4885c]шкафчике[/color].
+  Para lidar com suas novas e angustiantes responsabilidades, cada líder recebe itens especiais para controlar seus subordinados. Você encontrará a maioria deles em seu [color=#a4885c]armário[/color].
   <Box>
     <GuideEntityEmbed Entity="LockerCaptain"/>
   </Box>
 
-  Ваш [color=#a4885c]пульт[/color] простой, но глубоко недооценён. Маленький, но мощный, он может открывать и закрывать [color=#a4885c]воздушные шлюзы[/color], крутить [color=#a4885c]засовы[/color], перекрывать их и переключать [color=#a4885c]аварийный доступ[/color] на расстоянии.
+  Seu [color=#a4885c]controle remoto[/color] Simples, mas profundamente subestimado. Pequeno, mas poderoso, abre e fecha [color=#a4885c]câmaras de ar[/color], torção [color=#a4885c]fechaduras[/color], sobreponha-os e troque-os de lugar [color=#a4885c]acesso de emergência[/color]à distância.
   <Box>
     <GuideEntityEmbed Entity="DoorRemoteCommand"/>
   </Box>
-  Пульт определяет, куда ходит персонал. Главы могут выгнать людей из опасных зон или впустить их стремительно, когда нужно срочно забрать предмет.
+ O painel de controle define o fluxo de trabalho dos funcionários. Os gerentes podem expulsar pessoas de áreas perigosas ou permitir seu acesso rapidamente quando um item precisa ser recuperado com urgência.
 
-  Помимо этого, у вас есть собственный канал [color=#1b67a5]Command[/color], как и у других отделов. Однако он особенно важен, потому что его слышат [color=#a4885c]все отделы[/color].
-  Используйте его, чтобы общаться с другими главами и озвучивать желания ваших работников.
+  Além disso, você tem seu próprio canal. [color=#1b67a5]Comando[/color], assim como em outros departamentos. No entanto, é especialmente importante porque é ouvido. [color=#a4885c]todos os departamentos[/color].
+  Use-o para se comunicar com outros líderes e expressar os desejos de seus funcionários.
 
-  [color=#1b67a5]Captain[/color] и [color=#9fed58]Head of Personnel[/color] получают доступ к [color=#a4885c]главному ключу шифрования[/color], позволяющему слушать любые радиоканалы станции. Это невероятный ресурс, ведь вы сами можете координировать все отделы.
-  [color=#a4885c]Не тратьте это преимущество зря![/color]
+  [color=#1b67a5]Capitão[/color] e [color=#9fed58]Chefe de funcionarios[/color] ter acesso a [color=#a4885c]chave mestra de criptografia[/color], permitindo que você ouça qualquer canal de rádio da emissora. Este é um recurso incrível, pois você pode coordenar todos os departamentos por conta própria.
+  [color=#a4885c]Não desperdice essa vantagem![/color]
   <Box>
     <GuideEntityEmbed Entity="ClothingHeadsetCommand"/>
     <GuideEntityEmbed Entity="EncryptionKeyStationMaster"/>
   </Box>
 
-  Чтобы победить бумажную гору, в шкафчике лежит [color=#a4885c]печать[/color]. Используйте её для подписей: после штампа редактировать документ нельзя, так что проверяйте всё заранее.
+  Para derrotar a montanha de papel, existe um armário [color=#a4885c]carimbo[/color]. Use-o para assinaturas: uma vez carimbado, você não poderá editar o documento, portanto, verifique tudo com antecedência.
   <Box>
     <GuideEntityEmbed Entity="RubberStampCaptain"/>
   </Box>

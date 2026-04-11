@@ -1,31 +1,31 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/СБ[/bold]
-[head=3]Распоряжение о дежурстве[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/SB[/bold]
+[head=3]Ordem de serviço de segurança[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
- Составитель документа:
- Должность составителя: (Глава Службы Безопасности/Смотритель)
-
-
-Приказываю заступить на дежурство следующим патрульным отрядам: (перечисление наименований сформулированных патрульных отрядов)
+ Compilador do documento:
+ Posição do compilador: (Chefe de Segurança/Supervisor)
 
 
-Патрульный отряд "Наименование"
-
-Состав группы:
-
-Маршрут патруля:
+Ordeno que as seguintes unidades de patrulha assumam o serviço: (lista com os nomes das unidades de patrulha formadas)
 
 
-Патрульный отряд "Наименование"
+Destacamento de patrulha "Nome"
 
-Состав группы:
+Composição do grupo:
 
-Маршрут патруля:
+Rota de patrulha:
 
 
- [italic]Место для печатей[/italic]
+Destacamento de patrulha "Nome"
+
+Composição do grupo:
+
+Rota de patrulha:
+
+
+ [italic]Lugar para carimbo[/italic]
 
 </Document>

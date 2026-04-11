@@ -1,20 +1,20 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/НИО[/bold]
-[head=3]Приказ о признании разумности существа[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/НИО[/bold]
+[head=3]Ordem sobre o reconhecimento da senciência de uma criatura[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
-В ходе тестирования существа были выявлены признаки высшей мозговой деятельности и разумности данного существа, его способность мыслить, обучаться, понимание морали, наличие здравого смысла в поступках. Таким образом я, (ПОЛНОЕ ИМЯ), в должности (полное наименование должности), исходя из принципов равенства прав всех разумных существ, установленного ОПРС, признаю данное существо разумным.
-Внешний вид существа:
+Durante os testes, foram revelados sinais de maior atividade cerebral e inteligência, incluindo a capacidade de pensar, aprender, compreender a moralidade e demonstrar bom senso. Portanto, eu, (NOME COMPLETO), na posição de (cargo completo), com base nos princípios da igualdade de direitos para todos os seres sencientes estabelecidos pelo OPRS, reconheço este ser como inteligente.
+Aparência da Criatura:
 
-Устанавливаемое полное имя существа:
+O nome completo da criatura que está sendo definida:
 
-Существо принято/не принято в качестве пассажира станции до окончания смены.
+A criatura é aceita/não aceita como passageira na estação até o final do turno.
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

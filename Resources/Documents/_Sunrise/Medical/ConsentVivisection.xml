@@ -1,21 +1,21 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/ПД-МЕД[/bold]
-[head=2]Добровольное согласие на вивисекцию[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/DP-MED[/bold]
+[head=2]Consentimento voluntário para clonagem[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
-
-
-Я, (имя и фамилия), в должности (название должности), находясь в трезвом уме и твёрдой памяти, завещаю своё тело после смерти Медицинскому отделу с целью вивисекции, и дальнейшего использования частей тела сотрудниками Медицинского или Научно-Исследовательского отделов, в случае невозможности реанимации тела, невозможности клонирования оного, или отказа от клонирования.
+Compilador do documento:
+Posição do compilador:
 
 
-Причина: (указываются причины, напирмер желание перенести свой мозг в человеко-машинный интерфейс с последующей боргизацией)
+Eu, (nome e sobrenome), no cargo de (cargo), estando em pleno gozo das minhas faculdades mentais, deixo meu corpo após a morte ao Departamento Médico para fins de clonagem e posterior utilização de partes do corpo por funcionários dos Departamentos Médico ou de Pesquisa, no caso de impossibilidade de ressuscitação do corpo, impossibilidade de clonagem ou recusa de clonagem.
 
-Отказ от клонирования: отказываюсь/не отказываюсь от процедуры клонирования.
 
-[italic]Место для печатей[/italic]
+Motivo: (são apresentadas razões, por exemplo, o desejo de transferir o próprio cérebro para uma interface homem-máquina com posterior borgização)
+
+Recusa de clonagem: Recuso/Não recuso o procedimento de clonagem.
+
+[italic]Lugar para carimbo[/italic]
 
 </Document>

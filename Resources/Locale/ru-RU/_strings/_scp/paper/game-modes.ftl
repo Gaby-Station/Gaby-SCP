@@ -1,68 +1,68 @@
-document-difficulty-mode-summary = автоматический отчет безопасности
-document-meta-garbage-summary = заключение санитарной комиссии
+document-difficulty-mode-summary = relatório de segurança automático
+document-meta-garbage-summary = conclusão da comissão sanitária
 paper-neutralized-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: НОМИНАЛЬНЫЙ[/bold]
+    ​[bold]AVALIAÇÃO DO NÍVEL DE AMEAÇA: NOMINAL[/bold]
     
-    Согласно автоматизированной оценке риска, текущий уровень активности аномальных объектов на участке признан незначительным. Все ранее содержащиеся аномалии нейтрализованы, перемещены или не представляют угрозы безопасности.
-    ​[bullet] Режим работы персонала — штатный.
-    ​[bullet] Персоналу предписывается соблюдать стандартный уровень тревожности.
-    ​[bullet] Проведение плановых технических, кадровых и научных операций разрешено без ограничений.
+    De acordo com uma avaliação de risco automatizada, o nível atual de atividade anômala de objetos na área é considerado insignificante. Todas as anomalias anteriormente contidas foram neutralizadas, realocadas ou não representam mais uma ameaça à segurança.
+    ​[bullet] Os funcionários estão trabalhando normalmente.
+    ​[bullet] Os funcionários são instruídos a manter um nível padrão de alerta.
+    ​[bullet] As operações técnicas, de pessoal e científicas planejadas são permitidas sem restrições.
     
-    ​[italic]Особое указание:[/italic] в связи с отсутствием актуальных угроз, региональное управление может инициировать широкомасштабные испытания, проверки протоколов и внеплановые тренировки.
+    ​[italic]Instrução especial:[/italic] Na ausência de ameaças atuais, a gestão regional pode iniciar testes em larga escala, revisões de protocolos e exercícios não programados.
 paper-safe-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: КОНТРОЛИРУЕМЫЙ[/bold]
+    ​[bold]AVALIAÇÃO DO NÍVEL DE AMEAÇA: CONTROLADO[/bold]
     
-    Участок содержит ряд аномальных объектов, классифицированных как безопасные. Один или несколько контролируемых субъектов повышенного риска могут находиться под наблюдением.
-    ​[bullet] Персонал комплекса имеет право на свободное перемещение по участку, за исключением камер содержания SCP объектов
-    ​[bullet] Зафиксировано присутствие: безопасных объектов и контролируемых экземпляров SCP-035 и/или одного класса «Евклид».
-    ​[bullet] Угрозы персоналу считаются маловероятными при соблюдении стандартных процедур.
+    O local contém diversos objetos anômalos classificados como seguros. Um ou mais indivíduos de alto risco controlados podem estar sob vigilância.
+    ​[bullet] Os funcionários do complexo têm o direito de circular livremente pelo local, com exceção das câmaras de contenção de objetos SCP.
+    ​[bullet] Presença registrada: Objetos seguros e instâncias controladas de SCP-035 e/ou uma instância da classe Euclides.
+    ​[bullet] Considera-se improvável que haja ameaças ao pessoal se os procedimentos padrão forem seguidos.
     
-    ​[italic]Напоминание:[/italic] отклонение от утверждённых процедур обращения с объектами может привести к локализованным инцидентам.
+    ​[italic]Lembrete:[/italic] O desvio dos procedimentos aprovados para o manuseio de objetos pode resultar em incidentes localizados.
 paper-euclid-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: ПОВЫШЕННЫЙ[/bold]
+    ​[bold]AVALIAÇÃO DO NÍVEL DE AMEAÇA: ELEVADO[/bold]
     
-    На участке содержатся активные аномальные субъекты, включающие как предсказуемые, так и нестабильные экземпляры.
-    ​[bullet] Службе безопасности рекомендуется усиленно контролировать любые взаимодействия с аномальными объектами.
-    ​[bullet] Зафиксировано присутствие: объектов класса «Безопасный», одного «Евклид» и, возможно, одного экземпляра класса «Кетер».
-    ​[bullet] Контроль ситуации требует повышенного внимания.
+    O sítio contém entidades anômalas ativas, incluindo espécimes tanto previsíveis quanto instáveis.
+    ​[bullet] Recomenda-se que os profissionais de segurança monitorem rigorosamente qualquer interação com objetos anômalos.
+    ​[bullet] Foi detectada a presença de: objetos da classe Safe, uma instância da classe Euclid e possivelmente uma instância da classe Keter.
+    ​[bullet] Controlar a situação exige maior atenção.
     
-    ​[italic]Особое указание:[/italic] персоналу предписывается действовать в рамках утверждённых процедур, избегать несанкционированного контакта с аномалиями и незамедлительно сообщать о любых нарушениях условий содержания.
+    ​[italic]Instrução especial:[/italic] Os funcionários são instruídos a operar dentro dos procedimentos aprovados, evitar contato não autorizado com anomalias e relatar imediatamente qualquer violação das condições de contenção.
 paper-keter-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: КРИТИЧЕСКИЙ[/bold]
+    ​[bold]AVALIAÇÃO DO NÍVEL DE AMEAÇA: CRÍTICO[/bold]
     
-    Участок перешёл в режим расширенного содержания. Один или несколько аномальных субъектов представляют серьёзную и непосредственную угрозу существующим протоколам безопасности.
-    ​[bullet] Служба безопасности обязана установить дежурный режим возле камер содержания активных SCP объектов.
-    ​[bullet] Подтверждено присутствие: минимум одного объекта класса «Кетер», а также возможных экземпляров классов «Евклид» и «Безопасный».
-    ​[bullet] Потенциальный риск потери контроля над объектами высок.
+    a estalação entrou em modo de contenção reforçado. Uma ou mais entidades anômalas representam uma ameaça grave e imediata aos protocolos de segurança existentes.
+    ​[bullet] O serviço de segurança é obrigado a estabelecer um modo de prontidão próximo às câmaras de contenção de objetos SCP ativos.
+    ​[bullet] Presença confirmada: pelo menos um objeto da classe Keter, bem como possíveis instâncias das classes Euclid e Safe.
+    ​[bullet] O risco potencial de perda de controle sobre os objetos é alto.
     
-    ​[italic]Внимание:[/italic] при поступлении сигнала о нарушении условий содержания — немедленно следовать в ближайшую зону эвакуации и ожидать дальнейших указаний от регионального командования.
+    ​[italic]Atenção:[/italic] Caso receba um sinal de violação das condições de contenção, dirija-se imediatamente à zona de evacuação mais próxima e aguarde novas instruções do comando regional.
 paper-thaumiel-mode-info =
-    ​[bold]ОЦЕНКА УРОВНЯ УГРОЗЫ: НЕОПРЕДЕЛЕННЫЙ [/bold]
+    ​[bold]AVALIAÇÃO DE AMEAÇAS: INCERTA [/bold]
     
-    Участок содержит одновременно несколько аномалий, классифицированных как объекты повышенного контроля. Их одновременное содержание сопряжено с непредсказуемыми последствиями.
-    ​[bullet] Служба безопасности обязана установить полный контроль над взаимодействием с SCP объектами. Количество одновременных взаимодействий не должно превышать более 1 раза в 20 минут.
-    ​[bullet] Подтверждено присутствие: множества объектов классов «Кетер», «Евклид» и «Безопасный».
-    ​[bullet] Ситуация нестабильна, контроль осуществляется под грифом «Совершенно секретно».
+    O local contém diversas anomalias classificadas como objetos de alta segurança. Seu confinamento simultâneo está associado a consequências imprevisíveis.
+    ​[bullet] É necessário que o pessoal de segurança estabeleça controle total sobre as interações com os objetos SCP. O número de interações simultâneas não deve exceder uma a cada 20 minutos.
+    ​[bullet] Presença confirmada: múltiplos objetos das classes Keter, Euclid e Safe.
+    ​[bullet] A situação é instável, o controle está sendo realizado sob a classificação "Ultrassecreto".
     
-    ​[italic]Особое указание:[/italic] большая часть операций проводится в условиях ограниченного допуска. Персоналу, не обладающему необходимым уровнем допуска, категорически запрещено вмешательство.
+    ​[italic]Instrução especial:[/italic] A maioria das operações é realizada em condições de acesso restrito. É estritamente proibida a interferência de pessoal sem a devida autorização.
 paper-meta-garbage-successful-info =
-    ​[bold]ЗАКЛЮЧЕНИЕ САНИТАРНОЙ КОМИССИИ[/bold]
+    ​[bold]CONCLUSÃO DA COMISSÃO SANITÁRIA[/bold]
     
-    По результатам внеплановой проверки установлено:
-    ​[bullet] На территории комплекса обнаружены бытовые отходы (бумажные стаканчики, остатки пищи, упаковочные материалы).
-    ​[bullet] В помещениях зафиксированы лужи технической жидкости и неубранные следы.
-    ​[bullet] Освещение: часть ламп разбита, осколки стекла не устранены.
-    ​[bullet] Уровень санитарного содержания признан неудовлетворительным.
+    Os resultados da inspeção não programada revelaram:
+    ​[bullet] Foram encontrados resíduos domésticos (copos de papel, restos de comida, materiais de embalagem) no território do complexo.
+    ​[bullet] Foram encontradas poças de fluido técnico e vestígios não removidos nas instalações.
+    ​[bullet] Iluminação: algumas lâmpadas estão quebradas e fragmentos de vidro não foram removidos.
+    ​[bullet] O nível das condições sanitárias foi considerado insatisfatório.
     
-    ​[italic]Причина:[/italic] ресурсная группа фонда была полностью задействована в ликвидации последствий инцидента ██-███, уборка не произведена.
+    ​[italic]Causa:[/italic] A equipe de recursos da Fundação esteve totalmente envolvida nas consequências do Incidente ██-███, e nenhuma operação de limpeza foi realizada..
     
-    ​[italic]Указание:[/italic] текущему персоналу предписывается устранить указанные нарушения в кратчайшие сроки.
+    ​[italic]Observação:[/italic] Os funcionários atuais foram instruídos a corrigir essas irregularidades o mais rápido possível.
 paper-meta-garbage-failed-info =
-    ​[bold]ЗАКЛЮЧЕНИЕ САНИТАРНОЙ КОМИССИИ[/bold]
+    ​[bold]CONCLUSÃO DA COMISSÃO SANITÁRIA[/bold]
     
-    Проверка помещений завершена. Замечания отсутствуют:
-    ​[bullet] Полы сухие, следов загрязнений не обнаружено.
-    ​[bullet] Освещение функционирует в полном объёме.
-    ​[bullet] Бытовой мусор и отходы не выявлены.
+    A inspeção das instalações foi concluída. Não há comentários.
+    ​[bullet] Os pisos estão secos, não foram encontrados vestígios de sujeira.
+    ​[bullet] A iluminação está totalmente funcional.
+    ​[bullet] Não foram encontrados resíduos domésticos ou lixo.
     
-    ​[italic]Вывод:[/italic] санитарное состояние комплекса признано удовлетворительным, вмешательства не требуется.
+    ​[italic]Conclusão:[/italic] O estado sanitário do complexo é considerado satisfatório e nenhuma intervenção é necessária.

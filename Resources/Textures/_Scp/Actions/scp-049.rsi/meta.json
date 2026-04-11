@@ -8,19 +8,19 @@
     },
     "states": [
         {
-            "name": "bag"
+            "name": "bolsa"
         },
         {
-            "name": "heal"
+            "name": "curar"
         },
         {
-            "name": "kill"
+            "name": "matar"
         },
         {
-            "name": "kill_minion"
+            "name": "matar_lacaio"
         },
         {
-            "name": "resurrect"
+            "name": "ressuscitar"
         }
     ]
 }

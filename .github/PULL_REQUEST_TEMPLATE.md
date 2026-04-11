@@ -1,49 +1,50 @@
-<!-- Текст в стрелочках является комментариями - они не будут видны в вашем PR. -->
+<!-- O texto entre as setas são comentários - eles não serão visíveis no seu PR. -->
 
-## Краткое описание
-<!-- Что вы предлагаете изменить с помощью своего PR? -->
+## Breve Descrição
+<!-- O que você propõe alterar com o seu PR? -->
 
-## Сссылка на багрепорт/ТЗ/Предложение
-<!-- В чём причина добавления этих изменений? Ссылки на Дискуссии, а так-же Баг-Репорты указывать здесь. Пожалуйста опишите как это изменит игровой баланс. -->
+## Link para Relatório de Bug/Especificações/Proposta
+<!-- Qual o motivo para adicionar essas alterações? Links para discussões e relatórios de bugs devem ser fornecidos aqui. Descreva como isso afetará o balanceamento do jogo. -->
 
-## Медиа(Видео/Скриншоты)
-<!--
-Если ваш PR содержит внутриигровые изменения вы обязаны предоставить скриншоты/видео изменений.
+## Mídia (Vídeo/Capturas de Tela)
+<!-- Se sua solicitação de pull request contiver alterações no jogo, você deve fornecer capturas de tela/vídeos das alterações.
 -->
 
-<!--
-## TODO
+<!-- ## Alterações futuras/incompletas
 
-Не закончили? Добавьте список того, что требуется для завершения PR`а
--->
-
-**Changelog**
-
-<!--
-КАК ПИСАТЬ ЧЕЙНЖЛОГ:
-
-1) Не считайте тип чейнжлога частью вашего предложения. Так не принято. То есть:
-add: Новая фича = ПЛОХО
-add: Добавлена новая фича = ХОРОШО
-
-2) Подробно описывайте, что вы добавили и как это использовать/найти. Главное не переусердствуйте. Все должно быть в меру
-
-fix: Исправлены мелочи = УЖАСНО
-fix: Исправлены некоторые баги в коде сцп 173 = ПЛОХО
-fix: Исправлена невозможность сцп173 двигаться = ХОРОШО
-
-3) Не добавляйте в чейнжлог технические детали вашего изменения. Чейнжлог для игроков, пишите его для игроков. Им не нужно знать технические детали
-
-add: Добавлен новый хелпер-метод в систему сцп106 = ПЛОХО
-НИЧЕГО НЕ ПИСАТЬ = ХОРОШО.
-
-Иногда чейнжог не нужен. Просто удалите это поле
+Ainda não terminou? Adicione uma lista do que é necessário para concluir o PR.
 
 -->
 
-:cl: ВАШ_НИК
-- add: Добавлено веселье.
-- remove: Удалено веселье.
-- tweak: Изменено веселье.
-- fix: Исправлено веселье.
+**Registro de alterações**
 
+<!--
+COMO ESCREVER UM REGISTRO DE ALTERAÇÕES:
+
+1) Não considere o tipo de registro de alterações como parte da sua proposta. Isso não é aceito. Ou seja:
+
+add: Novo recurso = RUIM
+
+add: Novo recurso adicionado = BOM
+
+2) Descreva em detalhes o que você adicionou e como usar/encontrar. Apenas não exagere. Tudo deve ser feito com moderação.
+
+fix: Correções menores = PÉSSIMO
+
+fix: Alguns bugs no código do scp 173 corrigidos = RUIM
+
+fix: Corrigida a incapacidade do scp173 de se mover = BOM
+
+3) Não adicione detalhes técnicos da sua alteração ao registro de alterações. Um registro de alterações é para os jogadores, escreva-o para os jogadores. Eles não precisam saber os detalhes técnicos.
+
+add: Novo método auxiliar adicionado ao sistema scp106 = RUIM
+
+NÃO ESCREVA NADA = BOM.
+
+Às vezes, um registro de alterações não é necessário. Basta apagar este campo.
+-->
+:cl: SEU_APELIDO
+- add: Adicionada diversão.
+- remove: Removida a diversão.
+- tweak: Alterada a diversão.
+- fix: Corrigida a diversão.

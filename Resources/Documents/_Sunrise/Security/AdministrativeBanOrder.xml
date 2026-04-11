@@ -1,23 +1,22 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/СБ[/bold]
-[head=3]Постановление об административном запрете[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/SB[/bold]
+[head=3]Decreto sobre proibição administrativa[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
- Составитель документа:
- Должность составителя:
-
-
-Я, (имя и фамилия), в должности (полное название должности), накладываю административный запрет в соответствии со своими полномочиями в отношении (имя и фамилия), в должности (полное название должности), нарушившего статью (наименование или номер статьи) Корпоративного Закона, относящуюся к "Лёгким нарушениям".
-
-Административный запрет заключается в: (что запрещено делать тому, на кого наложен запрет)
-
-Срок действия административного запрета: (не может превышать 20 минут)
-
-Срок действия административного запрета отсчитывается с: (время начала действия административного запрета)
+ Compilador do documento:
+ Posição do compilador:
 
 
- [italic]Место для печатей[/italic]
+Eu, (nome e sobrenome), no cargo de (cargo completo), imponho uma proibição administrativa de acordo com minhas atribuições em relação a (nome e sobrenome), no cargo de (cargo completo), que violou o Artigo (nome ou número do Artigo) da Lei das Sociedades Comerciais relativo a "Infrações Menores".
+Uma concessão administrativa consiste em: (aquilo que a pessoa a quem a concessão é imposta está proibida de fazer)
+
+Duração da suspensão administrativa: (não pode exceder 20 minutos)
+
+O período de validade da proibição administrativa é contado a partir de: (o horário de início da proibição administrativa)
+
+
+ [italic]Lugar para carimbo[/italic]
 
 </Document>

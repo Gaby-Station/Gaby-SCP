@@ -1,24 +1,24 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/СБ[/bold]
-[head=3]Отчет о расследовании[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/SB[/bold]
+[head=3]Relatório de investigação[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
- Составитель документа:
- Должность составителя:
+ Compilador do documento:
+ Posição do compilador:
 
-Улики, вещдоки:
+Evidências, materiais da evidências:
 
-Подозреваемый(-ые):
+Suspeito(-s):
 
-Опрошенный(-е) свидетель(-и):
+Entrevistado(-e) testemunha(-E):
 
-Краткое описание проведённого расследования:
+Breve descrição da investigação realizada:
 
-Дело может быть закрыто в связи с (раскрытием/невозможностью дальнейшего расследования).
+O caso pode ser encerrado devido a (divulgação/impossibilidade de investigação adicional)..
 
 
- [italic]Место для печатей[/italic]
+ [italic]Lugar para carimbo[/italic]
 
 </Document>

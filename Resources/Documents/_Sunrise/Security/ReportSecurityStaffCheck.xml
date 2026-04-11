@@ -1,16 +1,16 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/СБ-КОД[/bold]
-[head=3]Отчет о проверки КЗ и СРП сотрудников СБ[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/CÓDIGO-SB[/bold]
+[head=3]Relatório sobre a inspeção do KZ e do SRP pelos funcionários do Serviço de Segurança[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
- Составитель документа:
- Должность составителя:
+ Compilador do documento:
+ Posição do compilador:
 
 
 
-1) Оценка знаний КЗ и СРП сотрудника (имя и фамилия сотрудника): (оценка знаний)
+1) Avaliação do conhecimento do funcionário sobre a KZ e o SRP (nome e sobrenome do funcionário): (avaliação de conhecimento)
 
 2)
 
@@ -18,11 +18,11 @@
 
 .
 
-Проверяющий: (имя и фамилия проверяющего)
+inspetor: (nome e sobrenome do inspetor)
 
-Должность проверяющего:
+Cargo de inspetor:
 
 
- [italic]Место для печатей[/italic]
+ [italic]Lugar para carimbo[/italic]
 
 </Document>

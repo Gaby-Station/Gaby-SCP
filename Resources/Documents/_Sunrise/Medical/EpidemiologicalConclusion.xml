@@ -1,27 +1,27 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/МЕД[/bold]
-[head=2]Эпидемилогическое заключение[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/МЕД[/bold]
+[head=2]Conclusão epidemiológica[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
-
-
-Штамм/вирус:
+Compilador do documento:
+Posição do compilador:
 
 
-Нулевой пациент: (Полное имя/Необнаружен)
+Estirpe/vírus:
 
-Количество случаев заражения: (В единицах и в процентах)
 
-Количество летальных исходов: (В единицахи и в процентах)
+Paciente Zero: (Nome completo/Não detectado)
 
-Количество иммунизированных: (В единицах и в процентах)
+Número de casos de infecção: (Em unidades e em percentagem)
 
-Вакцина произведена и находится: (Количество и место)
+Número de fatalidades: (Em unidades e em percentagem)
 
-[italic]Место для печатей[/italic]
+Número de imunizados: (Em unidades e percentagens)
+
+A vacina foi produzida e está localizada em: (Quantidade e localização)
+
+[italic]Lugar para carimbo[/italic]
 
 </Document>

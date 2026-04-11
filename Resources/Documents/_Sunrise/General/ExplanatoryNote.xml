@@ -1,19 +1,19 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/ПД-КОД[/bold]
-[head=3]Объяснительная {corpString}[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/PD-CODE[/bold]
+[head=3]Explicativo {corpString}[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
-Я, [Имя и фамилия.], [Полное наименование должности], хочу объяснить ситуацию, связанную с [указать причину, например, «неуместным общением» или «инцидентом, произошедшим [дата]»]. [Кратко опишите ситуацию. Например: «В процессе общения с коллегами я использовал(а) фамильярный стиль общения, что могло быть воспринято как неуместное. Я осознаю, что в данном контексте это могло вызвать недопонимание и негативные эмоции у некоторых сотрудников.»] Я признаю свою ошибку и приношу извинения за возможные неудобства, которые я мог(ла) причинить. В дальнейшем я постараюсь быть более внимательным(ой) к стилю общения и учитывать нормы и правила, принятые в нашей организации.
+Eu, [Nome e Sobrenome], [Cargo Completo], gostaria de explicar uma situação relacionada a [indique o motivo, por exemplo, "comunicação inadequada" ou "um incidente ocorrido em [data]"]. [Descreva brevemente a situação. Por exemplo: "Ao me comunicar com colegas, utilizei um estilo de comunicação informal que pode ter sido percebido como inadequado. Compreendo que, neste contexto, isso pode ter causado mal-entendidos e emoções negativas entre alguns funcionários."] Reconheço meu erro e peço desculpas por qualquer inconveniente que possa ter causado. No futuro, me esforçarei para ser mais cuidadoso com meu estilo de comunicação e levarei em consideração as normas e regras adotadas por nossa organização.
 
-Благодарю за понимание.
-С уважением, [Имя и фамилия.]
-[Полное наименование должности]
+Agradecemos a sua compreensão..
+Atenciosamente, [Nome e sobrenome].]
+[Cargo completo]
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

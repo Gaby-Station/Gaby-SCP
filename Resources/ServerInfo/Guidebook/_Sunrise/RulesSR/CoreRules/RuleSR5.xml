@@ -1,12 +1,12 @@
 <Document>
- # Правило 5 - Взаимодействие с игроками, вышедшими из игры и получившими статус SSD
- Игроки в ССД — это игроки, которые отсоединились из игры. При осмотре таких игроков пишется, что «Он рассеянно смотрит в пустоту и ни на что не реагирует. Он может скоро прийти в себя»
+ # regra 5 - Interagir com jogadores que saíram do jogo e receberam o status SSD/AFK.
+ Jogadores no SSD são jogadores que se desconectaram do jogo. Ao examinar esses jogadores, está escrito: "Ele olha para o nada, distraído, e não reage a nada. Ele pode voltar a si em breve."»
 
- Причиной этому могут быть проблемы с соединением или другие технические неполадки. Быть убитым или ограбленным из-за этого мало кому понравится. Цель на убийство у антагонистов по задумке должна быть трудной и интересной. Убивать игрока в ССД не интересно ни для убийцы, ни для жертвы. В случае если ваша цель ССД, то не бойтесь спрашивать помощи у администраторов в Ahelp.
+ Problemas de conexão ou outros problemas técnicos podem ser a causa. Ser morto ou roubado por causa disso não é algo que alguém gostaria. Os alvos dos antagonistas devem ser desafiadores e interessantes. Matar um jogador no SSD não é divertido nem para o assassino nem para a vítima. Se o seu alvo for um jogador no SSD, não hesite em pedir ajuda aos administradores do Ahelp.
 
- - Запрещено трогать или взаимодействовать с ССД игроками, кроме как в следующих случаях: относить их в крио, оказывать медицинскую помощь или спасать их от непосредственной опасности (например, выносить из пожара).
- - Аналогично, если на игроке с ССД висит статус «Разыскивается», его нельзя задерживать без разрешения администратора.
- - Если игрок вышел в ССД во время или сразу после задержания, то разрешается продолжать задержание и арест.
- - Аналогично, если вы антагонист, и если ваша цель вышла в ССД сразу после того, как вы её атаковали, вы можете продолжать.
- - Если вам кажется, что ситуация вынуждает к взаимодействию с игроком в ССД (например, чтобы забрать важное снаряжение с капитана), сначала воспользуйтесь Ahelp.
+ - É proibido tocar ou interagir com jogadores de SSD/AFK, exceto nos seguintes casos: levá-los para criogenia, prestar assistência médica ou resgatá-los de perigo iminente (por exemplo, carregá-los para fora de um incêndio).
+ - Da mesma forma, se um jogador com um SSD/AFK tiver o status de "Procurado", ele não poderá ser detido sem a permissão do administrador.
+ - Caso um jogador seja liberado do SDS durante ou imediatamente após a detenção, a detenção e a prisão poderão prosseguir.
+ - Da mesma forma, se você for o antagonista e seu alvo entrar em SDS imediatamente após o ataque, você pode continuar.
+ - Se você achar que a situação exige interação com um jogador no SSD/AFK (por exemplo, para recuperar equipamentos importantes do capitão), use primeiro o recurso de ajuda.
 </Document>

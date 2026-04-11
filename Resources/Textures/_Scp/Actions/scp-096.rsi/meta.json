@@ -9,8 +9,8 @@
 "copyright": "Fire Station, sprited by miduzka(discord)",
   "states":
   [
-    { "name": "rip" },
-    { "name": "scream" },
-    { "name": "sit" }
+    { "name": "rasgar" },
+    { "name": "gritar" },
+    { "name": "sentar" }
   ]
 }

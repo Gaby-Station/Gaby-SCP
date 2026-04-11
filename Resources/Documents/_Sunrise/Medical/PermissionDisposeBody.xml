@@ -1,16 +1,16 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/МЕД[/bold]
-[head=2]Разрешение на утилизацию тела[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/DP-MED[/bold]
+[head=2]Autorização para o descarte do corpo[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
-Я, (ПОЛНОЕ ИМЯ), в должности (полное наименование должности), разрешаю утилизировать тело (ПОЛНОЕ ИМЯ), в должности (полное наименование должности) в связи с невозможностью его реанимации и клонирования.
-Способ утилизации:
+Eu, (NOME COMPLETO), ocupando o cargo de (cargo completo), autorizo ​​o descarte do corpo de (NOME COMPLETO), ocupando o cargo de (cargo completo), devido à impossibilidade de sua reanimação e clonagem.
+Método de Descarte:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

@@ -1,20 +1,20 @@
 <Document>
-[bold]Станция: Station ХХ-000[/bold]
-[bold]Форма {corpString}/ЦК-КОМ[/bold]
-[head=3]Приказ о предоставлении отчета о цели ЦК[/head]
+[bold]estação: Station ХХ-000[/bold]
+[bold]forma {corpString}/Comitê Central-COM[/bold]
+[head=3]Ordem de fornecimento relatório de metas Comitê Central[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Tempo de iniciado turnos E data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilado por documento:
+Cargo compilador:
 
 
-В соответствии с установленной целью космической станции, прошу предоставить отчёт о выполнении цели за период с начала смены станции до настоящего момента.
+EM conformidade Com estabelecido propósito espaço estações, por favor fornecer relatório de execução metas para período Com iniciado turnos estações para presente momento.
 
-Отчёт должен содержать информацию о прогрессе выполнения цели, препятствиях, возникших на пути выполнения, и планах на их устранение.
+Relatório deve conter Informação de progresso execução metas, obstáculos, emergente sobre caminhos de execução, E planos sobre deles eliminação.
 
-Срок выполнения: Немедленно.
+Prazo execução: Imediatamente.
 
-[italic]Место для печатей[/italic]
+[italic]Lugar Para carimbo[/italic]
 
 </Document>

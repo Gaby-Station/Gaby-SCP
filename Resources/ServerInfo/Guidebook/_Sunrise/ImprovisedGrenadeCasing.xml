@@ -1,14 +1,14 @@
-﻿  # Самодельная граната: пустой корпус
+﻿  # Granada caseira: corpo vazio
 
-  Пустая гильза — основа для самодельных гранат. Заполните её и выберите ветку в графе, чтобы получить один из вариантов.
+  Uma cápsula de munição vazia é a base para granadas caseiras. Encha-a e selecione uma ramificação na coluna para obter uma das opções.
 
-  ## Что можно собрать и как
-    ### Для создания Трубчатой бомбы
-      - Трубчатая бомба с контактным тригером и дополнительными осколочными частями.
+  ## O que pode ser coletado e como?
+    ### Para criar uma bomba caseira
+      - Uma bomba tubular com detonador de contato e peças adicionais de fragmentação.
       <GuideEntityEmbed Entity="PipeBomb" Caption="Трубчатая бомба" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="пустая самодельная гильза" Scale="1"/>
-    ### Для создания Зажигательной бомбы
-      - Зажигательная бомба с контактным тригером и дополнительными зажигательными частями.
+    ### Para criar uma bomba incendiária
+      - Uma bomba incendiária com detonador de contato e componentes incendiários adicionais.
       <GuideEntityEmbed Entity="FireBomb" Caption="Зажигательная бомба" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="пустая самодельная гильза" Scale="1"/>
-    ### Для создания Стеклянной картечи
-      - Стеклянная картечь: много мелких поражений в месте попадания.
-      5 единиц <GuideEntityEmbed Entity="CrushedPhosphorus" Caption="5 ед. Фосфорного порошка" Scale="1.1"/><GuideEntityEmbed Entity="ShardGlass" Caption="5 осколков стекла" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="пустая самодельная гильза" Scale="1"/>
+    ### Para criar chumbo de vidro
+      - Chumbo de vidro: muitas pequenas lesões no ponto de impacto.
+      5 unidades <GuideEntityEmbed Entity="CrushedPhosphorus" Caption="5 ед. Фосфорного порошка" Scale="1.1"/><GuideEntityEmbed Entity="ShardGlass" Caption="5 осколков стекла" Scale="1"/><GuideEntityEmbed Entity="ImprovisedGrenadeCasingEmpty" Caption="пустая самодельная гильза" Scale="1"/>

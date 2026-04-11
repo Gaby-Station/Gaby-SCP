@@ -1,21 +1,21 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/СРВ[/bold]
-[head=3]Свидетельство о расторжении брака[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/SRV[/bold]
+[head=3]Certidão de divórcio[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
-Я, (ПОЛНОЕ ИМЯ), в должности (полное наименование должности), расторгаю брак между:
-(ПОЛНОЕ ИМЯ), в должности (полное наименование должности)
+Eu, (NOME COMPLETO), ocupando o cargo de (cargo completo), dissolvo o casamento entre:
+(NOME COMPLETO), ocupando o cargo de (cargo completo)
 ⠀...
-(ПОЛНОЕ ИМЯ), в должности (полное наименование должности)
-После расторжения брака бывшим супругам были присвоены следующие полные имена:
+(NOME COMPLETO), no cargo de (cargo completo)
+Após a dissolução do casamento, os ex-cônjuges receberam os seguintes nomes completos:
 
-Разделение имущества было произведено следующим образом:
+A partilha de bens foi realizada da seguinte forma:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

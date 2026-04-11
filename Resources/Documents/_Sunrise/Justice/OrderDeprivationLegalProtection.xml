@@ -1,19 +1,19 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/ЮР[/bold]
-[head=2]Приказ о лишении юридической защиты[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/ЮР[/bold]
+[head=2]Ordem para privar da proteção legal[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя: Магистрат
-
-
-Я, (имя и фамилия), находясь на должности магистрата, лишаю юридической неприкосновенности сотрудника (имя и фамилия) в должности (полное наименование должности), по причине: (сама причина)
-
-Юридическая Неприкосновенность не имеет в силы после штамповки документа печатью магистрата, следом немедленно обязуюсь уведомить Центральное Командование об своём решении.
+Compilador do documento:
+Cargo do compilador: Magistrado
 
 
-[italic]Место для печатей[/italic]
+Eu, (nome e sobrenome), na qualidade de magistrado, privo o funcionário (nome e sobrenome) da imunidade legal no cargo de (título completo do cargo), pelo seguinte motivo: (o próprio motivo).
+
+A imunidade legal deixa de ser válida após o documento ter sido autenticado com o selo do magistrado, e por meio deste, notifico imediatamente o Comando Central da minha decisão.
+
+
+[italic]Lugar para carimbo[/italic]
 
 </Document>

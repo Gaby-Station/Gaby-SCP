@@ -1,18 +1,18 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/КОД-ЦК[/bold]
-[head=3]Заказ специального снаряжения[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/CÓDIGO-CC[/bold]
+[head=3]Encomendar equipamento especial[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
-Я, (ПОЛНОЕ ИМЯ), в должности (полное наименование должности), прошу Центральное командование предоставить специальное снаряжение станции.
-Перечень запрашиваемого снаряжения:
+Eu, (NOME COMPLETO), ocupando o cargo de (cargo completo), solicito ao Comando Central o fornecimento de equipamentos especiais para a estação.
+Lista de equipamentos solicitados:
 
-Причина запроса:
+Motivo da solicitação:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

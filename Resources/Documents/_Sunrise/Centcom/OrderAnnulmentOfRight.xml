@@ -1,18 +1,18 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/ЦК[/bold]
-[head=3]Приказ об аннулировании действия права[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/Comitê Central[/bold]
+[head=3]Ordem sobre cancelamento ações direitos[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Tempo de iniciado turnos E data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя: Представитель {corpString}
+Compilado por documento:
+Cargo compilador: Representante {corpString}
 
 
-Я, (имя и фамилия), находясь на должности Представителя {corpString}, аннулирую действие права сотрудника командования, (имя и фамилия), в должности (полное название должности), пункта (номер пункта дозволения) "(краткая информация об этом пункте)"  Стандартных Рабочих Процедурах раздела "дозволения", по причине: (сама причина)
+Eu, (Nome E sobrenome), ser sobre posições Representante {corpString}, eu cancelo Ação direitos funcionário comando, (Nome E sobrenome), V posições (completo Nome posições), apontar (número apontar permissões) "(apresentação Informação sobre esse apontar)"  Padrão trabalhadores Procedimentos seção "permissões", Por razão: (ela mesma causa)
 
-Действие права/дозволения заканчивается после штамповки документа печатью Представителя {corpString}, следом немедленно обязуюсь уведомить Центральное Командование об своём решении.
+Ação direitos/permissões termina depois estampagem documento selo Representante {corpString}, próximo imediatamente eu me comprometo notificar Central Comando sobre dele decisão.
 
-[italic]Место для печатей[/italic]
+[italic]Lugar Para selos[/italic]
 
 </Document>

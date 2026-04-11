@@ -1,23 +1,23 @@
 <Document>
-[bold]Станция: Station ХХ-000[/bold]
-[bold]Форма {corpString}/ЦК-КОМ[/bold]
-[head=3]Приказ о трансфере персонала станции[/head]
+[bold]estação: Station ХХ-000[/bold]
+[bold]forma {corpString}/Comitê Central-COM[/bold]
+[head=3]Ordem de transferir pessoal estações[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Tempo de iniciado turnos E data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
-
-
-В связи с выполнением поставленной цели космической станции, будет проведена замена текущего экипажа станции на новый.
-
-Приказываем начать запуск протоколов смены экипажа, с последующей доставкой персонала на станцию распределения кадров.
+Compilado por documento:
+Cargo compilador:
 
 
-Ответственные за выполнение приказа: Капитан станции.
+EM comunicações Com execução entregue metas espaço estações, vai realizado substituição atual equipe estações sobre novo.
 
-Срок выполнения: Немедленно.
+Nós pedimos começar lançar protocolos turnos equipe, Com subsequente entrega pessoal sobre estação distribuição pessoal.
 
-[italic]Место для печатей[/italic]
+
+Responsável para execução ordem: Capitão estações.
+
+Prazo execução: Imediatamente.
+
+[italic]Lugar Para carimbo[/italic]
 
 </Document>

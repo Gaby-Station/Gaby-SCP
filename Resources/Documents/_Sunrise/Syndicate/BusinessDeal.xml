@@ -1,16 +1,16 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма СНД/КОМ-С[/bold]
-[head=2]Деловая сделка[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa SND/COM-COM[/bold]
+[head=2]Acordo comercial[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Позывной агента:
+Indicativo de chamada do agente:
 
-Синдикат любезно предлагает заключить сделку между станцией и агентом (позывной агента). Со стороны станции необходимо:
+O Sindicato gentilmente se oferece para intermediar um acordo entre a emissora e o agente (indicativo de chamada do agente). A emissora deve:
 
-Причина выполнения условий сделки:
+Motivo para cumprir os termos do acordo:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

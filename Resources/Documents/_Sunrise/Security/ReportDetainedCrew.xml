@@ -1,19 +1,19 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/СБ-КОД[/bold]
-[head=3]Информация о задержанных за смену[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/CÓDIGO-SB[/bold]
+[head=3]Informações sobre os detidos durante o turno.[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
- Составитель документа:
- Должность составителя:
+ Compilador do documento:
+ Posição do compilador:
 
 
-1) Сотрудник, (имя и фамилия сотрудника), в должности (должность сотрудника) был задержан за следующие действия: (Описание действий)
+1) Um funcionário, (nome e sobrenome do funcionário), no cargo de (cargo do funcionário), foi preso pelas seguintes ações: (Descrição das ações)
 
-срок заключения: (время заключения)/перманентное
+Duração da pena de prisão: (tempo de prisão)/permanente
 
-Нарушенные статьи КЗ: (номер статьи)
+Artigos do Código do Trabalho violados: (número do artigo)
 
 
 2)
@@ -21,6 +21,6 @@
 
 .
 
- [italic]Место для печатей[/italic]
+ [italic]Lugar para carimbo[/italic]
 
 </Document>

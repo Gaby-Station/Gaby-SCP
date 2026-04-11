@@ -1,22 +1,22 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/КОД-СНБ[/bold]
-[head=2]Разрешение на отправку в экспедицию[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/CÓDIGO-NSS[/bold]
+[head=2]Permissão para participar de uma expedição[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
-
-
-
-Я, (имя и фамилия), в должности (полное наименование должности), прошу отправить меня в Научно-исследовательскую экспедицию.
-
-Причины по которым я должен быть туда отправлен:
+Compilador do documento:
+Posição do compilador:
 
 
-Обязуюсь проявлять осторожность при выполнении научно-исследовательских работ, выполнять команды старших по званию во время экспедиции. В случаи не возвращении меня или моего тела, прошу считать меня погибшим во время исполнения своего долга перед Qillu!
 
-[italic]Место для печатей[/italic]
+Eu, (nome e sobrenome), ocupando o cargo de (cargo completo), solicito ser enviado(a) para uma Expedição de Pesquisa Científica.
+
+Razões pelas quais eu deveria ser enviado para lá:
+
+
+Prometo agir com cautela ao conduzir pesquisas científicas e obedecer às ordens de meus superiores durante a expedição. Caso eu ou meu corpo não sejamos devolvidos, solicito que seja considerado morto no cumprimento do meu dever para com Qillu!
+
+[italic]Lugar para carimbo[/italic]
 
 </Document>

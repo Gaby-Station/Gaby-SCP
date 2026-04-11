@@ -56,7 +56,7 @@ Temos nossa própria documentação, incluindo documentos de projeto mecânico -
 🌐 **Leia isto em outros idiomas:**
 
 - 🇺🇸 [Inglês](README.en.md)
-- 🇷🇺 [Russo](README.md)
+- 🇷🇺 [Russo](README.ru.md)
 
 <div class="header" align="center">
 

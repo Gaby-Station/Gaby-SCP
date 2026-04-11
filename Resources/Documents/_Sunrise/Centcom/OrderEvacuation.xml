@@ -1,20 +1,20 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/ЦК[/bold]
-[head=3]Приказ об эвакуации[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/Comitê Central[/bold]
+[head=3]Ordem sobre evacuação[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Tempo de iniciado turnos E data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilado por documento:
+Cargo compilador:
 
 
-В соответствии с чрезвычайной ситуацией на станции, немедленно запустить протоколы эвакуации. Все сотрудники должны немедленно приступить к эвакуации и собраться на площадке для запуска шаттла на станцию распределения кадров.
+EM conformidade Com emergência situação sobre estações, imediatamente correr protocolos evacuação. Todos funcionários deve imediatamente começar Para evacuação E reunir sobre lado Para lançar transporte sobre estação distribuição pessoal.
 
-Ответственные за выполнение задачи: Капитан станции.
+Responsável para execução tarefas: Capitão estações.
 
-Срок выполнения: Немедленно.
+Prazo execução: Imediatamente.
 
-[italic]Место для печатей[/italic]
+[italic]Lugar Para carimbo[/italic]
 
 </Document>

@@ -1,23 +1,23 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/КОМ-ЦК[/bold]
-[head=3]Отчет о ситуации на станции[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/comité-central[/bold]
+[head=3]Relatório de situação da estação[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
-Наименование объекта: {stationName}
+Nome do objeto: {stationName}
 
-Цель:
-Статус выполнения цели:
-Код уровня угрозы:
-Причина установления кода:
-Активные угрозы:
-Потери среди экипажа:
-Текущая ситуация:
+Alvo:
+Status de Conclusão do Alvo:
+Código do Nível de Ameaça:
+Motivo para Definir o Código:
+Ameaças Ativas:
+Baixas da Tripulação:
+Situação Atual:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

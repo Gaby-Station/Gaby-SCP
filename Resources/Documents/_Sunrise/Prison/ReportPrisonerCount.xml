@@ -1,24 +1,24 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/КТК-КОД[/bold]
-[head=2]Отчет о численности заключённых[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/CÓDIGO-CPC[/bold]
+[head=2]Relatório da População Carcerária[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
 
-Состояние заключённых:
+A condição dos prisioneiros:
 
-Количество заключённых:
+Número de prisioneiros:
 
-Количество свободных/не заполненных камер:
+Número de celas livres/vazias:
 
-Состояние камер:
+Condição da selas:
 
-Количество попыток побега:
+Número de tentativas de fuga:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

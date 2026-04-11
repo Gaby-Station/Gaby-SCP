@@ -1,28 +1,28 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/КТК-СБ[/bold]
-[head=2]Отчет о истечении срока заключённого[/head]
+[bold]estalação: {stationName}[/bold]
+[bold]informa {corpString}/CPC-SB[/bold]
+[head=2]Relatório sobre o término da pena de um prisioneiro[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
 
-Имя и фамилия заключённого:
+Nome e sobrenome do prisioneiro:
 
-Возраст:
+Idade:
 
-Раса:
+etinia:
 
-Рост:
+Altura:
 
-Закон по которому судился заключённый:
+A lei sob a qual o prisioneiro foi julgado:
 
-Причина:
+Causa:
 
-Время прибывания:
+Hora de chegada:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

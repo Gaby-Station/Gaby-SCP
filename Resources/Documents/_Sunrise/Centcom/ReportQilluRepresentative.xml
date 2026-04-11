@@ -1,19 +1,19 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/ЦК[/bold]
-[head=3]Отчет Представителя {corpString}[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/Comitê Central[/bold]
+[head=3]Relatório do(a) Representante {corpString}[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Tempo de iniciado turnos E data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя: Представитель {corpString}
+Compilado por documento:
+Cargo compilador: Representante {corpString}
 
 
-Я, (имя и фамилия), в должности Представителя {corpString}, в ходе своих наблюдений за Командованием станции {stationName}, желаю проинформировать Центральное Командование о следующем:
-[Описание сведений].
+EU, (Nome E sobrenome), da posições Representante {corpString}, do progresso deles observações para Comando estações {stationName}, Desejar informar Central Comando Ó próximo:
+[Descrição Informação].
 
-Прошу оператора или одного из членов Центрального Командования дать ответ по донесённым сведениям и возможно дать дальнейшие инструкции или приказы.
+Por favor operador ou um de membros Central Comandos dar responder Por relatado Informação E Talvez dar avançar instruções ou pedidos.
 
-[italic]Место для печатей[/italic]
+[italic]Lugar Para carimbo[/italic]
 
 </Document>

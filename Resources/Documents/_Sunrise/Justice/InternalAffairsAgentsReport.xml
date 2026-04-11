@@ -1,17 +1,17 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/ЮР-КОД[/bold]
-[head=2]Отчет о внутреннем расследовании[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/ЮР-КОД[/bold]
+[head=2]Relatório de investigação interna[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
+Compilador do documento:
+Posição do compilador:
 
-Я, (ПОЛНОЕ ИМЯ), как Агент Внутренних Дел, в ходе внутренней проверки, запрошенной (ПОЛНОЕ ИМЯ), в должности (ПОЛНОЕ НАЗВАНИЕ ДОЛЖНОСТИ) по причине (ПРИЧИНА ПРОВЕРКИ) выявил(-а) следующие нарушения:
+Eu, (NOME COMPLETO), na qualidade de Agente de Assuntos Internos, durante uma investigação interna solicitada por (NOME COMPLETO), no cargo de (CARGO COMPLETO), pelo motivo de (MOTIVO DA INVESTIGAÇÃO), identifiquei as seguintes violações:
 
-Также хочу сообщить о следующем:
+Gostaria também de informá-lo(a) sobre o seguinte:
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

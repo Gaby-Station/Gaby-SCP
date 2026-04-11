@@ -1,20 +1,19 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/ЮР-КОМ[/bold]
-[head=2]Отчет о служебном расследовании[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/CC-COM[/bold]
+[head=2]Relatório de investigação interna[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя: Агента Внутренних Дел
-
-
-Я, (имя и фамилия), в должности Агента Внутренних Дел, в ходе внутренней проверки, запрошенной (имя и фамилия), в должности (полное наименование должности) по причине (причина проверки) выявил следующие нарушения:
+Compilador do documento:
+Cargo do compilador: Agente de Assuntos Internos
 
 
-Также хочу сообщить об следующих итогах допроса в рамках служебного расследования:
+Eu, (nome e sobrenome), na função de Agente de Assuntos Internos, durante uma investigação interna solicitada por (nome e sobrenome), na função de (cargo completo), pelo motivo (motivo da investigação), identifiquei as seguintes violações:
+
+Gostaria também de relatar os seguintes resultados do interrogatório, como parte da investigação oficial.:
 
 
-[italic]Место для печатей[/italic]
+[italic]Lugar para carimbo[/italic]
 
 </Document>

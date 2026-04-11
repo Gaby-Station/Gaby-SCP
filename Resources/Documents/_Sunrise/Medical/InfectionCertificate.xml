@@ -1,29 +1,29 @@
 <Document>
-[bold]Станция: {stationName}[/bold]
-[bold]Форма {corpString}/МЕД-ПД[/bold]
-[head=2]Свидетельство об инфекции[/head]
+[bold]estação: {stationName}[/bold]
+[bold]forma {corpString}/DP-MED[/bold]
+[head=2]Certificado de infecção[/head]
 
-[italic]Время от начала смены и дата: {timeString}[/italic]
+[italic]Horário desde o início do turno e data: {timeString}[/italic]
 
-Составитель документа:
-Должность составителя:
-
-
-Постановитель диагноза:
-
-Должность постановителя:
+Compilador do documento:
+Posição do compilador:
 
 
-Имя пациента:
+origem do diagnóstico:
 
-Должность пациента:
-
-
-Диагноз:
-
-Состояние на данный момент: (Мертв/Иммунизирован/Под карантином/Не отслеживается)
+Cargo do diretor:
 
 
-[italic]Место для печатей[/italic]
+Nome do paciente:
+
+Posição do paciente:
+
+
+Diagnóstico:
+
+Situação atual: (Óbito/Vacinado/Em quarentena/Irrecuperável)
+
+
+[italic]Lugar para carimbo[/italic]
 
 </Document>
